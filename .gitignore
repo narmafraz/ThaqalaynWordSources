@@ -1,0 +1,10 @@
+# Wiktextract corpus-filtered slim — 154 MB, exceeds GitHub's 100 MB
+# per-file limit. Regenerable by running build_word_pages.py with the
+# (also-gitignored) full slim cache in ThaqalaynDataGenerator/tmp/.
+sources/wiktextract-arabic/wiktextract_corpus_lemmas.json
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
