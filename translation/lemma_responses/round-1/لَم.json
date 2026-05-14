@@ -1,0 +1,1 @@
+{"slug": "لَم", "kind": "lemma", "parsed": {"glosses": {"en": "not", "fa": "نه", "ur": "نہ", "tr": "değil", "id": "tidak", "bn": "না", "es": "no", "fr": "ne...pas", "de": "nicht", "ru": "не", "zh": "不"}}, "issues": [], "meta": {"elapsed": 3.34, "input_tokens": 961, "output_tokens": 108, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

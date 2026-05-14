@@ -1,0 +1,1 @@
+{"slug": "طَلاقٌ", "kind": "lemma", "parsed": {"glosses": {"en": "divorce", "fa": "طلاق", "ur": "طلاق", "tr": "boşanma", "id": "talak", "bn": "তালাক", "es": "divorcio", "fr": "divorce", "de": "Scheidung", "ru": "развод", "zh": "离婚"}}, "issues": [], "meta": {"elapsed": 3.94, "input_tokens": 775, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

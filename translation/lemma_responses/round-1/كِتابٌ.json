@@ -1,0 +1,1 @@
+{"slug": "كِتابٌ", "kind": "lemma", "parsed": {"glosses": {"en": "book", "fa": "کتاب", "ur": "کتاب", "tr": "kitap", "id": "kitab", "bn": "কিতাব", "es": "libro", "fr": "livre", "de": "Buch", "ru": "книга", "zh": "书"}}, "issues": [], "meta": {"elapsed": 4.87, "input_tokens": 960, "output_tokens": 112, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

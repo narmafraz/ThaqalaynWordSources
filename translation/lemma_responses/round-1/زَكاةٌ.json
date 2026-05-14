@@ -1,0 +1,1 @@
+{"slug": "زَكاةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "almsgiving", "fa": "زکات", "ur": "زکوٰۃ", "tr": "zekât", "id": "zakat", "bn": "যাকাত", "es": "zakat", "fr": "zakat", "de": "Zakat", "ru": "закят", "zh": "天课"}}, "issues": [], "meta": {"elapsed": 4.19, "input_tokens": 997, "output_tokens": 121, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

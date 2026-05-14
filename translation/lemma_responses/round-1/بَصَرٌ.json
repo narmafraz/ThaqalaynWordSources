@@ -1,0 +1,1 @@
+{"slug": "بَصَرٌ", "kind": "lemma", "parsed": {"glosses": {"en": "sight", "fa": "بینایی", "ur": "بینائی", "tr": "görüş", "id": "penglihatan", "bn": "দর্শন", "es": "visión", "fr": "vue", "de": "Sehen", "ru": "зрение", "zh": "视力"}}, "issues": [], "meta": {"elapsed": 3.92, "input_tokens": 905, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

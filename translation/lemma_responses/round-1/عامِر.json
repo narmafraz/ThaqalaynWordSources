@@ -1,0 +1,1 @@
+{"slug": "عامِر", "kind": "lemma", "parsed": {"glosses": {"en": "Aamir", "fa": "عامر", "ur": "عامر", "tr": "Aamir", "id": "Aamir", "bn": "আমির", "es": "Aamir", "fr": "Aamir", "de": "Aamir", "ru": "Аамир", "zh": "阿米尔"}}, "issues": [], "meta": {"elapsed": 5.23, "input_tokens": 1003, "output_tokens": 122, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

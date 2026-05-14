@@ -1,0 +1,1 @@
+{"slug": "عَيْنٌ", "kind": "lemma", "parsed": {"glosses": {"en": "eye", "fa": "چشم", "ur": "آنکھ", "tr": "göz", "id": "mata", "bn": "চোখ", "es": "ojo", "fr": "œil", "de": "Auge", "ru": "глаз", "zh": "眼睛"}}, "issues": [], "meta": {"elapsed": 3.6, "input_tokens": 993, "output_tokens": 112, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

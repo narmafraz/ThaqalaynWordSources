@@ -1,0 +1,1 @@
+{"slug": "بَعْض", "kind": "lemma", "parsed": {"glosses": {"en": "some", "fa": "برخی", "ur": "کچھ", "tr": "bazı", "id": "beberapa", "bn": "কিছু", "es": "algunos", "fr": "certains", "de": "einige", "ru": "некоторые", "zh": "一些"}}, "issues": [], "meta": {"elapsed": 3.43, "input_tokens": 935, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

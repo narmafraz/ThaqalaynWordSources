@@ -1,0 +1,1 @@
+{"slug": "رَكْعَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "prayer unit", "fa": "رکعت", "ur": "رکعت", "tr": "rekât", "id": "rakaat", "bn": "রাকআত", "es": "raka'a", "fr": "raka'a", "de": "Rak'a", "ru": "ракаат", "zh": "拜"}}, "issues": [], "meta": {"elapsed": 5.51, "input_tokens": 743, "output_tokens": 123, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "عُمْرٌ", "kind": "lemma", "parsed": {"glosses": {"en": "long life", "fa": "عمر", "ur": "عمر", "tr": "ömr", "id": "umur", "bn": "আয়ু", "es": "vida", "fr": "vie", "de": "Leben", "ru": "жизнь", "zh": "寿命"}}, "issues": [], "meta": {"elapsed": 3.98, "input_tokens": 511, "output_tokens": 112, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

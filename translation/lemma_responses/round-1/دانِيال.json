@@ -1,0 +1,1 @@
+{"slug": "دانِيال", "kind": "lemma", "parsed": {"glosses": {"en": "Daniel", "fa": "دانیه", "ur": "دانیاں", "tr": "Daniel", "id": "Daniel", "bn": "দানিয়েল", "es": "Daniel", "fr": "Daniel", "de": "Daniel", "ru": "Даниил", "zh": "但以理"}}, "issues": [], "meta": {"elapsed": 4.7, "input_tokens": 449, "output_tokens": 112, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

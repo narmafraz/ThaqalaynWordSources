@@ -1,0 +1,1 @@
+{"slug": "صَلِيبٌ", "kind": "lemma", "parsed": {"glosses": {"en": "cross", "fa": "صلیب", "ur": "صلیب", "tr": "haç", "id": "salib", "bn": "খ্রিস্টান চিহ্ন", "es": "cruz", "fr": "croix", "de": "Kreuz", "ru": "крест", "zh": "十字"}}, "issues": [], "meta": {"elapsed": 4.18, "input_tokens": 984, "output_tokens": 120, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

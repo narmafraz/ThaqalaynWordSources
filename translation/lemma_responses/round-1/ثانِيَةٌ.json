@@ -1,0 +1,1 @@
+{"slug": "ثانِيَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "second", "fa": "دوم", "ur": "دوسرا", "tr": "ikinci", "id": "kedua", "bn": "দ্বিতীয়", "es": "segundo", "fr": "deuxième", "de": "zweite", "ru": "второй", "zh": "第二"}}, "issues": [], "meta": {"elapsed": 4.48, "input_tokens": 448, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

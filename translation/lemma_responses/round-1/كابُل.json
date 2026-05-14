@@ -1,0 +1,1 @@
+{"slug": "كابُل", "kind": "lemma", "parsed": {"glosses": {"en": "Kabul", "fa": "کابل", "ur": "کابل", "tr": "Kabil", "id": "Kabul", "bn": "কাবুল", "es": "Kabul", "fr": "Kaboul", "de": "Kabul", "ru": "Кабул", "zh": "喀布尔"}}, "issues": [], "meta": {"elapsed": 3.16, "input_tokens": 465, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}
