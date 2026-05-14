@@ -1,0 +1,1 @@
+{"slug": "لَيْلَى", "kind": "lemma", "parsed": {"glosses": {"en": "Layla", "fa": "لیلا", "ur": "لیلیٰ", "tr": "Leyla", "id": "Layla", "bn": "লাইলা", "es": "Layla", "fr": "Layla", "de": "Layla", "ru": "Лейла", "zh": "莱拉"}}, "issues": [], "meta": {"elapsed": 5.81, "input_tokens": 483, "output_tokens": 123, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

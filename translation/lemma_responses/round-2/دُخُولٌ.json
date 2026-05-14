@@ -1,0 +1,1 @@
+{"slug": "دُخُولٌ", "kind": "lemma", "parsed": {"glosses": {"en": "entry", "fa": "ورود", "ur": "داخل ہونا", "tr": "giriş", "id": "masuk", "bn": "প্রবেশ", "es": "entrada", "fr": "entrée", "de": "Eingang", "ru": "вход", "zh": "进入"}}, "issues": [], "meta": {"elapsed": 4.31, "input_tokens": 476, "output_tokens": 112, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

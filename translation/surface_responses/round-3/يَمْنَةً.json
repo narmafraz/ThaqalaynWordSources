@@ -1,0 +1,1 @@
+{"slug": "يَمْنَةً", "kind": "surface", "parsed": {"glosses": {"en": "Yemen", "fa": "یمن", "ur": "یمن", "tr": "Yemen", "id": "Yaman", "bn": "ইয়েমেন", "es": "Yemen", "fr": "Yémen", "de": "Jemen", "ru": "Йемен", "zh": "也门"}}, "issues": [], "meta": {"elapsed": 4.83, "input_tokens": 671, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "حَبَشٌ", "kind": "lemma", "parsed": {"glosses": {"en": "Habash", "fa": "حبش", "ur": "حبش", "tr": "Habesh", "id": "Habasy", "bn": "হাবশ", "es": "Habash", "fr": "Habash", "de": "Habash", "ru": "Хабаши", "zh": "哈巴什"}}, "issues": [], "meta": {"elapsed": 4.3, "input_tokens": 474, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

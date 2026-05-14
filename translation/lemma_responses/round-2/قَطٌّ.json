@@ -1,0 +1,1 @@
+{"slug": "قَطٌّ", "kind": "lemma", "parsed": {"glosses": {"en": "cat", "fa": "گربه", "ur": "بلی", "tr": "kedi", "id": "kucing", "bn": "বিড়াল", "es": "gato", "fr": "chat", "de": "Katze", "ru": "кот", "zh": "猫"}}, "issues": [], "meta": {"elapsed": 5.71, "input_tokens": 1023, "output_tokens": 111, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

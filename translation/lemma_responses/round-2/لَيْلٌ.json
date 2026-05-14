@@ -1,0 +1,1 @@
+{"slug": "لَيْلٌ", "kind": "lemma", "parsed": {"glosses": {"en": "night", "fa": "شب", "ur": "رات", "tr": "gece", "id": "malam", "bn": "রাত", "es": "noche", "fr": "nuit", "de": "Nacht", "ru": "ночь", "zh": "夜晚"}}, "issues": [], "meta": {"elapsed": 4.18, "input_tokens": 588, "output_tokens": 110, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

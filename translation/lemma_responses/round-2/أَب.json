@@ -1,0 +1,1 @@
+{"slug": "أَب", "kind": "lemma", "parsed": {"glosses": {"en": "August", "fa": "آگوست", "ur": "آگست", "tr": "Ağustos", "id": "Agustus", "bn": "আগস্ট", "es": "agosto", "fr": "août", "de": "August", "ru": "август", "zh": "八月"}}, "issues": [], "meta": {"elapsed": 6.49, "input_tokens": 1005, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "صَوْتٌ", "kind": "lemma", "parsed": {"glosses": {"en": "sound", "fa": "صدا", "ur": "آواز", "tr": "ses", "id": "suara", "bn": "শব্দ", "es": "sonido", "fr": "son", "de": "Ton", "ru": "звук", "zh": "声音"}}, "issues": [], "meta": {"elapsed": 5.5, "input_tokens": 1464, "output_tokens": 111, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

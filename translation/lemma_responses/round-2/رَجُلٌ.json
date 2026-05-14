@@ -1,0 +1,1 @@
+{"slug": "رَجُلٌ", "kind": "lemma", "parsed": {"glosses": {"en": "man", "fa": "مرد", "ur": "مرد", "tr": "adam", "id": "pria", "bn": "পুরুষ", "es": "hombre", "fr": "homme", "de": "Mann", "ru": "мужчина", "zh": "男人"}}, "issues": [], "meta": {"elapsed": 5.82, "input_tokens": 2262, "output_tokens": 111, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

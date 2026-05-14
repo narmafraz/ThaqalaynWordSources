@@ -1,0 +1,1 @@
+{"slug": "تُجاهَ", "kind": "lemma", "parsed": {"glosses": {"en": "towards", "fa": "به سوی", "ur": "کی طرف", "tr": "karşı", "id": "menuju", "bn": "দিকে", "es": "hacia", "fr": "vers", "de": "gegenüber", "ru": "навстречу", "zh": "朝向"}}, "issues": [], "meta": {"elapsed": 3.64, "input_tokens": 573, "output_tokens": 114, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

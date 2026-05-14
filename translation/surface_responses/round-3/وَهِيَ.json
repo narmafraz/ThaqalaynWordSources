@@ -1,0 +1,1 @@
+{"slug": "وَهِيَ", "kind": "surface", "parsed": {"glosses": {"en": "and she", "fa": "و او", "ur": "اور", "tr": "ve o", "id": "dan dia", "bn": "এবং সে", "es": "y ella", "fr": "et elle", "de": "und sie", "ru": "и она", "zh": "和她"}}, "issues": [], "meta": {"elapsed": 3.44, "input_tokens": 569, "output_tokens": 114, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

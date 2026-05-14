@@ -1,0 +1,1 @@
+{"slug": "ذٰلِكَ", "kind": "lemma", "parsed": {"glosses": {"en": "that", "fa": "آن", "ur": "وہ", "tr": "o", "id": "itu", "bn": "সেই", "es": "eso", "fr": "cela", "de": "das", "ru": "то", "zh": "那"}}, "issues": [], "meta": {"elapsed": 5.79, "input_tokens": 473, "output_tokens": 106, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

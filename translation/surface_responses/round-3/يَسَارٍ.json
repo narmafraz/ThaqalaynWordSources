@@ -1,0 +1,1 @@
+{"slug": "يَسَارٍ", "kind": "surface", "parsed": {"glosses": {"en": "left", "fa": "چپ", "ur": "بائیں", "tr": "sol", "id": "kiri", "bn": "বাম", "es": "izquierda", "fr": "gauche", "de": "links", "ru": "левый", "zh": "左"}}, "issues": [], "meta": {"elapsed": 5.72, "input_tokens": 948, "output_tokens": 111, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

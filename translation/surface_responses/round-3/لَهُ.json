@@ -1,0 +1,1 @@
+{"slug": "لَهُ", "kind": "surface", "parsed": {"glosses": {"en": "his", "fa": "برای او", "ur": "اس کے لیے", "tr": "ona", "id": "miliknya", "bn": "তার", "es": "su", "fr": "son", "de": "sein", "ru": "его", "zh": "他的"}}, "issues": [], "meta": {"elapsed": 4.27, "input_tokens": 916, "output_tokens": 108, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}
