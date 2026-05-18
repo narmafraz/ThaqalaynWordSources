@@ -1,0 +1,1 @@
+{"slug": "السِّلَاحَ", "kind": "surface", "parsed": {"glosses": {"en": "the weapon", "fa": "سلاح", "ur": "سلاح", "tr": "silah", "id": "senjata", "bn": "অস্ত্র", "es": "arma", "fr": "arme", "de": "Waffe", "ru": "оружие", "zh": "武器"}}, "issues": [], "meta": {"elapsed": 3.05, "input_tokens": 1187, "output_tokens": 113, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "عُرْمَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "helmet", "fa": "کلاه‌خود", "ur": "ٹوپی", "tr": "miğfer", "id": "helm", "bn": "হেলমেট", "es": "yelmo", "fr": "casque", "de": "Helm", "ru": "шлем", "zh": "头盔"}}, "issues": [], "meta": {"elapsed": 3.9, "input_tokens": 495, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

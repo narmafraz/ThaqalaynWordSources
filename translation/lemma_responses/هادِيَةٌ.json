@@ -1,0 +1,1 @@
+{"slug": "هادِيَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "Hadiya", "fa": "هادیه", "ur": "ہادیہ", "tr": "Hadiye", "id": "Hadiya", "bn": "হাদিয়া", "es": "Hadiya", "fr": "Hadiya", "de": "Hadiya", "ru": "Хадия", "zh": "哈迪亚"}}, "issues": [], "meta": {"elapsed": 3.14, "input_tokens": 462, "output_tokens": 123, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "عُكاظ", "kind": "lemma", "parsed": {"glosses": {"en": "Ukaz", "fa": "عُکاظ", "ur": "عکاظ", "tr": "Ukaz", "id": "Ukaz", "bn": "উকাজ", "es": "Ukaz", "fr": "Ukaz", "de": "Ukaz", "ru": "Указ", "zh": "乌卡兹"}}, "issues": [], "meta": {"elapsed": 4.06, "input_tokens": 449, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

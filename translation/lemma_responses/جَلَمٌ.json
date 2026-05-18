@@ -1,0 +1,1 @@
+{"slug": "جَلَمٌ", "kind": "lemma", "parsed": {"glosses": {"en": "shears", "fa": "قیچی", "ur": "قیچی", "tr": "makas", "id": "gunting", "bn": "কাঁচি", "es": "tijeras", "fr": "ciseaux", "de": "Schere", "ru": "ножницы", "zh": "剪刀"}}, "issues": [], "meta": {"elapsed": 3.07, "input_tokens": 879, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

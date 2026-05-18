@@ -1,0 +1,1 @@
+{"slug": "خارِجٌ", "kind": "lemma", "parsed": {"glosses": {"en": "outside", "fa": "بیرون", "ur": "باہر", "tr": "dış", "id": "luar", "bn": "বাইরে", "es": "exterior", "fr": "extérieur", "de": "außen", "ru": "внешний", "zh": "外部"}}, "issues": [], "meta": {"elapsed": 2.69, "input_tokens": 717, "output_tokens": 114, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "قَطِيفَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "satin", "fa": "ساتن", "ur": "ساتن", "tr": "saten", "id": "satin", "bn": "স্যাটিন", "es": "satén", "fr": "satin", "de": "Satin", "ru": "атлас", "zh": "缎子"}}, "issues": [], "meta": {"elapsed": 3.83, "input_tokens": 462, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

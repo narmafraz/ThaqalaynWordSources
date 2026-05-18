@@ -1,0 +1,1 @@
+{"slug": "أَبْرَحْ", "kind": "surface", "parsed": {"glosses": {"en": "to leave", "fa": "رفتن", "ur": "جانا", "tr": "ayrılmak", "id": "pergi", "bn": "যাওয়া", "es": "irse", "fr": "partir", "de": "gehen", "ru": "уйти", "zh": "离开"}}, "issues": [], "meta": {"elapsed": 3.51, "input_tokens": 1021, "output_tokens": 114, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

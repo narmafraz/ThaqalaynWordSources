@@ -1,0 +1,1 @@
+{"slug": "الَله", "kind": "surface", "parsed": {"glosses": {"en": "Allah", "fa": "خدا", "ur": "اللہ", "tr": "Allah", "id": "Allah", "bn": "আল্লাহ", "es": "Alá", "fr": "Allah", "de": "Allah", "ru": "Аллах", "zh": "安拉"}}, "issues": [], "meta": {"elapsed": 5.02, "input_tokens": 878, "output_tokens": 112, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

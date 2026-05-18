@@ -1,0 +1,1 @@
+{"slug": "الثَّنَاءَ", "kind": "surface", "parsed": {"glosses": {"en": "praise", "fa": "ستایش", "ur": "تعریف", "tr": "övgü", "id": "pujian", "bn": "প্রশংসা", "es": "alabanza", "fr": "louange", "de": "Lob", "ru": "хвала", "zh": "赞美"}}, "issues": [], "meta": {"elapsed": 4.14, "input_tokens": 712, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

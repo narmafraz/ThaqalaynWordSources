@@ -1,0 +1,1 @@
+{"slug": "أَمُوتَ", "kind": "surface", "parsed": {"glosses": {"en": "to die", "fa": "مردن", "ur": "مرنا", "tr": "ölmek", "id": "mati", "bn": "মারা যাওয়া", "es": "morir", "fr": "mourir", "de": "sterben", "ru": "умереть", "zh": "死"}}, "issues": [], "meta": {"elapsed": 2.13, "input_tokens": 1045, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

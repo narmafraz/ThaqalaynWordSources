@@ -1,0 +1,1 @@
+{"slug": "شَوْطٌ", "kind": "lemma", "parsed": {"glosses": {"en": "stage, phase", "fa": "مرحله", "ur": "مرحلہ", "tr": "aşama", "id": "tahap", "bn": "পর্যায়ে", "es": "etapa", "fr": "étape", "de": "Phase", "ru": "этап", "zh": "阶段"}}, "issues": [], "meta": {"elapsed": 4.32, "input_tokens": 970, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

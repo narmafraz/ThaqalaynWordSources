@@ -1,0 +1,1 @@
+{"slug": "وِنْشٌ", "kind": "lemma", "parsed": {"glosses": {"en": "winch", "fa": "ونش", "ur": "ونش", "tr": "winch", "id": "winch", "bn": "উইঞ্চ", "es": "winch", "fr": "treuil", "de": "Winde", "ru": "лебёдка", "zh": "绞车"}}, "issues": [], "meta": {"elapsed": 5.16, "input_tokens": 476, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

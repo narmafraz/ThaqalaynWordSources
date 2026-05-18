@@ -1,0 +1,1 @@
+{"slug": "سَقِيمٌ", "kind": "lemma", "parsed": {"glosses": {"en": "sick", "fa": "بیمار", "ur": "بیمار", "tr": "hastalı", "id": "sakit", "bn": "রোগী", "es": "enfermo", "fr": "malade", "de": "krank", "ru": "больной", "zh": "生病的"}}, "issues": [], "meta": {"elapsed": 3.79, "input_tokens": 849, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

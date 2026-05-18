@@ -1,0 +1,1 @@
+{"slug": "تَوّ", "kind": "lemma", "parsed": {"glosses": {"en": "a knot", "fa": "گره", "ur": "گرہ", "tr": "düğüm", "id": "simpul", "bn": "গিঁট", "es": "nudo", "fr": "nœud", "de": "Knoten", "ru": "узел", "zh": "结"}}, "issues": [], "meta": {"elapsed": 5.5, "input_tokens": 974, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

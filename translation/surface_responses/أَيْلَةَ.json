@@ -1,0 +1,1 @@
+{"slug": "أَيْلَةَ", "kind": "surface", "parsed": {"glosses": {"en": "Ayla", "fa": "عَیْلَه", "ur": "عَیْلہ", "tr": "Ayle", "id": "Ayla", "bn": "আইলা", "es": "Ayla", "fr": "Ayla", "de": "Ayla", "ru": "Айла", "zh": "艾拉"}}, "issues": [], "meta": {"elapsed": 3.77, "input_tokens": 1013, "output_tokens": 122, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

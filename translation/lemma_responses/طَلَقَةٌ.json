@@ -1,0 +1,1 @@
+{"slug": "طَلَقَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "shot", "fa": "تیر", "ur": "گولی", "tr": "ateş", "id": "tembakan", "bn": "গুলি", "es": "disparo", "fr": "coup de feu", "de": "Schuss", "ru": "выстрел", "zh": "射击"}}, "issues": [], "meta": {"elapsed": 5.45, "input_tokens": 530, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

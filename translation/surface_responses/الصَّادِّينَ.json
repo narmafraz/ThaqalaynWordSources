@@ -1,0 +1,1 @@
+{"slug": "الصَّادِّينَ", "kind": "surface", "parsed": {"glosses": {"en": "the Ṣādīn", "fa": "صادین", "ur": "صادین", "tr": "Sadîn", "id": "Sadîn", "bn": "সাদিন", "es": "Ṣādīn", "fr": "Ṣādīn", "de": "Ṣādīn", "ru": "Садин", "zh": "萨丁"}}, "issues": [], "meta": {"elapsed": 5.08, "input_tokens": 989, "output_tokens": 133, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

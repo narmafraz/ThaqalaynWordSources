@@ -1,0 +1,1 @@
+{"slug": "أَدْكَن", "kind": "lemma", "parsed": {"glosses": {"en": "dark", "fa": "تیره", "ur": "تاریک", "tr": "koyu", "id": "gelap", "bn": "গাঢ়", "es": "oscuro", "fr": "sombre", "de": "dunkel", "ru": "темный", "zh": "黑暗的"}}, "issues": [], "meta": {"elapsed": 3.58, "input_tokens": 850, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

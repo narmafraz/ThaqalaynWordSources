@@ -1,0 +1,1 @@
+{"slug": "صُفْرٌ", "kind": "lemma", "parsed": {"glosses": {"en": "yellow", "fa": "زرد", "ur": "پیلا", "tr": "sarı", "id": "kuning", "bn": "হলুদ", "es": "amarillo", "fr": "jaune", "de": "gelb", "ru": "желтый", "zh": "黄色"}}, "issues": [], "meta": {"elapsed": 5.58, "input_tokens": 1509, "output_tokens": 114, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

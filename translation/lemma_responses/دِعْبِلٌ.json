@@ -1,0 +1,1 @@
+{"slug": "دِعْبِلٌ", "kind": "lemma", "parsed": {"glosses": {"en": "Dibil", "fa": "دیبیل", "ur": "دبل", "tr": "Dibil", "id": "Dibil", "bn": "দ্বিবিল", "es": "Dibil", "fr": "Dibil", "de": "Dibil", "ru": "Дибиль", "zh": "迪比尔"}}, "issues": [], "meta": {"elapsed": 4.72, "input_tokens": 466, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

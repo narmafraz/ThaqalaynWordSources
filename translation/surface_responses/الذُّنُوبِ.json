@@ -1,0 +1,1 @@
+{"slug": "الذُّنُوبِ", "kind": "surface", "parsed": {"glosses": {"en": "the sin", "fa": "گناه", "ur": "گناہ", "tr": "günah", "id": "dosa", "bn": "পাপ", "es": "pecado", "fr": "péché", "de": "Sünde", "ru": "грех", "zh": "罪"}}, "issues": [], "meta": {"elapsed": 3.47, "input_tokens": 1054, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "قَصَبٌ", "kind": "lemma", "parsed": {"glosses": {"en": "reed", "fa": "نی", "ur": "نی", "tr": "kamış", "id": "tebu", "bn": "কঁকুড়", "es": "caña", "fr": "roseau", "de": "Rohr", "ru": "тростник", "zh": "芦苇"}}, "issues": [], "meta": {"elapsed": 5.1, "input_tokens": 1039, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

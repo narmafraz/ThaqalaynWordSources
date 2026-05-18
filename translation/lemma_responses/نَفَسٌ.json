@@ -1,0 +1,1 @@
+{"slug": "نَفَسٌ", "kind": "lemma", "parsed": {"glosses": {"en": "self", "fa": "خود", "ur": "خود", "tr": "nefis", "id": "diri", "bn": "আত্মা", "es": "alma", "fr": "âme", "de": "Seele", "ru": "душа", "zh": "灵魂"}}, "issues": [], "meta": {"elapsed": 5.07, "input_tokens": 2148, "output_tokens": 111, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

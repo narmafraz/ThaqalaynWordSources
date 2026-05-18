@@ -1,0 +1,1 @@
+{"slug": "سُوقٌ", "kind": "lemma", "parsed": {"glosses": {"en": "market", "fa": "بازار", "ur": "بازار", "tr": "pazar", "id": "pasar", "bn": "বাজার", "es": "mercado", "fr": "marché", "de": "Markt", "ru": "рынок", "zh": "市场"}}, "issues": [], "meta": {"elapsed": 4.68, "input_tokens": 770, "output_tokens": 113, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "أَعْيَنُ", "kind": "surface", "parsed": {"glosses": {"en": "the eye", "fa": "چشم", "ur": "آنکھ", "tr": "göz", "id": "mata", "bn": "চোখ", "es": "ojo", "fr": "œil", "de": "Auge", "ru": "глаз", "zh": "眼睛"}}, "issues": [], "meta": {"elapsed": 3.08, "input_tokens": 985, "output_tokens": 113, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

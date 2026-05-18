@@ -1,0 +1,1 @@
+{"slug": "حِنْطَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "wheat", "fa": "گندم", "ur": "گندم", "tr": "buğday", "id": "gandum", "bn": "গম", "es": "trigo", "fr": "blé", "de": "Weizen", "ru": "пшеница", "zh": "小麦"}}, "issues": [], "meta": {"elapsed": 5.48, "input_tokens": 686, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

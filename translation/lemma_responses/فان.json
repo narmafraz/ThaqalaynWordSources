@@ -1,0 +1,1 @@
+{"slug": "فان", "kind": "lemma", "parsed": {"glosses": {"en": "transient", "fa": "زودگذر", "ur": "فانی", "tr": "geçici", "id": "fana", "bn": "ফানি", "es": "efímero", "fr": "éphémère", "de": "vergänglich", "ru": "фани", "zh": "无常"}}, "issues": [], "meta": {"elapsed": 4.15, "input_tokens": 697, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

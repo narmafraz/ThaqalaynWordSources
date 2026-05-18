@@ -1,0 +1,1 @@
+{"slug": "نُوحٌ", "kind": "lemma", "parsed": {"glosses": {"en": "Noah", "fa": "نوح", "ur": "نوح", "tr": "Nuh", "id": "Nuh", "bn": "নূহ", "es": "Noé", "fr": "Noé", "de": "Noah", "ru": "Нух", "zh": "努哈"}}, "issues": [], "meta": {"elapsed": 5.62, "input_tokens": 487, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

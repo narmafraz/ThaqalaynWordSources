@@ -1,0 +1,1 @@
+{"slug": "الضَّيِّقُ", "kind": "surface", "parsed": {"glosses": {"en": "the narrow", "fa": "تنگ", "ur": "تنگ", "tr": "dar", "id": "sempit", "bn": "সংকীর্ণ", "es": "estrecho", "fr": "étroit", "de": "eng", "ru": "узкий", "zh": "狭窄的"}}, "issues": [], "meta": {"elapsed": 2.98, "input_tokens": 962, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

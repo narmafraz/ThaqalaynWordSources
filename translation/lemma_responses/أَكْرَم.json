@@ -1,0 +1,1 @@
+{"slug": "أَكْرَم", "kind": "lemma", "parsed": {"glosses": {"en": "Akram", "fa": "اکرم", "ur": "اکرم", "tr": "Akram", "id": "Akram", "bn": "আকরাম", "es": "Akram", "fr": "Akram", "de": "Akram", "ru": "Акрам", "zh": "阿克拉姆"}}, "issues": [], "meta": {"elapsed": 3.57, "input_tokens": 538, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

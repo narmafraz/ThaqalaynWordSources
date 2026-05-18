@@ -1,0 +1,1 @@
+{"slug": "10", "kind": "lemma", "parsed": {"glosses": {"en": "10", "fa": "ده", "ur": "دس", "tr": "on", "id": "sepuluh", "bn": "দশ", "es": "diez", "fr": "dix", "de": "zehn", "ru": "десять", "zh": "十"}}, "issues": [], "meta": {"elapsed": 5.03, "input_tokens": 450, "output_tokens": 110, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

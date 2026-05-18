@@ -1,0 +1,1 @@
+{"slug": "حِرْفَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "craft", "fa": "صنعت", "ur": "حرف", "tr": "meslek", "id": "kerajinan", "bn": "পেশা", "es": "oficio", "fr": "métier", "de": "Handwerk", "ru": "ремесло", "zh": "手艺"}}, "issues": [], "meta": {"elapsed": 6.11, "input_tokens": 591, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

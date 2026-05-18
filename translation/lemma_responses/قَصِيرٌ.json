@@ -1,0 +1,1 @@
+{"slug": "قَصِيرٌ", "kind": "lemma", "parsed": {"glosses": {"en": "short", "fa": "کوتاه", "ur": "مختصر", "tr": "kısa", "id": "pendek", "bn": "ছোট", "es": "corto", "fr": "court", "de": "kurz", "ru": "короткий", "zh": "短的"}}, "issues": [], "meta": {"elapsed": 4.49, "input_tokens": 993, "output_tokens": 114, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

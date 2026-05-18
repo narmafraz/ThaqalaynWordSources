@@ -1,0 +1,1 @@
+{"slug": "شَيْطانٌ", "kind": "lemma", "parsed": {"glosses": {"en": "Satan", "fa": "شیطان", "ur": "شیطان", "tr": "Şeytan", "id": "Setan", "bn": "শয়তান", "es": "Satanás", "fr": "Diable", "de": "Teufel", "ru": "Шайтан", "zh": "恶魔"}}, "issues": [], "meta": {"elapsed": 4.94, "input_tokens": 963, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "قَبْلُ", "kind": "lemma", "parsed": {"glosses": {"en": "before", "fa": "قبل", "ur": "پہلے", "tr": "önce", "id": "sebelum", "bn": "আগে", "es": "antes", "fr": "avant", "de": "vorher", "ru": "до", "zh": "在...之前"}}, "issues": [], "meta": {"elapsed": 5.64, "input_tokens": 951, "output_tokens": 113, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

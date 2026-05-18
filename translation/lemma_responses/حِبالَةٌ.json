@@ -1,0 +1,1 @@
+{"slug": "حِبالَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "snare", "fa": "تله", "ur": "پھندا", "tr": "tuzak", "id": "jerat", "bn": "জাল", "es": "trampa", "fr": "piège", "de": "Schlinge", "ru": "ловушка", "zh": "陷阱"}}, "issues": [], "meta": {"elapsed": 8.69, "input_tokens": 885, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

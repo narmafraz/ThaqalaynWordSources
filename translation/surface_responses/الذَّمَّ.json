@@ -1,0 +1,1 @@
+{"slug": "الذَّمَّ", "kind": "surface", "parsed": {"glosses": {"en": "the blame", "fa": "سرزنش", "ur": "ذم", "tr": "kınama", "id": "kecaman", "bn": "নিন্দা", "es": "reproche", "fr": "blâme", "de": "Tadel", "ru": "укор", "zh": "责备"}}, "issues": [], "meta": {"elapsed": 3.74, "input_tokens": 715, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

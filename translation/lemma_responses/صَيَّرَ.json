@@ -1,0 +1,1 @@
+{"slug": "صَيَّرَ", "kind": "lemma", "parsed": {"glosses": {"en": "to make", "fa": "کردن", "ur": "بنانا", "tr": "yapmak", "id": "membuat", "bn": "তৈরি করা", "es": "hacer", "fr": "rendre", "de": "machen", "ru": "делать", "zh": "使成为"}}, "issues": [], "meta": {"elapsed": 4.3, "input_tokens": 1831, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

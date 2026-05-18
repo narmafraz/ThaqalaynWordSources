@@ -1,0 +1,1 @@
+{"slug": "هَمَجٌ", "kind": "lemma", "parsed": {"glosses": {"en": "hunger", "fa": "گرسنگی", "ur": "بھوک", "tr": "açlık", "id": "lapar", "bn": "ভুঁক", "es": "hambre", "fr": "faim", "de": "Hunger", "ru": "голод", "zh": "饥饿"}}, "issues": [], "meta": {"elapsed": 5.34, "input_tokens": 963, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

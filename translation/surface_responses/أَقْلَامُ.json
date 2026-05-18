@@ -1,0 +1,1 @@
+{"slug": "أَقْلَامُ", "kind": "surface", "parsed": {"glosses": {"en": "pens", "fa": "قلم‌ها", "ur": "قلم", "tr": "kalemler", "id": "pena-pena", "bn": "কলম", "es": "plumas", "fr": "plumes", "de": "Feder", "ru": "перо", "zh": "笔"}}, "issues": [], "meta": {"elapsed": 3.32, "input_tokens": 615, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

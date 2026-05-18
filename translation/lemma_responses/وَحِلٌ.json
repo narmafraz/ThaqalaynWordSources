@@ -1,0 +1,1 @@
+{"slug": "وَحِلٌ", "kind": "lemma", "parsed": {"glosses": {"en": "mud", "fa": "گل", "ur": "مٹی", "tr": "çamur", "id": "lumpur", "bn": "কাদা", "es": "lodo", "fr": "boue", "de": "Schlamm", "ru": "грязь", "zh": "泥"}}, "issues": [], "meta": {"elapsed": 3.84, "input_tokens": 514, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "اللَّسْعَةِ", "kind": "surface", "parsed": {"glosses": {"en": "the bite", "fa": "نیش", "ur": "کاٹ", "tr": "ısırmak", "id": "gigitan", "bn": "কাটা", "es": "mordedura", "fr": "morsure", "de": "Biss", "ru": "укус", "zh": "咬"}}, "issues": [], "meta": {"elapsed": 2.74, "input_tokens": 571, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

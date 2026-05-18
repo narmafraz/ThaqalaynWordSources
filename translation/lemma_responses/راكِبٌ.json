@@ -1,0 +1,1 @@
+{"slug": "راكِبٌ", "kind": "lemma", "parsed": {"glosses": {"en": "rider", "fa": "سوارکار", "ur": "سوار", "tr": "sörf", "id": "penunggang", "bn": "আরোহী", "es": "jinete", "fr": "cavalier", "de": "Reiter", "ru": "всадник", "zh": "骑手"}}, "issues": [], "meta": {"elapsed": 6.09, "input_tokens": 982, "output_tokens": 121, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

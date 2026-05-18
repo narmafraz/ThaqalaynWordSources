@@ -1,0 +1,1 @@
+{"slug": "قَوِيٌّ", "kind": "lemma", "parsed": {"glosses": {"en": "strong", "fa": "قوی", "ur": "قوی", "tr": "güçlü", "id": "kuat", "bn": "শক্তিশালী", "es": "fuerte", "fr": "fort", "de": "stark", "ru": "сильный", "zh": "强大的"}}, "issues": [], "meta": {"elapsed": 4.86, "input_tokens": 2194, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

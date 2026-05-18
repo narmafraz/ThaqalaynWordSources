@@ -1,0 +1,1 @@
+{"slug": "أَنْبَاطِ", "kind": "surface", "parsed": {"glosses": {"en": "Nabata", "fa": "نبط", "ur": "نبط", "tr": "Nebat", "id": "Nabath", "bn": "নবত", "es": "Nabath", "fr": "Nabath", "de": "Nabath", "ru": "Набат", "zh": "纳巴特"}}, "issues": [], "meta": {"elapsed": 3.86, "input_tokens": 920, "output_tokens": 122, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

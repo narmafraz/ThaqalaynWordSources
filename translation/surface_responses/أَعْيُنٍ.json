@@ -1,0 +1,1 @@
+{"slug": "أَعْيُنٍ", "kind": "surface", "parsed": {"glosses": {"en": "eyes", "fa": "چشم‌ها", "ur": "آنکھیں", "tr": "gözler", "id": "mata", "bn": "চোখ", "es": "ojos", "fr": "yeux", "de": "Augen", "ru": "глаза", "zh": "眼睛"}}, "issues": [], "meta": {"elapsed": 3.07, "input_tokens": 1003, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

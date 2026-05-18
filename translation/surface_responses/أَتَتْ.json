@@ -1,0 +1,1 @@
+{"slug": "أَتَتْ", "kind": "surface", "parsed": {"glosses": {"en": "she came", "fa": "آمد", "ur": "وہ آئی", "tr": "geldi", "id": "datang", "bn": "আসলো", "es": "vino", "fr": "est venue", "de": "kam", "ru": "пришла", "zh": "来了"}}, "issues": [], "meta": {"elapsed": 3.19, "input_tokens": 1112, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

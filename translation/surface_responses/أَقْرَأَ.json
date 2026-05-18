@@ -1,0 +1,1 @@
+{"slug": "أَقْرَأَ", "kind": "surface", "parsed": {"glosses": {"en": "to read", "fa": "خواندن", "ur": "پڑھنا", "tr": "okumak", "id": "membaca", "bn": "পড়া", "es": "leer", "fr": "lire", "de": "lesen", "ru": "читать", "zh": "阅读"}}, "issues": [], "meta": {"elapsed": 3.7, "input_tokens": 577, "output_tokens": 113, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

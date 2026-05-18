@@ -1,0 +1,1 @@
+{"slug": "طَمَعٌ", "kind": "lemma", "parsed": {"glosses": {"en": "greed", "fa": "طمع", "ur": "طمع", "tr": "hırs", "id": "keserakahan", "bn": "লোভ", "es": "codicia", "fr": "avidité", "de": "Gier", "ru": "жадность", "zh": "贪婪"}}, "issues": [], "meta": {"elapsed": 4.86, "input_tokens": 1356, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

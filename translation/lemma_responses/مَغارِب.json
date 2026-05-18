@@ -1,0 +1,1 @@
+{"slug": "مَغارِب", "kind": "lemma", "parsed": {"glosses": {"en": "wests", "fa": "غرب‌ها", "ur": "مغرب", "tr": "batılar", "id": "barat", "bn": "পশ্চিম", "es": "ocanos", "fr": "ouests", "de": "Westen", "ru": "запады", "zh": "西方"}}, "issues": [], "meta": {"elapsed": 4.02, "input_tokens": 449, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

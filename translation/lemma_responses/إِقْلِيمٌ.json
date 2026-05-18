@@ -1,0 +1,1 @@
+{"slug": "إِقْلِيمٌ", "kind": "lemma", "parsed": {"glosses": {"en": "region", "fa": "ناحیه", "ur": "علاقہ", "tr": "bölge", "id": "wilayah", "bn": "অঞ্চল", "es": "región", "fr": "région", "de": "Region", "ru": "регион", "zh": "地区"}}, "issues": [], "meta": {"elapsed": 3.66, "input_tokens": 476, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

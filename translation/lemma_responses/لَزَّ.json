@@ -1,0 +1,1 @@
+{"slug": "لَزَّ", "kind": "lemma", "parsed": {"glosses": {"en": "to prick", "fa": "نیش زدن", "ur": "چبھونا", "tr": "batmak", "id": "menusuk", "bn": "ঝাঁপ", "es": "pinchar", "fr": "piquer", "de": "stechen", "ru": "колоть", "zh": "刺"}}, "issues": [], "meta": {"elapsed": 4.52, "input_tokens": 499, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

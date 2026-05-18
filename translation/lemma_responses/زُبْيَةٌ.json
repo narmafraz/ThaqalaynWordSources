@@ -1,0 +1,1 @@
+{"slug": "زُبْيَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "hill", "fa": "تپه", "ur": "ٹیلہ", "tr": "tepe", "id": "bukit", "bn": "পাহাড়", "es": "colina", "fr": "colline", "de": "Hügel", "ru": "холм", "zh": "小山"}}, "issues": [], "meta": {"elapsed": 4.54, "input_tokens": 843, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

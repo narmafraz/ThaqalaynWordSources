@@ -1,0 +1,1 @@
+{"slug": "بَكّاء", "kind": "lemma", "parsed": {"glosses": {"en": "crying", "fa": "گریه", "ur": "رونا", "tr": "ağlama", "id": "menangis", "bn": "কাঁদা", "es": "llanto", "fr": "pleurs", "de": "Weinen", "ru": "плач", "zh": "哭泣"}}, "issues": [], "meta": {"elapsed": 5.95, "input_tokens": 472, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

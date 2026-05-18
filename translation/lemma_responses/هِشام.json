@@ -1,0 +1,1 @@
+{"slug": "هِشام", "kind": "lemma", "parsed": {"glosses": {"en": "Hisham", "fa": "هشام", "ur": "ہشام", "tr": "Hisham", "id": "Hisham", "bn": "হিশাম", "es": "Hisham", "fr": "Hisham", "de": "Hisham", "ru": "Хишам", "zh": "希沙姆"}}, "issues": [], "meta": {"elapsed": 5.87, "input_tokens": 460, "output_tokens": 126, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

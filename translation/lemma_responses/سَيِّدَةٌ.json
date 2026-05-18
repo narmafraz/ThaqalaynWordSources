@@ -1,0 +1,1 @@
+{"slug": "سَيِّدَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "mistress", "fa": "بانو", "ur": "خاتون", "tr": "hanım", "id": "nyonya", "bn": "মহিলা", "es": "señora", "fr": "dame", "de": "Dame", "ru": "госпожа", "zh": "夫人"}}, "issues": [], "meta": {"elapsed": 5.8, "input_tokens": 528, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

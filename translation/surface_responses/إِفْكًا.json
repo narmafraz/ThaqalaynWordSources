@@ -1,0 +1,1 @@
+{"slug": "إِفْكًا", "kind": "surface", "parsed": {"glosses": {"en": "a lie", "fa": "دروغ", "ur": "دروغ", "tr": "yalan", "id": "kebohongan", "bn": "ভুয়া", "es": "mentira", "fr": "mensonge", "de": "Lüge", "ru": "ложь", "zh": "谎言"}}, "issues": [], "meta": {"elapsed": 2.17, "input_tokens": 891, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

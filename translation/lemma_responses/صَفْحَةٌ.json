@@ -1,0 +1,1 @@
+{"slug": "صَفْحَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "page", "fa": "صفحه", "ur": "صفحہ", "tr": "sayfa", "id": "halaman", "bn": "পৃষ্ঠা", "es": "página", "fr": "page", "de": "Seite", "ru": "страница", "zh": "页"}}, "issues": [], "meta": {"elapsed": 3.77, "input_tokens": 598, "output_tokens": 113, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

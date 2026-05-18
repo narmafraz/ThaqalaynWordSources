@@ -1,0 +1,1 @@
+{"slug": "الصِّينِ", "kind": "surface", "parsed": {"glosses": {"en": "China", "fa": "چین", "ur": "چین", "tr": "Çin", "id": "China", "bn": "চীন", "es": "China", "fr": "Chine", "de": "China", "ru": "Китай", "zh": "中国"}}, "issues": [], "meta": {"elapsed": 2.76, "input_tokens": 649, "output_tokens": 109, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

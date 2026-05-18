@@ -1,0 +1,1 @@
+{"slug": "السَّحَابِ", "kind": "surface", "parsed": {"glosses": {"en": "the cloud", "fa": "ابر", "ur": "بادل", "tr": "bulut", "id": "awan", "bn": "মেঘ", "es": "nube", "fr": "nuage", "de": "Wolke", "ru": "облако", "zh": "云"}}, "issues": [], "meta": {"elapsed": 3.51, "input_tokens": 1080, "output_tokens": 112, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

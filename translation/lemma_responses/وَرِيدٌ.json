@@ -1,0 +1,1 @@
+{"slug": "وَرِيدٌ", "kind": "lemma", "parsed": {"glosses": {"en": "vein", "fa": "ورید", "ur": "ورید", "tr": "damar", "id": "urat", "bn": "শিরা", "es": "vena", "fr": "veine", "de": "Vene", "ru": "вена", "zh": "静脉"}}, "issues": [], "meta": {"elapsed": 3.63, "input_tokens": 459, "output_tokens": 111, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

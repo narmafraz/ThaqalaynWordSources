@@ -1,0 +1,1 @@
+{"slug": "بَتُولٌ", "kind": "lemma", "parsed": {"glosses": {"en": "virgin", "fa": "بکر", "ur": "بکر", "tr": "bakire", "id": "perawan", "bn": "কন্যা", "es": "virgen", "fr": "vierge", "de": "Jungfrau", "ru": "дева", "zh": "处女"}}, "issues": [], "meta": {"elapsed": 4.8, "input_tokens": 748, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

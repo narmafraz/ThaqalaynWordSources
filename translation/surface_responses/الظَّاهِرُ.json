@@ -1,0 +1,1 @@
+{"slug": "الظَّاهِرُ", "kind": "surface", "parsed": {"glosses": {"en": "the face", "fa": "چهره", "ur": "چہرہ", "tr": "yüz", "id": "wajah", "bn": "মুখ", "es": "rostro", "fr": "visage", "de": "Gesicht", "ru": "лицо", "zh": "脸"}}, "issues": [], "meta": {"elapsed": 3.61, "input_tokens": 1176, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "عَرَفات", "kind": "lemma", "parsed": {"glosses": {"en": "Arafat", "fa": "عرفات", "ur": "عرفات", "tr": "Arafat", "id": "Arafat", "bn": "আরাফাত", "es": "Arafat", "fr": "Arafat", "de": "Arafat", "ru": "Арафат", "zh": "阿拉法特"}}, "issues": [], "meta": {"elapsed": 4.93, "input_tokens": 954, "output_tokens": 126, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

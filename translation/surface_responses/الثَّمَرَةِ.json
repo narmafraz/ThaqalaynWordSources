@@ -1,0 +1,1 @@
+{"slug": "الثَّمَرَةِ", "kind": "surface", "parsed": {"glosses": {"en": "the fruit", "fa": "میوه", "ur": "پھل", "tr": "meyve", "id": "buah", "bn": "ফল", "es": "fruta", "fr": "fruit", "de": "Frucht", "ru": "плод", "zh": "果实"}}, "issues": [], "meta": {"elapsed": 3.84, "input_tokens": 925, "output_tokens": 111, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

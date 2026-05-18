@@ -1,0 +1,1 @@
+{"slug": "خانٌ", "kind": "lemma", "parsed": {"glosses": {"en": "inn", "fa": "کاروانسرا", "ur": "ہوٹل", "tr": "han", "id": "karavanserai", "bn": "হোটেল", "es": "fonda", "fr": "auberge", "de": "Herberge", "ru": "хан", "zh": "客栈"}}, "issues": [], "meta": {"elapsed": 4.68, "input_tokens": 958, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

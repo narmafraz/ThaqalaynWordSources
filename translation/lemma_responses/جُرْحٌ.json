@@ -1,0 +1,1 @@
+{"slug": "جُرْحٌ", "kind": "lemma", "parsed": {"glosses": {"en": "wound", "fa": "زخم", "ur": "زخم", "tr": "yara", "id": "luka", "bn": "আঘাত", "es": "herida", "fr": "blessure", "de": "Wunde", "ru": "рана", "zh": "伤口"}}, "issues": [], "meta": {"elapsed": 5.69, "input_tokens": 2076, "output_tokens": 114, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

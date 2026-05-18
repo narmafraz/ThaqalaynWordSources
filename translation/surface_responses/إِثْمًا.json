@@ -1,0 +1,1 @@
+{"slug": "إِثْمًا", "kind": "surface", "parsed": {"glosses": {"en": "a sin", "fa": "گناهی", "ur": "گناہ", "tr": "günah", "id": "dosa", "bn": "পাপ", "es": "pecado", "fr": "péché", "de": "Sünde", "ru": "грех", "zh": "罪"}}, "issues": [], "meta": {"elapsed": 4.63, "input_tokens": 975, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

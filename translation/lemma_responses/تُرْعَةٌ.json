@@ -1,0 +1,1 @@
+{"slug": "تُرْعَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "gate", "fa": "دروازه", "ur": "دروازہ", "tr": "kapı", "id": "pintu gerbang", "bn": "দরজা", "es": "puerta", "fr": "porte", "de": "Tor", "ru": "ворота", "zh": "大门"}}, "issues": [], "meta": {"elapsed": 4.89, "input_tokens": 948, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

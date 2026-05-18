@@ -1,0 +1,1 @@
+{"slug": "أَهْوَاءٍ", "kind": "surface", "parsed": {"glosses": {"en": "airs", "fa": "هواها", "ur": "ہوائیں", "tr": "havalar", "id": "udara", "bn": "বাতাস", "es": "aires", "fr": "airs", "de": "Luft", "ru": "воздух", "zh": "空气"}}, "issues": [], "meta": {"elapsed": 3.82, "input_tokens": 643, "output_tokens": 114, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "آتٍ", "kind": "surface", "parsed": {"glosses": {"en": "arrival", "fa": "رسیدن", "ur": "آنا", "tr": "geliş", "id": "kedatangan", "bn": "আগমন", "es": "llegada", "fr": "arrivée", "de": "Ankunft", "ru": "прибытие", "zh": "到来"}}, "issues": [], "meta": {"elapsed": 3.21, "input_tokens": 740, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

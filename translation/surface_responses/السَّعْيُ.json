@@ -1,0 +1,1 @@
+{"slug": "السَّعْيُ", "kind": "surface", "parsed": {"glosses": {"en": "the effort", "fa": "تلاش", "ur": "کوشش", "tr": "çaba", "id": "usaha", "bn": "চেষ্টা", "es": "esfuerzo", "fr": "effort", "de": "Mühe", "ru": "усилие", "zh": "努力"}}, "issues": [], "meta": {"elapsed": 6.2, "input_tokens": 972, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

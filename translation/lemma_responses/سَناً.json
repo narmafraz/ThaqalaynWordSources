@@ -1,0 +1,1 @@
+{"slug": "سَناً", "kind": "lemma", "parsed": {"glosses": {"en": "shine", "fa": "درخشش", "ur": "چمک", "tr": "parlama", "id": "bersinar", "bn": "চমক", "es": "brillo", "fr": "brillance", "de": "Schein", "ru": "сияние", "zh": "闪耀"}}, "issues": [], "meta": {"elapsed": 4.66, "input_tokens": 1057, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "حَرَّى", "kind": "lemma", "parsed": {"glosses": {"en": "Harran", "fa": "حران", "ur": "حران", "tr": "Harran", "id": "Harran", "bn": "হররান", "es": "Harran", "fr": "Harran", "de": "Harran", "ru": "Харран", "zh": "哈里尔"}}, "issues": [], "meta": {"elapsed": 5.19, "input_tokens": 1025, "output_tokens": 123, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

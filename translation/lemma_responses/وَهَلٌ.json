@@ -1,0 +1,1 @@
+{"slug": "وَهَلٌ", "kind": "lemma", "parsed": {"glosses": {"en": "haste", "fa": "شتاب", "ur": "جلدی", "tr": "acele", "id": "kecepatan", "bn": "দ্রুততা", "es": "prisa", "fr": "hâte", "de": "Eile", "ru": "спешка", "zh": "匆忙"}}, "issues": [], "meta": {"elapsed": 3.46, "input_tokens": 684, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

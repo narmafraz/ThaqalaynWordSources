@@ -1,0 +1,1 @@
+{"slug": "ثاء", "kind": "lemma", "parsed": {"glosses": {"en": "tha’", "fa": "ثاء", "ur": "ثاء", "tr": "tha’", "id": "tha’", "bn": "থা", "es": "tha’", "fr": "tha’", "de": "tha’", "ru": "та", "zh": "萨"}}, "issues": [], "meta": {"elapsed": 4.57, "input_tokens": 480, "output_tokens": 111, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

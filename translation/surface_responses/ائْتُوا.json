@@ -1,0 +1,1 @@
+{"slug": "ائْتُوا", "kind": "surface", "parsed": {"glosses": {"en": "come", "fa": "بیایید", "ur": "آؤ", "tr": "gelin", "id": "datanglah", "bn": "আসুন", "es": "venid", "fr": "venez", "de": "kommt", "ru": "придите", "zh": "来吧"}}, "issues": [], "meta": {"elapsed": 3.28, "input_tokens": 475, "output_tokens": 114, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

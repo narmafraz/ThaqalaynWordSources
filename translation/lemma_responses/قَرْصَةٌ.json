@@ -1,0 +1,1 @@
+{"slug": "قَرْصَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "a pinch", "fa": "گاز", "ur": "کاٹ", "tr": "ısırga", "id": "gigitan", "bn": "কাটা", "es": "picadura", "fr": "piqûre", "de": "Stich", "ru": "укус", "zh": "叮咬"}}, "issues": [], "meta": {"elapsed": 4.65, "input_tokens": 574, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

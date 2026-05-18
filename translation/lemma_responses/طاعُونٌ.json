@@ -1,0 +1,1 @@
+{"slug": "طاعُونٌ", "kind": "lemma", "parsed": {"glosses": {"en": "plague", "fa": "طاعون", "ur": "طاعون", "tr": "veba", "id": "wabah", "bn": "মহামারী", "es": "plaga", "fr": "peste", "de": "Pest", "ru": "чума", "zh": "瘟疫"}}, "issues": [], "meta": {"elapsed": 3.35, "input_tokens": 658, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

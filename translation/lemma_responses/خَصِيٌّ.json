@@ -1,0 +1,1 @@
+{"slug": "خَصِيٌّ", "kind": "lemma", "parsed": {"glosses": {"en": "castration", "fa": "نرسی", "ur": "نرسی", "tr": "nês", "id": "nês", "bn": "নস", "es": "nês", "fr": "nês", "de": "Nês", "ru": "нэс", "zh": "阉割"}}, "issues": [], "meta": {"elapsed": 3.99, "input_tokens": 756, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

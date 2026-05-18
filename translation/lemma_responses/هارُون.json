@@ -1,0 +1,1 @@
+{"slug": "هارُون", "kind": "lemma", "parsed": {"glosses": {"en": "Aaron", "fa": "هارون", "ur": "هارون", "tr": "Harun", "id": "Harun", "bn": "হারুন", "es": "Aarón", "fr": "Aaron", "de": "Aaron", "ru": "Харун", "zh": "哈伦"}}, "issues": [], "meta": {"elapsed": 4.55, "input_tokens": 463, "output_tokens": 113, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

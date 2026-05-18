@@ -1,0 +1,1 @@
+{"slug": "رُمْحٌ", "kind": "lemma", "parsed": {"glosses": {"en": "spear", "fa": "نیزه", "ur": "نیزہ", "tr": "mızrak", "id": "tombak", "bn": "বর্শা", "es": "lanza", "fr": "lance", "de": "Speer", "ru": "копьё", "zh": "长矛"}}, "issues": [], "meta": {"elapsed": 6.32, "input_tokens": 969, "output_tokens": 121, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

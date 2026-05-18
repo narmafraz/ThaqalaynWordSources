@@ -1,0 +1,1 @@
+{"slug": "نَوْمٌ", "kind": "lemma", "parsed": {"glosses": {"en": "sleep", "fa": "خواب", "ur": "نیند", "tr": "uyku", "id": "tidur", "bn": "ঘুম", "es": "sueño", "fr": "sommeil", "de": "Schlaf", "ru": "сон", "zh": "睡眠"}}, "issues": [], "meta": {"elapsed": 4.61, "input_tokens": 512, "output_tokens": 113, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

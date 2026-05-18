@@ -1,0 +1,1 @@
+{"slug": "مِنْهاجٌ", "kind": "lemma", "parsed": {"glosses": {"en": "path", "fa": "راه", "ur": "راستہ", "tr": "yol", "id": "jalan", "bn": "পথ", "es": "camino", "fr": "chemin", "de": "Weg", "ru": "путь", "zh": "道路"}}, "issues": [], "meta": {"elapsed": 4.67, "input_tokens": 449, "output_tokens": 111, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

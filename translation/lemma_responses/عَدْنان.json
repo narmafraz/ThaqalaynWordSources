@@ -1,0 +1,1 @@
+{"slug": "عَدْنان", "kind": "lemma", "parsed": {"glosses": {"en": "Adnan", "fa": "عدنان", "ur": "عدنان", "tr": "Adnan", "id": "Adnan", "bn": "আদনান", "es": "Adnan", "fr": "Adnan", "de": "Adnan", "ru": "Аднан", "zh": "阿德南"}}, "issues": [], "meta": {"elapsed": 4.62, "input_tokens": 463, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

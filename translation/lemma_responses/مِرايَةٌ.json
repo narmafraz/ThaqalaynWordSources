@@ -1,0 +1,1 @@
+{"slug": "مِرايَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "mirror", "fa": "آینه", "ur": "آئینہ", "tr": "ayna", "id": "cermin", "bn": "আয়না", "es": "espejo", "fr": "miroir", "de": "Spiegel", "ru": "зеркало", "zh": "镜子"}}, "issues": [], "meta": {"elapsed": 5.26, "input_tokens": 460, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

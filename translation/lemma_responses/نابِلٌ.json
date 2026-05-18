@@ -1,0 +1,1 @@
+{"slug": "نابِلٌ", "kind": "lemma", "parsed": {"glosses": {"en": "Nabeul", "fa": "نابل", "ur": "نابل", "tr": "Nabeul", "id": "Nabeul", "bn": "নাবুল", "es": "Nabeul", "fr": "Nabeul", "de": "Nabeul", "ru": "Набиль", "zh": "纳布勒"}}, "issues": [], "meta": {"elapsed": 5.5, "input_tokens": 466, "output_tokens": 123, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

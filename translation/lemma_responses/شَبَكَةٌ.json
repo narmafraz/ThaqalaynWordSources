@@ -1,0 +1,1 @@
+{"slug": "شَبَكَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "net", "fa": "تور", "ur": "جالی", "tr": "ağ", "id": "jaring", "bn": "জাল", "es": "red", "fr": "filet", "de": "Netz", "ru": "сеть", "zh": "网"}}, "issues": [], "meta": {"elapsed": 3.08, "input_tokens": 955, "output_tokens": 109, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

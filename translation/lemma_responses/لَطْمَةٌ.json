@@ -1,0 +1,1 @@
+{"slug": "لَطْمَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "slap", "fa": "کوبش", "ur": "تھپڑ", "tr": "tokat", "id": "tamparan", "bn": "চপেট", "es": "bofetada", "fr": "gifle", "de": "Ohrfeige", "ru": "шлепок", "zh": "掌掴"}}, "issues": [], "meta": {"elapsed": 5.06, "input_tokens": 467, "output_tokens": 124, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

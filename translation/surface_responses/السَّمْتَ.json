@@ -1,0 +1,1 @@
+{"slug": "السَّمْتَ", "kind": "surface", "parsed": {"glosses": {"en": "the road", "fa": "راه", "ur": "راستہ", "tr": "yol", "id": "jalan", "bn": "পথ", "es": "camino", "fr": "route", "de": "Weg", "ru": "путь", "zh": "道路"}}, "issues": [], "meta": {"elapsed": 4.44, "input_tokens": 1003, "output_tokens": 111, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

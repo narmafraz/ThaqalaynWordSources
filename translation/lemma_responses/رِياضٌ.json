@@ -1,0 +1,1 @@
+{"slug": "رِياضٌ", "kind": "lemma", "parsed": {"glosses": {"en": "Riyadh", "fa": "ریاض", "ur": "ریاض", "tr": "Riyad", "id": "Riyadh", "bn": "রিয়াদ", "es": "Riad", "fr": "Riyad", "de": "Riad", "ru": "Эр-Рияд", "zh": "利雅得"}}, "issues": [], "meta": {"elapsed": 4.5, "input_tokens": 451, "output_tokens": 124, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

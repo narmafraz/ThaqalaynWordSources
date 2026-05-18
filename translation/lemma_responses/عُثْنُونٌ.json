@@ -1,0 +1,1 @@
+{"slug": "عُثْنُونٌ", "kind": "lemma", "parsed": {"glosses": {"en": "goatee", "fa": "دبیل", "ur": "ذقن", "tr": "bıyık", "id": "jenggot", "bn": "দাড়ি", "es": "barba", "fr": "barbe", "de": "Bart", "ru": "борода", "zh": "胡须"}}, "issues": [], "meta": {"elapsed": 4.11, "input_tokens": 867, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

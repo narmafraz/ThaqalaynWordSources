@@ -1,0 +1,1 @@
+{"slug": "الضَّرْبَةُ", "kind": "surface", "parsed": {"glosses": {"en": "the blow", "fa": "ضربه", "ur": "مارنا", "tr": "vuruş", "id": "pukulan", "bn": "প্রহার", "es": "golpe", "fr": "coup", "de": "Schlag", "ru": "удар", "zh": "打击"}}, "issues": [], "meta": {"elapsed": 4.11, "input_tokens": 804, "output_tokens": 113, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

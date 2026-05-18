@@ -1,0 +1,1 @@
+{"slug": "رَهْطٌ", "kind": "lemma", "parsed": {"glosses": {"en": "tribe", "fa": "قبیله", "ur": "قبیله", "tr": "kabile", "id": "suku", "bn": "গোষ্ঠী", "es": "tribu", "fr": "tribu", "de": "Stamm", "ru": "племя", "zh": "部落"}}, "issues": [], "meta": {"elapsed": 3.73, "input_tokens": 1066, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

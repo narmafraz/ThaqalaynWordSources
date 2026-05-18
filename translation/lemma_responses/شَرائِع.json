@@ -1,0 +1,1 @@
+{"slug": "شَرائِع", "kind": "lemma", "parsed": {"glosses": {"en": "laws", "fa": "قوانین", "ur": "قوانین", "tr": "kanunlar", "id": "hukum-hukum", "bn": "বিধি", "es": "leyes", "fr": "lois", "de": "Gesetze", "ru": "законы", "zh": "律法"}}, "issues": [], "meta": {"elapsed": 5.91, "input_tokens": 984, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

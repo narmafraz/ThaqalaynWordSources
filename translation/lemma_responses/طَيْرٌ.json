@@ -1,0 +1,1 @@
+{"slug": "طَيْرٌ", "kind": "lemma", "parsed": {"glosses": {"en": "bird", "fa": "پرنده", "ur": "پرندہ", "tr": "kuş", "id": "burung", "bn": "পাখি", "es": "pájaro", "fr": "oiseau", "de": "Vogel", "ru": "птица", "zh": "鸟"}}, "issues": [], "meta": {"elapsed": 4.17, "input_tokens": 541, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

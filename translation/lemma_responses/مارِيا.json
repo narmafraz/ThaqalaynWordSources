@@ -1,0 +1,1 @@
+{"slug": "مارِيا", "kind": "lemma", "parsed": {"glosses": {"en": "Maria", "fa": "ماریا", "ur": "ماریا", "tr": "Maria", "id": "Maria", "bn": "মারিয়া", "es": "María", "fr": "Marie", "de": "Maria", "ru": "Мария", "zh": "玛丽亚"}}, "issues": [], "meta": {"elapsed": 2.83, "input_tokens": 449, "output_tokens": 112, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

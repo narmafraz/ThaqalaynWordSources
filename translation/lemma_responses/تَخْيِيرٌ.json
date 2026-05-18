@@ -1,0 +1,1 @@
+{"slug": "تَخْيِيرٌ", "kind": "lemma", "parsed": {"glosses": {"en": "choice", "fa": "انتخاب", "ur": "اختیار", "tr": "tercih", "id": "pilihan", "bn": "পছন্দ", "es": "elección", "fr": "choix", "de": "Wahl", "ru": "выбор", "zh": "选择"}}, "issues": [], "meta": {"elapsed": 4.5, "input_tokens": 450, "output_tokens": 114, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

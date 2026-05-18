@@ -1,0 +1,1 @@
+{"slug": "عَباء", "kind": "lemma", "parsed": {"glosses": {"en": "cloak", "fa": "عباءه", "ur": "عباءہ", "tr": "çarşaf", "id": "jubah", "bn": "চাদর", "es": "manto", "fr": "cape", "de": "Mantel", "ru": "плащ", "zh": "斗篷"}}, "issues": [], "meta": {"elapsed": 5.56, "input_tokens": 471, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

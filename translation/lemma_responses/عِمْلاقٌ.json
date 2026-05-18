@@ -1,0 +1,1 @@
+{"slug": "عِمْلاقٌ", "kind": "lemma", "parsed": {"glosses": {"en": "giant", "fa": "غول‌پیکر", "ur": "غول", "tr": "dev", "id": "raksasa", "bn": "দানব", "es": "gigante", "fr": "géant", "de": "Riese", "ru": "великан", "zh": "巨人"}}, "issues": [], "meta": {"elapsed": 4.52, "input_tokens": 923, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

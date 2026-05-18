@@ -1,0 +1,1 @@
+{"slug": "صُوفِيٌّ", "kind": "lemma", "parsed": {"glosses": {"en": "Sufi", "fa": "صوفی", "ur": "صوفی", "tr": "Sufi", "id": "Sufi", "bn": "সূফি", "es": "Sufí", "fr": "Soufi", "de": "Sufi", "ru": "суфий", "zh": "苏菲"}}, "issues": [], "meta": {"elapsed": 4.53, "input_tokens": 663, "output_tokens": 125, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

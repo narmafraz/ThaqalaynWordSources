@@ -1,0 +1,1 @@
+{"slug": "الضَّوْءِ", "kind": "surface", "parsed": {"glosses": {"en": "the light", "fa": "نور", "ur": "روشنی", "tr": "ışık", "id": "cahaya", "bn": "আলো", "es": "luz", "fr": "lumière", "de": "Licht", "ru": "свет", "zh": "光"}}, "issues": [], "meta": {"elapsed": 3.26, "input_tokens": 996, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

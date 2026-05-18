@@ -1,0 +1,1 @@
+{"slug": "مالَ", "kind": "lemma", "parsed": {"glosses": {"en": "property", "fa": "مال", "ur": "مال", "tr": "mal", "id": "harta", "bn": "সম্পত্তি", "es": "propiedad", "fr": "bien", "de": "Vermögen", "ru": "имущество", "zh": "财产"}}, "issues": [], "meta": {"elapsed": 3.44, "input_tokens": 912, "output_tokens": 113, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

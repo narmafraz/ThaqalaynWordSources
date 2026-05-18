@@ -1,0 +1,1 @@
+{"slug": "صَدْعٌ", "kind": "lemma", "parsed": {"glosses": {"en": "crack", "fa": "شکاف", "ur": "درز", "tr": "çatlak", "id": "retakan", "bn": "ফাটন", "es": "grieta", "fr": "fissure", "de": "Riss", "ru": "трещина", "zh": "裂缝"}}, "issues": [], "meta": {"elapsed": 5.33, "input_tokens": 1355, "output_tokens": 120, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

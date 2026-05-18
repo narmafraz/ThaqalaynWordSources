@@ -1,0 +1,1 @@
+{"slug": "قِتالٌ", "kind": "lemma", "parsed": {"glosses": {"en": "fighting", "fa": "جنگیدن", "ur": "لڑائی", "tr": "savaşma", "id": "perang", "bn": "যুদ্ধ", "es": "lucha", "fr": "combat", "de": "Kampf", "ru": "борьба", "zh": "战斗"}}, "issues": [], "meta": {"elapsed": 2.41, "input_tokens": 520, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

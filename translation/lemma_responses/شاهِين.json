@@ -1,0 +1,1 @@
+{"slug": "شاهِين", "kind": "lemma", "parsed": {"glosses": {"en": "falcon", "fa": "شاهین", "ur": "شہین", "tr": "şahin", "id": "elang", "bn": "শাহিন", "es": "halcón", "fr": "faucon", "de": "Falke", "ru": "сокол", "zh": "猎鹰"}}, "issues": [], "meta": {"elapsed": 4.98, "input_tokens": 803, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

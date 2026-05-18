@@ -1,0 +1,1 @@
+{"slug": "رُكْنٌ", "kind": "lemma", "parsed": {"glosses": {"en": "corner", "fa": "کنج", "ur": "کونا", "tr": "köşe", "id": "sudut", "bn": "কোণ", "es": "esquina", "fr": "coin", "de": "Ecke", "ru": "угол", "zh": "角落"}}, "issues": [], "meta": {"elapsed": 3.74, "input_tokens": 1578, "output_tokens": 112, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "حامِضٌ", "kind": "lemma", "parsed": {"glosses": {"en": "acid", "fa": "ترش", "ur": "ترش", "tr": "ekşi", "id": "asam", "bn": "টক", "es": "ácido", "fr": "acide", "de": "sauer", "ru": "кислый", "zh": "酸的"}}, "issues": [], "meta": {"elapsed": 4.01, "input_tokens": 788, "output_tokens": 113, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

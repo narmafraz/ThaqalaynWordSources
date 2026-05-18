@@ -1,0 +1,1 @@
+{"slug": "شَأْنٌ", "kind": "lemma", "parsed": {"glosses": {"en": "matter", "fa": "شأن", "ur": "شأن", "tr": "iş", "id": "urusan", "bn": "বিষয়", "es": "asunto", "fr": "affaire", "de": "Angelegenheit", "ru": "дело", "zh": "事情"}}, "issues": [], "meta": {"elapsed": 3.54, "input_tokens": 940, "output_tokens": 84, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "القاسم", "kind": "surface", "parsed": {"glosses": {"en": "the Qasim", "fa": "القسّم", "ur": "القسّم", "tr": "Kasim", "id": "Qasim", "bn": "কাসিম", "es": "Qasim", "fr": "Qasim", "de": "Qasim", "ru": "Касим", "zh": "卡西姆"}}, "issues": [], "meta": {"elapsed": 4.05, "input_tokens": 625, "output_tokens": 125, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

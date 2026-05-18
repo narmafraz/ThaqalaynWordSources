@@ -1,0 +1,1 @@
+{"slug": "بابٌ", "kind": "lemma", "parsed": {"glosses": {"en": "door, gate", "fa": "دروازه", "ur": "دروازہ", "tr": "kapı", "id": "pintu", "bn": "দরজা", "es": "puerta", "fr": "porte", "de": "Tür", "ru": "дверь", "zh": "门"}}, "issues": [], "meta": {"elapsed": 5.2, "input_tokens": 952, "output_tokens": 120, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

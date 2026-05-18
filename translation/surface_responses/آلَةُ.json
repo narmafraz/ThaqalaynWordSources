@@ -1,0 +1,1 @@
+{"slug": "آلَةُ", "kind": "surface", "parsed": {"glosses": {"en": "the idol", "fa": "بت،", "ur": "بت،", "tr": "put,", "id": "idola,", "bn": "মূর্তি,", "es": "el ídolo", "fr": "l'idole", "de": "der Götze", "ru": "идол,", "zh": "偶像，"}}, "issues": [], "meta": {"elapsed": 4.04, "input_tokens": 993, "output_tokens": 120, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

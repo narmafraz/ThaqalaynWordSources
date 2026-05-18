@@ -1,0 +1,1 @@
+{"slug": "داوُد", "kind": "lemma", "parsed": {"glosses": {"en": "David", "fa": "داوود", "ur": "داؤد", "tr": "Davud", "id": "Daud", "bn": "দাউদ", "es": "David", "fr": "David", "de": "David", "ru": "Давуд", "zh": "达乌德"}}, "issues": [], "meta": {"elapsed": 4.15, "input_tokens": 465, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

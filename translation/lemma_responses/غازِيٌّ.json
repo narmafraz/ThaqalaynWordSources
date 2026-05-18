@@ -1,0 +1,1 @@
+{"slug": "غازِيٌّ", "kind": "lemma", "parsed": {"glosses": {"en": "raider", "fa": "غازی", "ur": "غازی", "tr": "gaazi", "id": "raider", "bn": "গাজি", "es": "gaazi", "fr": "gaazi", "de": "gaazi", "ru": "гази", "zh": "加齐"}}, "issues": [], "meta": {"elapsed": 2.33, "input_tokens": 448, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

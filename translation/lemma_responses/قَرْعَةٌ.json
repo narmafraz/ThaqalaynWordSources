@@ -1,0 +1,1 @@
+{"slug": "قَرْعَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "lottery", "fa": "قرعه", "ur": "قرعہ", "tr": "kura", "id": "undian", "bn": "কুরা", "es": "lotería", "fr": "loterie", "de": "Los", "ru": "лотерея", "zh": "抽签"}}, "issues": [], "meta": {"elapsed": 2.65, "input_tokens": 555, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

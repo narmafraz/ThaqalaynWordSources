@@ -1,0 +1,1 @@
+{"slug": "خُبْزٌ", "kind": "lemma", "parsed": {"glosses": {"en": "bread", "fa": "نان", "ur": "روٹی", "tr": "ekmek", "id": "roti", "bn": "রুটি", "es": "pan", "fr": "pain", "de": "Brot", "ru": "хлеб", "zh": "面包"}}, "issues": [], "meta": {"elapsed": 3.91, "input_tokens": 1821, "output_tokens": 110, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

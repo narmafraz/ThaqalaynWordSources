@@ -1,0 +1,1 @@
+{"slug": "رِباطٌ", "kind": "lemma", "parsed": {"glosses": {"en": "bond", "fa": "پیوند", "ur": "رابطہ", "tr": "bağ", "id": "ikatan", "bn": "বন্ধন", "es": "vínculo", "fr": "lien", "de": "Bindung", "ru": "узы", "zh": "纽带"}}, "issues": [], "meta": {"elapsed": 5.01, "input_tokens": 992, "output_tokens": 114, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

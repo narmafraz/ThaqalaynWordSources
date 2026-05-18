@@ -1,0 +1,1 @@
+{"slug": "أَهوال", "kind": "surface", "parsed": {"glosses": {"en": "fears", "fa": "ترس‌ها", "ur": "خوف", "tr": "korkular", "id": "ketakutan", "bn": "ভয়", "es": "miedos", "fr": "peurs", "de": "Angste", "ru": "страхи", "zh": "恐惧"}}, "issues": [], "meta": {"elapsed": 3.94, "input_tokens": 570, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

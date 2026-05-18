@@ -1,0 +1,1 @@
+{"slug": "مِصْباحٌ", "kind": "lemma", "parsed": {"glosses": {"en": "lamp", "fa": "چراغ", "ur": "چراغ", "tr": "lamba", "id": "lampu", "bn": "বাতি", "es": "lámpara", "fr": "lampe", "de": "Lampe", "ru": "лампа", "zh": "灯"}}, "issues": [], "meta": {"elapsed": 4.11, "input_tokens": 924, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

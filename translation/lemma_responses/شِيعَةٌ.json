@@ -1,0 +1,1 @@
+{"slug": "شِيعَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "sect", "fa": "طایفه", "ur": "جماعت", "tr": "tarikat", "id": "sekte", "bn": "সম্প্রদায়", "es": "secta", "fr": "secte", "de": "Sekte", "ru": "секта", "zh": "派别"}}, "issues": [], "meta": {"elapsed": 4.34, "input_tokens": 908, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

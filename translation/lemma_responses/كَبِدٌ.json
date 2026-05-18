@@ -1,0 +1,1 @@
+{"slug": "كَبِدٌ", "kind": "lemma", "parsed": {"glosses": {"en": "liver", "fa": "کبد", "ur": "جگر", "tr": "karaciğer", "id": "hati", "bn": "যকৃৎ", "es": "hígado", "fr": "foie", "de": "Leber", "ru": "печень", "zh": "肝脏"}}, "issues": [], "meta": {"elapsed": 5.18, "input_tokens": 1002, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

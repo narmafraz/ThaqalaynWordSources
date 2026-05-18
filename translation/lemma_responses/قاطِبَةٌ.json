@@ -1,0 +1,1 @@
+{"slug": "قاطِبَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "all of", "fa": "همه", "ur": "سب", "tr": "hepsi", "id": "semua", "bn": "সব", "es": "todos", "fr": "tous", "de": "alle", "ru": "все", "zh": "全部"}}, "issues": [], "meta": {"elapsed": 3.01, "input_tokens": 466, "output_tokens": 110, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

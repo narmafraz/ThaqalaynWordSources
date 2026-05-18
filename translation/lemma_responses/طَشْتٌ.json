@@ -1,0 +1,1 @@
+{"slug": "طَشْتٌ", "kind": "lemma", "parsed": {"glosses": {"en": "basin", "fa": "حوض", "ur": "ٹوکری", "tr": "havuz", "id": "baskom", "bn": "টব", "es": "palangana", "fr": "bassine", "de": "Wanne", "ru": "таз", "zh": "盆"}}, "issues": [], "meta": {"elapsed": 5.87, "input_tokens": 466, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

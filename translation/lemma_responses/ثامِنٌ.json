@@ -1,0 +1,1 @@
+{"slug": "ثامِنٌ", "kind": "lemma", "parsed": {"glosses": {"en": "eighth", "fa": "هشتم", "ur": "آٹھواں", "tr": "sekizinci", "id": "kedelapan", "bn": "আটম", "es": "octavo", "fr": "huitième", "de": "acht", "ru": "восьмой", "zh": "第八"}}, "issues": [], "meta": {"elapsed": 4.22, "input_tokens": 612, "output_tokens": 121, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "كلُوب", "kind": "lemma", "parsed": {"glosses": {"en": "Kalub", "fa": "کلوب", "ur": "کلوب", "tr": "Kalub", "id": "Kalub", "bn": "কলুব", "es": "Kalub", "fr": "Kalub", "de": "Kalub", "ru": "Калуб", "zh": "卡卢布"}}, "issues": [], "meta": {"elapsed": 4.37, "input_tokens": 472, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

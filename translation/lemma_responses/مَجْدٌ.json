@@ -1,0 +1,1 @@
+{"slug": "مَجْدٌ", "kind": "lemma", "parsed": {"glosses": {"en": "glory", "fa": "شهرت", "ur": "شہرت", "tr": "şan", "id": "kemuliaan", "bn": "মর্যাদা", "es": "gloria", "fr": "gloire", "de": "Ruhm", "ru": "слава", "zh": "荣耀"}}, "issues": [], "meta": {"elapsed": 4.27, "input_tokens": 1523, "output_tokens": 120, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

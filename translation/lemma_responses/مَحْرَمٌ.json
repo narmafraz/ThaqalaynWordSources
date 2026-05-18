@@ -1,0 +1,1 @@
+{"slug": "مَحْرَمٌ", "kind": "lemma", "parsed": {"glosses": {"en": "Mahram", "fa": "محرم", "ur": "محرم", "tr": "Mahrem", "id": "Mahram", "bn": "মহরম", "es": "Mahram", "fr": "Mahram", "de": "Mahram", "ru": "Махрам", "zh": "马赫拉姆"}}, "issues": [], "meta": {"elapsed": 3.42, "input_tokens": 853, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "جَنْبٌ", "kind": "lemma", "parsed": {"glosses": {"en": "side", "fa": "پهلوی", "ur": "پہلو", "tr": "yan", "id": "sisi", "bn": "পাশ", "es": "lado", "fr": "côté", "de": "Seite", "ru": "бок", "zh": "侧面"}}, "issues": [], "meta": {"elapsed": 5.04, "input_tokens": 2177, "output_tokens": 112, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

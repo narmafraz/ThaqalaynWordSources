@@ -1,0 +1,1 @@
+{"slug": "حارِث", "kind": "lemma", "parsed": {"glosses": {"en": "Harith", "fa": "حارث", "ur": "حارث", "tr": "Haris", "id": "Harits", "bn": "হারিস", "es": "Harith", "fr": "Harith", "de": "Harith", "ru": "Харис", "zh": "哈里思"}}, "issues": [], "meta": {"elapsed": 4.11, "input_tokens": 588, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

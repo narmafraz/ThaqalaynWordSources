@@ -1,0 +1,1 @@
+{"slug": "عِفْرِيتٌ", "kind": "lemma", "parsed": {"glosses": {"en": "afreet", "fa": "عفریت", "ur": "عفریت", "tr": "afrit", "id": "afrit", "bn": "আফরীত", "es": "afrit", "fr": "afrit", "de": "Afrit", "ru": "африит", "zh": "阿夫里特"}}, "issues": [], "meta": {"elapsed": 3.57, "input_tokens": 523, "output_tokens": 122, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

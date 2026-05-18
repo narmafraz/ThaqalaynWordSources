@@ -1,0 +1,1 @@
+{"slug": "راهِبٌ", "kind": "lemma", "parsed": {"glosses": {"en": "monk", "fa": "راهب", "ur": "راہب", "tr": "rahib", "id": "rahib", "bn": "রাহিব", "es": "monje", "fr": "moine", "de": "Mönch", "ru": "монах", "zh": "修士"}}, "issues": [], "meta": {"elapsed": 3.37, "input_tokens": 834, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

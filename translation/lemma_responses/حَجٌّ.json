@@ -1,0 +1,1 @@
+{"slug": "حَجٌّ", "kind": "lemma", "parsed": {"glosses": {"en": "pilgrimage", "fa": "حج", "ur": "حج", "tr": "hac", "id": "haji", "bn": "হজ", "es": "peregrinación", "fr": "pèlerinage", "de": "Pilgerfahrt", "ru": "хадж", "zh": "朝觐"}}, "issues": [], "meta": {"elapsed": 5.85, "input_tokens": 961, "output_tokens": 122, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

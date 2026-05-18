@@ -1,0 +1,1 @@
+{"slug": "ثَوْبٌ", "kind": "lemma", "parsed": {"glosses": {"en": "garment", "fa": "پوشاک", "ur": "کپڑا", "tr": "giysi", "id": "pakaian", "bn": "পোশাক", "es": "vestidura", "fr": "vêtement", "de": "Gewand", "ru": "одежда", "zh": "衣服"}}, "issues": [], "meta": {"elapsed": 4.45, "input_tokens": 960, "output_tokens": 120, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

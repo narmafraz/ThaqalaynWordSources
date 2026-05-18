@@ -1,0 +1,1 @@
+{"slug": "عُنْصُرٌ", "kind": "lemma", "parsed": {"glosses": {"en": "element", "fa": "عنصر", "ur": "عنصر", "tr": "öge", "id": "unsur", "bn": "উপাদান", "es": "elemento", "fr": "élément", "de": "Element", "ru": "элемент", "zh": "元素"}}, "issues": [], "meta": {"elapsed": 2.18, "input_tokens": 780, "output_tokens": 113, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

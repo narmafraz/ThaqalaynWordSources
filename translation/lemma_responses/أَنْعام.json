@@ -1,0 +1,1 @@
+{"slug": "أَنْعام", "kind": "lemma", "parsed": {"glosses": {"en": "livestock", "fa": "چهارپایان", "ur": "چوپال", "tr": "hayvanlar", "id": "ternak", "bn": "পশু", "es": "ganado", "fr": "bétail", "de": "Vieh", "ru": "скот", "zh": "牲畜"}}, "issues": [], "meta": {"elapsed": 5.73, "input_tokens": 459, "output_tokens": 121, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

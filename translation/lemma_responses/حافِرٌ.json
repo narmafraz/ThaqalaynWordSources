@@ -1,0 +1,1 @@
+{"slug": "حافِرٌ", "kind": "lemma", "parsed": {"glosses": {"en": "hoof", "fa": "سم", "ur": "پا    ", "tr": "tırnak", "id": "kuku", "bn": "খুর", "es": "pezuña", "fr": "sabot", "de": "Huf", "ru": "копыто", "zh": "蹄"}}, "issues": [], "meta": {"elapsed": 4.27, "input_tokens": 963, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

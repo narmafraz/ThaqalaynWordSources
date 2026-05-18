@@ -1,0 +1,1 @@
+{"slug": "مُهَذِّبٌ", "kind": "lemma", "parsed": {"glosses": {"en": "swift", "fa": "تند", "ur": "تیز", "tr": "çevik", "id": "cepat", "bn": "দ্রুত", "es": "rápido", "fr": "rapide", "de": "schnell", "ru": "быстрый", "zh": "敏捷的"}}, "issues": [], "meta": {"elapsed": 2.97, "input_tokens": 535, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

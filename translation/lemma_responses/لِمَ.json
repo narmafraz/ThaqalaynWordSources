@@ -1,0 +1,1 @@
+{"slug": "لِمَ", "kind": "lemma", "parsed": {"glosses": {"en": "why", "fa": "چرا", "ur": "کیوں", "tr": "neden", "id": "mengapa", "bn": "কেন", "es": "por qué", "fr": "pourquoi", "de": "warum", "ru": "почему", "zh": "为什么"}}, "issues": [], "meta": {"elapsed": 5.23, "input_tokens": 2270, "output_tokens": 112, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

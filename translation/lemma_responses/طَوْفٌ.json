@@ -1,0 +1,1 @@
+{"slug": "طَوْفٌ", "kind": "lemma", "parsed": {"glosses": {"en": "raft", "fa": "قایق", "ur": "ناؤ", "tr": "kayık", "id": "rakit", "bn": "বাঁশের নৌকা", "es": "balsa", "fr": "radeau", "de": "Floß", "ru": "плот", "zh": "筏"}}, "issues": [], "meta": {"elapsed": 4.14, "input_tokens": 1460, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

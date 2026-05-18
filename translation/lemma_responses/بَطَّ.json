@@ -1,0 +1,1 @@
+{"slug": "بَطَّ", "kind": "lemma", "parsed": {"glosses": {"en": "duck", "fa": "اردک", "ur": "بطخ", "tr": "ördek", "id": "bebek", "bn": "বাত", "es": "pato", "fr": "canard", "de": "Ente", "ru": "утка", "zh": "鸭"}}, "issues": [], "meta": {"elapsed": 7.23, "input_tokens": 556, "output_tokens": 112, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "رَكْلٌ", "kind": "lemma", "parsed": {"glosses": {"en": "kicking", "fa": "لاک", "ur": "لاکنا", "tr": "tekme", "id": "tendangan", "bn": "লাক", "es": "patada", "fr": "coup de pied", "de": "Tritt", "ru": "пинок", "zh": "踢"}}, "issues": [], "meta": {"elapsed": 3.85, "input_tokens": 459, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

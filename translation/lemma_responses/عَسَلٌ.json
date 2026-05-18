@@ -1,0 +1,1 @@
+{"slug": "عَسَلٌ", "kind": "lemma", "parsed": {"glosses": {"en": "honey", "fa": "عسل", "ur": "شہد", "tr": "bal", "id": "madu", "bn": "মধু", "es": "miel", "fr": "miel", "de": "Honig", "ru": "мёд", "zh": "蜂蜜"}}, "issues": [], "meta": {"elapsed": 3.98, "input_tokens": 947, "output_tokens": 114, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

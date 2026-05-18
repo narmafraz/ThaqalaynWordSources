@@ -1,0 +1,1 @@
+{"slug": "فَرْداً", "kind": "lemma", "parsed": {"glosses": {"en": "alone", "fa": "تنها", "ur": "اکیلا", "tr": "yalnız", "id": "sendiri", "bn": "একাকী", "es": "solo", "fr": "seul", "de": "allein", "ru": "один", "zh": "单独"}}, "issues": [], "meta": {"elapsed": 4.4, "input_tokens": 449, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

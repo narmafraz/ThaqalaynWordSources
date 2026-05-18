@@ -1,0 +1,1 @@
+{"slug": "الرَّبُّ", "kind": "surface", "parsed": {"glosses": {"en": "the lord", "fa": "رب", "ur": "رب", "tr": "efendi", "id": "tuhan", "bn": "রব", "es": "señor", "fr": "seigneur", "de": "Herr", "ru": "господин", "zh": "主"}}, "issues": [], "meta": {"elapsed": 4.52, "input_tokens": 1171, "output_tokens": 114, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

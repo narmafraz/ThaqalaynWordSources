@@ -1,0 +1,1 @@
+{"slug": "أيَن", "kind": "surface", "parsed": {"glosses": {"en": "where", "fa": "کجا", "ur": "کہاں", "tr": "nerede", "id": "di mana", "bn": "কোথায়", "es": "dónde", "fr": "où", "de": "wo", "ru": "где", "zh": "哪里"}}, "issues": [], "meta": {"elapsed": 4.04, "input_tokens": 902, "output_tokens": 112, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

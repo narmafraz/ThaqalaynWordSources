@@ -1,0 +1,1 @@
+{"slug": "أَوقات", "kind": "surface", "parsed": {"glosses": {"en": "times", "fa": "زمان‌ها", "ur": "وقت", "tr": "zamanlar", "id": "waktu", "bn": "সময়", "es": "tiempos", "fr": "temps", "de": "Zeiten", "ru": "время", "zh": "时间"}}, "issues": [], "meta": {"elapsed": 4.73, "input_tokens": 777, "output_tokens": 112, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

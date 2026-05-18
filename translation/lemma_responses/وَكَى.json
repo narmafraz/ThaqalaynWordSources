@@ -1,0 +1,1 @@
+{"slug": "وَكَى", "kind": "lemma", "parsed": {"glosses": {"en": "to tie", "fa": "بستن", "ur": "باندھنا", "tr": "bağlamak", "id": "mengikat", "bn": "বাঁধা", "es": "atar", "fr": "attacher", "de": "binden", "ru": "вязать", "zh": "系"}}, "issues": [], "meta": {"elapsed": 5.88, "input_tokens": 852, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

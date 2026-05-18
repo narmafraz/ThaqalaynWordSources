@@ -1,0 +1,1 @@
+{"slug": "اشْتِهَارًا", "kind": "surface", "parsed": {"glosses": {"en": "fame", "fa": "شهرت", "ur": "شہرت", "tr": "şöhret", "id": "ketenaran", "bn": "খ্যাতি", "es": "fama", "fr": "renommée", "de": "Ruhm", "ru": "слава", "zh": "名声"}}, "issues": [], "meta": {"elapsed": 2.37, "input_tokens": 587, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

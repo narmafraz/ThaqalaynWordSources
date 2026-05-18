@@ -1,0 +1,1 @@
+{"slug": "أُسَيْدِ", "kind": "surface", "parsed": {"glosses": {"en": "Usayd", "fa": "اسعد", "ur": "اسعد", "tr": "Usayd", "id": "Usayd", "bn": "উসাইদ", "es": "Usayd", "fr": "Usayd", "de": "Usayd", "ru": "Усайид", "zh": "乌赛德"}}, "issues": [], "meta": {"elapsed": 3.31, "input_tokens": 543, "output_tokens": 124, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

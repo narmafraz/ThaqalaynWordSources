@@ -1,0 +1,1 @@
+{"slug": "ضَرَرٌ", "kind": "lemma", "parsed": {"glosses": {"en": "harm", "fa": "آسیب", "ur": "نقصان", "tr": "zarar", "id": "kerugian", "bn": "ক্ষতি", "es": "daño", "fr": "préjudice", "de": "Schaden", "ru": "ущерб", "zh": "损害"}}, "issues": [], "meta": {"elapsed": 3.94, "input_tokens": 843, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "مِجْذافٌ", "kind": "lemma", "parsed": {"glosses": {"en": "oar", "fa": "مجداف", "ur": "مجداف", "tr": "kürek", "id": "dayung", "bn": "মাজদাফ", "es": "remo", "fr": "rame", "de": "Ruder", "ru": "весло", "zh": "桨"}}, "issues": [], "meta": {"elapsed": 4.63, "input_tokens": 612, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

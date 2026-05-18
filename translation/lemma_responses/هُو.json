@@ -1,0 +1,1 @@
+{"slug": "هُو", "kind": "lemma", "parsed": {"glosses": {"en": "He", "fa": "او", "ur": "وہ", "tr": "O", "id": "Dia", "bn": "সে", "es": "Él", "fr": "Lui", "de": "Er", "ru": "Он", "zh": "他"}}, "issues": [], "meta": {"elapsed": 4.71, "input_tokens": 458, "output_tokens": 107, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

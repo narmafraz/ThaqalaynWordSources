@@ -1,0 +1,1 @@
+{"slug": "عَوّاض", "kind": "lemma", "parsed": {"glosses": {"en": "Awad", "fa": "عواض", "ur": "عواض", "tr": "Avvad", "id": "Awad", "bn": "আওয়াদ", "es": "Awad", "fr": "Awad", "de": "Awad", "ru": "Авад", "zh": "阿瓦德"}}, "issues": [], "meta": {"elapsed": 4.16, "input_tokens": 450, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

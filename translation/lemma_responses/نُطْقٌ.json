@@ -1,0 +1,1 @@
+{"slug": "نُطْقٌ", "kind": "lemma", "parsed": {"glosses": {"en": "speech", "fa": "سخن", "ur": "بولنا", "tr": "konuşma", "id": "ucapan", "bn": "উচ্চারণ", "es": "discurso", "fr": "parole", "de": "Sprache", "ru": "речь", "zh": "言语"}}, "issues": [], "meta": {"elapsed": 5.33, "input_tokens": 1929, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

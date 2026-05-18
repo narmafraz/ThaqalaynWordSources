@@ -1,0 +1,1 @@
+{"slug": "أَعْرَف", "kind": "lemma", "parsed": {"glosses": {"en": "mane", "fa": "یال", "ur": "یال", "tr": "yayla", "id": "surai", "bn": "চুলের ঝুঁটি", "es": "crin", "fr": "crinière", "de": "Mähne", "ru": "грива", "zh": "鬃毛"}}, "issues": [], "meta": {"elapsed": 4.85, "input_tokens": 913, "output_tokens": 124, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

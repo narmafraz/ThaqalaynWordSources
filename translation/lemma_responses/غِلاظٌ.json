@@ -1,0 +1,1 @@
+{"slug": "غِلاظٌ", "kind": "lemma", "parsed": {"glosses": {"en": "thick", "fa": "ضخیم", "ur": "موٹا", "tr": "kalın", "id": "tebal", "bn": "ঘন", "es": "grueso", "fr": "épais", "de": "dick", "ru": "толстый", "zh": "厚"}}, "issues": [], "meta": {"elapsed": 2.96, "input_tokens": 476, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

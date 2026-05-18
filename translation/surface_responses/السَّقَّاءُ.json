@@ -1,0 +1,1 @@
+{"slug": "السَّقَّاءُ", "kind": "surface", "parsed": {"glosses": {"en": "the waterskin", "fa": "سقاء", "ur": "سقاء", "tr": "saka", "id": "saka", "bn": "সাক্কায়", "es": "saka", "fr": "saka", "de": "Saka", "ru": "сакка", "zh": "萨卡"}}, "issues": [], "meta": {"elapsed": 3.01, "input_tokens": 580, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "مِرْفَقٌ", "kind": "lemma", "parsed": {"glosses": {"en": "elbow", "fa": "آرنج", "ur": "کنڈا", "tr": "dirsek", "id": "siku", "bn": "কনুই", "es": "codo", "fr": "coude", "de": "Ellenbogen", "ru": "локоть", "zh": "肘"}}, "issues": [], "meta": {"elapsed": 4.4, "input_tokens": 982, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

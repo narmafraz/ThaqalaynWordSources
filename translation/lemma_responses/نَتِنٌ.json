@@ -1,0 +1,1 @@
+{"slug": "نَتِنٌ", "kind": "lemma", "parsed": {"glosses": {"en": "stink", "fa": "بوی بد", "ur": "بدبو", "tr": "koku", "id": "bau", "bn": "গন্ধ", "es": "hedor", "fr": "odeur", "de": "Geruch", "ru": "запах", "zh": "气味"}}, "issues": [], "meta": {"elapsed": 4.25, "input_tokens": 937, "output_tokens": 113, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

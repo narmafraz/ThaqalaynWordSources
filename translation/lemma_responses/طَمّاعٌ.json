@@ -1,0 +1,1 @@
+{"slug": "طَمّاعٌ", "kind": "lemma", "parsed": {"glosses": {"en": "greedy", "fa": "طمع‌ورز", "ur": "لالچی", "tr": "hırslı", "id": "serakah", "bn": "লোভী", "es": "avaro", "fr": "avare", "de": "geizig", "ru": "жадный", "zh": "贪婪的"}}, "issues": [], "meta": {"elapsed": 2.78, "input_tokens": 467, "output_tokens": 123, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

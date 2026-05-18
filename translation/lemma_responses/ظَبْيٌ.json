@@ -1,0 +1,1 @@
+{"slug": "ظَبْيٌ", "kind": "lemma", "parsed": {"glosses": {"en": "gazelle", "fa": "آهو", "ur": "آہو", "tr": "dağ keçisi", "id": "gazella", "bn": "গাজেল", "es": "gacela", "fr": "gazelle", "de": "Gazelle", "ru": "газель", "zh": "瞪羚"}}, "issues": [], "meta": {"elapsed": 5.23, "input_tokens": 979, "output_tokens": 121, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

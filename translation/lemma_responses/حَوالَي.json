@@ -1,0 +1,1 @@
+{"slug": "حَوالَي", "kind": "lemma", "parsed": {"glosses": {"en": "around", "fa": "دور", "ur": "آس پاس", "tr": "etrafında", "id": "sekitar", "bn": "দিয়ে", "es": "alrededor", "fr": "autour", "de": "um", "ru": "вокруг", "zh": "围绕"}}, "issues": [], "meta": {"elapsed": 2.78, "input_tokens": 482, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "الرَّكِيَّةَ", "kind": "surface", "parsed": {"glosses": {"en": "the well", "fa": "چاه", "ur": "کنواں", "tr": "kuyu", "id": "sumur", "bn": "কূপ", "es": "pozo", "fr": "puits", "de": "Brunnen", "ru": "колодец", "zh": "井"}}, "issues": [], "meta": {"elapsed": 5.87, "input_tokens": 479, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

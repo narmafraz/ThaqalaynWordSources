@@ -1,0 +1,1 @@
+{"slug": "شُعْبَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "branch", "fa": "شاخه", "ur": "شاخ", "tr": "dal", "id": "cabang", "bn": "শাখা", "es": "rama", "fr": "branche", "de": "Zweig", "ru": "ветвь", "zh": "分支"}}, "issues": [], "meta": {"elapsed": 4.18, "input_tokens": 975, "output_tokens": 112, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

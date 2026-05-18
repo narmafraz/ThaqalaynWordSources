@@ -1,0 +1,1 @@
+{"slug": "أُنْظُرْ", "kind": "surface", "parsed": {"glosses": {"en": "look", "fa": "نگاه کن", "ur": "دیکھو", "tr": "bak", "id": "lihat", "bn": "দেখ", "es": "mira", "fr": "regarde", "de": "sieh", "ru": "смотри", "zh": "看"}}, "issues": [], "meta": {"elapsed": 3.13, "input_tokens": 962, "output_tokens": 112, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

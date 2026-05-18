@@ -1,0 +1,1 @@
+{"slug": "كِبْلٌ", "kind": "lemma", "parsed": {"glosses": {"en": "fetter", "fa": "زنجیر", "ur": "قید", "tr": "zincir", "id": "belenggu", "bn": "শৃঙ্খল", "es": "grillete", "fr": "menotte", "de": "Fessel", "ru": "кандалы", "zh": "枷锁"}}, "issues": [], "meta": {"elapsed": 5.79, "input_tokens": 466, "output_tokens": 122, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

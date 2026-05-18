@@ -1,0 +1,1 @@
+{"slug": "ضَجَّةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "tumult", "fa": "شور", "ur": "شور", "tr": "gürültü", "id": "keributan", "bn": "হইচই", "es": "tumulto", "fr": "tumulte", "de": "Aufruhr", "ru": "шум", "zh": "喧嚣"}}, "issues": [], "meta": {"elapsed": 4.29, "input_tokens": 516, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

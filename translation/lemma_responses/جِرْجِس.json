@@ -1,0 +1,1 @@
+{"slug": "جِرْجِس", "kind": "lemma", "parsed": {"glosses": {"en": "George", "fa": "جرجیس", "ur": "جرجیس", "tr": "George", "id": "George", "bn": "জর্জ", "es": "George", "fr": "George", "de": "George", "ru": "Георгий", "zh": "乔治"}}, "issues": [], "meta": {"elapsed": 4.19, "input_tokens": 466, "output_tokens": 111, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

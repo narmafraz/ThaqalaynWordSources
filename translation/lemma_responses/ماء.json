@@ -1,0 +1,1 @@
+{"slug": "ماء", "kind": "lemma", "parsed": {"glosses": {"en": "water", "fa": "آب", "ur": "پانی", "tr": "su", "id": "air", "bn": "পানি", "es": "agua", "fr": "eau", "de": "Wasser", "ru": "вода", "zh": "水"}}, "issues": [], "meta": {"elapsed": 3.91, "input_tokens": 456, "output_tokens": 108, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

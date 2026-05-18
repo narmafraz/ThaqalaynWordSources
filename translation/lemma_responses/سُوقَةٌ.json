@@ -1,0 +1,1 @@
+{"slug": "سُوقَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "subject", "fa": "رعیت", "ur": "رعایا", "tr": "tebea", "id": "subyek", "bn": "প্রজা", "es": "súbdito", "fr": "sujet", "de": "Untertan", "ru": "подданный", "zh": "臣民"}}, "issues": [], "meta": {"elapsed": 5.39, "input_tokens": 803, "output_tokens": 121, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

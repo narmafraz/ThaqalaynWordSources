@@ -1,0 +1,1 @@
+{"slug": "سَمَكٌ", "kind": "lemma", "parsed": {"glosses": {"en": "fish", "fa": "ماهی", "ur": "مچھلی", "tr": "balık", "id": "ikan", "bn": "মাছ", "es": "pez", "fr": "poisson", "de": "Fisch", "ru": "рыба", "zh": "鱼"}}, "issues": [], "meta": {"elapsed": 4.07, "input_tokens": 749, "output_tokens": 112, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

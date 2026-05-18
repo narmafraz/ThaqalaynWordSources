@@ -1,0 +1,1 @@
+{"slug": "سِرٌّ", "kind": "lemma", "parsed": {"glosses": {"en": "secret", "fa": "راز", "ur": "راز", "tr": "sır", "id": "rahasia", "bn": "গোপনীয়", "es": "secreto", "fr": "secret", "de": "Geheimnis", "ru": "тайна", "zh": "秘密"}}, "issues": [], "meta": {"elapsed": 5.07, "input_tokens": 2345, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

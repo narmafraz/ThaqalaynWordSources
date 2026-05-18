@@ -1,0 +1,1 @@
+{"slug": "دِيَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "bloodwit", "fa": "دیّه", "ur": "دیہ", "tr": "diye", "id": "diyah", "bn": "দিয়া", "es": "diyah", "fr": "diyah", "de": "Diyya", "ru": "дия", "zh": "迪叶"}}, "issues": [], "meta": {"elapsed": 3.79, "input_tokens": 539, "output_tokens": 114, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "قِيمَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "value, worth", "fa": "ارزش", "ur": "قیمت", "tr": "değer", "id": "nilai", "bn": "মূল্য", "es": "valor", "fr": "valeur", "de": "Wert", "ru": "ценность", "zh": "价值"}}, "issues": [], "meta": {"elapsed": 3.46, "input_tokens": 504, "output_tokens": 112, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

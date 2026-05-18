@@ -1,0 +1,1 @@
+{"slug": "يَدٌ", "kind": "lemma", "parsed": {"glosses": {"en": "hand", "fa": "دست", "ur": "ہاتھ", "tr": "el", "id": "tangan", "bn": "হাত", "es": "mano", "fr": "main", "de": "Hand", "ru": "рука", "zh": "手"}}, "issues": [], "meta": {"elapsed": 4.74, "input_tokens": 1011, "output_tokens": 109, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

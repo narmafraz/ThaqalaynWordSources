@@ -1,0 +1,1 @@
+{"slug": "دَمّامٌ", "kind": "lemma", "parsed": {"glosses": {"en": "Damam", "fa": "دمام", "ur": "دمام", "tr": "Damam", "id": "Damam", "bn": "দামাম", "es": "Damam", "fr": "Damam", "de": "Damam", "ru": "Даммам", "zh": "达玛姆"}}, "issues": [], "meta": {"elapsed": 3.12, "input_tokens": 864, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

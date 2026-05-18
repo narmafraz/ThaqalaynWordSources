@@ -1,0 +1,1 @@
+{"slug": "جالِسٌ", "kind": "lemma", "parsed": {"glosses": {"en": "sitting", "fa": "نشسته", "ur": "بیٹھا", "tr": "oturmuş", "id": "duduk", "bn": "বসে", "es": "sentado", "fr": "assis", "de": "sitzend", "ru": "сидящий", "zh": "坐着的"}}, "issues": [], "meta": {"elapsed": 4.83, "input_tokens": 542, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

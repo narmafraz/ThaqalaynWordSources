@@ -1,0 +1,1 @@
+{"slug": "كَلامٌ", "kind": "lemma", "parsed": {"glosses": {"en": "speech", "fa": "سخن", "ur": "کلام", "tr": "söz", "id": "ucapan", "bn": "কথোপকথন", "es": "discurso", "fr": "discours", "de": "Rede", "ru": "речь", "zh": "言语"}}, "issues": [], "meta": {"elapsed": 5.08, "input_tokens": 805, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "خَطّافٌ", "kind": "lemma", "parsed": {"glosses": {"en": "hook", "fa": "قلاب", "ur": "کنک", "tr": "kanca", "id": "kail", "bn": "কুঁকি", "es": "anzuelo", "fr": "crochet", "de": "Haken", "ru": "крюк", "zh": "钩"}}, "issues": [], "meta": {"elapsed": 4.22, "input_tokens": 970, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

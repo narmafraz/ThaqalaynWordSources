@@ -1,0 +1,1 @@
+{"slug": "فَرْخٌ", "kind": "lemma", "parsed": {"glosses": {"en": "chick", "fa": "جوجه", "ur": "چوزہ", "tr": "yavru", "id": "anak ayam", "bn": "চুজা", "es": "polluelo", "fr": "poussin", "de": "Küken", "ru": "цыплёнок", "zh": "雏鸟"}}, "issues": [], "meta": {"elapsed": 5.49, "input_tokens": 2125, "output_tokens": 124, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

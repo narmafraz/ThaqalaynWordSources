@@ -1,0 +1,1 @@
+{"slug": "زَلٌّ", "kind": "lemma", "parsed": {"glosses": {"en": "slip", "fa": "لغزش", "ur": "پھسلنا", "tr": "kayma", "id": "selip", "bn": "পিছলানো", "es": "resbalar", "fr": "glisser", "de": "rutschen", "ru": "скользить", "zh": "滑倒"}}, "issues": [], "meta": {"elapsed": 5.61, "input_tokens": 619, "output_tokens": 123, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

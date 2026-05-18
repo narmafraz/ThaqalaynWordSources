@@ -1,0 +1,1 @@
+{"slug": "صَوْبٌ", "kind": "lemma", "parsed": {"glosses": {"en": "direction", "fa": "جهت", "ur": "سمت", "tr": "yön", "id": "arah", "bn": "দিক", "es": "dirección", "fr": "direction", "de": "Richtung", "ru": "направление", "zh": "方向"}}, "issues": [], "meta": {"elapsed": 3.08, "input_tokens": 985, "output_tokens": 110, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

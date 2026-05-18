@@ -1,0 +1,1 @@
+{"slug": "تاكَ", "kind": "lemma", "parsed": {"glosses": {"en": "this", "fa": "این", "ur": "یہ", "tr": "bu", "id": "ini", "bn": "এই", "es": "este", "fr": "ce", "de": "dies", "ru": "этот", "zh": "这"}}, "issues": [], "meta": {"elapsed": 3.01, "input_tokens": 480, "output_tokens": 107, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

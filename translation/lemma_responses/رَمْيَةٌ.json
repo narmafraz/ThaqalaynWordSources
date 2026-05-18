@@ -1,0 +1,1 @@
+{"slug": "رَمْيَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "throw", "fa": "پرتاب", "ur": "پھینکنا", "tr": "atış", "id": "lemparan", "bn": "নিক্ষেপ", "es": "lanzamiento", "fr": "jet", "de": "Wurf", "ru": "бросок", "zh": "投掷"}}, "issues": [], "meta": {"elapsed": 4.54, "input_tokens": 595, "output_tokens": 120, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

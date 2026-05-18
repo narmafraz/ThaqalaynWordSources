@@ -1,0 +1,1 @@
+{"slug": "ظُهْرٌ", "kind": "lemma", "parsed": {"glosses": {"en": "midday", "fa": "ظهر", "ur": "ظہر", "tr": "öğle", "id": "zuhur", "bn": "যুহর", "es": "mediodía", "fr": "midi", "de": "Mittag", "ru": "полдень", "zh": "中午"}}, "issues": [], "meta": {"elapsed": 6.5, "input_tokens": 1920, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

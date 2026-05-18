@@ -1,0 +1,1 @@
+{"slug": "عَصِيرٌ", "kind": "lemma", "parsed": {"glosses": {"en": "juice", "fa": "آب میوه", "ur": "رس", "tr": "suyu", "id": "jus", "bn": "রস", "es": "jugo", "fr": "jus", "de": "Saft", "ru": "сок", "zh": "果汁"}}, "issues": [], "meta": {"elapsed": 2.75, "input_tokens": 537, "output_tokens": 111, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

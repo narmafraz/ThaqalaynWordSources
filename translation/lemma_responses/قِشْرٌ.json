@@ -1,0 +1,1 @@
+{"slug": "قِشْرٌ", "kind": "lemma", "parsed": {"glosses": {"en": "husk, peel", "fa": "پوسته", "ur": "خول", "tr": "kabuk", "id": "kulit", "bn": "খোসা", "es": "cáscara", "fr": "pelure", "de": "Schale", "ru": "скорлупа", "zh": "果皮"}}, "issues": [], "meta": {"elapsed": 5.99, "input_tokens": 972, "output_tokens": 121, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

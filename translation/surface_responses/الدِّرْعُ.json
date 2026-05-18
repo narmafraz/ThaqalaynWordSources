@@ -1,0 +1,1 @@
+{"slug": "الدِّرْعُ", "kind": "surface", "parsed": {"glosses": {"en": "the armor", "fa": "زره", "ur": "زرہ", "tr": "zırh", "id": "perisai", "bn": "কবচ", "es": "armadura", "fr": "armure", "de": "Rüstung", "ru": "доспехи", "zh": "铠甲"}}, "issues": [], "meta": {"elapsed": 5.0, "input_tokens": 945, "output_tokens": 120, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

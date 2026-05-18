@@ -1,0 +1,1 @@
+{"slug": "اللَّاتِي", "kind": "surface", "parsed": {"glosses": {"en": "who", "fa": "که", "ur": "جو", "tr": "ki", "id": "yang", "bn": "যে", "es": "que", "fr": "qui", "de": "die", "ru": "которые", "zh": "那些"}}, "issues": [], "meta": {"elapsed": 2.21, "input_tokens": 629, "output_tokens": 104, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

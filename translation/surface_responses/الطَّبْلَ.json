@@ -1,0 +1,1 @@
+{"slug": "الطَّبْلَ", "kind": "surface", "parsed": {"glosses": {"en": "the drum", "fa": "طبل", "ur": "ڈھول", "tr": "davul", "id": "gendang", "bn": "ঢোল", "es": "tambor", "fr": "tambour", "de": "Trommel", "ru": "барабан", "zh": "鼓"}}, "issues": [], "meta": {"elapsed": 4.73, "input_tokens": 939, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

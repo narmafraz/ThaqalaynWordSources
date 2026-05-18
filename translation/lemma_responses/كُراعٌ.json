@@ -1,0 +1,1 @@
+{"slug": "كُراعٌ", "kind": "lemma", "parsed": {"glosses": {"en": "armor", "fa": "زره", "ur": "زرہ", "tr": "zırh", "id": "perisai", "bn": "বর্ম", "es": "armadura", "fr": "armure", "de": "Rüstung", "ru": "доспехи", "zh": "盔甲"}}, "issues": [], "meta": {"elapsed": 5.69, "input_tokens": 489, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

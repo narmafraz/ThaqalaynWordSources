@@ -1,0 +1,1 @@
+{"slug": "الطِّفْلَ", "kind": "surface", "parsed": {"glosses": {"en": "the child", "fa": "کودک", "ur": "بچہ", "tr": "çocuk", "id": "anak", "bn": "শিশু", "es": "niño", "fr": "enfant", "de": "Kind", "ru": "ребенок", "zh": "孩子"}}, "issues": [], "meta": {"elapsed": 3.67, "input_tokens": 978, "output_tokens": 113, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

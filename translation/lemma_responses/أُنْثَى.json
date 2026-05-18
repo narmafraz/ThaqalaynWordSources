@@ -1,0 +1,1 @@
+{"slug": "أُنْثَى", "kind": "lemma", "parsed": {"glosses": {"en": "female", "fa": "ماده", "ur": "مادہ", "tr": "dişi", "id": "betina", "bn": "স্ত্রীলোক", "es": "hembra", "fr": "femelle", "de": "Weibchen", "ru": "самка", "zh": "雌性"}}, "issues": [], "meta": {"elapsed": 5.14, "input_tokens": 906, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

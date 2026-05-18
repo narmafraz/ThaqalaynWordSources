@@ -1,0 +1,1 @@
+{"slug": "اللَّهَبِيُّ", "kind": "surface", "parsed": {"glosses": {"en": "Flame", "fa": "شعله", "ur": "شعلہ", "tr": "Alev", "id": "Nyala", "bn": "জ্বালা", "es": "Llama", "fr": "Flamme", "de": "Flamme", "ru": "Пламя", "zh": "火焰"}}, "issues": [], "meta": {"elapsed": 5.34, "input_tokens": 612, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

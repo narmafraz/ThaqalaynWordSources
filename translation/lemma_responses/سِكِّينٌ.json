@@ -1,0 +1,1 @@
+{"slug": "سِكِّينٌ", "kind": "lemma", "parsed": {"glosses": {"en": "knife", "fa": "چاقو", "ur": "چاقو", "tr": "bıçak", "id": "pisau", "bn": "ছুরি", "es": "cuchillo", "fr": "couteau", "de": "Messer", "ru": "нож", "zh": "刀"}}, "issues": [], "meta": {"elapsed": 5.56, "input_tokens": 812, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

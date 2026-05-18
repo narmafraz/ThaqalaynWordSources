@@ -1,0 +1,1 @@
+{"slug": "span", "kind": "surface", "parsed": {"glosses": {"en": "span", "fa": "پهنه", "ur": "فاصلہ", "tr": "uzanma", "id": "rentang", "bn": "সময়কাল", "es": "extensión", "fr": "étendue", "de": "Spanne", "ru": "размах", "zh": "跨度"}}, "issues": [], "meta": {"elapsed": 5.41, "input_tokens": 470, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

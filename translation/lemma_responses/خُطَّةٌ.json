@@ -1,0 +1,1 @@
+{"slug": "خُطَّةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "plan", "fa": "طرح", "ur": "منصوبہ", "tr": "plan", "id": "rencana", "bn": "পরিকল্পনা", "es": "plan", "fr": "plan", "de": "Plan", "ru": "план", "zh": "计划"}}, "issues": [], "meta": {"elapsed": 3.92, "input_tokens": 987, "output_tokens": 111, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

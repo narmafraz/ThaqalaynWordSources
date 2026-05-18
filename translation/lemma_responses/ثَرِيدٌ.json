@@ -1,0 +1,1 @@
+{"slug": "ثَرِيدٌ", "kind": "lemma", "parsed": {"glosses": {"en": "tharid", "fa": "ثرید", "ur": "ثرید", "tr": "tharid", "id": "tharid", "bn": "থারিদ", "es": "tharid", "fr": "tharid", "de": "Tharid", "ru": "тарид", "zh": "塔里德"}}, "issues": [], "meta": {"elapsed": 3.09, "input_tokens": 964, "output_tokens": 122, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

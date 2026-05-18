@@ -1,0 +1,1 @@
+{"slug": "حَيَّةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "serpent", "fa": "مار", "ur": "سانپ", "tr": "yılan", "id": "ular", "bn": "সর্প", "es": "serpiente", "fr": "serpent", "de": "Schlange", "ru": "змея", "zh": "蛇"}}, "issues": [], "meta": {"elapsed": 4.79, "input_tokens": 934, "output_tokens": 112, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

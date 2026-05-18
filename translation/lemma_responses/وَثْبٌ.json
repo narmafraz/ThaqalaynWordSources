@@ -1,0 +1,1 @@
+{"slug": "وَثْبٌ", "kind": "lemma", "parsed": {"glosses": {"en": "leap", "fa": "پرش", "ur": "چھلانگ", "tr": "sıçrama", "id": "lompatan", "bn": "লাফ", "es": "salto", "fr": "saut", "de": "Sprung", "ru": "прыжок", "zh": "跳跃"}}, "issues": [], "meta": {"elapsed": 4.96, "input_tokens": 1435, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

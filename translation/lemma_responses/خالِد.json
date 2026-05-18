@@ -1,0 +1,1 @@
+{"slug": "خالِد", "kind": "lemma", "parsed": {"glosses": {"en": "Khalid", "fa": "خالد", "ur": "خالد", "tr": "Halid", "id": "Khalid", "bn": "খালিদ", "es": "Khalid", "fr": "Khalid", "de": "Khalid", "ru": "Халид", "zh": "哈立德"}}, "issues": [], "meta": {"elapsed": 4.01, "input_tokens": 712, "output_tokens": 121, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

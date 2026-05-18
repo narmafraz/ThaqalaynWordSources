@@ -1,0 +1,1 @@
+{"slug": "الرَّزَّازُ", "kind": "surface", "parsed": {"glosses": {"en": "the Lead, Tin", "fa": "سرب", "ur": "سیسہ", "tr": "kurşun", "id": "timah", "bn": "সিসা", "es": "plomo", "fr": "plomb", "de": "Blei", "ru": "свинец", "zh": "铅"}}, "issues": [], "meta": {"elapsed": 4.72, "input_tokens": 670, "output_tokens": 120, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

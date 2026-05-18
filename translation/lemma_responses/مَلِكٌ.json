@@ -1,0 +1,1 @@
+{"slug": "مَلِكٌ", "kind": "lemma", "parsed": {"glosses": {"en": "king", "fa": "پادشاه", "ur": "بادشاہ", "tr": "kral", "id": "raja", "bn": "রাজা", "es": "rey", "fr": "roi", "de": "König", "ru": "царь", "zh": "国王"}}, "issues": [], "meta": {"elapsed": 4.88, "input_tokens": 1923, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "مُسْتَدِيرٌ", "kind": "lemma", "parsed": {"glosses": {"en": "round", "fa": "گرد", "ur": "گول", "tr": "yuvarlak", "id": "bulat", "bn": "গোলাকার", "es": "redondo", "fr": "rond", "de": "rund", "ru": "круглый", "zh": "圆的"}}, "issues": [], "meta": {"elapsed": 3.85, "input_tokens": 560, "output_tokens": 113, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

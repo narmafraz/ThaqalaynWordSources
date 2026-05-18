@@ -1,0 +1,1 @@
+{"slug": "الرَّبِيثَا", "kind": "surface", "parsed": {"glosses": {"en": "the riba", "fa": "ربا", "ur": "ربا", "tr": "riba", "id": "riba", "bn": "রিবা", "es": "la riba", "fr": "la riba", "de": "die Riba", "ru": "риба", "zh": "里巴"}}, "issues": [], "meta": {"elapsed": 5.41, "input_tokens": 476, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

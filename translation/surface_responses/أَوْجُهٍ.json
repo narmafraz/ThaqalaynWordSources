@@ -1,0 +1,1 @@
+{"slug": "أَوْجُهٍ", "kind": "surface", "parsed": {"glosses": {"en": "ways", "fa": "راه‌ها", "ur": "طریقے", "tr": "yollar", "id": "cara-cara", "bn": "পথ", "es": "vías", "fr": "voies", "de": "Wege", "ru": "пути", "zh": "方式"}}, "issues": [], "meta": {"elapsed": 4.41, "input_tokens": 1164, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

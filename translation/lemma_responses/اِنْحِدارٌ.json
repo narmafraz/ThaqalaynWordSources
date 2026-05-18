@@ -1,0 +1,1 @@
+{"slug": "اِنْحِدارٌ", "kind": "lemma", "parsed": {"glosses": {"en": "decline", "fa": "شیب", "ur": "اُترنا", "tr": "eğim", "id": "kemiringan", "bn": "নতি", "es": "declive", "fr": "pente", "de": "Gefälle", "ru": "спад", "zh": "下降"}}, "issues": [], "meta": {"elapsed": 5.15, "input_tokens": 461, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

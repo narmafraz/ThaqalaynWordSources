@@ -1,0 +1,1 @@
+{"slug": "شَمَرٌ", "kind": "lemma", "parsed": {"glosses": {"en": "eagerness", "fa": "شمر", "ur": "شمر", "tr": "şemer", "id": "semara", "bn": "শমর", "es": "shamar", "fr": "chamar", "de": "Schamar", "ru": "шамар", "zh": "沙马尔"}}, "issues": [], "meta": {"elapsed": 3.59, "input_tokens": 490, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

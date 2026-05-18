@@ -1,0 +1,1 @@
+{"slug": "شِرْذِمَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "mob", "fa": "گروه", "ur": "جماعت", "tr": "topluluk", "id": "kelompok", "bn": "দল", "es": "multitud", "fr": "groupe", "de": "Menge", "ru": "толпа", "zh": "人群"}}, "issues": [], "meta": {"elapsed": 5.43, "input_tokens": 680, "output_tokens": 112, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

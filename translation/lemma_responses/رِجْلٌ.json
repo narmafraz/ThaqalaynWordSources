@@ -1,0 +1,1 @@
+{"slug": "رِجْلٌ", "kind": "lemma", "parsed": {"glosses": {"en": "leg", "fa": "پا", "ur": "ٹانگ", "tr": "bacak", "id": "kaki", "bn": "পা", "es": "pierna", "fr": "jambe", "de": "Bein", "ru": "нога", "zh": "腿"}}, "issues": [], "meta": {"elapsed": 4.6, "input_tokens": 2165, "output_tokens": 113, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "حِمْصِيّ", "kind": "lemma", "parsed": {"glosses": {"en": "Homsi", "fa": "حمصی", "ur": "حمصی", "tr": "Homsi", "id": "Homsi", "bn": "হমসি", "es": "Homsi", "fr": "Homsi", "de": "Homsi", "ru": "Хомси", "zh": "霍姆斯人"}}, "issues": [], "meta": {"elapsed": 4.84, "input_tokens": 463, "output_tokens": 120, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

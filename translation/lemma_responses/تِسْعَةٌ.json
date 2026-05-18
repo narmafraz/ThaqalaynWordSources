@@ -1,0 +1,1 @@
+{"slug": "تِسْعَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "nine", "fa": "نه", "ur": "نو", "tr": "dokuz", "id": "sembilan", "bn": "নয়", "es": "nueve", "fr": "neuf", "de": "neun", "ru": "девять", "zh": "九"}}, "issues": [], "meta": {"elapsed": 3.53, "input_tokens": 941, "output_tokens": 111, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

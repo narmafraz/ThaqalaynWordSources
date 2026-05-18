@@ -1,0 +1,1 @@
+{"slug": "ابْنٌ", "kind": "surface", "parsed": {"glosses": {"en": "son", "fa": "پسر", "ur": "بیٹا", "tr": "oğul", "id": "anak laki-laki", "bn": "পুত্র", "es": "hijo", "fr": "fils", "de": "Sohn", "ru": "сын", "zh": "儿子"}}, "issues": [], "meta": {"elapsed": 2.57, "input_tokens": 1124, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

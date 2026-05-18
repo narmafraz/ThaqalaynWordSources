@@ -1,0 +1,1 @@
+{"slug": "مَتْنٌ", "kind": "lemma", "parsed": {"glosses": {"en": "back", "fa": "پشت", "ur": "پیٹھ", "tr": "sırt", "id": "punggung", "bn": "পিঠ", "es": "espalda", "fr": "dos", "de": "Rücken", "ru": "спина", "zh": "背部"}}, "issues": [], "meta": {"elapsed": 3.62, "input_tokens": 471, "output_tokens": 114, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

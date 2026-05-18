@@ -1,0 +1,1 @@
+{"slug": "عَن", "kind": "lemma", "parsed": {"glosses": {"en": "from", "fa": "از", "ur": "سے", "tr": "den", "id": "dari", "bn": "থেকে", "es": "de", "fr": "de", "de": "von", "ru": "от", "zh": "从"}}, "issues": [], "meta": {"elapsed": 2.8, "input_tokens": 1792, "output_tokens": 105, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

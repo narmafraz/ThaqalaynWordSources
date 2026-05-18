@@ -1,0 +1,1 @@
+{"slug": "عالِمٌ", "kind": "lemma", "parsed": {"glosses": {"en": "scholar", "fa": "دانشمند", "ur": "عالِم", "tr": "alim", "id": "ilmuwan", "bn": "আলিম", "es": "erudito", "fr": "savant", "de": "Gelehrter", "ru": "ученый", "zh": "学者"}}, "issues": [], "meta": {"elapsed": 5.05, "input_tokens": 811, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

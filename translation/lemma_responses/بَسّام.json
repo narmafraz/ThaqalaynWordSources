@@ -1,0 +1,1 @@
+{"slug": "بَسّام", "kind": "lemma", "parsed": {"glosses": {"en": "Bassam", "fa": "بسام", "ur": "بسام", "tr": "Bassam", "id": "Bassam", "bn": "বাসসাম", "es": "Bassam", "fr": "Bassam", "de": "Bassam", "ru": "Бассам", "zh": "巴萨姆"}}, "issues": [], "meta": {"elapsed": 3.96, "input_tokens": 535, "output_tokens": 123, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

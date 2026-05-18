@@ -1,0 +1,1 @@
+{"slug": "قَصِيدَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "poem", "fa": "شعر", "ur": "شعر", "tr": "şiir", "id": "puisi", "bn": "কবিতা", "es": "poema", "fr": "poème", "de": "Gedicht", "ru": "стихотворение", "zh": "诗"}}, "issues": [], "meta": {"elapsed": 6.44, "input_tokens": 477, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

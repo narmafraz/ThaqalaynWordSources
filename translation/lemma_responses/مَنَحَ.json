@@ -1,0 +1,1 @@
+{"slug": "مَنَحَ", "kind": "lemma", "parsed": {"glosses": {"en": "to give", "fa": "دادن", "ur": "دینا", "tr": "vermek", "id": "memberi", "bn": "দেওয়া", "es": "dar", "fr": "donner", "de": "geben", "ru": "давать", "zh": "给予"}}, "issues": [], "meta": {"elapsed": 3.81, "input_tokens": 970, "output_tokens": 113, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "أَسَدَ", "kind": "surface", "parsed": {"glosses": {"en": "lion", "fa": "شیر", "ur": "شیر", "tr": "aslan", "id": "singa", "bn": "সিংহ", "es": "león", "fr": "lion", "de": "Löwe", "ru": "лев", "zh": "狮子"}}, "issues": [], "meta": {"elapsed": 3.21, "input_tokens": 929, "output_tokens": 111, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

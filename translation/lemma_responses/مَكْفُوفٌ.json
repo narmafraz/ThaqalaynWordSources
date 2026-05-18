@@ -1,0 +1,1 @@
+{"slug": "مَكْفُوفٌ", "kind": "lemma", "parsed": {"glosses": {"en": "blind", "fa": "کور", "ur": "اندھا", "tr": "körlük", "id": "buta", "bn": "অন্ধ", "es": "ciego", "fr": "aveugle", "de": "blind", "ru": "слепой", "zh": "盲"}}, "issues": [], "meta": {"elapsed": 4.36, "input_tokens": 451, "output_tokens": 113, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "شانِئٌ", "kind": "lemma", "parsed": {"glosses": {"en": "hater", "fa": "دشمن", "ur": "دشمن", "tr": "düşman", "id": "musuh", "bn": "শত্রু", "es": "enemigo", "fr": "ennemi", "de": "Feind", "ru": "враг", "zh": "敌人"}}, "issues": [], "meta": {"elapsed": 3.84, "input_tokens": 477, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "مُعَدَّلٌ", "kind": "lemma", "parsed": {"glosses": {"en": "rate", "fa": "نرخ", "ur": "شرح", "tr": "oran", "id": "tingkat", "bn": "হার", "es": "tasa", "fr": "taux", "de": "Rate", "ru": "ставка", "zh": "比率"}}, "issues": [], "meta": {"elapsed": 4.03, "input_tokens": 512, "output_tokens": 107, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

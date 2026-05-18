@@ -1,0 +1,1 @@
+{"slug": "وَزْنٌ", "kind": "lemma", "parsed": {"glosses": {"en": "weight", "fa": "وزن", "ur": "وزن", "tr": "ağırlık", "id": "berat", "bn": "ওজন", "es": "peso", "fr": "poids", "de": "Gewicht", "ru": "вес", "zh": "重量"}}, "issues": [], "meta": {"elapsed": 4.58, "input_tokens": 1078, "output_tokens": 112, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

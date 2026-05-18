@@ -1,0 +1,1 @@
+{"slug": "هِجاء", "kind": "lemma", "parsed": {"glosses": {"en": "satire", "fa": "سخره", "ur": "سخریت", "tr": "hicav", "id": "sindiran", "bn": "সহজাত", "es": "sátira", "fr": "satire", "de": "Hicav", "ru": "сатира", "zh": "讽刺"}}, "issues": [], "meta": {"elapsed": 6.09, "input_tokens": 459, "output_tokens": 121, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

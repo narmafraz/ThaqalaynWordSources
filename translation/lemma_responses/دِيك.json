@@ -1,0 +1,1 @@
+{"slug": "دِيك", "kind": "lemma", "parsed": {"glosses": {"en": "rooster", "fa": "خروس", "ur": "مور", "tr": "horoz", "id": "ayam jantan", "bn": "মুরগি", "es": "gallo", "fr": "coq", "de": "Hahn", "ru": "петух", "zh": "公鸡"}}, "issues": [], "meta": {"elapsed": 3.49, "input_tokens": 955, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

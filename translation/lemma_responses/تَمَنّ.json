@@ -1,0 +1,1 @@
+{"slug": "تَمَنّ", "kind": "lemma", "parsed": {"glosses": {"en": "wish", "fa": "آرزو", "ur": "خواہش", "tr": "dilek", "id": "keinginan", "bn": "ইচ্ছা", "es": "deseo", "fr": "souhait", "de": "Wunsch", "ru": "желание", "zh": "愿望"}}, "issues": [], "meta": {"elapsed": 4.57, "input_tokens": 449, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

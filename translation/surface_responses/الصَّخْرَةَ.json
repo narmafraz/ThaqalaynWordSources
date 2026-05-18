@@ -1,0 +1,1 @@
+{"slug": "الصَّخْرَةَ", "kind": "surface", "parsed": {"glosses": {"en": "the rock", "fa": "صخره", "ur": "چٹان", "tr": "kaya", "id": "batu", "bn": "চূনা পাথর", "es": "roca", "fr": "rocher", "de": "Fels", "ru": "скала", "zh": "岩石"}}, "issues": [], "meta": {"elapsed": 3.45, "input_tokens": 917, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

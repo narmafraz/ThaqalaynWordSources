@@ -1,0 +1,1 @@
+{"slug": "إلا", "kind": "surface", "parsed": {"glosses": {"en": "except", "fa": "جز", "ur": "سوائے", "tr": "hariç", "id": "kecuali", "bn": "ব্যতীত", "es": "excepto", "fr": "sauf", "de": "außer", "ru": "кроме", "zh": "除了"}}, "issues": [], "meta": {"elapsed": 2.45, "input_tokens": 889, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "بِلا", "kind": "lemma", "parsed": {"glosses": {"en": "without", "fa": "بدون", "ur": "بغیر", "tr": "olmadan", "id": "tanpa", "bn": "বিহীন", "es": "sin", "fr": "sans", "de": "ohne", "ru": "без", "zh": "没有"}}, "issues": [], "meta": {"elapsed": 5.62, "input_tokens": 1725, "output_tokens": 110, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

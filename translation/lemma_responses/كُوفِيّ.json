@@ -1,0 +1,1 @@
+{"slug": "كُوفِيّ", "kind": "lemma", "parsed": {"glosses": {"en": "Kufi", "fa": "کوفی", "ur": "کوفی", "tr": "Kufi", "id": "Kufi", "bn": "কুফি", "es": "Kufi", "fr": "Kufi", "de": "Kufi", "ru": "куфи", "zh": "库菲"}}, "issues": [], "meta": {"elapsed": 3.87, "input_tokens": 451, "output_tokens": 124, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

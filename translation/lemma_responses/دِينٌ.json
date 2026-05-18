@@ -1,0 +1,1 @@
+{"slug": "دِينٌ", "kind": "lemma", "parsed": {"glosses": {"en": "religion", "fa": "دین", "ur": "دین", "tr": "din", "id": "agama", "bn": "ধর্ম", "es": "religión", "fr": "religion", "de": "Religion", "ru": "религия", "zh": "宗教"}}, "issues": [], "meta": {"elapsed": 5.39, "input_tokens": 992, "output_tokens": 113, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

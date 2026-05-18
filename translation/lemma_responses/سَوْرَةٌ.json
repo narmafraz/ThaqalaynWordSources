@@ -1,0 +1,1 @@
+{"slug": "سَوْرَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "sura, surah", "fa": "سوره", "ur": "سورہ", "tr": "sûre", "id": "sura", "bn": "সূরা", "es": "sura", "fr": "soura", "de": "Sure", "ru": "сура", "zh": "苏拉"}}, "issues": [], "meta": {"elapsed": 5.88, "input_tokens": 949, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

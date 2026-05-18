@@ -1,0 +1,1 @@
+{"slug": "بِي", "kind": "lemma", "parsed": {"glosses": {"en": "by", "fa": "به", "ur": "کی", "tr": "ile", "id": "dengan", "bn": "দ্বারা", "es": "por", "fr": "par", "de": "durch", "ru": "по", "zh": "以"}}, "issues": [], "meta": {"elapsed": 4.32, "input_tokens": 446, "output_tokens": 105, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

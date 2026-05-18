@@ -1,0 +1,1 @@
+{"slug": "قَطاةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "rump", "fa": "پشت", "ur": "کمر", "tr": "kuyruk", "id": "pantat", "bn": "পিঠ", "es": "rabadilla", "fr": "croupe", "de": "Rute", "ru": "крестец", "zh": "臀部"}}, "issues": [], "meta": {"elapsed": 5.48, "input_tokens": 546, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

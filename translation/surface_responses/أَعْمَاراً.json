@@ -1,0 +1,1 @@
+{"slug": "أَعْمَاراً", "kind": "surface", "parsed": {"glosses": {"en": "long lives", "fa": "عمرها", "ur": "عمریں", "tr": "ömrü", "id": "umur", "bn": "আয়ু", "es": "vidas", "fr": "vies", "de": "Leben", "ru": "жизни", "zh": "寿命"}}, "issues": [], "meta": {"elapsed": 4.01, "input_tokens": 705, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "مَزْرَعٌ", "kind": "lemma", "parsed": {"glosses": {"en": "field", "fa": "مزرعه", "ur": "کھیت", "tr": "tarla", "id": "ladang", "bn": "ক্ষেত্র", "es": "campo", "fr": "champ", "de": "Feld", "ru": "поле", "zh": "田地"}}, "issues": [], "meta": {"elapsed": 4.83, "input_tokens": 463, "output_tokens": 111, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

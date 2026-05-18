@@ -1,0 +1,1 @@
+{"slug": "الشَّرْجِ", "kind": "surface", "parsed": {"glosses": {"en": "the loop", "fa": "حلقه", "ur": "حلقہ", "tr": "halka", "id": "lingkaran", "bn": "লুপ", "es": "lazo", "fr": "boucle", "de": "Schlaufe", "ru": "петля", "zh": "环"}}, "issues": [], "meta": {"elapsed": 4.48, "input_tokens": 972, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

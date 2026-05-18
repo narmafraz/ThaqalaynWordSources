@@ -1,0 +1,1 @@
+{"slug": "أَباتَ", "kind": "lemma", "parsed": {"glosses": {"en": "to say", "fa": "گفتن", "ur": "کہنا", "tr": "söylemek", "id": "berkata", "bn": "বলা", "es": "decir", "fr": "dire", "de": "sagen", "ru": "говорить", "zh": "说"}}, "issues": [], "meta": {"elapsed": 3.46, "input_tokens": 447, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

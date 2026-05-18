@@ -1,0 +1,1 @@
+{"slug": "اللَّغَطُ", "kind": "surface", "parsed": {"glosses": {"en": "the mumbling", "fa": "لغط", "ur": "لغط", "tr": "lâgıt", "id": "lughth", "bn": "লগত", "es": "lughth", "fr": "lughth", "de": "Lughth", "ru": "лагхт", "zh": "含糊其辞"}}, "issues": [], "meta": {"elapsed": 3.97, "input_tokens": 622, "output_tokens": 124, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

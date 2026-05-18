@@ -1,0 +1,1 @@
+{"slug": "أَقْعَدَ", "kind": "lemma", "parsed": {"glosses": {"en": "to sit", "fa": "نشستن", "ur": "بیٹھنا", "tr": "oturmak", "id": "duduk", "bn": "বসা", "es": "sentarse", "fr": "s'asseoir", "de": "sitzen", "ru": "сидеть", "zh": "坐"}}, "issues": [], "meta": {"elapsed": 3.87, "input_tokens": 547, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

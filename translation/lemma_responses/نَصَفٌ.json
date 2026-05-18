@@ -1,0 +1,1 @@
+{"slug": "نَصَفٌ", "kind": "lemma", "parsed": {"glosses": {"en": "half", "fa": "نیم", "ur": "آدھا", "tr": "yarı", "id": "setengah", "bn": "অর্ধেক", "es": "mitad", "fr": "moitié", "de": "Hälfte", "ru": "половина", "zh": "一半"}}, "issues": [], "meta": {"elapsed": 4.7, "input_tokens": 934, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

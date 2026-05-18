@@ -1,0 +1,1 @@
+{"slug": "طائِفَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "group", "fa": "گروه", "ur": "گروہ", "tr": "grup", "id": "kelompok", "bn": "দল", "es": "grupo", "fr": "groupe", "de": "Gruppe", "ru": "группа", "zh": "群体"}}, "issues": [], "meta": {"elapsed": 3.99, "input_tokens": 474, "output_tokens": 111, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

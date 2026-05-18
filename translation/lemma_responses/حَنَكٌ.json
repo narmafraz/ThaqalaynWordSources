@@ -1,0 +1,1 @@
+{"slug": "حَنَكٌ", "kind": "lemma", "parsed": {"glosses": {"en": "palate", "fa": "کام", "ur": "کام", "tr": "damak", "id": "langit-langit", "bn": "কম", "es": "paladar", "fr": "palais", "de": "Gaumen", "ru": "нёбо", "zh": "上颚"}}, "issues": [], "meta": {"elapsed": 5.66, "input_tokens": 1288, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

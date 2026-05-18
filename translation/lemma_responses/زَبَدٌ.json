@@ -1,0 +1,1 @@
+{"slug": "زَبَدٌ", "kind": "lemma", "parsed": {"glosses": {"en": "foam", "fa": "کف", "ur": "کف", "tr": "köpük", "id": "busa", "bn": "ফেন", "es": "espuma", "fr": "écume", "de": "Schaum", "ru": "пена", "zh": "泡沫"}}, "issues": [], "meta": {"elapsed": 5.29, "input_tokens": 686, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

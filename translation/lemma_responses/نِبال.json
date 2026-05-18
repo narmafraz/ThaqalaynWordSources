@@ -1,0 +1,1 @@
+{"slug": "نِبال", "kind": "lemma", "parsed": {"glosses": {"en": "Nabil", "fa": "نبیل", "ur": "نبیل", "tr": "Nabil", "id": "Nabil", "bn": "নাবিল", "es": "Nabil", "fr": "Nabil", "de": "Nabil", "ru": "Набиль", "zh": "纳比尔"}}, "issues": [], "meta": {"elapsed": 4.57, "input_tokens": 464, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

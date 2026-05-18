@@ -1,0 +1,1 @@
+{"slug": "حِنّاء", "kind": "lemma", "parsed": {"glosses": {"en": "henna", "fa": "حنا", "ur": "حنا", "tr": "hina", "id": "hina", "bn": "হিনা", "es": "henna", "fr": "henné", "de": "Henna", "ru": "хна", "zh": "指甲花"}}, "issues": [], "meta": {"elapsed": 4.52, "input_tokens": 471, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "غُول", "kind": "lemma", "parsed": {"glosses": {"en": "ape", "fa": "میمون", "ur": "بندر", "tr": "maymun", "id": "kera", "bn": "বানর", "es": "mono", "fr": "singe", "de": "Affe", "ru": "обезьяна", "zh": "猿"}}, "issues": [], "meta": {"elapsed": 4.87, "input_tokens": 946, "output_tokens": 114, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

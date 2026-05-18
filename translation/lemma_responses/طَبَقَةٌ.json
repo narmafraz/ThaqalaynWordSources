@@ -1,0 +1,1 @@
+{"slug": "طَبَقَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "layer", "fa": "لایه", "ur": "تہہ", "tr": "katman", "id": "lapisan", "bn": "স্তর", "es": "capa", "fr": "couche", "de": "Schicht", "ru": "слой", "zh": "层"}}, "issues": [], "meta": {"elapsed": 4.39, "input_tokens": 736, "output_tokens": 114, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

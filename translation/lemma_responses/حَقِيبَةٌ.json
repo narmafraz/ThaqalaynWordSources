@@ -1,0 +1,1 @@
+{"slug": "حَقِيبَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "bag", "fa": "کیف", "ur": "تھیلی", "tr": "çanta", "id": "tas", "bn": "ব্যাগ", "es": "bolsa", "fr": "sac", "de": "Tasche", "ru": "сумка", "zh": "包"}}, "issues": [], "meta": {"elapsed": 3.73, "input_tokens": 911, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

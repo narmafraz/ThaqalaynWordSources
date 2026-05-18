@@ -1,0 +1,1 @@
+{"slug": "صَدَقَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "charity", "fa": "صدقه", "ur": "صدقہ", "tr": "sadaka", "id": "sedekah", "bn": "সদকা", "es": "limosna", "fr": "aumône", "de": "Almosen", "ru": "закят", "zh": "天课"}}, "issues": [], "meta": {"elapsed": 5.47, "input_tokens": 878, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

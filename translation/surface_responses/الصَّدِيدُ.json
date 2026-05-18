@@ -1,0 +1,1 @@
+{"slug": "الصَّدِيدُ", "kind": "surface", "parsed": {"glosses": {"en": "the pus", "fa": "چرک", "ur": "چرک", "tr": "irin", "id": "nanah", "bn": "পুস", "es": "el pus", "fr": "le pus", "de": "der Eiter", "ru": "гной", "zh": "脓"}}, "issues": [], "meta": {"elapsed": 3.95, "input_tokens": 891, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

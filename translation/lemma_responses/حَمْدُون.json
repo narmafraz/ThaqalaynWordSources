@@ -1,0 +1,1 @@
+{"slug": "حَمْدُون", "kind": "lemma", "parsed": {"glosses": {"en": "Hamdun", "fa": "حمدون", "ur": "حمدون", "tr": "Hamdun", "id": "Hamdun", "bn": "হামদুন", "es": "Hamdun", "fr": "Hamdun", "de": "Hamdun", "ru": "Хамдун", "zh": "哈姆敦"}}, "issues": [], "meta": {"elapsed": 6.18, "input_tokens": 450, "output_tokens": 125, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "نُصْرَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "help", "fa": "یاری", "ur": "مدد", "tr": "yardım", "id": "pertolongan", "bn": "সহায়তা", "es": "ayuda", "fr": "aide", "de": "Hilfe", "ru": "помощь", "zh": "援助"}}, "issues": [], "meta": {"elapsed": 2.27, "input_tokens": 470, "output_tokens": 114, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

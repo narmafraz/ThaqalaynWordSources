@@ -1,0 +1,1 @@
+{"slug": "جَمِيل", "kind": "lemma", "parsed": {"glosses": {"en": "Jamil", "fa": "جمیل", "ur": "جمیل", "tr": "Cemil", "id": "Jamil", "bn": "জামিল", "es": "Jamil", "fr": "Jamil", "de": "Jamil", "ru": "Джамиль", "zh": "贾米勒"}}, "issues": [], "meta": {"elapsed": 5.06, "input_tokens": 975, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

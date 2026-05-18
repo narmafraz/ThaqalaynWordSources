@@ -1,0 +1,1 @@
+{"slug": "سَوْطٌ", "kind": "lemma", "parsed": {"glosses": {"en": "whip", "fa": "شلاق", "ur": "چوٹا", "tr": "kırbaç", "id": "cambuk", "bn": "ফাঁসি", "es": "látigo", "fr": "fouet", "de": "Peitsche", "ru": "плеть", "zh": "鞭子"}}, "issues": [], "meta": {"elapsed": 6.59, "input_tokens": 999, "output_tokens": 123, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

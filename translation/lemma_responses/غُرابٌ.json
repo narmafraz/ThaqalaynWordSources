@@ -1,0 +1,1 @@
+{"slug": "غُرابٌ", "kind": "lemma", "parsed": {"glosses": {"en": "crow", "fa": "کلاغ", "ur": "کوا", "tr": "karga", "id": "gagak", "bn": "কাক", "es": "cuervo", "fr": "corbeau", "de": "Rabe", "ru": "ворон", "zh": "乌鸦"}}, "issues": [], "meta": {"elapsed": 5.22, "input_tokens": 957, "output_tokens": 112, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

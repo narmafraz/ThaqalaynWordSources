@@ -1,0 +1,1 @@
+{"slug": "أَرْسِلِ", "kind": "surface", "parsed": {"glosses": {"en": "send", "fa": "بفرست", "ur": "بھیج", "tr": "gönder", "id": "kirim", "bn": "পাঠাও", "es": "envía", "fr": "envoie", "de": "sende", "ru": "пошли", "zh": "发送"}}, "issues": [], "meta": {"elapsed": 3.0, "input_tokens": 682, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

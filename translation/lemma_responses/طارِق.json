@@ -1,0 +1,1 @@
+{"slug": "طارِق", "kind": "lemma", "parsed": {"glosses": {"en": "Tariq", "fa": "طارق", "ur": "طارق", "tr": "Tariq", "id": "Tariq", "bn": "তরিক", "es": "Tariq", "fr": "Tariq", "de": "Tariq", "ru": "Тарик", "zh": "塔里克"}}, "issues": [], "meta": {"elapsed": 3.57, "input_tokens": 935, "output_tokens": 122, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

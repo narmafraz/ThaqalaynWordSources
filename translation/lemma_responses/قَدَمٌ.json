@@ -1,0 +1,1 @@
+{"slug": "قَدَمٌ", "kind": "lemma", "parsed": {"glosses": {"en": "foot", "fa": "پا", "ur": "پاؤں", "tr": "ayak", "id": "kaki", "bn": "পা", "es": "pie", "fr": "pied", "de": "Fuß", "ru": "ступня", "zh": "脚"}}, "issues": [], "meta": {"elapsed": 5.0, "input_tokens": 1739, "output_tokens": 113, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

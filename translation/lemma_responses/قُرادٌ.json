@@ -1,0 +1,1 @@
+{"slug": "قُرادٌ", "kind": "lemma", "parsed": {"glosses": {"en": "tick", "fa": "کنه", "ur": "کنہ", "tr": "kene", "id": "kutu", "bn": "টিক", "es": "garrapata", "fr": "tique", "de": "Zecke", "ru": "клещ", "zh": "蜱虫"}}, "issues": [], "meta": {"elapsed": 3.74, "input_tokens": 881, "output_tokens": 114, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

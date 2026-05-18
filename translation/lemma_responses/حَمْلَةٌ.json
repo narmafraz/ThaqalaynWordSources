@@ -1,0 +1,1 @@
+{"slug": "حَمْلَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "attack", "fa": "حمله", "ur": "حملہ", "tr": "saldırı", "id": "serangan", "bn": "আক্রমণ", "es": "ataque", "fr": "attaque", "de": "Angriff", "ru": "атака", "zh": "攻击"}}, "issues": [], "meta": {"elapsed": 5.25, "input_tokens": 514, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

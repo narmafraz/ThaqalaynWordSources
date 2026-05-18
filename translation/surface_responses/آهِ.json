@@ -1,0 +1,1 @@
+{"slug": "آهِ", "kind": "surface", "parsed": {"glosses": {"en": "ah!", "fa": "آه!", "ur": "آہ!", "tr": "ah!", "id": "ah!", "bn": "আহ!", "es": "¡ah!", "fr": "ah !", "de": "ah!", "ru": "ах!", "zh": "唉！"}}, "issues": [], "meta": {"elapsed": 3.01, "input_tokens": 907, "output_tokens": 110, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

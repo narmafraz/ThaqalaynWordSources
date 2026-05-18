@@ -1,0 +1,1 @@
+{"slug": "عِشْقٌ", "kind": "lemma", "parsed": {"glosses": {"en": "passionate love", "fa": "عشق", "ur": "عشق", "tr": "aşk", "id": "cinta", "bn": "প্রেম", "es": "amor", "fr": "amour", "de": "Liebe", "ru": "любовь", "zh": "爱情"}}, "issues": [], "meta": {"elapsed": 3.68, "input_tokens": 896, "output_tokens": 114, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "عُشْبٌ", "kind": "lemma", "parsed": {"glosses": {"en": "herbs", "fa": "سبزیجات", "ur": "سبزیاں", "tr": "otlar", "id": "ramuan", "bn": "শাকসবজি", "es": "hierbas", "fr": "herbes", "de": "Kräuter", "ru": "травы", "zh": "草药"}}, "issues": [], "meta": {"elapsed": 6.7, "input_tokens": 922, "output_tokens": 123, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

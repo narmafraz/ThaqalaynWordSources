@@ -1,0 +1,1 @@
+{"slug": "أَخَّذَ", "kind": "lemma", "parsed": {"glosses": {"en": "to take", "fa": "گرفتن", "ur": "لینا", "tr": "almak", "id": "mengambil", "bn": "নেওয়া", "es": "tomar", "fr": "prendre", "de": "nehmen", "ru": "брать", "zh": "拿"}}, "issues": [], "meta": {"elapsed": 3.5, "input_tokens": 2236, "output_tokens": 112, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

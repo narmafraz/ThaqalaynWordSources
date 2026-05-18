@@ -1,0 +1,1 @@
+{"slug": "ماجِنٌ", "kind": "lemma", "parsed": {"glosses": {"en": "barley", "fa": "جو", "ur": "جو", "tr": "arpa", "id": "gandum", "bn": "যব", "es": "cebada", "fr": "orge", "de": "Gerste", "ru": "ячмень", "zh": "大麦"}}, "issues": [], "meta": {"elapsed": 3.55, "input_tokens": 463, "output_tokens": 110, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

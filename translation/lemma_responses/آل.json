@@ -1,0 +1,1 @@
+{"slug": "آل", "kind": "lemma", "parsed": {"glosses": {"en": "family", "fa": "خاندان", "ur": "خاندان", "tr": "aile", "id": "keluarga", "bn": "পরিবার", "es": "familia", "fr": "famille", "de": "Familie", "ru": "семья", "zh": "家族"}}, "issues": [], "meta": {"elapsed": 3.53, "input_tokens": 2058, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "قاتِلٌ", "kind": "lemma", "parsed": {"glosses": {"en": "killer", "fa": "قاتل", "ur": "قاتل", "tr": "katil", "id": "pembunuh", "bn": "কাতিল", "es": "asesino", "fr": "tueur", "de": "Mörder", "ru": "убийца", "zh": "杀手"}}, "issues": [], "meta": {"elapsed": 4.37, "input_tokens": 499, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

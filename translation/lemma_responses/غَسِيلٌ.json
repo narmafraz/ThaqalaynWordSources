@@ -1,0 +1,1 @@
+{"slug": "غَسِيلٌ", "kind": "lemma", "parsed": {"glosses": {"en": "washing", "fa": "شستن", "ur": "دھونا", "tr": "yıkama", "id": "pencucian", "bn": "ধোয়া", "es": "lavado", "fr": "lavage", "de": "Waschen", "ru": "стирка", "zh": "洗涤"}}, "issues": [], "meta": {"elapsed": 5.44, "input_tokens": 806, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

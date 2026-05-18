@@ -1,0 +1,1 @@
+{"slug": "نَمْلٌ", "kind": "lemma", "parsed": {"glosses": {"en": "ant", "fa": "مورچه", "ur": "چڑیا", "tr": "karınca", "id": "semut", "bn": "পিঁপড়া", "es": "hormiga", "fr": "fourmi", "de": "Ameise", "ru": "муравей", "zh": "蚂蚁"}}, "issues": [], "meta": {"elapsed": 5.98, "input_tokens": 459, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

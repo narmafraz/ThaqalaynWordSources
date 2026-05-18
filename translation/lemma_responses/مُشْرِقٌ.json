@@ -1,0 +1,1 @@
+{"slug": "مُشْرِقٌ", "kind": "lemma", "parsed": {"glosses": {"en": "east", "fa": "شرق", "ur": "مشرق", "tr": "doğu", "id": "timur", "bn": "পূর্ব", "es": "este", "fr": "est", "de": "Osten", "ru": "восток", "zh": "东方"}}, "issues": [], "meta": {"elapsed": 3.38, "input_tokens": 525, "output_tokens": 111, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

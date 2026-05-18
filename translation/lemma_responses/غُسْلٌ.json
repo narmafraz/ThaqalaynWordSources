@@ -1,0 +1,1 @@
+{"slug": "غُسْلٌ", "kind": "lemma", "parsed": {"glosses": {"en": "ablution", "fa": "غسل", "ur": "غسل", "tr": "abdest", "id": "mandi", "bn": "গোসল", "es": "ablución", "fr": "ablution", "de": "Waschung", "ru": "омовение", "zh": "大净"}}, "issues": [], "meta": {"elapsed": 5.4, "input_tokens": 1984, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

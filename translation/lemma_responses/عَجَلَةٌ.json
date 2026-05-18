@@ -1,0 +1,1 @@
+{"slug": "عَجَلَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "haste", "fa": "عجلت", "ur": "عجلت", "tr": "acele", "id": "kecepatan", "bn": "দ্রুততা", "es": "prisa", "fr": "hâte", "de": "Eile", "ru": "поспешность", "zh": "匆忙"}}, "issues": [], "meta": {"elapsed": 5.48, "input_tokens": 998, "output_tokens": 122, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

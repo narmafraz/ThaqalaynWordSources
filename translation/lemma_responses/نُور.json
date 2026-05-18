@@ -1,0 +1,1 @@
+{"slug": "نُور", "kind": "lemma", "parsed": {"glosses": {"en": "light", "fa": "نور", "ur": "نور", "tr": "nur", "id": "cahaya", "bn": "আলো", "es": "luz", "fr": "lumière", "de": "Licht", "ru": "свет", "zh": "光"}}, "issues": [], "meta": {"elapsed": 5.97, "input_tokens": 2269, "output_tokens": 112, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

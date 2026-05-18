@@ -1,0 +1,1 @@
+{"slug": "أَبَانٌ", "kind": "surface", "parsed": {"glosses": {"en": "Aban", "fa": "آبان", "ur": "آبان", "tr": "Aban", "id": "Aban", "bn": "আবান", "es": "Aban", "fr": "Aban", "de": "Aban", "ru": "Абан", "zh": "阿班"}}, "issues": [], "meta": {"elapsed": 3.53, "input_tokens": 1114, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "الطَّيْرُ", "kind": "surface", "parsed": {"glosses": {"en": "the bird", "fa": "پرنده", "ur": "پرندہ", "tr": "kuş", "id": "burung", "bn": "পাখি", "es": "pájaro", "fr": "oiseau", "de": "Vogel", "ru": "птица", "zh": "鸟"}}, "issues": [], "meta": {"elapsed": 2.45, "input_tokens": 834, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "بَهِيمَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "beast", "fa": "حیوان", "ur": "چوپا", "tr": "hayvan", "id": "binatang", "bn": "পশু", "es": "bestia", "fr": "bête", "de": "Tier", "ru": "животное", "zh": "兽"}}, "issues": [], "meta": {"elapsed": 4.48, "input_tokens": 577, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

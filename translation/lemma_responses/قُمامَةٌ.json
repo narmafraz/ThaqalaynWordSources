@@ -1,0 +1,1 @@
+{"slug": "قُمامَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "rubbish", "fa": "زباله", "ur": "کچرا", "tr": "çöp", "id": "sampah", "bn": "ময়লা", "es": "basura", "fr": "déchets", "de": "Müll", "ru": "мусор", "zh": "垃圾"}}, "issues": [], "meta": {"elapsed": 5.57, "input_tokens": 490, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

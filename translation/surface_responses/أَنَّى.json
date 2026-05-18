@@ -1,0 +1,1 @@
+{"slug": "أَنَّى", "kind": "surface", "parsed": {"glosses": {"en": "when", "fa": "چگونه", "ur": "کس طرح", "tr": "nasıl", "id": "bagaimana", "bn": "কিভাবে", "es": "cómo", "fr": "comment", "de": "wie", "ru": "как", "zh": "如何"}}, "issues": [], "meta": {"elapsed": 3.11, "input_tokens": 1140, "output_tokens": 110, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

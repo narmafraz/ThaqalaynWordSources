@@ -1,0 +1,1 @@
+{"slug": "إلَى", "kind": "surface", "parsed": {"glosses": {"en": "to, toward", "fa": "به سوی", "ur": "کی طرف", "tr": "taraf", "id": "ke", "bn": "দিকে", "es": "a", "fr": "vers", "de": "zu", "ru": "к", "zh": "到"}}, "issues": [], "meta": {"elapsed": 3.57, "input_tokens": 882, "output_tokens": 109, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

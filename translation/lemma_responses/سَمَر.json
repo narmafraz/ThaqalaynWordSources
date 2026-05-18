@@ -1,0 +1,1 @@
+{"slug": "سَمَر", "kind": "lemma", "parsed": {"glosses": {"en": "Samar", "fa": "سمَر", "ur": "سمَر", "tr": "Samar", "id": "Samar", "bn": "সমার", "es": "Samar", "fr": "Samar", "de": "Samar", "ru": "Самар", "zh": "萨马尔"}}, "issues": [], "meta": {"elapsed": 4.25, "input_tokens": 1010, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

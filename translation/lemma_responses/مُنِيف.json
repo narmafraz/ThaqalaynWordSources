@@ -1,0 +1,1 @@
+{"slug": "مُنِيف", "kind": "lemma", "parsed": {"glosses": {"en": "Lofty", "fa": "بلند", "ur": "بلند", "tr": "Yüksek", "id": "Tinggi", "bn": "উচ্চ", "es": "Altivo", "fr": "Élevé", "de": "Hoch", "ru": "Высокий", "zh": "高耸"}}, "issues": [], "meta": {"elapsed": 5.01, "input_tokens": 502, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

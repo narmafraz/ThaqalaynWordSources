@@ -1,0 +1,1 @@
+{"slug": "مُجاوِرٌ", "kind": "lemma", "parsed": {"glosses": {"en": "neighbor", "fa": "همسایه", "ur": "پڑوسی", "tr": "komşu", "id": "tetangga", "bn": "পাশের", "es": "vecino", "fr": "voisin", "de": "Nachbar", "ru": "сосед", "zh": "邻居"}}, "issues": [], "meta": {"elapsed": 7.1, "input_tokens": 480, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

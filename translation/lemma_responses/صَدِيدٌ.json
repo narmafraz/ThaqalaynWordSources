@@ -1,0 +1,1 @@
+{"slug": "صَدِيدٌ", "kind": "lemma", "parsed": {"glosses": {"en": "pus", "fa": "چرک", "ur": "چرک", "tr": "irin", "id": "nanah", "bn": "পুস", "es": "pus", "fr": "pus", "de": "Eiter", "ru": "гной", "zh": "脓"}}, "issues": [], "meta": {"elapsed": 4.04, "input_tokens": 778, "output_tokens": 113, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

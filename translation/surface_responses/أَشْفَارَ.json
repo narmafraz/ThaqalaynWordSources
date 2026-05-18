@@ -1,0 +1,1 @@
+{"slug": "أَشْفَارَ", "kind": "surface", "parsed": {"glosses": {"en": "edges", "fa": "لبه‌ها", "ur": "کنار", "tr": "kenarlar", "id": "tepi", "bn": "ধার", "es": "bordes", "fr": "tranchants", "de": "Kanten", "ru": "края", "zh": "边缘"}}, "issues": [], "meta": {"elapsed": 4.37, "input_tokens": 583, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

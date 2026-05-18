@@ -1,0 +1,1 @@
+{"slug": "أَكْثَرِ", "kind": "surface", "parsed": {"glosses": {"en": "most", "fa": "بیشتر", "ur": "زیادہ", "tr": "en çok", "id": "paling banyak", "bn": "বেশি", "es": "más", "fr": "plus", "de": "meist", "ru": "больше", "zh": "最多"}}, "issues": [], "meta": {"elapsed": 3.65, "input_tokens": 828, "output_tokens": 114, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "رِيقٌ", "kind": "lemma", "parsed": {"glosses": {"en": "saliva", "fa": "بزاق", "ur": "بزاق", "tr": "tükürük", "id": "liur", "bn": "লালা", "es": "saliva", "fr": "salive", "de": "Speichel", "ru": "слюна", "zh": "唾液"}}, "issues": [], "meta": {"elapsed": 5.64, "input_tokens": 1014, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

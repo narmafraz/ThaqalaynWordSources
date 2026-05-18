@@ -1,0 +1,1 @@
+{"slug": "النَّاقُورِ", "kind": "surface", "parsed": {"glosses": {"en": "the horn", "fa": "شاخ", "ur": "سینگ", "tr": "boru", "id": "terompet", "bn": "শিং", "es": "cuerno", "fr": "cor", "de": "Horn", "ru": "труба", "zh": "号角"}}, "issues": [], "meta": {"elapsed": 3.18, "input_tokens": 732, "output_tokens": 113, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

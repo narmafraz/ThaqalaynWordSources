@@ -1,0 +1,1 @@
+{"slug": "طَوارِق", "kind": "lemma", "parsed": {"glosses": {"en": "Tuareg", "fa": "طوارق", "ur": "طوارق", "tr": "Tuareg", "id": "Tuareg", "bn": "টুয়ারেগ", "es": "Tuareg", "fr": "Tuareg", "de": "Tuareg", "ru": "туарег", "zh": "图阿雷格"}}, "issues": [], "meta": {"elapsed": 6.4, "input_tokens": 462, "output_tokens": 128, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

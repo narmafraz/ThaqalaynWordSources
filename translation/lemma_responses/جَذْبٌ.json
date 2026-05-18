@@ -1,0 +1,1 @@
+{"slug": "جَذْبٌ", "kind": "lemma", "parsed": {"glosses": {"en": "pulling", "fa": "کشیدن", "ur": "کھینچنا", "tr": "çekme", "id": "tarikan", "bn": "টানা", "es": "tirón", "fr": "tiraillement", "de": "Ziehen", "ru": "тяга", "zh": "拉"}}, "issues": [], "meta": {"elapsed": 3.7, "input_tokens": 540, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

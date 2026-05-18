@@ -1,0 +1,1 @@
+{"slug": "حَزِيران", "kind": "lemma", "parsed": {"glosses": {"en": "June", "fa": "ژوئن", "ur": "جون", "tr": "Haziran", "id": "Juni", "bn": "জুন", "es": "junio", "fr": "juin", "de": "Juni", "ru": "июнь", "zh": "六月"}}, "issues": [], "meta": {"elapsed": 4.08, "input_tokens": 525, "output_tokens": 112, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

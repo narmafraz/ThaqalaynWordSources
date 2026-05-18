@@ -1,0 +1,1 @@
+{"slug": "لَهْجَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "dialect", "fa": "لهجه", "ur": "لہجہ", "tr": "lehçe", "id": "dialek", "bn": "লহজা", "es": "dialecto", "fr": "dialecte", "de": "Dialekt", "ru": "диалект", "zh": "方言"}}, "issues": [], "meta": {"elapsed": 5.34, "input_tokens": 625, "output_tokens": 123, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

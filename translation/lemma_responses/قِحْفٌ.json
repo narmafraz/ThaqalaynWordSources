@@ -1,0 +1,1 @@
+{"slug": "قِحْفٌ", "kind": "lemma", "parsed": {"glosses": {"en": "brainpan", "fa": "جمجمه", "ur": "جمجمہ", "tr": "kafatası", "id": "tengkorak", "bn": "কপাল", "es": "cráneo", "fr": "crâne", "de": "Schädel", "ru": "череп", "zh": "头骨"}}, "issues": [], "meta": {"elapsed": 6.42, "input_tokens": 525, "output_tokens": 122, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

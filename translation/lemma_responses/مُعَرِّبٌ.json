@@ -1,0 +1,1 @@
+{"slug": "مُعَرِّبٌ", "kind": "lemma", "parsed": {"glosses": {"en": "Arabian", "fa": "عربی", "ur": "عربی", "tr": "Arap", "id": "Arab", "bn": "আরবী", "es": "árabe", "fr": "arabe", "de": "arabisch", "ru": "арабский", "zh": "阿拉伯的"}}, "issues": [], "meta": {"elapsed": 4.06, "input_tokens": 547, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

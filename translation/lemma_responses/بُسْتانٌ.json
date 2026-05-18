@@ -1,0 +1,1 @@
+{"slug": "بُسْتانٌ", "kind": "lemma", "parsed": {"glosses": {"en": "garden", "fa": "باغ", "ur": "باغ", "tr": "bahçe", "id": "kebun", "bn": "বাগান", "es": "jardín", "fr": "jardin", "de": "Garten", "ru": "сад", "zh": "花园"}}, "issues": [], "meta": {"elapsed": 2.26, "input_tokens": 803, "output_tokens": 114, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

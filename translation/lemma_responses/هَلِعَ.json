@@ -1,0 +1,1 @@
+{"slug": "هَلِعَ", "kind": "lemma", "parsed": {"glosses": {"en": "fright", "fa": "ترس", "ur": "خوف", "tr": "korku", "id": "kecemasan", "bn": "ভয়", "es": "miedo", "fr": "effroi", "de": "Angst", "ru": "тревога", "zh": "恐惧"}}, "issues": [], "meta": {"elapsed": 5.92, "input_tokens": 482, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

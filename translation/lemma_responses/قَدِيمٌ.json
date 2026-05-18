@@ -1,0 +1,1 @@
+{"slug": "قَدِيمٌ", "kind": "lemma", "parsed": {"glosses": {"en": "ancient", "fa": "قدیم", "ur": "قدیم", "tr": "kadim", "id": "kuno", "bn": "প্রাচীন", "es": "antiguo", "fr": "ancien", "de": "alt", "ru": "древний", "zh": "古老的"}}, "issues": [], "meta": {"elapsed": 4.76, "input_tokens": 608, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

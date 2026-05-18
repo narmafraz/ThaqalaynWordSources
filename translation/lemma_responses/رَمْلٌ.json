@@ -1,0 +1,1 @@
+{"slug": "رَمْلٌ", "kind": "lemma", "parsed": {"glosses": {"en": "sand", "fa": "شن", "ur": "ریت", "tr": "kum", "id": "pasir", "bn": "বালি", "es": "arena", "fr": "sable", "de": "Sand", "ru": "песок", "zh": "沙"}}, "issues": [], "meta": {"elapsed": 3.57, "input_tokens": 976, "output_tokens": 111, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "مِنْقارٌ", "kind": "lemma", "parsed": {"glosses": {"en": "beak", "fa": "نوک پرنده", "ur": "چونچ", "tr": "gaga", "id": "paruh", "bn": "চঞ্চু", "es": "pico", "fr": "bec", "de": "Schnabel", "ru": "клюв", "zh": "喙"}}, "issues": [], "meta": {"elapsed": 6.02, "input_tokens": 919, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

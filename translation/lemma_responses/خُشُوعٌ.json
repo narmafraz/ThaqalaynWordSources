@@ -1,0 +1,1 @@
+{"slug": "خُشُوعٌ", "kind": "lemma", "parsed": {"glosses": {"en": "humility", "fa": "خشوع", "ur": "خشوع", "tr": "huzû", "id": "khusyuk", "bn": "খুশু", "es": "humildad", "fr": "humilité", "de": "Demut", "ru": "смирение", "zh": "谦恭"}}, "issues": [], "meta": {"elapsed": 4.21, "input_tokens": 480, "output_tokens": 121, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

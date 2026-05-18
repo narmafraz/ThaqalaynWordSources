@@ -1,0 +1,1 @@
+{"slug": "عَوارٌ", "kind": "lemma", "parsed": {"glosses": {"en": "defect", "fa": "عیب", "ur": "عیب", "tr": "kusur", "id": "cacat", "bn": "ত্রুটি", "es": "defecto", "fr": "défaut", "de": "Mangel", "ru": "дефект", "zh": "缺陷"}}, "issues": [], "meta": {"elapsed": 3.6, "input_tokens": 774, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "قُرْآنٌ", "kind": "lemma", "parsed": {"glosses": {"en": "Quran", "fa": "قرآن", "ur": "قرآن", "tr": "Kur'an", "id": "Quran", "bn": "কুরআন", "es": "Corán", "fr": "Coran", "de": "Koran", "ru": "Коран", "zh": "古兰经"}}, "issues": [], "meta": {"elapsed": 4.78, "input_tokens": 492, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

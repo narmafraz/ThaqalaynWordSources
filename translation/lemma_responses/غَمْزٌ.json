@@ -1,0 +1,1 @@
+{"slug": "غَمْزٌ", "kind": "lemma", "parsed": {"glosses": {"en": "nudge", "fa": "کنایه", "ur": "کنایہ", "tr": "işaret", "id": "isyarat", "bn": "ইশারা", "es": "señal", "fr": "signe", "de": "Zeichen", "ru": "жест", "zh": "暗示"}}, "issues": [], "meta": {"elapsed": 5.06, "input_tokens": 1096, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

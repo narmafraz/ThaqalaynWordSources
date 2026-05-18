@@ -1,0 +1,1 @@
+{"slug": "26", "kind": "lemma", "parsed": {"glosses": {"en": "26", "fa": "۲۶", "ur": "۲۶", "tr": "26", "id": "26", "bn": "২৬", "es": "26", "fr": "26", "de": "26", "ru": "26", "zh": "26"}}, "issues": [], "meta": {"elapsed": 4.07, "input_tokens": 450, "output_tokens": 120, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

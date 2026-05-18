@@ -1,0 +1,1 @@
+{"slug": "وِدٌّ", "kind": "lemma", "parsed": {"glosses": {"en": "friend", "fa": "دوست", "ur": "دوست", "tr": "dost", "id": "teman", "bn": "বন্ধু", "es": "amigo", "fr": "ami", "de": "Freund", "ru": "друг", "zh": "朋友"}}, "issues": [], "meta": {"elapsed": 3.65, "input_tokens": 2182, "output_tokens": 110, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

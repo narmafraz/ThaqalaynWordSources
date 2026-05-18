@@ -1,0 +1,1 @@
+{"slug": "كُوفَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "Kufa", "fa": "کوفه", "ur": "کوفہ", "tr": "Kufe", "id": "Kufah", "bn": "কুফা", "es": "Kufa", "fr": "Kufa", "de": "Kufa", "ru": "Куфа", "zh": "库法"}}, "issues": [], "meta": {"elapsed": 4.77, "input_tokens": 450, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

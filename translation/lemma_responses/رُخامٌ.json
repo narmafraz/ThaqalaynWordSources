@@ -1,0 +1,1 @@
+{"slug": "رُخامٌ", "kind": "lemma", "parsed": {"glosses": {"en": "marble", "fa": "مرمر", "ur": "پتھر", "tr": "mermer", "id": "marmer", "bn": "স্ফটিক", "es": "mármol", "fr": "marbre", "de": "Marmor", "ru": "мрамор", "zh": "大理石"}}, "issues": [], "meta": {"elapsed": 4.27, "input_tokens": 610, "output_tokens": 120, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

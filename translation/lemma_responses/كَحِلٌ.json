@@ -1,0 +1,1 @@
+{"slug": "كَحِلٌ", "kind": "lemma", "parsed": {"glosses": {"en": "antimony", "fa": "کحل", "ur": "کحل", "tr": "süblim", "id": "antimoni", "bn": "কহল", "es": "antimonio", "fr": "antimoine", "de": "Antimon", "ru": "сурьма", "zh": "锑"}}, "issues": [], "meta": {"elapsed": 2.9, "input_tokens": 534, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "بَذَرَ", "kind": "lemma", "parsed": {"glosses": {"en": "to sow", "fa": "بذر کردن", "ur": "بونا", "tr": "ekmek", "id": "menabur", "bn": "বপন করা", "es": "sembrar", "fr": "semer", "de": "säen", "ru": "сеять", "zh": "播种"}}, "issues": [], "meta": {"elapsed": 6.7, "input_tokens": 1449, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "مِحْوَرٌ", "kind": "lemma", "parsed": {"glosses": {"en": "axis, pivot", "fa": "محور", "ur": "محور", "tr": "eksen", "id": "poros", "bn": "অক্ষ", "es": "eje", "fr": "axe", "de": "Achse", "ru": "ось", "zh": "轴"}}, "issues": [], "meta": {"elapsed": 3.05, "input_tokens": 903, "output_tokens": 112, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

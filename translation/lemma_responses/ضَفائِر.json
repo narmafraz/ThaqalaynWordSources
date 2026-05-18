@@ -1,0 +1,1 @@
+{"slug": "ضَفائِر", "kind": "lemma", "parsed": {"glosses": {"en": "braid", "fa": "بافت", "ur": "مُٹھی", "tr": "örmek", "id": "kepang", "bn": "চুলের চুলকানি", "es": "trenza", "fr": "tresse", "de": "Zopf", "ru": "коса", "zh": "辫子"}}, "issues": [], "meta": {"elapsed": 5.19, "input_tokens": 472, "output_tokens": 123, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "رَقَبَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "neck", "fa": "گردن", "ur": "گردن", "tr": "boyun", "id": "leher", "bn": "ঘাড়", "es": "cuello", "fr": "cou", "de": "Nacken", "ru": "шея", "zh": "脖子"}}, "issues": [], "meta": {"elapsed": 6.01, "input_tokens": 1004, "output_tokens": 112, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

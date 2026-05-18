@@ -1,0 +1,1 @@
+{"slug": "آمِينَ", "kind": "surface", "parsed": {"glosses": {"en": "Amen", "fa": "آمین", "ur": "آمین", "tr": "Amin", "id": "Amin", "bn": "আমীন", "es": "Amén", "fr": "Amen", "de": "Amen", "ru": "Аминь", "zh": "阿敏"}}, "issues": [], "meta": {"elapsed": 4.6, "input_tokens": 1031, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

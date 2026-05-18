@@ -1,0 +1,1 @@
+{"slug": "ثَلاثَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "three", "fa": "سه", "ur": "تین", "tr": "üç", "id": "tiga", "bn": "তিন", "es": "tres", "fr": "trois", "de": "drei", "ru": "три", "zh": "三"}}, "issues": [], "meta": {"elapsed": 4.13, "input_tokens": 1008, "output_tokens": 108, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

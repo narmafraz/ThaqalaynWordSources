@@ -1,0 +1,1 @@
+{"slug": "غَرامَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "fine; penalty", "fa": "جریمه", "ur": "جزا", "tr": "ceza", "id": "denda", "bn": "জরিমানা", "es": "multa", "fr": "amende", "de": "Strafe", "ru": "штраф", "zh": "罚款"}}, "issues": [], "meta": {"elapsed": 2.61, "input_tokens": 481, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

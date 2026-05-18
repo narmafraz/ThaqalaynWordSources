@@ -1,0 +1,1 @@
+{"slug": "رَجاء", "kind": "lemma", "parsed": {"glosses": {"en": "hope", "fa": "امید", "ur": "امید", "tr": "umut", "id": "harapan", "bn": "আশা", "es": "esperanza", "fr": "espoir", "de": "Hoffnung", "ru": "надежда", "zh": "希望"}}, "issues": [], "meta": {"elapsed": 5.79, "input_tokens": 471, "output_tokens": 114, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

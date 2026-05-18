@@ -1,0 +1,1 @@
+{"slug": "غَدِيرٌ", "kind": "lemma", "parsed": {"glosses": {"en": "pool", "fa": "حوض", "ur": "تالاب", "tr": "havuz", "id": "kolam", "bn": "পুকুর", "es": "estanque", "fr": "bassin", "de": "Teich", "ru": "пруд", "zh": "水池"}}, "issues": [], "meta": {"elapsed": 4.4, "input_tokens": 965, "output_tokens": 114, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

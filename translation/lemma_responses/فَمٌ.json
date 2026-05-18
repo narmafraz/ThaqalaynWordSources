@@ -1,0 +1,1 @@
+{"slug": "فَمٌ", "kind": "lemma", "parsed": {"glosses": {"en": "mouth", "fa": "دهان", "ur": "منہ", "tr": "ağız", "id": "mulut", "bn": "মুখ", "es": "boca", "fr": "bouche", "de": "Mund", "ru": "рот", "zh": "嘴"}}, "issues": [], "meta": {"elapsed": 4.77, "input_tokens": 948, "output_tokens": 113, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

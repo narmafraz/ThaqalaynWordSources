@@ -1,0 +1,1 @@
+{"slug": "الصِّنْفَ", "kind": "surface", "parsed": {"glosses": {"en": "the kind", "fa": "نوع", "ur": "قسم", "tr": "tür", "id": "jenis", "bn": "প্রকার", "es": "tipo", "fr": "genre", "de": "Art", "ru": "вид", "zh": "种类"}}, "issues": [], "meta": {"elapsed": 4.26, "input_tokens": 912, "output_tokens": 106, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

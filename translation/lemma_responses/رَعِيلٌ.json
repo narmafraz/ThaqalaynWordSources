@@ -1,0 +1,1 @@
+{"slug": "رَعِيلٌ", "kind": "lemma", "parsed": {"glosses": {"en": "herd", "fa": "گله", "ur": "جھنڈ", "tr": "sürü", "id": "gerombolan", "bn": "দল", "es": "rebaño", "fr": "troupeau", "de": "Herde", "ru": "стадо", "zh": "兽群"}}, "issues": [], "meta": {"elapsed": 4.65, "input_tokens": 449, "output_tokens": 121, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

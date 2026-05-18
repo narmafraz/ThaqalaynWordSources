@@ -1,0 +1,1 @@
+{"slug": "لُغَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "language", "fa": "زبان", "ur": "زبان", "tr": "dil", "id": "bahasa", "bn": "ভাষা", "es": "idioma", "fr": "langue", "de": "Sprache", "ru": "язык", "zh": "语言"}}, "issues": [], "meta": {"elapsed": 3.44, "input_tokens": 459, "output_tokens": 113, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

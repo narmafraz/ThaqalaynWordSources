@@ -1,0 +1,1 @@
+{"slug": "فاءاتٌ", "kind": "lemma", "parsed": {"glosses": {"en": "Faa", "fa": "فا", "ur": "فا", "tr": "Fa", "id": "Fa", "bn": "ফা", "es": "Fa", "fr": "Fa", "de": "Fa", "ru": "Фа", "zh": "法"}}, "issues": [], "meta": {"elapsed": 2.81, "input_tokens": 481, "output_tokens": 105, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "زِياد", "kind": "lemma", "parsed": {"glosses": {"en": "Ziyad", "fa": "زیاد", "ur": "زیاد", "tr": "Ziyad", "id": "Ziyad", "bn": "যিয়াদ", "es": "Ziyad", "fr": "Ziyad", "de": "Ziyad", "ru": "Зияд", "zh": "齐亚德"}}, "issues": [], "meta": {"elapsed": 4.43, "input_tokens": 466, "output_tokens": 123, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "أَزْهَر", "kind": "lemma", "parsed": {"glosses": {"en": "Azhar", "fa": "ازهر", "ur": "ازہر", "tr": "Azhar", "id": "Azhar", "bn": "আজহার", "es": "Azhar", "fr": "Azhar", "de": "Azhar", "ru": "Азхар", "zh": "阿兹哈尔"}}, "issues": [], "meta": {"elapsed": 3.44, "input_tokens": 993, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

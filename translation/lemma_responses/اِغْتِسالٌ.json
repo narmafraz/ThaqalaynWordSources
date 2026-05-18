@@ -1,0 +1,1 @@
+{"slug": "اِغْتِسالٌ", "kind": "lemma", "parsed": {"glosses": {"en": "bathing", "fa": "غسل کردن", "ur": "غسل", "tr": "yüzmek", "id": "mandi", "bn": "গোসল", "es": "baño", "fr": "bain", "de": "Baden", "ru": "омовение", "zh": "沐浴"}}, "issues": [], "meta": {"elapsed": 4.48, "input_tokens": 452, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

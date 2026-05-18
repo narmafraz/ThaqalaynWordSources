@@ -1,0 +1,1 @@
+{"slug": "الدِّمَاءَ", "kind": "surface", "parsed": {"glosses": {"en": "the blood", "fa": "خون", "ur": "خون", "tr": "kan", "id": "darah", "bn": "রক্ত", "es": "sangre", "fr": "sang", "de": "Blut", "ru": "кровь", "zh": "血"}}, "issues": [], "meta": {"elapsed": 4.46, "input_tokens": 1086, "output_tokens": 111, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

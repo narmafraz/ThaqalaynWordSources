@@ -1,0 +1,1 @@
+{"slug": "الدَّوَاجِنِ", "kind": "surface", "parsed": {"glosses": {"en": "the feathers", "fa": "پر", "ur": "پر", "tr": "tüy", "id": "bulu", "bn": "পাখা", "es": "pluma", "fr": "plume", "de": "Feder", "ru": "перо", "zh": "羽毛"}}, "issues": [], "meta": {"elapsed": 4.59, "input_tokens": 569, "output_tokens": 112, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "بَرَصٌ", "kind": "lemma", "parsed": {"glosses": {"en": "leprosy", "fa": "برص", "ur": "برص", "tr": "berç", "id": "lepra", "bn": "বরস", "es": "lepra", "fr": "lèpre", "de": "Aussatz", "ru": "проказа", "zh": "白癜风"}}, "issues": [], "meta": {"elapsed": 4.4, "input_tokens": 584, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

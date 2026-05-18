@@ -1,0 +1,1 @@
+{"slug": "أَبَابِيلَ", "kind": "surface", "parsed": {"glosses": {"en": "flocks", "fa": "گله‌ها", "ur": "جھنڈ", "tr": "sürüler", "id": "gerombolan", "bn": "দল", "es": "bandadas", "fr": "tr", "de": "Schwärme", "ru": "стаи", "zh": "群"}}, "issues": [], "meta": {"elapsed": 4.75, "input_tokens": 477, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

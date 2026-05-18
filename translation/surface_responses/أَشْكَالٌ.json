@@ -1,0 +1,1 @@
+{"slug": "أَشْكَالٌ", "kind": "surface", "parsed": {"glosses": {"en": "shapes", "fa": "شکل‌ها", "ur": "شکل", "tr": "şekiller", "id": "bentuk", "bn": "আকৃতি", "es": "formas", "fr": "formes", "de": "Formen", "ru": "формы", "zh": "形状"}}, "issues": [], "meta": {"elapsed": 5.01, "input_tokens": 928, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "وَلِيٌّ", "kind": "lemma", "parsed": {"glosses": {"en": "guardian", "fa": "ولی", "ur": "ولی", "tr": "veli", "id": "wali", "bn": "আলী", "es": "tutor", "fr": "tuteur", "de": "Beschützer", "ru": "покровитель", "zh": "监护人"}}, "issues": [], "meta": {"elapsed": 3.11, "input_tokens": 999, "output_tokens": 112, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

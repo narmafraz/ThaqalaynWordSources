@@ -1,0 +1,1 @@
+{"slug": "غَداةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "daybreak", "fa": "سپیده‌دم", "ur": "صبح", "tr": "şafak", "id": "fajar", "bn": "ভোর", "es": "amanecer", "fr": "aube", "de": "Morgen", "ru": "рассвет", "zh": "黎明"}}, "issues": [], "meta": {"elapsed": 3.73, "input_tokens": 955, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

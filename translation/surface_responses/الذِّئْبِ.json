@@ -1,0 +1,1 @@
+{"slug": "الذِّئْبِ", "kind": "surface", "parsed": {"glosses": {"en": "the wolf", "fa": "گرگ", "ur": "بھیڑیا", "tr": "kurt", "id": "serigala", "bn": "নেকড়ে", "es": "lobo", "fr": "loup", "de": "Wolf", "ru": "волк", "zh": "狼"}}, "issues": [], "meta": {"elapsed": 4.12, "input_tokens": 664, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

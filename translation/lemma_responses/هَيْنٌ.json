@@ -1,0 +1,1 @@
+{"slug": "هَيْنٌ", "kind": "lemma", "parsed": {"glosses": {"en": "easy", "fa": "آسان", "ur": "آسان", "tr": "kolay", "id": "mudah", "bn": "সহজ", "es": "fácil", "fr": "facile", "de": "einfach", "ru": "легкий", "zh": "容易"}}, "issues": [], "meta": {"elapsed": 3.85, "input_tokens": 506, "output_tokens": 113, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "مُعاقِدٌ", "kind": "lemma", "parsed": {"glosses": {"en": "covenant", "fa": "پیمان", "ur": "عہد", "tr": "akid", "id": "perjanjian", "bn": "চুক্তি", "es": "pacto", "fr": "alliance", "de": "Bund", "ru": "завет", "zh": "盟约"}}, "issues": [], "meta": {"elapsed": 4.14, "input_tokens": 467, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

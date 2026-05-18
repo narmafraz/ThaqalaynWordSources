@@ -1,0 +1,1 @@
+{"slug": "المَاءَ", "kind": "surface", "parsed": {"glosses": {"en": "the water", "fa": "آب", "ur": "پانی", "tr": "su", "id": "air", "bn": "পানি", "es": "agua", "fr": "eau", "de": "Wasser", "ru": "вода", "zh": "水"}}, "issues": [], "meta": {"elapsed": 2.25, "input_tokens": 562, "output_tokens": 109, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

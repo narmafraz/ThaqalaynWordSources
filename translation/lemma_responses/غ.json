@@ -1,0 +1,1 @@
+{"slug": "غ", "kind": "lemma", "parsed": {"glosses": {"en": "ghayn", "fa": "غین", "ur": "غین", "tr": "gıyn", "id": "ghayn", "bn": "গাইন", "es": "ghayn", "fr": "ghayn", "de": "ghayn", "ru": "гаин", "zh": "盖因"}}, "issues": [], "meta": {"elapsed": 3.12, "input_tokens": 870, "output_tokens": 121, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

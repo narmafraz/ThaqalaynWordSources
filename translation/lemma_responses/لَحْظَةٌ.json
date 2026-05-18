@@ -1,0 +1,1 @@
+{"slug": "لَحْظَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "moment", "fa": "لحظه", "ur": "لحظہ", "tr": "an", "id": "momen", "bn": "ক্ষণ", "es": "momento", "fr": "instant", "de": "Moment", "ru": "мгновение", "zh": "瞬间"}}, "issues": [], "meta": {"elapsed": 3.77, "input_tokens": 594, "output_tokens": 113, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

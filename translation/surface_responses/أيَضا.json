@@ -1,0 +1,1 @@
+{"slug": "أيَضا", "kind": "surface", "parsed": {"glosses": {"en": "also", "fa": "همچنین", "ur": "بھی", "tr": "de", "id": "juga", "bn": "ও", "es": "también", "fr": "aussi", "de": "auch", "ru": "также", "zh": "也"}}, "issues": [], "meta": {"elapsed": 3.45, "input_tokens": 600, "output_tokens": 110, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

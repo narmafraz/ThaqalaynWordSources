@@ -1,0 +1,1 @@
+{"slug": "يَمامٌ", "kind": "lemma", "parsed": {"glosses": {"en": "dove", "fa": "کبوتر", "ur": "کبوتر", "tr": "güvercin", "id": "merpati", "bn": "কবুতর", "es": "paloma", "fr": "colombe", "de": "Taub", "ru": "голубь", "zh": "鸽子"}}, "issues": [], "meta": {"elapsed": 6.3, "input_tokens": 506, "output_tokens": 121, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

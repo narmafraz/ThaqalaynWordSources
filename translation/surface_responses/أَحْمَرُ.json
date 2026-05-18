@@ -1,0 +1,1 @@
+{"slug": "أَحْمَرُ", "kind": "surface", "parsed": {"glosses": {"en": "red", "fa": "قرمز", "ur": "سرخ", "tr": "kırmızı", "id": "merah", "bn": "লাল", "es": "rojo", "fr": "rouge", "de": "rot", "ru": "красный", "zh": "红"}}, "issues": [], "meta": {"elapsed": 2.98, "input_tokens": 1007, "output_tokens": 113, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

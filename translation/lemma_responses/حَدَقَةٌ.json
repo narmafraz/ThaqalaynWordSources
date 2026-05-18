@@ -1,0 +1,1 @@
+{"slug": "حَدَقَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "pupil", "fa": "مردمک", "ur": "مردمک", "tr": "merdemek", "id": "pupil", "bn": "পুপিল", "es": "pupila", "fr": "pupille", "de": "Pupille", "ru": "зрачок", "zh": "瞳孔"}}, "issues": [], "meta": {"elapsed": 4.25, "input_tokens": 943, "output_tokens": 124, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

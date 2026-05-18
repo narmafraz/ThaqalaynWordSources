@@ -1,0 +1,1 @@
+{"slug": "حَلَب", "kind": "lemma", "parsed": {"glosses": {"en": "Aleppo", "fa": "حلب", "ur": "حلب", "tr": "Aleppo", "id": "Aleppo", "bn": "হালাব", "es": "Alepo", "fr": "Alep", "de": "Aleppo", "ru": "Алепп", "zh": "阿勒颇"}}, "issues": [], "meta": {"elapsed": 4.18, "input_tokens": 1008, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

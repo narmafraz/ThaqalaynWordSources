@@ -1,0 +1,1 @@
+{"slug": "مَهاةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "milk", "fa": "شیر", "ur": "دودھ", "tr": "süt", "id": "susu", "bn": "দুধ", "es": "leche", "fr": "lait", "de": "Milch", "ru": "молоко", "zh": "牛奶"}}, "issues": [], "meta": {"elapsed": 5.46, "input_tokens": 450, "output_tokens": 114, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

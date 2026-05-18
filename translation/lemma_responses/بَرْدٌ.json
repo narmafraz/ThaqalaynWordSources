@@ -1,0 +1,1 @@
+{"slug": "بَرْدٌ", "kind": "lemma", "parsed": {"glosses": {"en": "coldness", "fa": "سرما", "ur": "ٹھنڈک", "tr": "soğukluk", "id": "kedinginan", "bn": "ঠান্ডা", "es": "frío", "fr": "froid", "de": "Kälte", "ru": "холод", "zh": "寒冷"}}, "issues": [], "meta": {"elapsed": 8.6, "input_tokens": 2126, "output_tokens": 123, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

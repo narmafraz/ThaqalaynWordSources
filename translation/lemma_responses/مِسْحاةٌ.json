@@ -1,0 +1,1 @@
+{"slug": "مِسْحاةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "shovel", "fa": "بیل", "ur": "پھوڑا", "tr": "kürek", "id": "sekop", "bn": "ফিটা", "es": "pala", "fr": "pelle", "de": "Schaufel", "ru": "лопата", "zh": "铲子"}}, "issues": [], "meta": {"elapsed": 4.39, "input_tokens": 731, "output_tokens": 121, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

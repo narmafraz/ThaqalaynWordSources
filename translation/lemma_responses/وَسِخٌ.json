@@ -1,0 +1,1 @@
+{"slug": "وَسِخٌ", "kind": "lemma", "parsed": {"glosses": {"en": "dirty", "fa": "کثیف", "ur": "گندا", "tr": "kirli", "id": "kotor", "bn": "নোংরা", "es": "sucio", "fr": "sale", "de": "schmutzig", "ru": "грязный", "zh": "脏的"}}, "issues": [], "meta": {"elapsed": 5.09, "input_tokens": 794, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

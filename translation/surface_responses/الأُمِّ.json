@@ -1,0 +1,1 @@
+{"slug": "الأُمِّ", "kind": "surface", "parsed": {"glosses": {"en": "the or", "fa": "یا", "ur": "یا", "tr": "veya", "id": "atau", "bn": "অথবা", "es": "o", "fr": "ou", "de": "oder", "ru": "или", "zh": "或者"}}, "issues": [], "meta": {"elapsed": 4.46, "input_tokens": 871, "output_tokens": 107, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

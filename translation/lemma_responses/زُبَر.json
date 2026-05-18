@@ -1,0 +1,1 @@
+{"slug": "زُبَر", "kind": "lemma", "parsed": {"glosses": {"en": "penis", "fa": "آلت تناسلی", "ur": "عضو تناسلی", "tr": "penis", "id": "penis", "bn": "লিঙ্গ", "es": "pene", "fr": "pénis", "de": "Penis", "ru": "член", "zh": "阴茎"}}, "issues": [], "meta": {"elapsed": 2.7, "input_tokens": 951, "output_tokens": 121, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

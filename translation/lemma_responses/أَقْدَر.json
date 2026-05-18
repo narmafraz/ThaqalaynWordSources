@@ -1,0 +1,1 @@
+{"slug": "أَقْدَر", "kind": "lemma", "parsed": {"glosses": {"en": "power", "fa": "قدرت", "ur": "قدرت", "tr": "güç", "id": "kekuatan", "bn": "শক্তি", "es": "poder", "fr": "pouvoir", "de": "Macht", "ru": "мощь", "zh": "力量"}}, "issues": [], "meta": {"elapsed": 2.39, "input_tokens": 449, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

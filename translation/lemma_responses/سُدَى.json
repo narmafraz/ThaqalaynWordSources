@@ -1,0 +1,1 @@
+{"slug": "سُدَى", "kind": "lemma", "parsed": {"glosses": {"en": "warp", "fa": "تار", "ur": "تار", "tr": "çözgü", "id": "benang lungsin", "bn": "তারা", "es": "urdimbre", "fr": "chaîne", "de": "Kette", "ru": "основа", "zh": "经线"}}, "issues": [], "meta": {"elapsed": 5.51, "input_tokens": 975, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

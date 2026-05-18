@@ -1,0 +1,1 @@
+{"slug": "مَنِيَّةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "death", "fa": "مرگ", "ur": "موت", "tr": "ölüm", "id": "kematian", "bn": "মৃত্যু", "es": "muerte", "fr": "mort", "de": "Tod", "ru": "смерть", "zh": "死亡"}}, "issues": [], "meta": {"elapsed": 4.68, "input_tokens": 628, "output_tokens": 114, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

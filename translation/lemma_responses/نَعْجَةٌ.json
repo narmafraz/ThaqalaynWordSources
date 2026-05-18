@@ -1,0 +1,1 @@
+{"slug": "نَعْجَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "ewe", "fa": "گوسفند ماده", "ur": "بھیڑی", "tr": "koyun", "id": "domba betina", "bn": "মেষী", "es": "oveja", "fr": "brebis", "de": "Schaf", "ru": "овца", "zh": "母羊"}}, "issues": [], "meta": {"elapsed": 3.72, "input_tokens": 729, "output_tokens": 121, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "أَصْنَامٍ", "kind": "surface", "parsed": {"glosses": {"en": "idols", "fa": "بت‌ها", "ur": "بت", "tr": "putlar", "id": "idola", "bn": "মূর্তি", "es": "ídolos", "fr": "idoles", "de": "Götzen", "ru": "идолы", "zh": "偶像"}}, "issues": [], "meta": {"elapsed": 4.35, "input_tokens": 940, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

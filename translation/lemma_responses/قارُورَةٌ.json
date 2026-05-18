@@ -1,0 +1,1 @@
+{"slug": "قارُورَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "flask", "fa": "بطری", "ur": "بطری", "tr": "şişe", "id": "botol", "bn": "বোতল", "es": "frasco", "fr": "flacon", "de": "Flasche", "ru": "фляга", "zh": "瓶子"}}, "issues": [], "meta": {"elapsed": 4.57, "input_tokens": 954, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

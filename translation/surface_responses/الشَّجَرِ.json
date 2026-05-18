@@ -1,0 +1,1 @@
+{"slug": "الشَّجَرِ", "kind": "surface", "parsed": {"glosses": {"en": "the tree", "fa": "درخت", "ur": "درخت", "tr": "ağaç", "id": "pohon", "bn": "গাছ", "es": "el árbol", "fr": "l'arbre", "de": "der Baum", "ru": "дерево", "zh": "树"}}, "issues": [], "meta": {"elapsed": 4.7, "input_tokens": 985, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

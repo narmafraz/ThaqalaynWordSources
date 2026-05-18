@@ -1,0 +1,1 @@
+{"slug": "إِدْبارٌ", "kind": "lemma", "parsed": {"glosses": {"en": "rear", "fa": "پشت", "ur": "پچھلا", "tr": "arka", "id": "belakang", "bn": "পেছন", "es": "trasera", "fr": "arrière", "de": "Rücken", "ru": "зад", "zh": "后面"}}, "issues": [], "meta": {"elapsed": 5.35, "input_tokens": 498, "output_tokens": 113, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

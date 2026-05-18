@@ -1,0 +1,1 @@
+{"slug": "فِعْلٌ", "kind": "lemma", "parsed": {"glosses": {"en": "action", "fa": "عمل", "ur": "عمل", "tr": "eylem", "id": "tindakan", "bn": "কর্ম", "es": "acción", "fr": "action", "de": "Tat", "ru": "действие", "zh": "行为"}}, "issues": [], "meta": {"elapsed": 4.42, "input_tokens": 1545, "output_tokens": 108, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

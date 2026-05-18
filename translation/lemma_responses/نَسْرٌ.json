@@ -1,0 +1,1 @@
+{"slug": "نَسْرٌ", "kind": "lemma", "parsed": {"glosses": {"en": "vulture", "fa": "کرکس", "ur": "کرکٹ", "tr": "akbaba", "id": "bangkai", "bn": "গিদ্ধ", "es": "buitre", "fr": "vautour", "de": "Geier", "ru": "гриф", "zh": "秃鹫"}}, "issues": [], "meta": {"elapsed": 5.66, "input_tokens": 925, "output_tokens": 122, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

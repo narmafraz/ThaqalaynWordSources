@@ -1,0 +1,1 @@
+{"slug": "إِرَمٌ", "kind": "lemma", "parsed": {"glosses": {"en": "Iram of the Pillars", "fa": "ایرام", "ur": "ایرام", "tr": "İram", "id": "Iram", "bn": "ইরাম", "es": "Iram", "fr": "Iram", "de": "Iram", "ru": "Ирам", "zh": "伊拉姆"}}, "issues": [], "meta": {"elapsed": 3.37, "input_tokens": 1000, "output_tokens": 120, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

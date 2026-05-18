@@ -1,0 +1,1 @@
+{"slug": "حِقْدٌ", "kind": "lemma", "parsed": {"glosses": {"en": "spite", "fa": "کینه", "ur": "کینہ", "tr": "kin", "id": "dendam", "bn": "কিংবতা", "es": "rencor", "fr": "rancune", "de": "Groll", "ru": "зависть", "zh": "怨恨"}}, "issues": [], "meta": {"elapsed": 6.15, "input_tokens": 648, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

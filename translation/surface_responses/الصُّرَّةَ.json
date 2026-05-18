@@ -1,0 +1,1 @@
+{"slug": "الصُّرَّةَ", "kind": "surface", "parsed": {"glosses": {"en": "the purse", "fa": "کیسه", "ur": "تھیلی", "tr": "torba", "id": "kantung", "bn": "থলি", "es": "bolsa", "fr": "bourse", "de": "Beutel", "ru": "мешок", "zh": "钱袋"}}, "issues": [], "meta": {"elapsed": 3.49, "input_tokens": 840, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

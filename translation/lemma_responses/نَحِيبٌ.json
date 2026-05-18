@@ -1,0 +1,1 @@
+{"slug": "نَحِيبٌ", "kind": "lemma", "parsed": {"glosses": {"en": "wailing", "fa": "گریه", "ur": "رونا", "tr": "hüzn", "id": "ratapan", "bn": "কান্না", "es": "llanto", "fr": "pleurs", "de": "Wehklagen", "ru": "плач", "zh": "哀号"}}, "issues": [], "meta": {"elapsed": 4.39, "input_tokens": 450, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "الزُّنْبُورِ", "kind": "surface", "parsed": {"glosses": {"en": "the hornet", "fa": "زنبور", "ur": "زنبور", "tr": "arı", "id": "tawon", "bn": "মৌমাছি", "es": "avispa", "fr": "frelon", "de": "Wespe", "ru": "оса", "zh": "黄蜂"}}, "issues": [], "meta": {"elapsed": 5.63, "input_tokens": 965, "output_tokens": 121, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

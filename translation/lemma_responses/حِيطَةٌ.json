@@ -1,0 +1,1 @@
+{"slug": "حِيطَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "wall", "fa": "دیوار", "ur": "دیوار", "tr": "duvar", "id": "tembok", "bn": "দেয়াল", "es": "muro", "fr": "mur", "de": "Mauer", "ru": "стена", "zh": "墙"}}, "issues": [], "meta": {"elapsed": 3.6, "input_tokens": 494, "output_tokens": 113, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

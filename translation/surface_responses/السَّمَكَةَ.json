@@ -1,0 +1,1 @@
+{"slug": "السَّمَكَةَ", "kind": "surface", "parsed": {"glosses": {"en": "the fish", "fa": "ماهی", "ur": "مچھلی", "tr": "balık", "id": "ikan", "bn": "মাছ", "es": "pez", "fr": "poisson", "de": "Fisch", "ru": "рыба", "zh": "鱼"}}, "issues": [], "meta": {"elapsed": 3.42, "input_tokens": 862, "output_tokens": 113, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

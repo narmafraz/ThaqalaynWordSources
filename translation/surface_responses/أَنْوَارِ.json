@@ -1,0 +1,1 @@
+{"slug": "أَنْوَارِ", "kind": "surface", "parsed": {"glosses": {"en": "lights", "fa": "نورها", "ur": "نور", "tr": "ışıklar", "id": "cahaya", "bn": "আলো", "es": "luces", "fr": "lumières", "de": "Lichter", "ru": "светы", "zh": "光"}}, "issues": [], "meta": {"elapsed": 4.09, "input_tokens": 874, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

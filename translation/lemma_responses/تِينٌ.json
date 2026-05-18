@@ -1,0 +1,1 @@
+{"slug": "تِينٌ", "kind": "lemma", "parsed": {"glosses": {"en": "fig", "fa": "انجیر", "ur": "انور", "tr": "incir", "id": "buah ara", "bn": "আম্রা", "es": "higo", "fr": "figue", "de": "Feige", "ru": "инжир", "zh": "无花果"}}, "issues": [], "meta": {"elapsed": 5.99, "input_tokens": 861, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

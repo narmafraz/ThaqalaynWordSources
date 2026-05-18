@@ -1,0 +1,1 @@
+{"slug": "مَوْسِمٌ", "kind": "lemma", "parsed": {"glosses": {"en": "season", "fa": "فصل", "ur": "موسم", "tr": "mevsim", "id": "musim", "bn": "ঋতু", "es": "estación", "fr": "saison", "de": "Jahreszeit", "ru": "сезон", "zh": "季节"}}, "issues": [], "meta": {"elapsed": 3.46, "input_tokens": 530, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

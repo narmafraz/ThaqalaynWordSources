@@ -1,0 +1,1 @@
+{"slug": "مَكْسِبٌ", "kind": "lemma", "parsed": {"glosses": {"en": "profit", "fa": "سود", "ur": "منافع", "tr": "kâr", "id": "keuntungan", "bn": "লাভ", "es": "ganancia", "fr": "profit", "de": "Gewinn", "ru": "прибыль", "zh": "利润"}}, "issues": [], "meta": {"elapsed": 4.71, "input_tokens": 491, "output_tokens": 112, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

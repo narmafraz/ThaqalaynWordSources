@@ -1,0 +1,1 @@
+{"slug": "إِبْلِيسُ", "kind": "surface", "parsed": {"glosses": {"en": "Iblis", "fa": "ابلیس", "ur": "ابلیس", "tr": "İblis", "id": "Iblis", "bn": "ইবলিস", "es": "Iblis", "fr": "Iblis", "de": "Iblis", "ru": "Иблис", "zh": "易卜劣斯"}}, "issues": [], "meta": {"elapsed": 3.85, "input_tokens": 985, "output_tokens": 127, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "جابِر", "kind": "lemma", "parsed": {"glosses": {"en": "Jabir", "fa": "جابر", "ur": "جابر", "tr": "Câbir", "id": "Jabir", "bn": "জাবির", "es": "Jabir", "fr": "Jabir", "de": "Dschabir", "ru": "Джабир", "zh": "贾比尔"}}, "issues": [], "meta": {"elapsed": 4.42, "input_tokens": 681, "output_tokens": 123, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "أَوْقَارِ", "kind": "surface", "parsed": {"glosses": {"en": "loads", "fa": "بارها", "ur": "بار", "tr": "yükler", "id": "muatan", "bn": "ভার", "es": "cargas", "fr": "charges", "de": "Lasten", "ru": "грузы", "zh": "负载"}}, "issues": [], "meta": {"elapsed": 3.72, "input_tokens": 840, "output_tokens": 110, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

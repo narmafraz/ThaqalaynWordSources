@@ -1,0 +1,1 @@
+{"slug": "عَباءَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "cloak", "fa": "عبا", "ur": "عباء", "tr": "aba", "id": "aba", "bn": "আবা", "es": "aba", "fr": "aba", "de": "Aba", "ru": "аба", "zh": "阿巴"}}, "issues": [], "meta": {"elapsed": 4.25, "input_tokens": 719, "output_tokens": 109, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

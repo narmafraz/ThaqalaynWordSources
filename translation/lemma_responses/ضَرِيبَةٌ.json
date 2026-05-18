@@ -1,0 +1,1 @@
+{"slug": "ضَرِيبَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "tax", "fa": "مالیات", "ur": "ٹیکس", "tr": "vergi", "id": "pajak", "bn": "ট্যাক্স", "es": "impuesto", "fr": "impôt", "de": "Steuer", "ru": "налог", "zh": "税"}}, "issues": [], "meta": {"elapsed": 4.36, "input_tokens": 962, "output_tokens": 114, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

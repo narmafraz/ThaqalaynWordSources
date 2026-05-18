@@ -1,0 +1,1 @@
+{"slug": "الدِّيكُ", "kind": "surface", "parsed": {"glosses": {"en": "the rooster", "fa": "خروس", "ur": "مور", "tr": "horoz", "id": "ayam", "bn": "মুরগি", "es": "gallo", "fr": "coq", "de": "Hahn", "ru": "петух", "zh": "公鸡"}}, "issues": [], "meta": {"elapsed": 5.12, "input_tokens": 851, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

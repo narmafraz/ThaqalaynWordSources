@@ -1,0 +1,1 @@
+{"slug": "اللَّحِمَ", "kind": "surface", "parsed": {"glosses": {"en": "the flesh, meat", "fa": "گوشت", "ur": "گوشت", "tr": "et", "id": "daging", "bn": "মাংস", "es": "carne", "fr": "viande", "de": "Fleisch", "ru": "мясо", "zh": "肉"}}, "issues": [], "meta": {"elapsed": 2.85, "input_tokens": 578, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

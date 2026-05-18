@@ -1,0 +1,1 @@
+{"slug": "أَكُ", "kind": "surface", "parsed": {"glosses": {"en": "to be", "fa": "بودن", "ur": "ہونا", "tr": "olmak", "id": "menjadi", "bn": "হওয়া", "es": "ser", "fr": "être", "de": "sein", "ru": "быть", "zh": "是"}}, "issues": [], "meta": {"elapsed": 2.8, "input_tokens": 558, "output_tokens": 110, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

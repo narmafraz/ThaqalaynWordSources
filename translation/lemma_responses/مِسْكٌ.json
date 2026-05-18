@@ -1,0 +1,1 @@
+{"slug": "مِسْكٌ", "kind": "lemma", "parsed": {"glosses": {"en": "musk", "fa": "مشک", "ur": "مشک", "tr": "misk", "id": "musk", "bn": "মুস্ক", "es": "almizcle", "fr": "musc", "de": "Moschus", "ru": "мускус", "zh": "麝香"}}, "issues": [], "meta": {"elapsed": 4.42, "input_tokens": 1819, "output_tokens": 120, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

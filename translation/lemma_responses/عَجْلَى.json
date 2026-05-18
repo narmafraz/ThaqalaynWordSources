@@ -1,0 +1,1 @@
+{"slug": "عَجْلَى", "kind": "lemma", "parsed": {"glosses": {"en": "fast, quick", "fa": "سریع", "ur": "تیز", "tr": "çabuk", "id": "cepat", "bn": "দ্রুত", "es": "rápido", "fr": "rapide", "de": "schnell", "ru": "быстрый", "zh": "快速"}}, "issues": [], "meta": {"elapsed": 4.16, "input_tokens": 679, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

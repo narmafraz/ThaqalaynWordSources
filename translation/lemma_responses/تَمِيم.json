@@ -1,0 +1,1 @@
+{"slug": "تَمِيم", "kind": "lemma", "parsed": {"glosses": {"en": "Tamim", "fa": "تمیم", "ur": "تمیم", "tr": "Tamim", "id": "Tamim", "bn": "তামিম", "es": "Tamim", "fr": "Tamim", "de": "Tamim", "ru": "Тамим", "zh": "塔米姆"}}, "issues": [], "meta": {"elapsed": 5.29, "input_tokens": 575, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

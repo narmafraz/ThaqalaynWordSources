@@ -1,0 +1,1 @@
+{"slug": "حَدَّ", "kind": "lemma", "parsed": {"glosses": {"en": "limit", "fa": "حد", "ur": "حد", "tr": "sınır", "id": "batas", "bn": "সীমা", "es": "límite", "fr": "limite", "de": "Grenze", "ru": "предел", "zh": "界限"}}, "issues": [], "meta": {"elapsed": 1.99, "input_tokens": 967, "output_tokens": 112, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

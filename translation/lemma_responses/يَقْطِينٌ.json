@@ -1,0 +1,1 @@
+{"slug": "يَقْطِينٌ", "kind": "lemma", "parsed": {"glosses": {"en": "gourd", "fa": "کدو", "ur": "کدو", "tr": "kabak", "id": "labu", "bn": "লাউ", "es": "calabaza", "fr": "courge", "de": "Kürbis", "ru": "тыква", "zh": "葫芦"}}, "issues": [], "meta": {"elapsed": 4.49, "input_tokens": 572, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "صَخَبٌ", "kind": "lemma", "parsed": {"glosses": {"en": "noise", "fa": "سر و صدا", "ur": "شور", "tr": "gürültü", "id": "keributan", "bn": "শোরগোল", "es": "ruido", "fr": "bruit", "de": "Lärm", "ru": "шум", "zh": "喧闹"}}, "issues": [], "meta": {"elapsed": 5.02, "input_tokens": 564, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

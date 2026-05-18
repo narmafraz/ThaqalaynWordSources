@@ -1,0 +1,1 @@
+{"slug": "حُكَّةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "itch", "fa": "خارش", "ur": "خارش", "tr": "kaşıntı", "id": "gatal", "bn": "চুলকানি", "es": "picazón", "fr": "démangeaison", "de": "Juckreiz", "ru": "зуд", "zh": "瘙痒"}}, "issues": [], "meta": {"elapsed": 4.41, "input_tokens": 926, "output_tokens": 120, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

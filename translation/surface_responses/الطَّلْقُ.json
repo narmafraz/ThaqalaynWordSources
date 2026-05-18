@@ -1,0 +1,1 @@
+{"slug": "الطَّلْقُ", "kind": "surface", "parsed": {"glosses": {"en": "the talc", "fa": "تالک", "ur": "تالک", "tr": "talk", "id": "talk", "bn": "টাল্ক", "es": "talco", "fr": "talc", "de": "Talk", "ru": "тальк", "zh": "滑石粉"}}, "issues": [], "meta": {"elapsed": 3.59, "input_tokens": 887, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

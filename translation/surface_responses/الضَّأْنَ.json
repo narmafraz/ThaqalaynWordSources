@@ -1,0 +1,1 @@
+{"slug": "الضَّأْنَ", "kind": "surface", "parsed": {"glosses": {"en": "the sheep", "fa": "گوسفند", "ur": "بھیڑ", "tr": "koyun", "id": "domba", "bn": "ভেড়া", "es": "oveja", "fr": "mouton", "de": "Schaf", "ru": "овца", "zh": "绵羊"}}, "issues": [], "meta": {"elapsed": 4.53, "input_tokens": 952, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "الَحضيض", "kind": "surface", "parsed": {"glosses": {"en": "the bottom", "fa": "کف", "ur": "تلا", "tr": "taban", "id": "dasar", "bn": "তলা", "es": "fondo", "fr": "fond", "de": "Boden", "ru": "дно", "zh": "底部"}}, "issues": [], "meta": {"elapsed": 3.57, "input_tokens": 892, "output_tokens": 110, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

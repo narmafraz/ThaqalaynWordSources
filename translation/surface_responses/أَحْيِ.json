@@ -1,0 +1,1 @@
+{"slug": "أَحْيِ", "kind": "surface", "parsed": {"glosses": {"en": "to come", "fa": "بیا", "ur": "آؤ", "tr": "gel", "id": "datang", "bn": "আসো", "es": "ven", "fr": "viens", "de": "komm", "ru": "приди", "zh": "来"}}, "issues": [], "meta": {"elapsed": 2.19, "input_tokens": 998, "output_tokens": 111, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

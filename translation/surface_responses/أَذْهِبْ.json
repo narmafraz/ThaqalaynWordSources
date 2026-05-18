@@ -1,0 +1,1 @@
+{"slug": "أَذْهِبْ", "kind": "surface", "parsed": {"glosses": {"en": "to go", "fa": "رفتن", "ur": "جانا", "tr": "gitmek", "id": "pergi", "bn": "যাওয়া", "es": "ir", "fr": "aller", "de": "gehen", "ru": "идти", "zh": "去"}}, "issues": [], "meta": {"elapsed": 4.07, "input_tokens": 1173, "output_tokens": 111, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

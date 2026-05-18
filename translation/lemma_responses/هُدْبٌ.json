@@ -1,0 +1,1 @@
+{"slug": "هُدْبٌ", "kind": "lemma", "parsed": {"glosses": {"en": "fringe", "fa": "حاشیه", "ur": "کناری", "tr": "püskül", "id": "tumpal", "bn": "ফ্রিঞ্জ", "es": "fleco", "fr": "frange", "de": "Puschel", "ru": "кисть", "zh": "流苏"}}, "issues": [], "meta": {"elapsed": 4.75, "input_tokens": 989, "output_tokens": 121, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

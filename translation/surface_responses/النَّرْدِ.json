@@ -1,0 +1,1 @@
+{"slug": "النَّرْدِ", "kind": "surface", "parsed": {"glosses": {"en": "the dice", "fa": "تخته نرد", "ur": "تختہ نرد", "tr": "tavla", "id": "dadu", "bn": "ডাইস", "es": "dados", "fr": "dés", "de": "Würfel", "ru": "нарды", "zh": "双陆棋"}}, "issues": [], "meta": {"elapsed": 5.7, "input_tokens": 747, "output_tokens": 120, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

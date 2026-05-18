@@ -1,0 +1,1 @@
+{"slug": "جَهْدٌ", "kind": "lemma", "parsed": {"glosses": {"en": "utmost effort", "fa": "کوشش", "ur": "کوشش", "tr": "güç", "id": "usaha", "bn": "চেষ্টা", "es": "esfuerzo", "fr": "effort", "de": "Mühe", "ru": "усилие", "zh": "尽力"}}, "issues": [], "meta": {"elapsed": 6.14, "input_tokens": 1846, "output_tokens": 121, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

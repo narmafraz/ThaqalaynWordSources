@@ -1,0 +1,1 @@
+{"slug": "هُم", "kind": "lemma", "parsed": {"glosses": {"en": "they", "fa": "آنها", "ur": "وہ", "tr": "onlar", "id": "mereka", "bn": "তারা", "es": "ellos", "fr": "ils", "de": "sie", "ru": "они", "zh": "他们"}}, "issues": [], "meta": {"elapsed": 4.62, "input_tokens": 1006, "output_tokens": 108, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

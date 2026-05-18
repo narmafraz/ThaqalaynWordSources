@@ -1,0 +1,1 @@
+{"slug": "أَقْدَامٍ", "kind": "surface", "parsed": {"glosses": {"en": "feet", "fa": "پاها", "ur": "پاؤں", "tr": "ayaklar", "id": "kaki", "bn": "পা", "es": "pies", "fr": "pieds", "de": "Füße", "ru": "ступни", "zh": "脚"}}, "issues": [], "meta": {"elapsed": 2.7, "input_tokens": 911, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

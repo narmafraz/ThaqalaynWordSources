@@ -1,0 +1,1 @@
+{"slug": "جَزَرٌ", "kind": "lemma", "parsed": {"glosses": {"en": "carrot", "fa": "هویج", "ur": "گاجر", "tr": "havuç", "id": "wortel", "bn": "গাজর", "es": "zanahoria", "fr": "carotte", "de": "Karotte", "ru": "морковь", "zh": "胡萝卜"}}, "issues": [], "meta": {"elapsed": 2.98, "input_tokens": 973, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

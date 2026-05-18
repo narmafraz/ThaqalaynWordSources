@@ -1,0 +1,1 @@
+{"slug": "٠", "kind": "lemma", "parsed": {"glosses": {"en": "zero", "fa": "صفر", "ur": "صفر", "tr": "sıfır", "id": "nol", "bn": "শূন্য", "es": "cero", "fr": "zéro", "de": "Null", "ru": "ноль", "zh": "零"}}, "issues": [], "meta": {"elapsed": 4.5, "input_tokens": 450, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

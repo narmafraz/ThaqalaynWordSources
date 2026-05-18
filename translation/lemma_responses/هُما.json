@@ -1,0 +1,1 @@
+{"slug": "هُما", "kind": "lemma", "parsed": {"glosses": {"en": "they both", "fa": "هر دو", "ur": "دونوں", "tr": "ikisi de", "id": "keduanya", "bn": "উভয়ে", "es": "ambos", "fr": "tous deux", "de": "beide", "ru": "оба", "zh": "两者"}}, "issues": [], "meta": {"elapsed": 5.22, "input_tokens": 1503, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

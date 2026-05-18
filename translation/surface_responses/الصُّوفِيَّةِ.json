@@ -1,0 +1,1 @@
+{"slug": "الصُّوفِيَّةِ", "kind": "surface", "parsed": {"glosses": {"en": "the Sufi", "fa": "صوفی", "ur": "صوفی", "tr": "Sufi", "id": "Sufi", "bn": "সূফি", "es": "Sufí", "fr": "Soufi", "de": "Sufi", "ru": "суфий", "zh": "苏菲"}}, "issues": [], "meta": {"elapsed": 5.05, "input_tokens": 792, "output_tokens": 125, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

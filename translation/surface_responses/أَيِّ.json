@@ -1,0 +1,1 @@
+{"slug": "أَيِّ", "kind": "surface", "parsed": {"glosses": {"en": "O", "fa": "ای", "ur": "اے", "tr": "Ey", "id": "Wahai", "bn": "হে", "es": "¡Oh!", "fr": "Ô", "de": "O", "ru": "О", "zh": "啊"}}, "issues": [], "meta": {"elapsed": 2.45, "input_tokens": 1112, "output_tokens": 108, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

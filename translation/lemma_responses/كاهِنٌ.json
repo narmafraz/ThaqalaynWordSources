@@ -1,0 +1,1 @@
+{"slug": "كاهِنٌ", "kind": "lemma", "parsed": {"glosses": {"en": "diviner", "fa": "کاهن", "ur": "کاهن", "tr": "kehan", "id": "dukun", "bn": "কাহিন", "es": "adivino", "fr": "devin", "de": "Seher", "ru": "гадатель", "zh": "占卜者"}}, "issues": [], "meta": {"elapsed": 3.59, "input_tokens": 503, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

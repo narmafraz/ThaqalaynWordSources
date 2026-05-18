@@ -1,0 +1,1 @@
+{"slug": "خُطْبَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "sermon", "fa": "خطبه", "ur": "خطبہ", "tr": "hutbe", "id": "khutbah", "bn": "খুতবা", "es": "sermón", "fr": "sermon", "de": "Predigt", "ru": "хутба", "zh": "演讲"}}, "issues": [], "meta": {"elapsed": 4.24, "input_tokens": 912, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

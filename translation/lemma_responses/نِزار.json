@@ -1,0 +1,1 @@
+{"slug": "نِزار", "kind": "lemma", "parsed": {"glosses": {"en": "Nizar", "fa": "نزار", "ur": "نزار", "tr": "Nizar", "id": "Nizar", "bn": "নিজার", "es": "Nizar", "fr": "Nizar", "de": "Nizar", "ru": "Низар", "zh": "尼扎尔"}}, "issues": [], "meta": {"elapsed": 2.83, "input_tokens": 481, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

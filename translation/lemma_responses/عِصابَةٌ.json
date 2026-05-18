@@ -1,0 +1,1 @@
+{"slug": "عِصابَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "bandage", "fa": "باند", "ur": "پٹی", "tr": "sargı", "id": "perban", "bn": "প্যাচ", "es": "vendaje", "fr": "bandage", "de": "Verband", "ru": "повязка", "zh": "绷带"}}, "issues": [], "meta": {"elapsed": 3.72, "input_tokens": 930, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

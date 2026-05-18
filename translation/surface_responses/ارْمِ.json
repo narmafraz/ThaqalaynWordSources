@@ -1,0 +1,1 @@
+{"slug": "ارْمِ", "kind": "surface", "parsed": {"glosses": {"en": "throw", "fa": "پرتاب کن", "ur": "پھینک دو", "tr": "at", "id": "lempar", "bn": "নিক্ষেপ করো", "es": "lanza", "fr": "jette", "de": "wirf", "ru": "брось", "zh": "投掷"}}, "issues": [], "meta": {"elapsed": 2.4, "input_tokens": 1000, "output_tokens": 123, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

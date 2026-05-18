@@ -1,0 +1,1 @@
+{"slug": "أَبَالِسَتِهِ", "kind": "surface", "parsed": {"glosses": {"en": "his night", "fa": "شب او", "ur": "رات", "tr": "gecesi", "id": "malamnya", "bn": "রাত", "es": "noche", "fr": "nuit", "de": "Nacht", "ru": "ночь", "zh": "夜晚"}}, "issues": [], "meta": {"elapsed": 3.25, "input_tokens": 568, "output_tokens": 113, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

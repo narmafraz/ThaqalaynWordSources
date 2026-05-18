@@ -1,0 +1,1 @@
+{"slug": "شَتَّى", "kind": "lemma", "parsed": {"glosses": {"en": "winter", "fa": "زمستان", "ur": "سردی", "tr": "kış", "id": "musim dingin", "bn": "শীত", "es": "invierno", "fr": "hiver", "de": "Winter", "ru": "зима", "zh": "冬天"}}, "issues": [], "meta": {"elapsed": 4.71, "input_tokens": 502, "output_tokens": 113, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

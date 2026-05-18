@@ -1,0 +1,1 @@
+{"slug": "مَيِّتٌ", "kind": "lemma", "parsed": {"glosses": {"en": "dead", "fa": "مرده", "ur": "مرنے والا", "tr": "ölü", "id": "orang mati", "bn": "মৃত", "es": "muerto", "fr": "mort", "de": "Tote", "ru": "умерший", "zh": "死者"}}, "issues": [], "meta": {"elapsed": 4.88, "input_tokens": 943, "output_tokens": 113, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

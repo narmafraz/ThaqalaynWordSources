@@ -1,0 +1,1 @@
+{"slug": "أَيِّلٌ", "kind": "lemma", "parsed": {"glosses": {"en": "stag", "fa": "گوزن", "ur": "گوزن", "tr": "dağ keçisi", "id": "rusa", "bn": "হরিণ", "es": "ciervo", "fr": "cerf", "de": "Hirsch", "ru": "олень", "zh": "马鹿"}}, "issues": [], "meta": {"elapsed": 5.41, "input_tokens": 1025, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

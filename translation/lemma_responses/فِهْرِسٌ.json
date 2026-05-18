@@ -1,0 +1,1 @@
+{"slug": "فِهْرِسٌ", "kind": "lemma", "parsed": {"glosses": {"en": "index", "fa": "فهرست", "ur": "فہرست", "tr": "dizin", "id": "indeks", "bn": "সূচী", "es": "índice", "fr": "index", "de": "Index", "ru": "указатель", "zh": "索引"}}, "issues": [], "meta": {"elapsed": 4.45, "input_tokens": 586, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

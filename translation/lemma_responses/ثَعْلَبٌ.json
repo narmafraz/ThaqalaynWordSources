@@ -1,0 +1,1 @@
+{"slug": "ثَعْلَبٌ", "kind": "lemma", "parsed": {"glosses": {"en": "fox", "fa": "روباه", "ur": "لومڑ", "tr": "tilki", "id": "rubah", "bn": "শিয়াল", "es": "zorro", "fr": "renard", "de": "Fuchs", "ru": "лиса", "zh": "狐狸"}}, "issues": [], "meta": {"elapsed": 3.31, "input_tokens": 971, "output_tokens": 114, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

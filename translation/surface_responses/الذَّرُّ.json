@@ -1,0 +1,1 @@
+{"slug": "الذَّرُّ", "kind": "surface", "parsed": {"glosses": {"en": "the mote", "fa": "ذره", "ur": "ذرہ", "tr": "zerre", "id": "butiran", "bn": "কণা", "es": "mote", "fr": "mote", "de": "Körnchen", "ru": "пылинка", "zh": "微粒"}}, "issues": [], "meta": {"elapsed": 4.6, "input_tokens": 997, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

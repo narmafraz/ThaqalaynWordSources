@@ -1,0 +1,1 @@
+{"slug": "وَسَطٌ", "kind": "lemma", "parsed": {"glosses": {"en": "middle", "fa": "وسط", "ur": "وسط", "tr": "orta", "id": "tengah", "bn": "মাঝ", "es": "medio", "fr": "milieu", "de": "Mitte", "ru": "середина", "zh": "中间"}}, "issues": [], "meta": {"elapsed": 3.57, "input_tokens": 898, "output_tokens": 109, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

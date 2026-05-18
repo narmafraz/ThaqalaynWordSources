@@ -1,0 +1,1 @@
+{"slug": "كَثِيرٌ", "kind": "lemma", "parsed": {"glosses": {"en": "many", "fa": "زیاد", "ur": "زیاد", "tr": "çok", "id": "banyak", "bn": "অনেক", "es": "mucho", "fr": "beaucoup", "de": "viel", "ru": "много", "zh": "许多"}}, "issues": [], "meta": {"elapsed": 3.64, "input_tokens": 889, "output_tokens": 110, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

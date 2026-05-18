@@ -1,0 +1,1 @@
+{"slug": "تاءاتٌ", "kind": "lemma", "parsed": {"glosses": {"en": "ta", "fa": "تاء", "ur": "تاء", "tr": "ta", "id": "ta", "bn": "তা", "es": "ta", "fr": "ta", "de": "ta", "ru": "та", "zh": "塔"}}, "issues": [], "meta": {"elapsed": 2.5, "input_tokens": 474, "output_tokens": 105, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "الزَّرْعَ", "kind": "surface", "parsed": {"glosses": {"en": "the crop", "fa": "محصول", "ur": "پھل", "tr": "ürün", "id": "tanaman", "bn": "ফসল", "es": "cosecha", "fr": "récolte", "de": "Ernte", "ru": "урожай", "zh": "庄稼"}}, "issues": [], "meta": {"elapsed": 3.24, "input_tokens": 949, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "سَعْدِي", "kind": "lemma", "parsed": {"glosses": {"en": "Sa'di", "fa": "سعدی", "ur": "سعدي", "tr": "Sa'di", "id": "Sa'di", "bn": "সা'দি", "es": "Sa'di", "fr": "Sa'di", "de": "Sa'di", "ru": "Саади", "zh": "萨迪"}}, "issues": [], "meta": {"elapsed": 4.96, "input_tokens": 474, "output_tokens": 123, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

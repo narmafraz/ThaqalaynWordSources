@@ -1,0 +1,1 @@
+{"slug": "آمِنَةُ", "kind": "surface", "parsed": {"glosses": {"en": "Amina", "fa": "آمنه", "ur": "آمنہ", "tr": "Amine", "id": "Amina", "bn": "আমিনা", "es": "Amina", "fr": "Amina", "de": "Amina", "ru": "Амина", "zh": "阿米娜"}}, "issues": [], "meta": {"elapsed": 4.58, "input_tokens": 1039, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

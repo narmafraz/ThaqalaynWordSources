@@ -1,0 +1,1 @@
+{"slug": "سَمُّورٌ", "kind": "lemma", "parsed": {"glosses": {"en": "sable", "fa": "سمور", "ur": "سمور", "tr": "sümsük", "id": "sable", "bn": "সম্বর", "es": "sable", "fr": "sable", "de": "Sable", "ru": "соболь", "zh": "紫貂"}}, "issues": [], "meta": {"elapsed": 3.22, "input_tokens": 617, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

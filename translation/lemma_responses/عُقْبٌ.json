@@ -1,0 +1,1 @@
+{"slug": "عُقْبٌ", "kind": "lemma", "parsed": {"glosses": {"en": "heel", "fa": "پاشنه", "ur": "ایڑی", "tr": "topuk", "id": "tumit", "bn": "এড়ি", "es": "talón", "fr": "talon", "de": "Ferse", "ru": "пятка", "zh": "脚后跟"}}, "issues": [], "meta": {"elapsed": 5.01, "input_tokens": 745, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

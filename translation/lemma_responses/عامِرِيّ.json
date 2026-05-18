@@ -1,0 +1,1 @@
+{"slug": "عامِرِيّ", "kind": "lemma", "parsed": {"glosses": {"en": "Amiri", "fa": "عامری", "ur": "عامری", "tr": "Amiri", "id": "Amiri", "bn": "আমিরি", "es": "Amiri", "fr": "Amiri", "de": "Amiri", "ru": "Амири", "zh": "阿米里"}}, "issues": [], "meta": {"elapsed": 4.33, "input_tokens": 450, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

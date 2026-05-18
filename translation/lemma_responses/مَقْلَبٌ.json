@@ -1,0 +1,1 @@
+{"slug": "مَقْلَبٌ", "kind": "lemma", "parsed": {"glosses": {"en": "plow", "fa": "گاوآهن", "ur": "ہل", "tr": "çapa", "id": "cangkul", "bn": "হাল", "es": "arado", "fr": "charrue", "de": "Pflug", "ru": "плуг", "zh": "犁"}}, "issues": [], "meta": {"elapsed": 5.52, "input_tokens": 491, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "الضُّرُوبِ", "kind": "surface", "parsed": {"glosses": {"en": "the types", "fa": "انواع", "ur": "اقسام", "tr": "türler", "id": "jenis", "bn": "প্রকার", "es": "tipos", "fr": "types", "de": "Arten", "ru": "виды", "zh": "种类"}}, "issues": [], "meta": {"elapsed": 3.22, "input_tokens": 615, "output_tokens": 111, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

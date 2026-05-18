@@ -1,0 +1,1 @@
+{"slug": "إِبْرِيسَمٌ", "kind": "lemma", "parsed": {"glosses": {"en": "silk", "fa": "ابریشم", "ur": "ابریشم", "tr": "ipek", "id": "sutra", "bn": "রেশম", "es": "seda", "fr": "soie", "de": "Seide", "ru": "шелк", "zh": "丝绸"}}, "issues": [], "meta": {"elapsed": 2.92, "input_tokens": 981, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

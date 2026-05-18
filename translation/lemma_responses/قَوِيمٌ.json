@@ -1,0 +1,1 @@
+{"slug": "قَوِيمٌ", "kind": "lemma", "parsed": {"glosses": {"en": "straight", "fa": "راست", "ur": "سیدھا", "tr": "düz", "id": "lurus", "bn": "সোজা", "es": "recto", "fr": "droit", "de": "gerade", "ru": "прямой", "zh": "正直"}}, "issues": [], "meta": {"elapsed": 5.86, "input_tokens": 467, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

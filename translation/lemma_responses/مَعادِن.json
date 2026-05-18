@@ -1,0 +1,1 @@
+{"slug": "مَعادِن", "kind": "lemma", "parsed": {"glosses": {"en": "mines", "fa": "معادن", "ur": "معادن", "tr": "madenler", "id": "tambang", "bn": "খনি", "es": "minas", "fr": "mines", "de": "Erzgruben", "ru": "рудники", "zh": "矿藏"}}, "issues": [], "meta": {"elapsed": 7.82, "input_tokens": 471, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

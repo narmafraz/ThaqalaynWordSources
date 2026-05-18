@@ -1,0 +1,1 @@
+{"slug": "باذِلٌ", "kind": "lemma", "parsed": {"glosses": {"en": "giver", "fa": "بخشنده", "ur": "بخشنے والا", "tr": "verici", "id": "pemberi", "bn": "দাতা", "es": "dador", "fr": "donneur", "de": "Geber", "ru": "дающий", "zh": "给予者"}}, "issues": [], "meta": {"elapsed": 4.9, "input_tokens": 476, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

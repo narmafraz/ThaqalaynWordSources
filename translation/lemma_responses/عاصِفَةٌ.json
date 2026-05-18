@@ -1,0 +1,1 @@
+{"slug": "عاصِفَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "storm", "fa": "طوفان", "ur": "طوفان", "tr": "fırtına", "id": "badai", "bn": "ঝড়", "es": "tormenta", "fr": "tempête", "de": "Sturm", "ru": "буря", "zh": "风暴"}}, "issues": [], "meta": {"elapsed": 5.27, "input_tokens": 459, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

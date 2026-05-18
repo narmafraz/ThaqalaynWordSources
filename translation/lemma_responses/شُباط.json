@@ -1,0 +1,1 @@
+{"slug": "شُباط", "kind": "lemma", "parsed": {"glosses": {"en": "Shubat", "fa": "شباط", "ur": "شباط", "tr": "Subat", "id": "Shubat", "bn": "শুবাট", "es": "Shubat", "fr": "Shubat", "de": "Shubat", "ru": "Шубат", "zh": "舒巴特"}}, "issues": [], "meta": {"elapsed": 3.28, "input_tokens": 540, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

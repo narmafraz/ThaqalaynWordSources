@@ -1,0 +1,1 @@
+{"slug": "السَّعِيدُ", "kind": "surface", "parsed": {"glosses": {"en": "Said", "fa": "سعید", "ur": "سعید", "tr": "Sa'id", "id": "Sa'id", "bn": "সঈদ", "es": "Said", "fr": "Saïd", "de": "Sa'id", "ru": "Саид", "zh": "赛义德"}}, "issues": [], "meta": {"elapsed": 3.93, "input_tokens": 950, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

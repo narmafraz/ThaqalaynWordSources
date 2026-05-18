@@ -1,0 +1,1 @@
+{"slug": "أَبَهٌ", "kind": "lemma", "parsed": {"glosses": {"en": "disgrace", "fa": "شرم", "ur": "شرم", "tr": "utanç", "id": "malu", "bn": "শরম", "es": "desgracia", "fr": "honte", "de": "Schande", "ru": "позор", "zh": "耻辱"}}, "issues": [], "meta": {"elapsed": 4.32, "input_tokens": 814, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

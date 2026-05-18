@@ -1,0 +1,1 @@
+{"slug": "بَكْرِيّ", "kind": "lemma", "parsed": {"glosses": {"en": "Bakri", "fa": "بکرى", "ur": "بکرى", "tr": "Bakri", "id": "Bakri", "bn": "বাকরি", "es": "Bakri", "fr": "Bakri", "de": "Bakri", "ru": "Бакры", "zh": "巴克里"}}, "issues": [], "meta": {"elapsed": 4.99, "input_tokens": 451, "output_tokens": 123, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

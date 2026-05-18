@@ -1,0 +1,1 @@
+{"slug": "أَكْلُ", "kind": "surface", "parsed": {"glosses": {"en": "eating", "fa": "خوردن", "ur": "کھانا", "tr": "yemek", "id": "makan", "bn": "খাওয়া", "es": "comida", "fr": "repas", "de": "Essen", "ru": "еда", "zh": "食物"}}, "issues": [], "meta": {"elapsed": 4.09, "input_tokens": 1156, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

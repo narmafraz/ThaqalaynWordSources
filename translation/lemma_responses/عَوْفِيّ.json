@@ -1,0 +1,1 @@
+{"slug": "عَوْفِيّ", "kind": "lemma", "parsed": {"glosses": {"en": "Awfi", "fa": "عوفی", "ur": "عوفی", "tr": "Avfi", "id": "Awfi", "bn": "আওফি", "es": "Awfi", "fr": "Awfi", "de": "Awfi", "ru": "Ауфи", "zh": "奥菲"}}, "issues": [], "meta": {"elapsed": 2.55, "input_tokens": 451, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

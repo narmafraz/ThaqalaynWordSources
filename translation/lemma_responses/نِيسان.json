@@ -1,0 +1,1 @@
+{"slug": "نِيسان", "kind": "lemma", "parsed": {"glosses": {"en": "Nisan", "fa": "نيسان", "ur": "نيسان", "tr": "Nisan", "id": "Nisan", "bn": "নিসান", "es": "Nisan", "fr": "Nisan", "de": "Nisan", "ru": "Нисан", "zh": "尼桑月"}}, "issues": [], "meta": {"elapsed": 3.18, "input_tokens": 548, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

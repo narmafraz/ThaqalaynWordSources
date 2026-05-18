@@ -1,0 +1,1 @@
+{"slug": "إِصْبَعٌ", "kind": "lemma", "parsed": {"glosses": {"en": "finger", "fa": "انگشت", "ur": "انگلی", "tr": "parmak", "id": "jari", "bn": "আঙুল", "es": "dedo", "fr": "doigt", "de": "Finger", "ru": "палец", "zh": "手指"}}, "issues": [], "meta": {"elapsed": 5.14, "input_tokens": 990, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

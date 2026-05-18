@@ -1,0 +1,1 @@
+{"slug": "ناصِيَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "forehead", "fa": "پیشانی", "ur": "پیشانی", "tr": "alın", "id": "dahi", "bn": "মাথা", "es": "frente", "fr": "front", "de": "Stirn", "ru": "лоб", "zh": "前额"}}, "issues": [], "meta": {"elapsed": 4.4, "input_tokens": 588, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "اصْنَعُوا", "kind": "surface", "parsed": {"glosses": {"en": "do", "fa": "انجام دهید", "ur": "کرو", "tr": "yapın", "id": "lakukan", "bn": "করো", "es": "haced", "fr": "faites", "de": "tut", "ru": "делайте", "zh": "做"}}, "issues": [], "meta": {"elapsed": 2.34, "input_tokens": 476, "output_tokens": 114, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

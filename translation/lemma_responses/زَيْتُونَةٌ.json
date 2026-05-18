@@ -1,0 +1,1 @@
+{"slug": "زَيْتُونَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "Olive", "fa": "زیتون", "ur": "زیتون", "tr": "Zeytin", "id": "Zaitun", "bn": "জাতিফল", "es": "Aceituna", "fr": "Olive", "de": "Oliven", "ru": "Олива", "zh": "橄榄"}}, "issues": [], "meta": {"elapsed": 3.39, "input_tokens": 451, "output_tokens": 121, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

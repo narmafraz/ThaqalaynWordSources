@@ -1,0 +1,1 @@
+{"slug": "وَمِيضٌ", "kind": "lemma", "parsed": {"glosses": {"en": "flash", "fa": "درخشش", "ur": "چمک", "tr": "yanıp sönme", "id": "kilatan", "bn": "ঝলক", "es": "destello", "fr": "éclair", "de": "Blitz", "ru": "вспышка", "zh": "闪光"}}, "issues": [], "meta": {"elapsed": 5.3, "input_tokens": 476, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

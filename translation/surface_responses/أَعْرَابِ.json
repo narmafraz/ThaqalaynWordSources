@@ -1,0 +1,1 @@
+{"slug": "أَعْرَابِ", "kind": "surface", "parsed": {"glosses": {"en": "Bedouins", "fa": "عرب‌ها", "ur": "عرب", "tr": "Araplar", "id": "Arab", "bn": "আরব", "es": "árabes", "fr": "Arabes", "de": "Arapen", "ru": "арабы", "zh": "阿拉伯人"}}, "issues": [], "meta": {"elapsed": 4.19, "input_tokens": 991, "output_tokens": 122, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

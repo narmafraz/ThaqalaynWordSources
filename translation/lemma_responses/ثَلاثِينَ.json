@@ -1,0 +1,1 @@
+{"slug": "ثَلاثِينَ", "kind": "lemma", "parsed": {"glosses": {"en": "thirty", "fa": "سی", "ur": "تیس", "tr": "otuz", "id": "tiga puluh", "bn": "ত্রিশ", "es": "treinta", "fr": "trente", "de": "dreißig", "ru": "тридцать", "zh": "三十"}}, "issues": [], "meta": {"elapsed": 4.63, "input_tokens": 961, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "مَكْرٌ", "kind": "lemma", "parsed": {"glosses": {"en": "deception", "fa": "حیله", "ur": "حیلت", "tr": "hile", "id": "tipu daya", "bn": "প্রতারণা", "es": "engaño", "fr": "ruse", "de": "List", "ru": "хитрость", "zh": "诡计"}}, "issues": [], "meta": {"elapsed": 4.32, "input_tokens": 953, "output_tokens": 120, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

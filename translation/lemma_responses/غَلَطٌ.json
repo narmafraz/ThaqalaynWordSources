@@ -1,0 +1,1 @@
+{"slug": "غَلَطٌ", "kind": "lemma", "parsed": {"glosses": {"en": "mistake", "fa": "اشتباه", "ur": "غلطی", "tr": "hata", "id": "kesalahan", "bn": "ভুল", "es": "error", "fr": "erreur", "de": "Irrtum", "ru": "ошибка", "zh": "错误"}}, "issues": [], "meta": {"elapsed": 5.18, "input_tokens": 926, "output_tokens": 114, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

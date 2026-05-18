@@ -1,0 +1,1 @@
+{"slug": "الطَّائِفِ", "kind": "surface", "parsed": {"glosses": {"en": "Tayif", "fa": "طائف", "ur": "طائف", "tr": "Tayif", "id": "Tayif", "bn": "তাইফ", "es": "Tayif", "fr": "Tayif", "de": "Tayif", "ru": "Тайиф", "zh": "塔伊夫"}}, "issues": [], "meta": {"elapsed": 2.74, "input_tokens": 741, "output_tokens": 123, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

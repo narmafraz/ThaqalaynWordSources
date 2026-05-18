@@ -1,0 +1,1 @@
+{"slug": "مالِحٌ", "kind": "lemma", "parsed": {"glosses": {"en": "salty", "fa": "شور", "ur": "نمکین", "tr": "tuzlu", "id": "asin", "bn": "লবণাক্ত", "es": "salado", "fr": "salé", "de": "salzig", "ru": "солёный", "zh": "咸的"}}, "issues": [], "meta": {"elapsed": 4.05, "input_tokens": 485, "output_tokens": 120, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

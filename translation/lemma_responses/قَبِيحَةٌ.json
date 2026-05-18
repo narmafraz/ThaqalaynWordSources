@@ -1,0 +1,1 @@
+{"slug": "قَبِيحَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "ugly", "fa": "زشت", "ur": "بدا", "tr": "çirkin", "id": "jelek", "bn": "নিকৃতি", "es": "feo", "fr": "laid", "de": "hässlich", "ru": "некрасивый", "zh": "丑陋的"}}, "issues": [], "meta": {"elapsed": 7.45, "input_tokens": 964, "output_tokens": 120, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

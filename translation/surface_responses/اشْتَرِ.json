@@ -1,0 +1,1 @@
+{"slug": "اشْتَرِ", "kind": "surface", "parsed": {"glosses": {"en": "buy!", "fa": "بخر!", "ur": "خریدو!", "tr": "al!", "id": "beli!", "bn": "কিনো!", "es": "¡compra!", "fr": "achète!", "de": "kauf!", "ru": "купи!", "zh": "买！"}}, "issues": [], "meta": {"elapsed": 3.06, "input_tokens": 664, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

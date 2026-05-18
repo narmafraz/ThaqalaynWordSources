@@ -1,0 +1,1 @@
+{"slug": "أيَمان", "kind": "surface", "parsed": {"glosses": {"en": "faiths", "fa": "ایمان‌ها", "ur": "ایمان", "tr": "imanlar", "id": "iman-iman", "bn": "ইমান", "es": "fe", "fr": "foi", "de": "Glaube", "ru": "вера", "zh": "信仰"}}, "issues": [], "meta": {"elapsed": 4.97, "input_tokens": 907, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "مادَّةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "matter", "fa": "ماده", "ur": "مادہ", "tr": "madde", "id": "materi", "bn": "পদার্থ", "es": "materia", "fr": "matière", "de": "Stoff", "ru": "вещество", "zh": "物质"}}, "issues": [], "meta": {"elapsed": 3.79, "input_tokens": 464, "output_tokens": 114, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

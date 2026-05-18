@@ -1,0 +1,1 @@
+{"slug": "جُرْبٌ", "kind": "lemma", "parsed": {"glosses": {"en": "mange", "fa": "جرب", "ur": "جرب", "tr": "çat", "id": "kudis", "bn": "জরব", "es": "sarna", "fr": "gale", "de": "Räude", "ru": "чешуйчатка", "zh": "疥癣"}}, "issues": [], "meta": {"elapsed": 6.94, "input_tokens": 2266, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

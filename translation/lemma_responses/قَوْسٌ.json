@@ -1,0 +1,1 @@
+{"slug": "قَوْسٌ", "kind": "lemma", "parsed": {"glosses": {"en": "bow", "fa": "کمان", "ur": "کمان", "tr": "yay", "id": "busur", "bn": "ধনুক", "es": "arco", "fr": "arc", "de": "Bogen", "ru": "лук", "zh": "弓"}}, "issues": [], "meta": {"elapsed": 5.27, "input_tokens": 1026, "output_tokens": 111, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

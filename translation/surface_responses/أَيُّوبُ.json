@@ -1,0 +1,1 @@
+{"slug": "أَيُّوبُ", "kind": "surface", "parsed": {"glosses": {"en": "Job", "fa": "ایوب", "ur": "ایوب", "tr": "Eyüp", "id": "Ayyub", "bn": "আয়্যুব", "es": "Job", "fr": "Job", "de": "Hiob", "ru": "Аюб", "zh": "优素福"}}, "issues": [], "meta": {"elapsed": 2.6, "input_tokens": 724, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

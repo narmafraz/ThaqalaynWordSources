@@ -1,0 +1,1 @@
+{"slug": "الزُّطَّ", "kind": "surface", "parsed": {"glosses": {"en": "the Zut", "fa": "زط", "ur": "الزط", "tr": "Zut", "id": "Zut", "bn": "জুত", "es": "el Zut", "fr": "le Zut", "de": "die Zut", "ru": "аз-зутт", "zh": "祖特"}}, "issues": [], "meta": {"elapsed": 5.25, "input_tokens": 573, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

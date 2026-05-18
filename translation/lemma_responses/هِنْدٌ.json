@@ -1,0 +1,1 @@
+{"slug": "هِنْدٌ", "kind": "lemma", "parsed": {"glosses": {"en": "Hind", "fa": "هند", "ur": "ہند", "tr": "Hind", "id": "Hind", "bn": "হিন্দ", "es": "Hind", "fr": "Hind", "de": "Hind", "ru": "Хинд", "zh": "欣德"}}, "issues": [], "meta": {"elapsed": 3.33, "input_tokens": 863, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

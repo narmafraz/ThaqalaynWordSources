@@ -1,0 +1,1 @@
+{"slug": "أَرْنَبٌ", "kind": "lemma", "parsed": {"glosses": {"en": "rabbit", "fa": "خرگوش", "ur": "خرگوش", "tr": "tavşan", "id": "kelinci", "bn": "খরগোশ", "es": "conejo", "fr": "lapin", "de": "Hase", "ru": "кролик", "zh": "兔子"}}, "issues": [], "meta": {"elapsed": 4.15, "input_tokens": 962, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

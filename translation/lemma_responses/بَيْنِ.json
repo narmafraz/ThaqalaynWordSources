@@ -1,0 +1,1 @@
+{"slug": "بَيْنِ", "kind": "lemma", "parsed": {"glosses": {"en": "between", "fa": "بین", "ur": "بین", "tr": "arasında", "id": "antara", "bn": "মধ্যবর্তী", "es": "entre", "fr": "entre", "de": "zwischen", "ru": "между", "zh": "之间"}}, "issues": [], "meta": {"elapsed": 3.56, "input_tokens": 2310, "output_tokens": 109, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

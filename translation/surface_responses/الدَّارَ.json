@@ -1,0 +1,1 @@
+{"slug": "الدَّارَ", "kind": "surface", "parsed": {"glosses": {"en": "the house", "fa": "خانه", "ur": "گھر", "tr": "ev", "id": "rumah", "bn": "বাড়ি", "es": "casa", "fr": "maison", "de": "Haus", "ru": "дом", "zh": "房屋"}}, "issues": [], "meta": {"elapsed": 3.33, "input_tokens": 1177, "output_tokens": 109, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

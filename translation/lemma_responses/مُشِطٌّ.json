@@ -1,0 +1,1 @@
+{"slug": "مُشِطٌّ", "kind": "lemma", "parsed": {"glosses": {"en": "active", "fa": "فعال", "ur": "فعال", "tr": "aktif", "id": "aktif", "bn": "সক্রিয়", "es": "activo", "fr": "actif", "de": "aktiv", "ru": "активный", "zh": "活跃的"}}, "issues": [], "meta": {"elapsed": 4.46, "input_tokens": 1040, "output_tokens": 107, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

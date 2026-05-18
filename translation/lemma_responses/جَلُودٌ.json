@@ -1,0 +1,1 @@
+{"slug": "جَلُودٌ", "kind": "lemma", "parsed": {"glosses": {"en": "skin", "fa": "پوست", "ur": "جلد", "tr": "deri", "id": "kulit", "bn": "চামড়া", "es": "piel", "fr": "peau", "de": "Haut", "ru": "кожа", "zh": "皮肤"}}, "issues": [], "meta": {"elapsed": 5.11, "input_tokens": 468, "output_tokens": 112, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

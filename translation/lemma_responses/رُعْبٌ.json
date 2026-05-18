@@ -1,0 +1,1 @@
+{"slug": "رُعْبٌ", "kind": "lemma", "parsed": {"glosses": {"en": "terror", "fa": "ترس", "ur": "خوف", "tr": "korku", "id": "kecemasan", "bn": "ভয়", "es": "terror", "fr": "terreur", "de": "Schrecken", "ru": "ужас", "zh": "恐惧"}}, "issues": [], "meta": {"elapsed": 6.08, "input_tokens": 709, "output_tokens": 113, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

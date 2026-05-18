@@ -1,0 +1,1 @@
+{"slug": "عَنْوَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "force", "fa": "زور", "ur": "زور", "tr": "zorla", "id": "paksaan", "bn": "জোর", "es": "fuerza", "fr": "force", "de": "Gewalt", "ru": "сила", "zh": "武力"}}, "issues": [], "meta": {"elapsed": 3.77, "input_tokens": 909, "output_tokens": 111, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

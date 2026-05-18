@@ -1,0 +1,1 @@
+{"slug": "بَطِيء", "kind": "lemma", "parsed": {"glosses": {"en": "slow", "fa": "کند", "ur": "سست", "tr": "yavaş", "id": "lambat", "bn": "ধীর", "es": "lento", "fr": "lent", "de": "langsam", "ru": "медленный", "zh": "缓慢的"}}, "issues": [], "meta": {"elapsed": 4.42, "input_tokens": 559, "output_tokens": 112, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

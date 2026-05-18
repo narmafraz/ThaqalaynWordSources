@@ -1,0 +1,1 @@
+{"slug": "إِكْرَامَ", "kind": "surface", "parsed": {"glosses": {"en": "honor", "fa": "احترام", "ur": "احترام", "tr": "onur", "id": "hormat", "bn": "সম্মান", "es": "honor", "fr": "honneur", "de": "Ehre", "ru": "уважение", "zh": "尊重"}}, "issues": [], "meta": {"elapsed": 2.89, "input_tokens": 673, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "لَمْحَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "glance", "fa": "نگاه", "ur": "جھلک", "tr": "bakış", "id": "pandangan", "bn": "তাকানো", "es": "mirada", "fr": "regard", "de": "Blick", "ru": "взгляд", "zh": "一瞥"}}, "issues": [], "meta": {"elapsed": 4.91, "input_tokens": 666, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

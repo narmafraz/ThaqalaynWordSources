@@ -1,0 +1,1 @@
+{"slug": "عَوْف", "kind": "lemma", "parsed": {"glosses": {"en": "Ouf", "fa": "عوف", "ur": "عوف", "tr": "Ouf", "id": "Ouf", "bn": "ওউফ", "es": "Ouf", "fr": "Ouf", "de": "Ouf", "ru": "Ауф", "zh": "奥夫"}}, "issues": [], "meta": {"elapsed": 3.06, "input_tokens": 999, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "إِيهٍ", "kind": "surface", "parsed": {"glosses": {"en": "Be silent", "fa": "آیه", "ur": "آیت", "tr": "ayet", "id": "ayat", "bn": "আয়াত", "es": "signo", "fr": "signe", "de": "Zeichen", "ru": "знамение", "zh": "迹象"}}, "issues": [], "meta": {"elapsed": 2.95, "input_tokens": 1033, "output_tokens": 112, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

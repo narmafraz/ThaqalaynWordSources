@@ -1,0 +1,1 @@
+{"slug": "آذار", "kind": "lemma", "parsed": {"glosses": {"en": "March", "fa": "مارس", "ur": "مارچ", "tr": "Mart", "id": "Maret", "bn": "মার্চ", "es": "Marzo", "fr": "Mars", "de": "März", "ru": "Март", "zh": "三月"}}, "issues": [], "meta": {"elapsed": 5.39, "input_tokens": 473, "output_tokens": 113, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

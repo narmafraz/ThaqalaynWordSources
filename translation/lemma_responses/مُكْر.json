@@ -1,0 +1,1 @@
+{"slug": "مُكْر", "kind": "lemma", "parsed": {"glosses": {"en": "deceit", "fa": "حیله", "ur": "حیلت", "tr": "hile", "id": "kelicikan", "bn": "প্রতারণা", "es": "engaño", "fr": "ruse", "de": "List", "ru": "хитрость", "zh": "诡计"}}, "issues": [], "meta": {"elapsed": 6.21, "input_tokens": 1385, "output_tokens": 121, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

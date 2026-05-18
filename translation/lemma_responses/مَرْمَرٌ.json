@@ -1,0 +1,1 @@
+{"slug": "مَرْمَرٌ", "kind": "lemma", "parsed": {"glosses": {"en": "marble", "fa": "مرمر", "ur": "مرمر", "tr": "mermer", "id": "marmer", "bn": "মার্বেল", "es": "mármol", "fr": "marbre", "de": "Marmor", "ru": "мрамор", "zh": "大理石"}}, "issues": [], "meta": {"elapsed": 5.4, "input_tokens": 575, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

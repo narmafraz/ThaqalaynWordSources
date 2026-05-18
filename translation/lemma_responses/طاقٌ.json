@@ -1,0 +1,1 @@
+{"slug": "طاقٌ", "kind": "lemma", "parsed": {"glosses": {"en": "arch", "fa": "طاق", "ur": "طاق", "tr": "kemer", "id": "kubah", "bn": "আর্ক", "es": "arco", "fr": "arche", "de": "Bogen", "ru": "арка", "zh": "拱门"}}, "issues": [], "meta": {"elapsed": 2.91, "input_tokens": 1052, "output_tokens": 111, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

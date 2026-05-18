@@ -1,0 +1,1 @@
+{"slug": "الرَّهْبَةُ", "kind": "surface", "parsed": {"glosses": {"en": "fear", "fa": "ترس", "ur": "خوف", "tr": "korku", "id": "takut", "bn": "ভয়", "es": "miedo", "fr": "crainte", "de": "Furcht", "ru": "страх", "zh": "恐惧"}}, "issues": [], "meta": {"elapsed": 4.59, "input_tokens": 705, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

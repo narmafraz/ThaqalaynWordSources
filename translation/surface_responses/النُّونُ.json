@@ -1,0 +1,1 @@
+{"slug": "النُّونُ", "kind": "surface", "parsed": {"glosses": {"en": "the Nun", "fa": "نون", "ur": "نون", "tr": "Nun", "id": "Nun", "bn": "নুন", "es": "la Nun", "fr": "la Nun", "de": "die Nun", "ru": "Нун", "zh": "努恩"}}, "issues": [], "meta": {"elapsed": 4.92, "input_tokens": 592, "output_tokens": 112, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

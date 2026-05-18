@@ -1,0 +1,1 @@
+{"slug": "بِضْعٌ", "kind": "lemma", "parsed": {"glosses": {"en": "a few", "fa": "چند", "ur": "کچھ", "tr": "birkaç", "id": "beberapa", "bn": "কিছু", "es": "unos", "fr": "quelques", "de": "ein paar", "ru": "несколько", "zh": "几个"}}, "issues": [], "meta": {"elapsed": 4.02, "input_tokens": 963, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "صَداقٌ", "kind": "lemma", "parsed": {"glosses": {"en": "dowry", "fa": "مهریه", "ur": "مہر", "tr": "mehir", "id": "mahar", "bn": "মহর", "es": "dote", "fr": "dot", "de": "Mitgift", "ru": "магр", "zh": "聘礼"}}, "issues": [], "meta": {"elapsed": 4.08, "input_tokens": 889, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

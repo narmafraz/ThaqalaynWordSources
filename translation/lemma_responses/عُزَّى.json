@@ -1,0 +1,1 @@
+{"slug": "عُزَّى", "kind": "lemma", "parsed": {"glosses": {"en": "Uzza", "fa": "عزّی", "ur": "عزّی", "tr": "Uzza", "id": "Uzza", "bn": "উজ্জা", "es": "Uzza", "fr": "Ozza", "de": "Uzza", "ru": "Узза", "zh": "乌扎"}}, "issues": [], "meta": {"elapsed": 5.53, "input_tokens": 1797, "output_tokens": 122, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

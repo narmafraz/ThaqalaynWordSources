@@ -1,0 +1,1 @@
+{"slug": "شَدادٌ", "kind": "lemma", "parsed": {"glosses": {"en": "strong", "fa": "قوی", "ur": "طاقتور", "tr": "sert", "id": "kuat", "bn": "শক্তিশালী", "es": "fuerte", "fr": "fort", "de": "stark", "ru": "сильный", "zh": "强大的"}}, "issues": [], "meta": {"elapsed": 3.51, "input_tokens": 470, "output_tokens": 114, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

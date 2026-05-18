@@ -1,0 +1,1 @@
+{"slug": "السَّامِي", "kind": "surface", "parsed": {"glosses": {"en": "the high", "fa": "عالی", "ur": "بلند", "tr": "yüksek", "id": "tinggi", "bn": "উচ্চ", "es": "alto", "fr": "haut", "de": "hoch", "ru": "высокий", "zh": "高"}}, "issues": [], "meta": {"elapsed": 5.19, "input_tokens": 681, "output_tokens": 112, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

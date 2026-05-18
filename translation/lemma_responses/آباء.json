@@ -1,0 +1,1 @@
+{"slug": "آباء", "kind": "lemma", "parsed": {"glosses": {"en": "father", "fa": "پدر", "ur": "باپ", "tr": "baba", "id": "ayah", "bn": "পিতা", "es": "padre", "fr": "père", "de": "Vater", "ru": "отец", "zh": "父亲"}}, "issues": [], "meta": {"elapsed": 3.69, "input_tokens": 464, "output_tokens": 112, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

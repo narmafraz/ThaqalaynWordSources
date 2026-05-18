@@ -1,0 +1,1 @@
+{"slug": "رُقَى", "kind": "lemma", "parsed": {"glosses": {"en": "incantation", "fa": "رقیه", "ur": "رقیہ", "tr": "tılsım", "id": "ruqyah", "bn": "রুকিয়াহ", "es": "ruqyah", "fr": "ruqyah", "de": "Ruqya", "ru": "рукья", "zh": "鲁格叶"}}, "issues": [], "meta": {"elapsed": 5.41, "input_tokens": 2058, "output_tokens": 125, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

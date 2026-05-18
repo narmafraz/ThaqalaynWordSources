@@ -1,0 +1,1 @@
+{"slug": "أَنْوَرُ", "kind": "surface", "parsed": {"glosses": {"en": "Anwar", "fa": "انور", "ur": "انور", "tr": "Anwar", "id": "Anwar", "bn": "আনওয়ার", "es": "Anwar", "fr": "Anwar", "de": "Anwar", "ru": "Анвар", "zh": "安瓦尔"}}, "issues": [], "meta": {"elapsed": 4.36, "input_tokens": 777, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

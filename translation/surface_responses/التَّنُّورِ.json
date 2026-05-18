@@ -1,0 +1,1 @@
+{"slug": "التَّنُّورِ", "kind": "surface", "parsed": {"glosses": {"en": "the oven", "fa": "تنور", "ur": "تنور", "tr": "fırın", "id": "oven", "bn": "তান্নুর", "es": "horno", "fr": "four", "de": "Backofen", "ru": "печь", "zh": "烤炉"}}, "issues": [], "meta": {"elapsed": 3.91, "input_tokens": 889, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

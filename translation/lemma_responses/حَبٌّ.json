@@ -1,0 +1,1 @@
+{"slug": "حَبٌّ", "kind": "lemma", "parsed": {"glosses": {"en": "grain", "fa": "دانه", "ur": "دانا", "tr": "tahıl", "id": "biji", "bn": "ধান", "es": "grano", "fr": "grain", "de": "Korn", "ru": "зерно", "zh": "谷物"}}, "issues": [], "meta": {"elapsed": 3.75, "input_tokens": 1054, "output_tokens": 112, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

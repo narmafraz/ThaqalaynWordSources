@@ -1,0 +1,1 @@
+{"slug": "لُقاطٌ", "kind": "lemma", "parsed": {"glosses": {"en": "gleaning", "fa": "چیدن", "ur": "چننا", "tr": "tutma", "id": "memungut", "bn": "কুড়ানো", "es": "recoger", "fr": "glanage", "de": "Sammeln", "ru": "сбор", "zh": "拾穗"}}, "issues": [], "meta": {"elapsed": 4.43, "input_tokens": 751, "output_tokens": 122, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

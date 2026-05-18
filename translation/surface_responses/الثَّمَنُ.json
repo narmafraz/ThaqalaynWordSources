@@ -1,0 +1,1 @@
+{"slug": "الثَّمَنُ", "kind": "surface", "parsed": {"glosses": {"en": "the price", "fa": "قیمت", "ur": "قیمت", "tr": "fiyat", "id": "harga", "bn": "মূল্য", "es": "precio", "fr": "prix", "de": "Preis", "ru": "цена", "zh": "价格"}}, "issues": [], "meta": {"elapsed": 4.72, "input_tokens": 905, "output_tokens": 109, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

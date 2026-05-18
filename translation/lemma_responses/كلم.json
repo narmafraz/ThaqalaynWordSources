@@ -1,0 +1,1 @@
+{"slug": "كلم", "kind": "lemma", "parsed": {"glosses": {"en": "word", "fa": "کلمه", "ur": "لفظ", "tr": "kelime", "id": "kata", "bn": "কথা", "es": "palabra", "fr": "mot", "de": "Wort", "ru": "слово", "zh": "词"}}, "issues": [], "meta": {"elapsed": 3.99, "input_tokens": 1578, "output_tokens": 111, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

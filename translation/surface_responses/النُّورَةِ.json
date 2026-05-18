@@ -1,0 +1,1 @@
+{"slug": "النُّورَةِ", "kind": "surface", "parsed": {"glosses": {"en": "the blossom", "fa": "گل", "ur": "پھول", "tr": "çiçek", "id": "bunga", "bn": "ফুল", "es": "flor", "fr": "fleur", "de": "Blüte", "ru": "цветок", "zh": "花"}}, "issues": [], "meta": {"elapsed": 7.1, "input_tokens": 859, "output_tokens": 113, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

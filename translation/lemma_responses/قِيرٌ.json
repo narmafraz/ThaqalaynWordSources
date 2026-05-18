@@ -1,0 +1,1 @@
+{"slug": "قِيرٌ", "kind": "lemma", "parsed": {"glosses": {"en": "tar", "fa": "قیر", "ur": "قیر", "tr": "katran", "id": "ter", "bn": "কিড়", "es": "brea", "fr": "poix", "de": "Teer", "ru": "смола", "zh": "沥青"}}, "issues": [], "meta": {"elapsed": 4.19, "input_tokens": 642, "output_tokens": 112, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

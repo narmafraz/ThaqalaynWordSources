@@ -1,0 +1,1 @@
+{"slug": "زُقاقٌ", "kind": "lemma", "parsed": {"glosses": {"en": "alley, lane", "fa": "کوچه", "ur": "گلی", "tr": "sokak", "id": "gang", "bn": "গলি", "es": "callejón", "fr": "ruelle", "de": "Gasse", "ru": "переулок", "zh": "小巷"}}, "issues": [], "meta": {"elapsed": 3.89, "input_tokens": 969, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

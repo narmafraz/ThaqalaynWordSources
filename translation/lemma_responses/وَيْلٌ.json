@@ -1,0 +1,1 @@
+{"slug": "وَيْلٌ", "kind": "lemma", "parsed": {"glosses": {"en": "woe", "fa": "وای", "ur": "وے", "tr": "vah", "id": "celaka", "bn": "ওয়ে", "es": "ay", "fr": "hélas", "de": "Wehe", "ru": "горе", "zh": "祸哉"}}, "issues": [], "meta": {"elapsed": 4.03, "input_tokens": 467, "output_tokens": 111, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

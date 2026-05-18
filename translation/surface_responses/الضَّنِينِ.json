@@ -1,0 +1,1 @@
+{"slug": "الضَّنِينِ", "kind": "surface", "parsed": {"glosses": {"en": "the stingy", "fa": "خسیس", "ur": "خسیس", "tr": "cimri", "id": "kikir", "bn": "কৃপণ", "es": "tacaño", "fr": "avare", "de": "geizig", "ru": "скупой", "zh": "吝啬的"}}, "issues": [], "meta": {"elapsed": 4.17, "input_tokens": 773, "output_tokens": 122, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

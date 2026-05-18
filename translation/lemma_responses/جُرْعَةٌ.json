@@ -1,0 +1,1 @@
+{"slug": "جُرْعَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "gulp", "fa": "جرعه", "ur": "جرعہ", "tr": "yudum", "id": "tegukan", "bn": "গিলে", "es": "trago", "fr": "gorgée", "de": "Schluck", "ru": "глоток", "zh": "一口"}}, "issues": [], "meta": {"elapsed": 6.0, "input_tokens": 979, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

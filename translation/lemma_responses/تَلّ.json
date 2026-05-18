@@ -1,0 +1,1 @@
+{"slug": "تَلّ", "kind": "lemma", "parsed": {"glosses": {"en": "mound", "fa": "تپه", "ur": "ٹیلہ", "tr": "tepe", "id": "bukit", "bn": "টিলা", "es": "montículo", "fr": "butte", "de": "Hügel", "ru": "холм", "zh": "小山丘"}}, "issues": [], "meta": {"elapsed": 4.16, "input_tokens": 869, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

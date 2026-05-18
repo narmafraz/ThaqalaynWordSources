@@ -1,0 +1,1 @@
+{"slug": "افْعَلْ", "kind": "surface", "parsed": {"glosses": {"en": "do!", "fa": "انجام بده!", "ur": "کر!", "tr": "yap!", "id": "lakukan!", "bn": "কর!", "es": "¡haz!", "fr": "fais!", "de": "tun!", "ru": "делай!", "zh": "做！"}}, "issues": [], "meta": {"elapsed": 5.61, "input_tokens": 1043, "output_tokens": 114, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

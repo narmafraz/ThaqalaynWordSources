@@ -1,0 +1,1 @@
+{"slug": "الضُّرَاحِ", "kind": "surface", "parsed": {"glosses": {"en": "the door", "fa": "دَر", "ur": "دَر", "tr": "kapı", "id": "pintu", "bn": "দরজা", "es": "la puerta", "fr": "la porte", "de": "die Tür", "ru": "дверь", "zh": "门"}}, "issues": [], "meta": {"elapsed": 5.08, "input_tokens": 561, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

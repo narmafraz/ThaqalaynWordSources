@@ -1,0 +1,1 @@
+{"slug": "الصُّمِّ", "kind": "surface", "parsed": {"glosses": {"en": "the deaf", "fa": "نابیناها", "ur": "بہرے", "tr": "sağırlar", "id": "tuli", "bn": "বধির", "es": "sordos", "fr": "sourd", "de": "taub", "ru": "глухие", "zh": "聋的"}}, "issues": [], "meta": {"elapsed": 5.12, "input_tokens": 955, "output_tokens": 123, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

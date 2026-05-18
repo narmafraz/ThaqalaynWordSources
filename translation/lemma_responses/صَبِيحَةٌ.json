@@ -1,0 +1,1 @@
+{"slug": "صَبِيحَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "morning", "fa": "صبح", "ur": "صبح", "tr": "sabah", "id": "pagi", "bn": "সকাল", "es": "mañana", "fr": "matin", "de": "Morgen", "ru": "утро", "zh": "早晨"}}, "issues": [], "meta": {"elapsed": 2.65, "input_tokens": 488, "output_tokens": 112, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "وَضُوءٌ", "kind": "lemma", "parsed": {"glosses": {"en": "ablution", "fa": "وضو", "ur": "وضو", "tr": "abdest", "id": "wudhu", "bn": "ওযু", "es": "ablución", "fr": "ablution", "de": "Wudu", "ru": "вуду", "zh": "小净"}}, "issues": [], "meta": {"elapsed": 4.11, "input_tokens": 726, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "أَصلع", "kind": "surface", "parsed": {"glosses": {"en": "bald", "fa": "کچل", "ur": "کچلا", "tr": "kel", "id": "botak", "bn": "কচা", "es": "calvo", "fr": "chauve", "de": "kahl", "ru": "лысый", "zh": "秃"}}, "issues": [], "meta": {"elapsed": 3.57, "input_tokens": 898, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

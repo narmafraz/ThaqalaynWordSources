@@ -1,0 +1,1 @@
+{"slug": "جَلْدَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "lash", "fa": "ضربه", "ur": "چوٹ", "tr": "dövme", "id": "cambuk", "bn": "প্রহার", "es": "latigazo", "fr": "coup de fouet", "de": "Hieb", "ru": "удар", "zh": "鞭打"}}, "issues": [], "meta": {"elapsed": 5.38, "input_tokens": 488, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

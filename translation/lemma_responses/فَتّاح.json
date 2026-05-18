@@ -1,0 +1,1 @@
+{"slug": "فَتّاح", "kind": "lemma", "parsed": {"glosses": {"en": "The Opener", "fa": "فتاح", "ur": "فتاح", "tr": "Fettah", "id": "Fattah", "bn": "ফাত্তাহ", "es": "Fattah", "fr": "Fattah", "de": "Fattah", "ru": "Фаттах", "zh": "法塔赫"}}, "issues": [], "meta": {"elapsed": 4.6, "input_tokens": 855, "output_tokens": 122, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

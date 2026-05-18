@@ -1,0 +1,1 @@
+{"slug": "أَنِيقٌ", "kind": "lemma", "parsed": {"glosses": {"en": "elegant", "fa": "شیک", "ur": "شیک", "tr": "şık", "id": "elegan", "bn": "শিক", "es": "elegante", "fr": "élégant", "de": "elegant", "ru": "элегантный", "zh": "优雅的"}}, "issues": [], "meta": {"elapsed": 3.59, "input_tokens": 572, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

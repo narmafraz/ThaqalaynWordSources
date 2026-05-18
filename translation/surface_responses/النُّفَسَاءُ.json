@@ -1,0 +1,1 @@
+{"slug": "النُّفَسَاءُ", "kind": "surface", "parsed": {"glosses": {"en": "the cow", "fa": "گاو", "ur": "گائے", "tr": "inek", "id": "sapi", "bn": "গাভী", "es": "vaca", "fr": "vache", "de": "Kuh", "ru": "корова", "zh": "牛"}}, "issues": [], "meta": {"elapsed": 3.69, "input_tokens": 572, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

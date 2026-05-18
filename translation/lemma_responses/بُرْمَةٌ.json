@@ -1,0 +1,1 @@
+{"slug": "بُرْمَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "cooking pot", "fa": "دیگ", "ur": "برتن", "tr": "tencere", "id": "periuk", "bn": "বরতন", "es": "olla", "fr": "marmite", "de": "Kochtopf", "ru": "горшок", "zh": "锅"}}, "issues": [], "meta": {"elapsed": 4.49, "input_tokens": 636, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

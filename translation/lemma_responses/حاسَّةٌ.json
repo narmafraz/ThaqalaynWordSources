@@ -1,0 +1,1 @@
+{"slug": "حاسَّةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "sense", "fa": "حس", "ur": "حس", "tr": "duyular", "id": "indra", "bn": "ইন্দ্রিয়", "es": "sentido", "fr": "sens", "de": "Sinn", "ru": "чувство", "zh": "感官"}}, "issues": [], "meta": {"elapsed": 4.5, "input_tokens": 949, "output_tokens": 113, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

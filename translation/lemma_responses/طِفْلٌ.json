@@ -1,0 +1,1 @@
+{"slug": "طِفْلٌ", "kind": "lemma", "parsed": {"glosses": {"en": "child", "fa": "کودک", "ur": "بچہ", "tr": "çocuk", "id": "anak", "bn": "শিশু", "es": "niño", "fr": "enfant", "de": "Kind", "ru": "ребенок", "zh": "孩子"}}, "issues": [], "meta": {"elapsed": 5.67, "input_tokens": 1030, "output_tokens": 112, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

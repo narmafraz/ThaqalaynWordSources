@@ -1,0 +1,1 @@
+{"slug": "نَبِيٌّ", "kind": "lemma", "parsed": {"glosses": {"en": "prophet", "fa": "پیامبر", "ur": "نبی", "tr": "peygamber", "id": "nabi", "bn": "নবী", "es": "profeta", "fr": "prophète", "de": "Prophet", "ru": "пророк", "zh": "先知"}}, "issues": [], "meta": {"elapsed": 3.75, "input_tokens": 508, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "بُحَيْرَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "lake", "fa": "دریاچه", "ur": "جھیل", "tr": "göl", "id": "danau", "bn": "হ্রদ", "es": "lago", "fr": "lac", "de": "See", "ru": "озеро", "zh": "湖"}}, "issues": [], "meta": {"elapsed": 4.75, "input_tokens": 537, "output_tokens": 114, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

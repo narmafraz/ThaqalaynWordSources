@@ -1,0 +1,1 @@
+{"slug": "مِنْطَقَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "zone", "fa": "کمربند", "ur": "کمربند", "tr": "kemer", "id": "sabuk", "bn": "কোমরবন্ধ", "es": "zona", "fr": "ceinture", "de": "Gürtel", "ru": "пояс", "zh": "腰带"}}, "issues": [], "meta": {"elapsed": 6.75, "input_tokens": 560, "output_tokens": 120, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

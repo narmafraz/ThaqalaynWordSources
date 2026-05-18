@@ -1,0 +1,1 @@
+{"slug": "أَيْهَاتَ", "kind": "surface", "parsed": {"glosses": {"en": "yes", "fa": "آره", "ur": "ہاں", "tr": "evet", "id": "ya", "bn": "হ্যাঁ", "es": "sí", "fr": "oui", "de": "ja", "ru": "да", "zh": "是的"}}, "issues": [], "meta": {"elapsed": 4.5, "input_tokens": 539, "output_tokens": 109, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

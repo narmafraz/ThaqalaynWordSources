@@ -1,0 +1,1 @@
+{"slug": "النَّدَى", "kind": "surface", "parsed": {"glosses": {"en": "the dew", "fa": "شبنم", "ur": "شبنم", "tr": "çiy", "id": "embun", "bn": "শিশির", "es": "el rocío", "fr": "la rosée", "de": "der Tau", "ru": "роса", "zh": "露水"}}, "issues": [], "meta": {"elapsed": 3.57, "input_tokens": 1062, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

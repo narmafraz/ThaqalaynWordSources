@@ -1,0 +1,1 @@
+{"slug": "شِراء", "kind": "lemma", "parsed": {"glosses": {"en": "purchase", "fa": "خریدن", "ur": "خرید", "tr": "satın alma", "id": "pembelian", "bn": "ক্রয়", "es": "compra", "fr": "achat", "de": "Kauf", "ru": "покупка", "zh": "购买"}}, "issues": [], "meta": {"elapsed": 3.86, "input_tokens": 472, "output_tokens": 114, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

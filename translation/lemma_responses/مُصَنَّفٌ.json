@@ -1,0 +1,1 @@
+{"slug": "مُصَنَّفٌ", "kind": "lemma", "parsed": {"glosses": {"en": "author", "fa": "نویسنده", "ur": "مصنف", "tr": "yazar", "id": "penulis", "bn": "লেখক", "es": "autor", "fr": "auteur", "de": "Autor", "ru": "автор", "zh": "作者"}}, "issues": [], "meta": {"elapsed": 2.72, "input_tokens": 584, "output_tokens": 111, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

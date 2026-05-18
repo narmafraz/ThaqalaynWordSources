@@ -1,0 +1,1 @@
+{"slug": "ذَوْقٌ", "kind": "lemma", "parsed": {"glosses": {"en": "taste", "fa": "چشیدن", "ur": "ذائقہ", "tr": "tat", "id": "rasa", "bn": "স্বাদ", "es": "gusto", "fr": "goût", "de": "Geschmack", "ru": "вкус", "zh": "味道"}}, "issues": [], "meta": {"elapsed": 4.17, "input_tokens": 518, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

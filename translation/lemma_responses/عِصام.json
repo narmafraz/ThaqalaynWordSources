@@ -1,0 +1,1 @@
+{"slug": "عِصام", "kind": "lemma", "parsed": {"glosses": {"en": "Isham", "fa": "عصام", "ur": "عصام", "tr": "İşam", "id": "Isham", "bn": "ইশাম", "es": "Isham", "fr": "Isham", "de": "Isham", "ru": "Ишам", "zh": "伊沙姆"}}, "issues": [], "meta": {"elapsed": 3.1, "input_tokens": 905, "output_tokens": 125, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

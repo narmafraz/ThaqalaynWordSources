@@ -1,0 +1,1 @@
+{"slug": "مَزْمُورٌ", "kind": "lemma", "parsed": {"glosses": {"en": "psalm", "fa": "مزمور", "ur": "مزمور", "tr": "mezmur", "id": "mazmur", "bn": "মজমুর", "es": "salmo", "fr": "pseaume", "de": "Psalm", "ru": "псалом", "zh": "诗篇"}}, "issues": [], "meta": {"elapsed": 5.05, "input_tokens": 492, "output_tokens": 120, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

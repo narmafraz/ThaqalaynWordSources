@@ -1,0 +1,1 @@
+{"slug": "الصَّفِّ", "kind": "surface", "parsed": {"glosses": {"en": "the row", "fa": "ردیف", "ur": "صف", "tr": "sıra", "id": "barisan", "bn": "শ্রেণি", "es": "fila", "fr": "rang", "de": "Reihe", "ru": "ряд", "zh": "排"}}, "issues": [], "meta": {"elapsed": 4.78, "input_tokens": 969, "output_tokens": 111, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

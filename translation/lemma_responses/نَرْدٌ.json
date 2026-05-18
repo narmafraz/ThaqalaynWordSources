@@ -1,0 +1,1 @@
+{"slug": "نَرْدٌ", "kind": "lemma", "parsed": {"glosses": {"en": "dice", "fa": "تخته نرد", "ur": "تختہ نرد", "tr": "tavla", "id": "dadu", "bn": "ডাইস", "es": "dados", "fr": "dés", "de": "Würfel", "ru": "нарды", "zh": "双陆棋"}}, "issues": [], "meta": {"elapsed": 4.76, "input_tokens": 627, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

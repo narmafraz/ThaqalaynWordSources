@@ -1,0 +1,1 @@
+{"slug": "شَبَثٌ", "kind": "lemma", "parsed": {"glosses": {"en": "spider", "fa": "عنکبوت", "ur": "مکڑی", "tr": "örümcek", "id": "laba-laba", "bn": "মাকড়সা", "es": "araña", "fr": "araignée", "de": "Spinne", "ru": "паук", "zh": "蜘蛛"}}, "issues": [], "meta": {"elapsed": 4.63, "input_tokens": 755, "output_tokens": 123, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

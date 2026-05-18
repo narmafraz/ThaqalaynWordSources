@@ -1,0 +1,1 @@
+{"slug": "سَلْمَى", "kind": "lemma", "parsed": {"glosses": {"en": "Salma", "fa": "سلمی", "ur": "سلمیٰ", "tr": "Salma", "id": "Salma", "bn": "সলমা", "es": "Salma", "fr": "Salma", "de": "Salma", "ru": "Сальма", "zh": "萨尔玛"}}, "issues": [], "meta": {"elapsed": 3.58, "input_tokens": 604, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

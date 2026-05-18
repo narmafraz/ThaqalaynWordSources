@@ -1,0 +1,1 @@
+{"slug": "فَخٌّ", "kind": "lemma", "parsed": {"glosses": {"en": "snare, trap", "fa": "تله", "ur": "فخ", "tr": "tuzak", "id": "perangkap", "bn": "ফাঁদ", "es": "trampa", "fr": "piège", "de": "Falle", "ru": "ловушка", "zh": "陷阱"}}, "issues": [], "meta": {"elapsed": 4.44, "input_tokens": 686, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

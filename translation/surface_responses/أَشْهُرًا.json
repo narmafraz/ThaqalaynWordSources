@@ -1,0 +1,1 @@
+{"slug": "أَشْهُرًا", "kind": "surface", "parsed": {"glosses": {"en": "months", "fa": "ماه‌ها", "ur": "ماہ", "tr": "ay", "id": "bulan", "bn": "মাস", "es": "meses", "fr": "mois", "de": "Monate", "ru": "месяцы", "zh": "月"}}, "issues": [], "meta": {"elapsed": 3.1, "input_tokens": 881, "output_tokens": 110, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

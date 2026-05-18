@@ -1,0 +1,1 @@
+{"slug": "نُقْطَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "dot, point", "fa": "نقطه", "ur": "نقطہ", "tr": "nokta", "id": "titik", "bn": "বিন্দু", "es": "punto", "fr": "point", "de": "Punkt", "ru": "точка", "zh": "点"}}, "issues": [], "meta": {"elapsed": 4.8, "input_tokens": 958, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

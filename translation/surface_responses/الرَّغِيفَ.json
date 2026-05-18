@@ -1,0 +1,1 @@
+{"slug": "الرَّغِيفَ", "kind": "surface", "parsed": {"glosses": {"en": "the loaf of bread", "fa": "نان", "ur": "روٹی", "tr": "ekmek", "id": "roti", "bn": "রুটি", "es": "pan", "fr": "pain", "de": "Brot", "ru": "хлеб", "zh": "面包"}}, "issues": [], "meta": {"elapsed": 4.89, "input_tokens": 913, "output_tokens": 113, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

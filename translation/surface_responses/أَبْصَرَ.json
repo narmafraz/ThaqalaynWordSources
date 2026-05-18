@@ -1,0 +1,1 @@
+{"slug": "أَبْصَرَ", "kind": "surface", "parsed": {"glosses": {"en": "to see", "fa": "دیدن", "ur": "دیکھنا", "tr": "görmek", "id": "melihat", "bn": "দেখা", "es": "ver", "fr": "voir", "de": "sehen", "ru": "видеть", "zh": "看见"}}, "issues": [], "meta": {"elapsed": 2.06, "input_tokens": 826, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

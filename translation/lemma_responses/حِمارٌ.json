@@ -1,0 +1,1 @@
+{"slug": "حِمارٌ", "kind": "lemma", "parsed": {"glosses": {"en": "donkey", "fa": "خر", "ur": "گدھا", "tr": "eşek", "id": "keledai", "bn": "গাধা", "es": "asno", "fr": "âne", "de": "Esel", "ru": "осёл", "zh": "驴"}}, "issues": [], "meta": {"elapsed": 6.16, "input_tokens": 998, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

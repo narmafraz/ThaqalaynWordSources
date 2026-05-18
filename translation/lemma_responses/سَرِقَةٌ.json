@@ -1,0 +1,1 @@
+{"slug": "سَرِقَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "theft", "fa": "دزدی", "ur": "چوری", "tr": "hırsızlık", "id": "pencurian", "bn": "চুরি", "es": "robo", "fr": "vol", "de": "Diebstahl", "ru": "кража", "zh": "盗窃"}}, "issues": [], "meta": {"elapsed": 4.38, "input_tokens": 563, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

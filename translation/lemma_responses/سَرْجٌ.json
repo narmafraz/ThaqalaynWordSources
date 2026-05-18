@@ -1,0 +1,1 @@
+{"slug": "سَرْجٌ", "kind": "lemma", "parsed": {"glosses": {"en": "saddle", "fa": "زین", "ur": "زین", "tr": "eşek", "id": "pelana", "bn": "জিন", "es": "silla de montar", "fr": "selle", "de": "Sattel", "ru": "седло", "zh": "马鞍"}}, "issues": [], "meta": {"elapsed": 5.02, "input_tokens": 1173, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

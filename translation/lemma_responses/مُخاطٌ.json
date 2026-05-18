@@ -1,0 +1,1 @@
+{"slug": "مُخاطٌ", "kind": "lemma", "parsed": {"glosses": {"en": "mucus", "fa": "مخاط", "ur": "مخاط", "tr": "balgam", "id": "lendir", "bn": "মিউকাস", "es": "moco", "fr": "mucus", "de": "Schleim", "ru": "слизь", "zh": "粘液"}}, "issues": [], "meta": {"elapsed": 3.03, "input_tokens": 685, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

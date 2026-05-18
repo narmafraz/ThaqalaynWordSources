@@ -1,0 +1,1 @@
+{"slug": "اسْتُرْ", "kind": "surface", "parsed": {"glosses": {"en": "cover", "fa": "بپوشان", "ur": "چھپا", "tr": "ört", "id": "tutupi", "bn": "ঢাক", "es": "cubre", "fr": "couvre", "de": "bedecke", "ru": "покрой", "zh": "遮盖"}}, "issues": [], "meta": {"elapsed": 2.48, "input_tokens": 665, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

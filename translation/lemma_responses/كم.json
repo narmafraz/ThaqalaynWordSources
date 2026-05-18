@@ -1,0 +1,1 @@
+{"slug": "كم", "kind": "lemma", "parsed": {"glosses": {"en": "how many", "fa": "چند", "ur": "کتنے", "tr": "kaç", "id": "berapa", "bn": "কত", "es": "cuántos", "fr": "combien", "de": "wie viele", "ru": "сколько", "zh": "多少"}}, "issues": [], "meta": {"elapsed": 4.03, "input_tokens": 673, "output_tokens": 112, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

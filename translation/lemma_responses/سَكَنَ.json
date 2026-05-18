@@ -1,0 +1,1 @@
+{"slug": "سَكَنَ", "kind": "lemma", "parsed": {"glosses": {"en": "stillness", "fa": "آرامش", "ur": "سکون", "tr": "sükun", "id": "ketenangan", "bn": "শান্তি", "es": "quietud", "fr": "calme", "de": "Ruhe", "ru": "покой", "zh": "宁静"}}, "issues": [], "meta": {"elapsed": 4.24, "input_tokens": 1845, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

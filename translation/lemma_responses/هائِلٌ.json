@@ -1,0 +1,1 @@
+{"slug": "هائِلٌ", "kind": "lemma", "parsed": {"glosses": {"en": "huge", "fa": "عظیم", "ur": "عظیم", "tr": "büyük", "id": "besar", "bn": "বৃহৎ", "es": "enorme", "fr": "énorme", "de": "riesig", "ru": "огромный", "zh": "巨大的"}}, "issues": [], "meta": {"elapsed": 3.36, "input_tokens": 469, "output_tokens": 114, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

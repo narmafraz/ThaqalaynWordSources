@@ -1,0 +1,1 @@
+{"slug": "أَمِيرٌ", "kind": "surface", "parsed": {"glosses": {"en": "prince", "fa": "امیر", "ur": "امیر", "tr": "emir", "id": "pangeran", "bn": "আমির", "es": "príncipe", "fr": "prince", "de": "Emir", "ru": "эмир", "zh": "埃米尔"}}, "issues": [], "meta": {"elapsed": 2.13, "input_tokens": 965, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

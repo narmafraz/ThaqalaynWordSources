@@ -1,0 +1,1 @@
+{"slug": "شارِعٌ", "kind": "lemma", "parsed": {"glosses": {"en": "street", "fa": "خیابان", "ur": "گلی", "tr": "sokak", "id": "jalan", "bn": "রাস্তা", "es": "calle", "fr": "rue", "de": "Straße", "ru": "улица", "zh": "街道"}}, "issues": [], "meta": {"elapsed": 2.65, "input_tokens": 965, "output_tokens": 114, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

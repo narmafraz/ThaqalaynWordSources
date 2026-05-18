@@ -1,0 +1,1 @@
+{"slug": "أَمْصار", "kind": "lemma", "parsed": {"glosses": {"en": "Egypt", "fa": "مصر", "ur": "مصر", "tr": "Mısır", "id": "Mesir", "bn": "মিসর", "es": "Egipto", "fr": "Égypte", "de": "Ägypten", "ru": "Египет", "zh": "埃及"}}, "issues": [], "meta": {"elapsed": 4.07, "input_tokens": 929, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

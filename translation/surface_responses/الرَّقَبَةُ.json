@@ -1,0 +1,1 @@
+{"slug": "الرَّقَبَةُ", "kind": "surface", "parsed": {"glosses": {"en": "the neck", "fa": "گردن", "ur": "گردن", "tr": "boynun", "id": "leher", "bn": "ঘাড়", "es": "cuello", "fr": "cou", "de": "Nacken", "ru": "шея", "zh": "脖子"}}, "issues": [], "meta": {"elapsed": 4.46, "input_tokens": 988, "output_tokens": 114, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

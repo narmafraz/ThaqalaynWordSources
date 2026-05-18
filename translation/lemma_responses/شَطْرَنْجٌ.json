@@ -1,0 +1,1 @@
+{"slug": "شَطْرَنْجٌ", "kind": "lemma", "parsed": {"glosses": {"en": "chess", "fa": "شطرنج", "ur": "شطرنج", "tr": "şahmat", "id": "catur", "bn": "চেস", "es": "ajedrez", "fr": "échecs", "de": "Schach", "ru": "шахматы", "zh": "国际象棋"}}, "issues": [], "meta": {"elapsed": 2.15, "input_tokens": 871, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

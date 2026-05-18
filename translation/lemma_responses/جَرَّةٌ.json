@@ -1,0 +1,1 @@
+{"slug": "جَرَّةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "jar", "fa": "خمره", "ur": "مٹی کا برتن", "tr": "kruvaz", "id": "jeram", "bn": "মাটির পাত্র", "es": "jarra", "fr": "jarre", "de": "Krug", "ru": "кувшин", "zh": "陶罐"}}, "issues": [], "meta": {"elapsed": 5.19, "input_tokens": 736, "output_tokens": 122, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "تاج", "kind": "lemma", "parsed": {"glosses": {"en": "crown", "fa": "تاج", "ur": "تاج", "tr": "tac", "id": "mahkota", "bn": "তাজ", "es": "corona", "fr": "couronne", "de": "Krone", "ru": "корона", "zh": "皇冠"}}, "issues": [], "meta": {"elapsed": 3.59, "input_tokens": 714, "output_tokens": 112, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

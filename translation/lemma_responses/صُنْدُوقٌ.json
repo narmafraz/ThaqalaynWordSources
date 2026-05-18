@@ -1,0 +1,1 @@
+{"slug": "صُنْدُوقٌ", "kind": "lemma", "parsed": {"glosses": {"en": "chest, box", "fa": "صندوق", "ur": "صندوق", "tr": "sandık", "id": "kist", "bn": "সিন্দুক", "es": "cofre", "fr": "coffre", "de": "Kiste", "ru": "сундук", "zh": "箱子"}}, "issues": [], "meta": {"elapsed": 5.75, "input_tokens": 617, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

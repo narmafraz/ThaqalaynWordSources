@@ -1,0 +1,1 @@
+{"slug": "قَماءَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "comb", "fa": "شانه", "ur": "کانھ", "tr": "tarak", "id": "sisir", "bn": "চিরুণী", "es": "peine", "fr": "peigne", "de": "Kamm", "ru": "расческа", "zh": "梳子"}}, "issues": [], "meta": {"elapsed": 5.5, "input_tokens": 449, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

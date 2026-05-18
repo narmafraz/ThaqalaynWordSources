@@ -1,0 +1,1 @@
+{"slug": "حَقِيرٌ", "kind": "lemma", "parsed": {"glosses": {"en": "vile", "fa": "حقیر", "ur": "حقیر", "tr": "alçak", "id": "rendah", "bn": "নিম্ন", "es": "vile", "fr": "vile", "de": "niedrig", "ru": "ничтожный", "zh": "卑贱"}}, "issues": [], "meta": {"elapsed": 5.21, "input_tokens": 609, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

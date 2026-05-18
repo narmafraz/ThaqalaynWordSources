@@ -1,0 +1,1 @@
+{"slug": "سَحُورٌ", "kind": "lemma", "parsed": {"glosses": {"en": "pre-dawn meal", "fa": "سحری", "ur": "سحری", "tr": "sahur", "id": "sahur", "bn": "সহর", "es": "sahur", "fr": "sahur", "de": "Sahur", "ru": "сахур", "zh": "封斋饭"}}, "issues": [], "meta": {"elapsed": 4.2, "input_tokens": 634, "output_tokens": 125, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

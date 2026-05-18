@@ -1,0 +1,1 @@
+{"slug": "القُرْآنِ", "kind": "surface", "parsed": {"glosses": {"en": "Quran", "fa": "قرآن", "ur": "قرآن", "tr": "Kur'an", "id": "Quran", "bn": "কুরআন", "es": "Corán", "fr": "Coran", "de": "Koran", "ru": "Коран", "zh": "古兰经"}}, "issues": [], "meta": {"elapsed": 3.85, "input_tokens": 611, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

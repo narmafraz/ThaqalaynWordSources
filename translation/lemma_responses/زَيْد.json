@@ -1,0 +1,1 @@
+{"slug": "زَيْد", "kind": "lemma", "parsed": {"glosses": {"en": "Zaid", "fa": "زید", "ur": "زید", "tr": "Zeyd", "id": "Zaid", "bn": "জাইদ", "es": "Zaid", "fr": "Zaid", "de": "Zaid", "ru": "Зайд", "zh": "宰德"}}, "issues": [], "meta": {"elapsed": 4.7, "input_tokens": 1180, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

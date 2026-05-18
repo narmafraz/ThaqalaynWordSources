@@ -1,0 +1,1 @@
+{"slug": "زالَ", "kind": "lemma", "parsed": {"glosses": {"en": "to go away", "fa": "رفتن", "ur": "جانا", "tr": "gitmek", "id": "pergi", "bn": "যাওয়া", "es": "irse", "fr": "s'en aller", "de": "weggehen", "ru": "уйти", "zh": "离开"}}, "issues": [], "meta": {"elapsed": 4.05, "input_tokens": 1709, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

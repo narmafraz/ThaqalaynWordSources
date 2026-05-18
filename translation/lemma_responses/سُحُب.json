@@ -1,0 +1,1 @@
+{"slug": "سُحُب", "kind": "lemma", "parsed": {"glosses": {"en": "clouds", "fa": "ابرها", "ur": "بادل", "tr": "bulutlar", "id": "awan", "bn": "মেঘ", "es": "nubes", "fr": "nuages", "de": "Wolken", "ru": "облака", "zh": "云"}}, "issues": [], "meta": {"elapsed": 4.95, "input_tokens": 475, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

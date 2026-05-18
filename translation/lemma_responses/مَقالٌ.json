@@ -1,0 +1,1 @@
+{"slug": "مَقالٌ", "kind": "lemma", "parsed": {"glosses": {"en": "speech", "fa": "گفتار", "ur": "قول", "tr": "söz", "id": "ucapan", "bn": "বাণী", "es": "discurso", "fr": "parole", "de": "Wort", "ru": "слово", "zh": "言语"}}, "issues": [], "meta": {"elapsed": 4.37, "input_tokens": 471, "output_tokens": 112, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

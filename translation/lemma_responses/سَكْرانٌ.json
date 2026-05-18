@@ -1,0 +1,1 @@
+{"slug": "سَكْرانٌ", "kind": "lemma", "parsed": {"glosses": {"en": "intoxicated", "fa": "مست", "ur": "مست", "tr": "sarhoş", "id": "mabuk", "bn": "মত্ত", "es": "ebrio", "fr": "ivre", "de": "betrunken", "ru": "пьяный", "zh": "醉酒的"}}, "issues": [], "meta": {"elapsed": 4.85, "input_tokens": 935, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

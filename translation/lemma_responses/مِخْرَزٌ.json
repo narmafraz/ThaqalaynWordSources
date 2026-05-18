@@ -1,0 +1,1 @@
+{"slug": "مِخْرَزٌ", "kind": "lemma", "parsed": {"glosses": {"en": "awl", "fa": "خار", "ur": "خار", "tr": "çene", "id": "penjahit", "bn": "আওল", "es": "aguja", "fr": "alêne", "de": "Ahle", "ru": "шило", "zh": "锥子"}}, "issues": [], "meta": {"elapsed": 3.35, "input_tokens": 524, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

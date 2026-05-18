@@ -1,0 +1,1 @@
+{"slug": "قَلَّمَ", "kind": "lemma", "parsed": {"glosses": {"en": "to cut", "fa": "بریدن", "ur": "کاٹنا", "tr": "kesmek", "id": "memotong", "bn": "কাটা", "es": "cortar", "fr": "couper", "de": "schneiden", "ru": "резать", "zh": "剪"}}, "issues": [], "meta": {"elapsed": 4.43, "input_tokens": 805, "output_tokens": 113, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

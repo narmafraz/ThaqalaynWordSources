@@ -1,0 +1,1 @@
+{"slug": "هَوَى", "kind": "lemma", "parsed": {"glosses": {"en": "desire", "fa": "هوی", "ur": "خواہش", "tr": "heva", "id": "hawaa", "bn": "হাওয়া", "es": "deseo", "fr": "désir", "de": "Begehren", "ru": "страсть", "zh": "欲望"}}, "issues": [], "meta": {"elapsed": 4.13, "input_tokens": 501, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

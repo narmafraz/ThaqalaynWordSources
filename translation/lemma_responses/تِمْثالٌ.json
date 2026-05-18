@@ -1,0 +1,1 @@
+{"slug": "تِمْثالٌ", "kind": "lemma", "parsed": {"glosses": {"en": "statue", "fa": "مجسمه", "ur": "بت", "tr": "heykel", "id": "patung", "bn": "মূর্তি", "es": "estatua", "fr": "statue", "de": "Statue", "ru": "статуя", "zh": "雕像"}}, "issues": [], "meta": {"elapsed": 4.04, "input_tokens": 480, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

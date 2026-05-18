@@ -1,0 +1,1 @@
+{"slug": "وا", "kind": "lemma", "parsed": {"glosses": {"en": "Alas!", "fa": "ای!", "ur": "افسوس!", "tr": "Ey!", "id": "Alas!", "bn": "আফসোস!", "es": "¡Ay!", "fr": "Hélas!", "de": "Weh!", "ru": "Ой!", "zh": "唉！"}}, "issues": [], "meta": {"elapsed": 4.12, "input_tokens": 549, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

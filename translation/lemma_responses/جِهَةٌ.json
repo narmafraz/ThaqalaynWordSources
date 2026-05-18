@@ -1,0 +1,1 @@
+{"slug": "جِهَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "side", "fa": "سمت", "ur": "طرف", "tr": "yön", "id": "sisi", "bn": "পাশ", "es": "lado", "fr": "côté", "de": "Seite", "ru": "сторона", "zh": "侧面"}}, "issues": [], "meta": {"elapsed": 3.41, "input_tokens": 560, "output_tokens": 111, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

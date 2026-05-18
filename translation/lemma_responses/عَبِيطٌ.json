@@ -1,0 +1,1 @@
+{"slug": "عَبِيطٌ", "kind": "lemma", "parsed": {"glosses": {"en": "stupid", "fa": "احمق", "ur": "بے وقوف", "tr": "aptal", "id": "bodoh", "bn": "বোকা", "es": "estúpido", "fr": "idiot", "de": "dumm", "ru": "глупый", "zh": "愚蠢"}}, "issues": [], "meta": {"elapsed": 4.24, "input_tokens": 998, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "عاشِرٌ", "kind": "lemma", "parsed": {"glosses": {"en": "tenth", "fa": "دهم", "ur": "دسواں", "tr": "onuncu", "id": "kesepuluh", "bn": "দশম", "es": "décimo", "fr": "dixième", "de": "zehnte", "ru": "десятый", "zh": "第十"}}, "issues": [], "meta": {"elapsed": 4.46, "input_tokens": 513, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "قَناةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "channel", "fa": "کانال", "ur": "قنات", "tr": "kanal", "id": "saluran", "bn": "চ্যানেল", "es": "canal", "fr": "canal", "de": "Kanal", "ru": "канал", "zh": "渠道"}}, "issues": [], "meta": {"elapsed": 3.59, "input_tokens": 651, "output_tokens": 114, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

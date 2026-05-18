@@ -1,0 +1,1 @@
+{"slug": "حِضْنٌ", "kind": "lemma", "parsed": {"glosses": {"en": "bosom", "fa": "سینه", "ur": "چھاتی", "tr": "göğüs", "id": "dada", "bn": "বক্ষ", "es": "seno", "fr": "sein", "de": "Busen", "ru": "грудь", "zh": "胸怀"}}, "issues": [], "meta": {"elapsed": 5.27, "input_tokens": 1754, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

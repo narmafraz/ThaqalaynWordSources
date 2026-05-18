@@ -1,0 +1,1 @@
+{"slug": "لَعْبٌ", "kind": "lemma", "parsed": {"glosses": {"en": "play", "fa": "بازی", "ur": "کھیل", "tr": "oyun", "id": "permainan", "bn": "খেলা", "es": "juego", "fr": "jeu", "de": "Spiel", "ru": "игра", "zh": "游戏"}}, "issues": [], "meta": {"elapsed": 3.86, "input_tokens": 1573, "output_tokens": 111, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

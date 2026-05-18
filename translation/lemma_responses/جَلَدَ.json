@@ -1,0 +1,1 @@
+{"slug": "جَلَدَ", "kind": "lemma", "parsed": {"glosses": {"en": "to flog", "fa": "زدن", "ur": "مارنا", "tr": "dövmek", "id": "memukul", "bn": "মারা", "es": "azotar", "fr": "fouetter", "de": "peitschen", "ru": "бить", "zh": "鞭打"}}, "issues": [], "meta": {"elapsed": 5.0, "input_tokens": 2202, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

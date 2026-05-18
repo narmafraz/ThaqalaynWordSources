@@ -1,0 +1,1 @@
+{"slug": "نَفْحَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "breath", "fa": "نسیم", "ur": "سانس", "tr": "nefes", "id": "hembusan", "bn": "শ্বাস", "es": "al", "fr": "souffle", "de": "Hauch", "ru": "дыхание", "zh": "气息"}}, "issues": [], "meta": {"elapsed": 4.24, "input_tokens": 971, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

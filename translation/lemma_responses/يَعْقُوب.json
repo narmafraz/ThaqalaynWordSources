@@ -1,0 +1,1 @@
+{"slug": "يَعْقُوب", "kind": "lemma", "parsed": {"glosses": {"en": "Jacob", "fa": "یعقوب", "ur": "یعقوب", "tr": "Yakub", "id": "Ya'qub", "bn": "ইয়াকুব", "es": "Jacob", "fr": "Jacob", "de": "Jakob", "ru": "Якуб", "zh": "雅各"}}, "issues": [], "meta": {"elapsed": 5.79, "input_tokens": 949, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

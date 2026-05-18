@@ -1,0 +1,1 @@
+{"slug": "شَرَرٌ", "kind": "lemma", "parsed": {"glosses": {"en": "spark", "fa": "جرقه", "ur": "چنگ", "tr": "kıvılcım", "id": "percikan", "bn": "জ্বলন্ত", "es": "chispa", "fr": "étincelle", "de": "Funke", "ru": "искра", "zh": "火花"}}, "issues": [], "meta": {"elapsed": 7.2, "input_tokens": 486, "output_tokens": 120, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

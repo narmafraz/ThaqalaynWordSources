@@ -1,0 +1,1 @@
+{"slug": "مُسْتَوِي", "kind": "lemma", "parsed": {"glosses": {"en": "level", "fa": "سطح", "ur": "سطح", "tr": "seviye", "id": "tingkatan", "bn": "স্তর", "es": "nivel", "fr": "niveau", "de": "Ebene", "ru": "уровень", "zh": "水平"}}, "issues": [], "meta": {"elapsed": 4.04, "input_tokens": 460, "output_tokens": 112, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

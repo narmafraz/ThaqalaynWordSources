@@ -1,0 +1,1 @@
+{"slug": "7", "kind": "surface", "parsed": {"glosses": {"en": "7", "fa": "هفت", "ur": "ساتھ", "tr": "yedi", "id": "tujuh", "bn": "সাত", "es": "siete", "fr": "sept", "de": "sieben", "ru": "семь", "zh": "七"}}, "issues": [], "meta": {"elapsed": 4.08, "input_tokens": 545, "output_tokens": 111, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

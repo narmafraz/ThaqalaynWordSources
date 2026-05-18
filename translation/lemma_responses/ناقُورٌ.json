@@ -1,0 +1,1 @@
+{"slug": "ناقُورٌ", "kind": "lemma", "parsed": {"glosses": {"en": "horn", "fa": "شاخ", "ur": "سینگ", "tr": "boru", "id": "terompet", "bn": "শিং", "es": "cuerno", "fr": "cor", "de": "Horn", "ru": "труба", "zh": "号角"}}, "issues": [], "meta": {"elapsed": 3.81, "input_tokens": 550, "output_tokens": 112, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "شَكْلٌ", "kind": "lemma", "parsed": {"glosses": {"en": "shape", "fa": "شکل", "ur": "شکل", "tr": "şekil", "id": "bentuk", "bn": "আকৃতি", "es": "forma", "fr": "forme", "de": "Form", "ru": "форма", "zh": "形状"}}, "issues": [], "meta": {"elapsed": 3.1, "input_tokens": 972, "output_tokens": 111, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

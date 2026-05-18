@@ -1,0 +1,1 @@
+{"slug": "النَّوَاةَ", "kind": "surface", "parsed": {"glosses": {"en": "the kernel", "fa": "هسته", "ur": "بیج", "tr": "çekirdek", "id": "inti", "bn": "কর্ণ", "es": "nuez", "fr": "noyau", "de": "Kern", "ru": "ядро", "zh": "核"}}, "issues": [], "meta": {"elapsed": 2.6, "input_tokens": 620, "output_tokens": 114, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

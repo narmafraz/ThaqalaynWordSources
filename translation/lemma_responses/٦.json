@@ -1,0 +1,1 @@
+{"slug": "٦", "kind": "lemma", "parsed": {"glosses": {"en": "six", "fa": "شش", "ur": "چھ", "tr": "altı", "id": "enam", "bn": "ছয়", "es": "seis", "fr": "six", "de": "sechs", "ru": "шесть", "zh": "六"}}, "issues": [], "meta": {"elapsed": 4.67, "input_tokens": 450, "output_tokens": 110, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "حِجازِيّ", "kind": "lemma", "parsed": {"glosses": {"en": "Hijazi", "fa": "حجازی", "ur": "حجازی", "tr": "Hicazi", "id": "Hijazi", "bn": "হিজাজি", "es": "Hijazi", "fr": "Hijazi", "de": "Hijazi", "ru": "Хиджази", "zh": "希贾齐"}}, "issues": [], "meta": {"elapsed": 3.92, "input_tokens": 489, "output_tokens": 127, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

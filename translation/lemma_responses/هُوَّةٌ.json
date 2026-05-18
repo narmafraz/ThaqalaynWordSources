@@ -1,0 +1,1 @@
+{"slug": "هُوَّةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "chasm", "fa": "گودال", "ur": "گڑھا", "tr": "uçurum", "id": "jurang", "bn": "গহ্বর", "es": "abismo", "fr": "abîme", "de": "Schlund", "ru": "пропасть", "zh": "深渊"}}, "issues": [], "meta": {"elapsed": 4.17, "input_tokens": 618, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "كَتْمٌ", "kind": "lemma", "parsed": {"glosses": {"en": "boxwood", "fa": "درخت کتَم", "ur": "کتَم", "tr": "ketem", "id": "ketem", "bn": "কেতম", "es": "boxwood", "fr": "buis", "de": "Buxus", "ru": "кетам", "zh": "凯坦"}}, "issues": [], "meta": {"elapsed": 5.93, "input_tokens": 1252, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

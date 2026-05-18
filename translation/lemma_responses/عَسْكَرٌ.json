@@ -1,0 +1,1 @@
+{"slug": "عَسْكَرٌ", "kind": "lemma", "parsed": {"glosses": {"en": "army", "fa": "ارتش", "ur": "فوج", "tr": "ordu", "id": "bala tentara", "bn": "সেনাবাহিনী", "es": "ejército", "fr": "armée", "de": "Armee", "ru": "армия", "zh": "军队"}}, "issues": [], "meta": {"elapsed": 4.06, "input_tokens": 831, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

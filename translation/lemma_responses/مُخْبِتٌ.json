@@ -1,0 +1,1 @@
+{"slug": "مُخْبِتٌ", "kind": "lemma", "parsed": {"glosses": {"en": "humble", "fa": "خاشع", "ur": "خاشع", "tr": "huzurlu", "id": "tunduk", "bn": "নম্র", "es": "humilde", "fr": "humble", "de": "demütig", "ru": "смиренный", "zh": "谦恭"}}, "issues": [], "meta": {"elapsed": 3.42, "input_tokens": 488, "output_tokens": 122, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

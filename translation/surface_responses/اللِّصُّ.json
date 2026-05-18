@@ -1,0 +1,1 @@
+{"slug": "اللِّصُّ", "kind": "surface", "parsed": {"glosses": {"en": "the thief", "fa": "دزد", "ur": "چور", "tr": "hırsız", "id": "pencuri", "bn": "চোর", "es": "ladrón", "fr": "voleur", "de": "Dieb", "ru": "вор", "zh": "小偷"}}, "issues": [], "meta": {"elapsed": 3.77, "input_tokens": 996, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

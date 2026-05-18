@@ -1,0 +1,1 @@
+{"slug": "كَدٌّ", "kind": "lemma", "parsed": {"glosses": {"en": "mortar", "fa": "هاون", "ur": "ہاون", "tr": "havun", "id": "lesung", "bn": "হাওন", "es": "mortero", "fr": "mortier", "de": "Mörser", "ru": "ступка", "zh": "研钵"}}, "issues": [], "meta": {"elapsed": 2.32, "input_tokens": 537, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "مُنْحَنِيَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "curve", "fa": "خمیدگی", "ur": "خمیدگی", "tr": "eğri", "id": "lengkungan", "bn": "বাঁক", "es": "curva", "fr": "courbe", "de": "Kurve", "ru": "изгиб", "zh": "弯曲"}}, "issues": [], "meta": {"elapsed": 5.54, "input_tokens": 465, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

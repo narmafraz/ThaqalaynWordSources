@@ -1,0 +1,1 @@
+{"slug": "الصَّيْدَاءِ", "kind": "surface", "parsed": {"glosses": {"en": "Saïda", "fa": "صیدا", "ur": "صیدا", "tr": "Saïda", "id": "Saïda", "bn": "সাঈদা", "es": "Saïda", "fr": "Saïda", "de": "Saïda", "ru": "Саида", "zh": "赛达"}}, "issues": [], "meta": {"elapsed": 5.04, "input_tokens": 609, "output_tokens": 124, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

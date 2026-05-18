@@ -1,0 +1,1 @@
+{"slug": "بُشْرَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "skin", "fa": "پوست", "ur": "جلد", "tr": "deri", "id": "kulit", "bn": "ত্বক", "es": "piel", "fr": "peau", "de": "Haut", "ru": "кожа", "zh": "皮肤"}}, "issues": [], "meta": {"elapsed": 4.3, "input_tokens": 975, "output_tokens": 112, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

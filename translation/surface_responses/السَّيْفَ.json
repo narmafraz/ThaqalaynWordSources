@@ -1,0 +1,1 @@
+{"slug": "السَّيْفَ", "kind": "surface", "parsed": {"glosses": {"en": "the sword", "fa": "شمشیر", "ur": "تلوار", "tr": "kılıç", "id": "pedang", "bn": "তলোয়ার", "es": "espada", "fr": "épée", "de": "Schwert", "ru": "меч", "zh": "剑"}}, "issues": [], "meta": {"elapsed": 3.58, "input_tokens": 1188, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

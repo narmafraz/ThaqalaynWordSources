@@ -1,0 +1,1 @@
+{"slug": "رَغامٌ", "kind": "lemma", "parsed": {"glosses": {"en": "dust", "fa": "گرد و غبار", "ur": "گرد", "tr": "toz", "id": "debu", "bn": "ধুলো", "es": "polvo", "fr": "poussière", "de": "Staub", "ru": "пыль", "zh": "尘土"}}, "issues": [], "meta": {"elapsed": 4.12, "input_tokens": 593, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

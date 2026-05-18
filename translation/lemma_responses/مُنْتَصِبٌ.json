@@ -1,0 +1,1 @@
+{"slug": "مُنْتَصِبٌ", "kind": "lemma", "parsed": {"glosses": {"en": "upright", "fa": "ایستاده", "ur": "سیدھا", "tr": "dik", "id": "tegak", "bn": "সোজা", "es": "erguido", "fr": "droit", "de": "aufrecht", "ru": "прямой", "zh": "笔直的"}}, "issues": [], "meta": {"elapsed": 4.6, "input_tokens": 582, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

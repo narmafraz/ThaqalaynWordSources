@@ -1,0 +1,1 @@
+{"slug": "فَخْرٌ", "kind": "lemma", "parsed": {"glosses": {"en": "pride", "fa": "غرور", "ur": "فخر", "tr": "gurur", "id": "kesombongan", "bn": "গর্ব", "es": "orgullo", "fr": "fierté", "de": "Stolz", "ru": "гордость", "zh": "骄傲"}}, "issues": [], "meta": {"elapsed": 5.65, "input_tokens": 1898, "output_tokens": 114, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

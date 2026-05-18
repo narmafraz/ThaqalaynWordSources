@@ -1,0 +1,1 @@
+{"slug": "دَرَجَ", "kind": "lemma", "parsed": {"glosses": {"en": "to walk", "fa": "راه رفتن", "ur": "چلنا", "tr": "yürümek", "id": "berjalan", "bn": "চলা", "es": "caminar", "fr": "marcher", "de": "gehen", "ru": "идти", "zh": "行走"}}, "issues": [], "meta": {"elapsed": 6.48, "input_tokens": 1779, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

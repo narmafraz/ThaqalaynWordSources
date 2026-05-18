@@ -1,0 +1,1 @@
+{"slug": "عَقْلٌ", "kind": "lemma", "parsed": {"glosses": {"en": "reason", "fa": "عقل", "ur": "عقل", "tr": "akıl", "id": "akal", "bn": "বুদ্ধি", "es": "razón", "fr": "raison", "de": "Verstand", "ru": "разум", "zh": "理智"}}, "issues": [], "meta": {"elapsed": 5.6, "input_tokens": 1879, "output_tokens": 112, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

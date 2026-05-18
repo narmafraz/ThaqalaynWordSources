@@ -1,0 +1,1 @@
+{"slug": "حَمَوِيٌّ", "kind": "lemma", "parsed": {"glosses": {"en": "Hamawi", "fa": "حموی", "ur": "حموی", "tr": "Hamavi", "id": "Hamawi", "bn": "হামাউই", "es": "Hamawi", "fr": "Hamawi", "de": "Hamawi", "ru": "Хамави", "zh": "哈马维"}}, "issues": [], "meta": {"elapsed": 4.55, "input_tokens": 461, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

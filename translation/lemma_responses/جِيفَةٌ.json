@@ -1,0 +1,1 @@
+{"slug": "جِيفَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "corpse", "fa": "جسد مرده", "ur": "لاشہ", "tr": "leş", "id": "bangkai", "bn": "শব", "es": "cadáver", "fr": "cadavre", "de": "Leiche", "ru": "труп", "zh": "尸体"}}, "issues": [], "meta": {"elapsed": 2.43, "input_tokens": 697, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "قامَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "stature", "fa": "قد", "ur": "قد", "tr": "boy", "id": "tinggi", "bn": "উচ্চতা", "es": "estatura", "fr": "taille", "de": "Größe", "ru": "рост", "zh": "身高"}}, "issues": [], "meta": {"elapsed": 5.19, "input_tokens": 628, "output_tokens": 112, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "نَمِيمَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "gossip", "fa": "شایعه", "ur": "شہرت", "tr": "sövgü", "id": "gosip", "bn": "গুজব", "es": "chisme", "fr": "commérage", "de": "Gerücht", "ru": "сплетня", "zh": "流言"}}, "issues": [], "meta": {"elapsed": 3.57, "input_tokens": 526, "output_tokens": 122, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

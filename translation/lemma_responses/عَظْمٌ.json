@@ -1,0 +1,1 @@
+{"slug": "عَظْمٌ", "kind": "lemma", "parsed": {"glosses": {"en": "bone", "fa": "استخوان", "ur": "ہڈی", "tr": "kemik", "id": "tulang", "bn": "হাড়", "es": "hueso", "fr": "os", "de": "Knochen", "ru": "кость", "zh": "骨头"}}, "issues": [], "meta": {"elapsed": 4.81, "input_tokens": 1615, "output_tokens": 113, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

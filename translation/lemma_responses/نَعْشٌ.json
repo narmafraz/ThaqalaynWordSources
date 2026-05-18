@@ -1,0 +1,1 @@
+{"slug": "نَعْشٌ", "kind": "lemma", "parsed": {"glosses": {"en": "bier", "fa": "تابوت", "ur": "تابوت", "tr": "tabut", "id": "peti mati", "bn": "শবযান", "es": "ataúd", "fr": "cercueil", "de": "Sarg", "ru": "гроб", "zh": "棺材"}}, "issues": [], "meta": {"elapsed": 4.43, "input_tokens": 956, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

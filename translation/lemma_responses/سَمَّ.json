@@ -1,0 +1,1 @@
+{"slug": "سَمَّ", "kind": "lemma", "parsed": {"glosses": {"en": "poison", "fa": "زهر", "ur": "زہر", "tr": "zehir", "id": "racun", "bn": "বিষ", "es": "veneno", "fr": "poison", "de": "Gift", "ru": "яд", "zh": "毒"}}, "issues": [], "meta": {"elapsed": 3.85, "input_tokens": 1012, "output_tokens": 112, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "إِسْلامٌ", "kind": "lemma", "parsed": {"glosses": {"en": "Islam", "fa": "اسلام", "ur": "اسلام", "tr": "İslam", "id": "Islam", "bn": "ইসলাম", "es": "Islam", "fr": "Islam", "de": "Islam", "ru": "Ислам", "zh": "伊斯兰"}}, "issues": [], "meta": {"elapsed": 2.71, "input_tokens": 478, "output_tokens": 111, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

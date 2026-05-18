@@ -1,0 +1,1 @@
+{"slug": "أَخَذْتُ", "kind": "surface", "parsed": {"glosses": {"en": "I took", "fa": "گرفتم", "ur": "لیا", "tr": "aldım", "id": "mengambil", "bn": "নেওয়া", "es": "tomé", "fr": "pris", "de": "nahm", "ru": "взял", "zh": "拿了"}}, "issues": [], "meta": {"elapsed": 4.76, "input_tokens": 1099, "output_tokens": 113, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

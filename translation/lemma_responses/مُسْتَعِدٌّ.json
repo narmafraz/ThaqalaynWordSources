@@ -1,0 +1,1 @@
+{"slug": "مُسْتَعِدٌّ", "kind": "lemma", "parsed": {"glosses": {"en": "ready", "fa": "آماده", "ur": "تیار", "tr": "hazır", "id": "siap", "bn": "প্রস্তুত", "es": "listo", "fr": "prêt", "de": "bereit", "ru": "готовый", "zh": "准备好的"}}, "issues": [], "meta": {"elapsed": 3.96, "input_tokens": 461, "output_tokens": 114, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

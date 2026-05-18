@@ -1,0 +1,1 @@
+{"slug": "أَيّار", "kind": "lemma", "parsed": {"glosses": {"en": "May", "fa": "مه", "ur": "مئی", "tr": "Mayıs", "id": "Mei", "bn": "মে", "es": "Mayo", "fr": "Mai", "de": "Mai", "ru": "май", "zh": "五月"}}, "issues": [], "meta": {"elapsed": 3.64, "input_tokens": 537, "output_tokens": 107, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

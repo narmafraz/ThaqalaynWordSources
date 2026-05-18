@@ -1,0 +1,1 @@
+{"slug": "اِنْتِفاعٌ", "kind": "lemma", "parsed": {"glosses": {"en": "benefit", "fa": "سود", "ur": "فائدہ", "tr": "fayda", "id": "manfaat", "bn": "লাভ", "es": "beneficio", "fr": "bénéfice", "de": "Nutzen", "ru": "польза", "zh": "利益"}}, "issues": [], "meta": {"elapsed": 3.8, "input_tokens": 479, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

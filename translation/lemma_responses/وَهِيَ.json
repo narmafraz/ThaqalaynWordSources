@@ -1,0 +1,1 @@
+{"slug": "وَهِيَ", "kind": "lemma", "parsed": {"glosses": {"en": "she", "fa": "او", "ur": "وہ", "tr": "o", "id": "dia", "bn": "সে", "es": "ella", "fr": "elle", "de": "sie", "ru": "она", "zh": "她"}}, "issues": [], "meta": {"elapsed": 2.71, "input_tokens": 619, "output_tokens": 105, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

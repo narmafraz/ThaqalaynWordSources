@@ -1,0 +1,1 @@
+{"slug": "جَرْيٌ", "kind": "lemma", "parsed": {"glosses": {"en": "flowing", "fa": "جریان", "ur": "بہاؤ", "tr": "akış", "id": "aliran", "bn": "প্রবাহ", "es": "flujo", "fr": "écoulement", "de": "Fluss", "ru": "течение", "zh": "流动"}}, "issues": [], "meta": {"elapsed": 4.39, "input_tokens": 1055, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

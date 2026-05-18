@@ -1,0 +1,1 @@
+{"slug": "بُرْجٌ", "kind": "lemma", "parsed": {"glosses": {"en": "tower", "fa": "برج", "ur": "برج", "tr": "kule", "id": "menara", "bn": "মিনার", "es": "torre", "fr": "tour", "de": "Turm", "ru": "башня", "zh": "塔"}}, "issues": [], "meta": {"elapsed": 4.75, "input_tokens": 959, "output_tokens": 113, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

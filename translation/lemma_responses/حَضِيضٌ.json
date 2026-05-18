@@ -1,0 +1,1 @@
+{"slug": "حَضِيضٌ", "kind": "lemma", "parsed": {"glosses": {"en": "bottom", "fa": "کف", "ur": "تلا", "tr": "taban", "id": "dasar", "bn": "তলা", "es": "fondo", "fr": "fond", "de": "Boden", "ru": "дно", "zh": "底部"}}, "issues": [], "meta": {"elapsed": 5.39, "input_tokens": 837, "output_tokens": 109, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

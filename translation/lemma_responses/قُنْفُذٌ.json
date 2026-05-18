@@ -1,0 +1,1 @@
+{"slug": "قُنْفُذٌ", "kind": "lemma", "parsed": {"glosses": {"en": "hedgehog", "fa": "جوندگان", "ur": "سور", "tr": "kirpi", "id": "landak", "bn": "হেজহগ", "es": "erizo", "fr": "hérisson", "de": "Igel", "ru": "ёж", "zh": "刺猬"}}, "issues": [], "meta": {"elapsed": 3.74, "input_tokens": 600, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

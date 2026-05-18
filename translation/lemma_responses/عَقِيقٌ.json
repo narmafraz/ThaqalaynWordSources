@@ -1,0 +1,1 @@
+{"slug": "عَقِيقٌ", "kind": "lemma", "parsed": {"glosses": {"en": "carnelian", "fa": "عقیق", "ur": "عقیق", "tr": "akik", "id": "akik", "bn": "আকিক", "es": "acabado", "fr": "agate", "de": "Achat", "ru": "акик", "zh": "红玉髓"}}, "issues": [], "meta": {"elapsed": 4.4, "input_tokens": 953, "output_tokens": 121, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

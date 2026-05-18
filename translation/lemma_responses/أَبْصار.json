@@ -1,0 +1,1 @@
+{"slug": "أَبْصار", "kind": "lemma", "parsed": {"glosses": {"en": "sight", "fa": "بینایی", "ur": "نظارہ", "tr": "görüş", "id": "penglihatan", "bn": "দৃষ্টি", "es": "visión", "fr": "vision", "de": "Sicht", "ru": "зрение", "zh": "视力"}}, "issues": [], "meta": {"elapsed": 4.22, "input_tokens": 477, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

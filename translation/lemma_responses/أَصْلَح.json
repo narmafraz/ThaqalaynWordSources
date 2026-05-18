@@ -1,0 +1,1 @@
+{"slug": "أَصْلَح", "kind": "lemma", "parsed": {"glosses": {"en": "origin", "fa": "ریشه", "ur": "بنیاد", "tr": "köken", "id": "asal", "bn": "মূল", "es": "origen", "fr": "origine", "de": "Ursprung", "ru": "основа", "zh": "根源"}}, "issues": [], "meta": {"elapsed": 4.1, "input_tokens": 449, "output_tokens": 112, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

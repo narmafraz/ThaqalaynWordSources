@@ -1,0 +1,1 @@
+{"slug": "الزَّبُورَ", "kind": "surface", "parsed": {"glosses": {"en": "the Psalms", "fa": "زبور", "ur": "زبور", "tr": "Zebur", "id": "Zabur", "bn": "জবুর", "es": "Zabur", "fr": "Zabur", "de": "Zabur", "ru": "Забуур", "zh": "祖布尔"}}, "issues": [], "meta": {"elapsed": 4.8, "input_tokens": 625, "output_tokens": 123, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

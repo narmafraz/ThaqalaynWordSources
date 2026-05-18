@@ -1,0 +1,1 @@
+{"slug": "إِبِلٍ", "kind": "surface", "parsed": {"glosses": {"en": "camels", "fa": "شترها", "ur": "اونٹ", "tr": "develer", "id": "unta", "bn": "উট", "es": "camellos", "fr": "chameaux", "de": "Kamele", "ru": "верблюды", "zh": "骆驼"}}, "issues": [], "meta": {"elapsed": 2.01, "input_tokens": 1159, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

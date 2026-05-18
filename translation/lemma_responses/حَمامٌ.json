@@ -1,0 +1,1 @@
+{"slug": "حَمامٌ", "kind": "lemma", "parsed": {"glosses": {"en": "pigeon", "fa": "کبوتر", "ur": "کبوتر", "tr": "güvercin", "id": "merpati", "bn": "কবুতর", "es": "paloma", "fr": "pigeon", "de": "Taub", "ru": "голубь", "zh": "鸽子"}}, "issues": [], "meta": {"elapsed": 6.75, "input_tokens": 927, "output_tokens": 123, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "طَبْعٌ", "kind": "lemma", "parsed": {"glosses": {"en": "nature", "fa": "طبع", "ur": "فطرت", "tr": "doğa", "id": "sifat", "bn": "প্রকৃতি", "es": "naturaleza", "fr": "nature", "de": "Natur", "ru": "природа", "zh": "天性"}}, "issues": [], "meta": {"elapsed": 4.49, "input_tokens": 1242, "output_tokens": 113, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

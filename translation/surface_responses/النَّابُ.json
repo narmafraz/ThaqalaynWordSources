@@ -1,0 +1,1 @@
+{"slug": "النَّابُ", "kind": "surface", "parsed": {"glosses": {"en": "the fang", "fa": "ناب", "ur": "نانا", "tr": "kavak", "id": "taring", "bn": "দাঁত", "es": "colmillo", "fr": "canine", "de": "Eckzahn", "ru": "клык", "zh": "犬齿"}}, "issues": [], "meta": {"elapsed": 1.9, "input_tokens": 871, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

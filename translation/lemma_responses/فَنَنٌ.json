@@ -1,0 +1,1 @@
+{"slug": "فَنَنٌ", "kind": "lemma", "parsed": {"glosses": {"en": "branch", "fa": "شاخه", "ur": "شاخ", "tr": "dal", "id": "cabang", "bn": "শাখা", "es": "rama", "fr": "branche", "de": "Zweig", "ru": "ветвь", "zh": "树枝"}}, "issues": [], "meta": {"elapsed": 4.13, "input_tokens": 895, "output_tokens": 112, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

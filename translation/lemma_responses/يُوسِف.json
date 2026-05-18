@@ -1,0 +1,1 @@
+{"slug": "يُوسِف", "kind": "lemma", "parsed": {"glosses": {"en": "Joseph", "fa": "یوسف", "ur": "یوسف", "tr": "Yusuf", "id": "Yusuf", "bn": "ইউসুফ", "es": "José", "fr": "Joseph", "de": "Joseph", "ru": "Юсуф", "zh": "优素福"}}, "issues": [], "meta": {"elapsed": 5.48, "input_tokens": 463, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

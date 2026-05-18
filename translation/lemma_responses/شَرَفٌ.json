@@ -1,0 +1,1 @@
+{"slug": "شَرَفٌ", "kind": "lemma", "parsed": {"glosses": {"en": "nobility", "fa": "شرف", "ur": "شرف", "tr": "şeref", "id": "kemuliaan", "bn": "শরফ", "es": "nobilidad", "fr": "noblesse", "de": "Ehre", "ru": "честь", "zh": "尊贵"}}, "issues": [], "meta": {"elapsed": 4.56, "input_tokens": 2100, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

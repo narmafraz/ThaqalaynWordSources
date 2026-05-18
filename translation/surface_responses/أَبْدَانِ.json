@@ -1,0 +1,1 @@
+{"slug": "أَبْدَانِ", "kind": "surface", "parsed": {"glosses": {"en": "bodies", "fa": "جسم‌ها", "ur": "جسم", "tr": "bedenler", "id": "badan", "bn": "শরীর", "es": "cuerpos", "fr": "corps", "de": "Körper", "ru": "тела", "zh": "身体"}}, "issues": [], "meta": {"elapsed": 4.57, "input_tokens": 1056, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

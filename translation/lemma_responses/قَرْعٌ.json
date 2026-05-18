@@ -1,0 +1,1 @@
+{"slug": "قَرْعٌ", "kind": "lemma", "parsed": {"glosses": {"en": "knocking", "fa": "ضرب", "ur": "ٹھوک", "tr": "vurma", "id": "pukulan", "bn": "ঠোকা", "es": "golpe", "fr": "coup", "de": "Klopfen", "ru": "удар", "zh": "敲击"}}, "issues": [], "meta": {"elapsed": 3.95, "input_tokens": 1312, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

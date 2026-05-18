@@ -1,0 +1,1 @@
+{"slug": "الذُّبَابَ", "kind": "surface", "parsed": {"glosses": {"en": "the fly", "fa": "مگس", "ur": "مگہ", "tr": "sinek", "id": "lalat", "bn": "মাছি", "es": "mosca", "fr": "mouche", "de": "Fliege", "ru": "муха", "zh": "苍蝇"}}, "issues": [], "meta": {"elapsed": 4.74, "input_tokens": 906, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

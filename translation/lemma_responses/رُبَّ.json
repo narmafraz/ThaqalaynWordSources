@@ -1,0 +1,1 @@
+{"slug": "رُبَّ", "kind": "lemma", "parsed": {"glosses": {"en": "many a", "fa": "بسیار", "ur": "بہت سے", "tr": "birçok", "id": "banyak", "bn": "অনেক", "es": "muchos", "fr": "beaucoup", "de": "mancher", "ru": "многие", "zh": "许多"}}, "issues": [], "meta": {"elapsed": 4.26, "input_tokens": 1067, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

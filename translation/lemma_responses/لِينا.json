@@ -1,0 +1,1 @@
+{"slug": "لِينا", "kind": "lemma", "parsed": {"glosses": {"en": "Linna", "fa": "لینا", "ur": "لینا", "tr": "Linna", "id": "Linna", "bn": "লিনা", "es": "Linna", "fr": "Linna", "de": "Linna", "ru": "Линна", "zh": "利纳"}}, "issues": [], "meta": {"elapsed": 2.09, "input_tokens": 449, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

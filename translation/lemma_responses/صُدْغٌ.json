@@ -1,0 +1,1 @@
+{"slug": "صُدْغٌ", "kind": "lemma", "parsed": {"glosses": {"en": "temple", "fa": "شقیقه", "ur": "شقیقہ", "tr": "şakak", "id": "pelipis", "bn": "গাল", "es": "sien", "fr": "temple", "de": "Schläfe", "ru": "висок", "zh": "太阳穴"}}, "issues": [], "meta": {"elapsed": 5.58, "input_tokens": 932, "output_tokens": 120, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

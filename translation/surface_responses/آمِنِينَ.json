@@ -1,0 +1,1 @@
+{"slug": "آمِنِينَ", "kind": "surface", "parsed": {"glosses": {"en": "secure", "fa": "امن", "ur": "امان", "tr": "güvenli", "id": "aman", "bn": "নিরাপদ", "es": "seguro", "fr": "sûr", "de": "sicher", "ru": "безопасный", "zh": "安全"}}, "issues": [], "meta": {"elapsed": 5.16, "input_tokens": 1095, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

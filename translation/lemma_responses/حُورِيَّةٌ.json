@@ -1,0 +1,1 @@
+{"slug": "حُورِيَّةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "houri", "fa": "حوری", "ur": "حوری", "tr": "huri", "id": "houri", "bn": "হুরি", "es": "houri", "fr": "houri", "de": "Houri", "ru": "хури", "zh": "胡里"}}, "issues": [], "meta": {"elapsed": 9.63, "input_tokens": 469, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

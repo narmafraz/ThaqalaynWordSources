@@ -1,0 +1,1 @@
+{"slug": "رَواحٌ", "kind": "lemma", "parsed": {"glosses": {"en": "evening", "fa": "عصر", "ur": "شام", "tr": "akşam", "id": "sore", "bn": "সন্ধ্যা", "es": "tarde", "fr": "soir", "de": "Abend", "ru": "вечер", "zh": "傍晚"}}, "issues": [], "meta": {"elapsed": 2.6, "input_tokens": 849, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

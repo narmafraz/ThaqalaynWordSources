@@ -1,0 +1,1 @@
+{"slug": "زُهَيْر", "kind": "lemma", "parsed": {"glosses": {"en": "Zuhayr", "fa": "زهر", "ur": "زہیر", "tr": "Zuhayr", "id": "Zuhayr", "bn": "জুহাইর", "es": "Zuhayr", "fr": "Zuhayr", "de": "Zuhayr", "ru": "Зухайр", "zh": "祖海尔"}}, "issues": [], "meta": {"elapsed": 4.57, "input_tokens": 449, "output_tokens": 132, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

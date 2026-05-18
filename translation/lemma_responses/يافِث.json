@@ -1,0 +1,1 @@
+{"slug": "يافِث", "kind": "lemma", "parsed": {"glosses": {"en": "Japheth", "fa": "یافث", "ur": "یافث", "tr": "Yafeth", "id": "Yafet", "bn": "যাফেথ", "es": "Jafet", "fr": "Japhet", "de": "Japhet", "ru": "Иафет", "zh": "雅弗"}}, "issues": [], "meta": {"elapsed": 6.47, "input_tokens": 462, "output_tokens": 127, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

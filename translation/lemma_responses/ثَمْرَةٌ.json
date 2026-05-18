@@ -1,0 +1,1 @@
+{"slug": "ثَمْرَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "fruit", "fa": "میوه", "ur": "پھل", "tr": "meyve", "id": "buah", "bn": "ফল", "es": "fruta", "fr": "fruit", "de": "Frucht", "ru": "плод", "zh": "果实"}}, "issues": [], "meta": {"elapsed": 4.3, "input_tokens": 990, "output_tokens": 110, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "مار", "kind": "lemma", "parsed": {"glosses": {"en": "Mar", "fa": "مار", "ur": "مار", "tr": "Mar", "id": "Mar", "bn": "মার", "es": "Mar", "fr": "Mar", "de": "Mar", "ru": "Мар", "zh": "马尔"}}, "issues": [], "meta": {"elapsed": 3.07, "input_tokens": 1443, "output_tokens": 104, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

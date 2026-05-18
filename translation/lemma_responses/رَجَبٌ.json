@@ -1,0 +1,1 @@
+{"slug": "رَجَبٌ", "kind": "lemma", "parsed": {"glosses": {"en": "Rajab", "fa": "رجب", "ur": "رجب", "tr": "Receb", "id": "Rajab", "bn": "রাজাব", "es": "Rajab", "fr": "Rajab", "de": "Rajab", "ru": "Раджаб", "zh": "赖哲卜"}}, "issues": [], "meta": {"elapsed": 5.89, "input_tokens": 924, "output_tokens": 123, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

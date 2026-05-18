@@ -1,0 +1,1 @@
+{"slug": "أَرْمَلَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "widow", "fa": "بیوه", "ur": "بیوہ", "tr": "dul", "id": "janda", "bn": "বিধবা", "es": "viuda", "fr": "veuve", "de": "Witwe", "ru": "вдова", "zh": "寡妇"}}, "issues": [], "meta": {"elapsed": 4.44, "input_tokens": 503, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "سَدٌّ", "kind": "lemma", "parsed": {"glosses": {"en": "barrier", "fa": "سد", "ur": "سد", "tr": "bariyer", "id": "penghalang", "bn": "বাধা", "es": "barrera", "fr": "barrière", "de": "Barriere", "ru": "барьер", "zh": "屏障"}}, "issues": [], "meta": {"elapsed": 5.34, "input_tokens": 958, "output_tokens": 114, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

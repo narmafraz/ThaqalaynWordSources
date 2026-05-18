@@ -1,0 +1,1 @@
+{"slug": "أَعْطَيْتُ", "kind": "surface", "parsed": {"glosses": {"en": "I gave", "fa": "دادم", "ur": "دیا", "tr": "verdim", "id": "memberi", "bn": "দান করলাম", "es": "di", "fr": "donnai", "de": "gab", "ru": "дал", "zh": "给予"}}, "issues": [], "meta": {"elapsed": 4.73, "input_tokens": 750, "output_tokens": 112, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

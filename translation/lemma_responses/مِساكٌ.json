@@ -1,0 +1,1 @@
+{"slug": "مِساكٌ", "kind": "lemma", "parsed": {"glosses": {"en": "needle", "fa": "سوزن", "ur": "سوئی", "tr": "iğne", "id": "jarum", "bn": "সূঁচ", "es": "aguja", "fr": "aiguille", "de": "Nadel", "ru": "игла", "zh": "针"}}, "issues": [], "meta": {"elapsed": 3.96, "input_tokens": 477, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

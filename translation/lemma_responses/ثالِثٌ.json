@@ -1,0 +1,1 @@
+{"slug": "ثالِثٌ", "kind": "lemma", "parsed": {"glosses": {"en": "third", "fa": "سوم", "ur": "تیسرا", "tr": "üçüncü", "id": "ketiga", "bn": "তৃতীয়", "es": "tercero", "fr": "troisième", "de": "dritter", "ru": "третий", "zh": "第三"}}, "issues": [], "meta": {"elapsed": 4.93, "input_tokens": 984, "output_tokens": 120, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

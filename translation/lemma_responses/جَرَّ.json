@@ -1,0 +1,1 @@
+{"slug": "جَرَّ", "kind": "lemma", "parsed": {"glosses": {"en": "pulling", "fa": "کشیدن", "ur": "کھینچنا", "tr": "çekme", "id": "menarik", "bn": "টানা", "es": "tirar", "fr": "tirer", "de": "Ziehen", "ru": "тяга", "zh": "拖拽"}}, "issues": [], "meta": {"elapsed": 5.23, "input_tokens": 1022, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

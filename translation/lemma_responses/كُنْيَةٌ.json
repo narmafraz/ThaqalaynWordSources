@@ -1,0 +1,1 @@
+{"slug": "كُنْيَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "kunya", "fa": "کُنیَه", "ur": "کُنیہ", "tr": "kunya", "id": "kunya", "bn": "কুনিয়া", "es": "kunya", "fr": "kunya", "de": "kunya", "ru": "кунья", "zh": "库尼亚"}}, "issues": [], "meta": {"elapsed": 4.45, "input_tokens": 499, "output_tokens": 121, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "سُخْنٌ", "kind": "lemma", "parsed": {"glosses": {"en": "hot", "fa": "داغ", "ur": "گرم", "tr": "sıcak", "id": "panas", "bn": "গরম", "es": "caliente", "fr": "chaud", "de": "heiß", "ru": "горячий", "zh": "热的"}}, "issues": [], "meta": {"elapsed": 4.36, "input_tokens": 1059, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

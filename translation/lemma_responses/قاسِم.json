@@ -1,0 +1,1 @@
+{"slug": "قاسِم", "kind": "lemma", "parsed": {"glosses": {"en": "Qasim", "fa": "قاسم", "ur": "قاسم", "tr": "Kasim", "id": "Qasim", "bn": "কাসিম", "es": "Qasim", "fr": "Qasim", "de": "Qasim", "ru": "Касим", "zh": "卡西姆"}}, "issues": [], "meta": {"elapsed": 3.64, "input_tokens": 529, "output_tokens": 124, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

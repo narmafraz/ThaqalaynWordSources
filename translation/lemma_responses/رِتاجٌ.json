@@ -1,0 +1,1 @@
+{"slug": "رِتاجٌ", "kind": "lemma", "parsed": {"glosses": {"en": "door", "fa": "درب", "ur": "دروازہ", "tr": "kapı", "id": "pintu", "bn": "দরজা", "es": "puerta", "fr": "porte", "de": "Tür", "ru": "дверь", "zh": "门"}}, "issues": [], "meta": {"elapsed": 5.48, "input_tokens": 965, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

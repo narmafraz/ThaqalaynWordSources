@@ -1,0 +1,1 @@
+{"slug": "ذَهَبٌ", "kind": "lemma", "parsed": {"glosses": {"en": "gold", "fa": "طلا", "ur": "سونا", "tr": "altın", "id": "emas", "bn": "স্বর্ণ", "es": "oro", "fr": "or", "de": "Gold", "ru": "золото", "zh": "黄金"}}, "issues": [], "meta": {"elapsed": 4.38, "input_tokens": 1875, "output_tokens": 108, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

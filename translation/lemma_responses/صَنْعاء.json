@@ -1,0 +1,1 @@
+{"slug": "صَنْعاء", "kind": "lemma", "parsed": {"glosses": {"en": "Sanaa", "fa": "صنعاء", "ur": "صنعاء", "tr": "Sanaa", "id": "Sanaa", "bn": "সানা", "es": "Saná", "fr": "Sanaa", "de": "Sanaa", "ru": "Санá", "zh": "萨那"}}, "issues": [], "meta": {"elapsed": 3.92, "input_tokens": 470, "output_tokens": 120, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

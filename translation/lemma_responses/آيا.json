@@ -1,0 +1,1 @@
+{"slug": "آيا", "kind": "lemma", "parsed": {"glosses": {"en": "O", "fa": "ای", "ur": "اے", "tr": "ey", "id": "hai", "bn": "হে", "es": "oh", "fr": "ô", "de": "oh", "ru": "о", "zh": "哦"}}, "issues": [], "meta": {"elapsed": 2.41, "input_tokens": 974, "output_tokens": 105, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

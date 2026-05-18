@@ -1,0 +1,1 @@
+{"slug": "عُلْوِيٌّ", "kind": "lemma", "parsed": {"glosses": {"en": "upper", "fa": "بالا", "ur": "اوپر", "tr": "üst", "id": "atas", "bn": "উচ্চ", "es": "superior", "fr": "supérieur", "de": "ober", "ru": "верхний", "zh": "上"}}, "issues": [], "meta": {"elapsed": 3.39, "input_tokens": 565, "output_tokens": 111, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

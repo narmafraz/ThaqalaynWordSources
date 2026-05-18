@@ -1,0 +1,1 @@
+{"slug": "مَتَّى", "kind": "lemma", "parsed": {"glosses": {"en": "Matthew", "fa": "متی", "ur": "متی", "tr": "Mattâ", "id": "Matius", "bn": "মত্‌ত", "es": "Mateo", "fr": "Matthieu", "de": "Matthäus", "ru": "Матфей", "zh": "马太"}}, "issues": [], "meta": {"elapsed": 4.38, "input_tokens": 675, "output_tokens": 120, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

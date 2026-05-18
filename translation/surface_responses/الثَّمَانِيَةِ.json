@@ -1,0 +1,1 @@
+{"slug": "الثَّمَانِيَةِ", "kind": "surface", "parsed": {"glosses": {"en": "the eight", "fa": "هشت", "ur": "آٹھ", "tr": "sekiz", "id": "delapan", "bn": "আট", "es": "ocho", "fr": "huit", "de": "acht", "ru": "восемь", "zh": "八"}}, "issues": [], "meta": {"elapsed": 4.77, "input_tokens": 649, "output_tokens": 114, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

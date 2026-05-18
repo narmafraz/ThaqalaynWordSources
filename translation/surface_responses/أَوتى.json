@@ -1,0 +1,1 @@
+{"slug": "أَوتى", "kind": "surface", "parsed": {"glosses": {"en": "Oti", "fa": "اُوتی", "ur": "اُوتی", "tr": "Oti", "id": "Oti", "bn": "ওতি", "es": "Oti", "fr": "Oti", "de": "Oti", "ru": "Ути", "zh": "奥特"}}, "issues": [], "meta": {"elapsed": 1.68, "input_tokens": 572, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

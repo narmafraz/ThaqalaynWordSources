@@ -1,0 +1,1 @@
+{"slug": "سَقَر", "kind": "lemma", "parsed": {"glosses": {"en": "Saqar", "fa": "سقر", "ur": "سقر", "tr": "Sakkar", "id": "Saqar", "bn": "সাকার", "es": "Saqar", "fr": "Saqar", "de": "Saqar", "ru": "Сакар", "zh": "萨卡尔"}}, "issues": [], "meta": {"elapsed": 4.95, "input_tokens": 625, "output_tokens": 121, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "أَصْوَاتٍ", "kind": "surface", "parsed": {"glosses": {"en": "sounds", "fa": "صداها", "ur": "آوازیں", "tr": "sesler", "id": "suara", "bn": "শব্দ", "es": "sonidos", "fr": "sons", "de": "Töne", "ru": "звуки", "zh": "声音"}}, "issues": [], "meta": {"elapsed": 2.7, "input_tokens": 1149, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

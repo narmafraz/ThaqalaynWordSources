@@ -1,0 +1,1 @@
+{"slug": "بَعْدِ", "kind": "lemma", "parsed": {"glosses": {"en": "after", "fa": "بعد", "ur": "بعد", "tr": "sonra", "id": "setelah", "bn": "পরে", "es": "después", "fr": "après", "de": "nach", "ru": "после", "zh": "之后"}}, "issues": [], "meta": {"elapsed": 4.55, "input_tokens": 2283, "output_tokens": 109, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

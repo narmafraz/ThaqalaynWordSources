@@ -1,0 +1,1 @@
+{"slug": "السُّقُوطِ", "kind": "surface", "parsed": {"glosses": {"en": "the falling", "fa": "سقوط", "ur": "گرنے", "tr": "düşme", "id": "jatuh", "bn": "পতন", "es": "caída", "fr": "chute", "de": "Fallen", "ru": "падение", "zh": "坠落"}}, "issues": [], "meta": {"elapsed": 4.13, "input_tokens": 699, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

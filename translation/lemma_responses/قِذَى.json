@@ -1,0 +1,1 @@
+{"slug": "قِذَى", "kind": "lemma", "parsed": {"glosses": {"en": "mote", "fa": "گرد", "ur": "گرد", "tr": "toz", "id": "debu", "bn": "ধুলিকণা", "es": "mote", "fr": "mote", "de": "Staubkorn", "ru": "пылинка", "zh": "尘屑"}}, "issues": [], "meta": {"elapsed": 5.03, "input_tokens": 732, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

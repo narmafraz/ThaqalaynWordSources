@@ -1,0 +1,1 @@
+{"slug": "الطَّسُوقِ", "kind": "surface", "parsed": {"glosses": {"en": "the braid", "fa": "بافت", "ur": "بافت", "tr": "örgü", "id": "jalinan", "bn": "জট", "es": "trenza", "fr": "tresse", "de": "Zopf", "ru": "коса", "zh": "辫子"}}, "issues": [], "meta": {"elapsed": 6.37, "input_tokens": 536, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

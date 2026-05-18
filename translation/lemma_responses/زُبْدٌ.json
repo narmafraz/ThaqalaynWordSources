@@ -1,0 +1,1 @@
+{"slug": "زُبْدٌ", "kind": "lemma", "parsed": {"glosses": {"en": "butter", "fa": "کره", "ur": "مکھن", "tr": "tereyağı", "id": "mentega", "bn": "মাখন", "es": "mantequilla", "fr": "beurre", "de": "Butter", "ru": "масло", "zh": "黄油"}}, "issues": [], "meta": {"elapsed": 4.83, "input_tokens": 940, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

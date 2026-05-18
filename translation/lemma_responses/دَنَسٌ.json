@@ -1,0 +1,1 @@
+{"slug": "دَنَسٌ", "kind": "lemma", "parsed": {"glosses": {"en": "stain", "fa": "لکه", "ur": "داغ", "tr": "leke", "id": "noda", "bn": "দাগ", "es": "mancha", "fr": "tache", "de": "Fleck", "ru": "пятно", "zh": "污渍"}}, "issues": [], "meta": {"elapsed": 3.81, "input_tokens": 974, "output_tokens": 113, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "يُونِس", "kind": "lemma", "parsed": {"glosses": {"en": "Jonah", "fa": "یونس", "ur": "یونس", "tr": "Yunus", "id": "Yunus", "bn": "ইউনুস", "es": "Jonás", "fr": "Jonas", "de": "Jona", "ru": "Юнус", "zh": "优努斯"}}, "issues": [], "meta": {"elapsed": 6.4, "input_tokens": 465, "output_tokens": 120, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

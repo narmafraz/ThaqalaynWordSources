@@ -1,0 +1,1 @@
+{"slug": "حَكَمَ", "kind": "lemma", "parsed": {"glosses": {"en": "judgment", "fa": "حکم", "ur": "حکم", "tr": "hüküm", "id": "hukum", "bn": "হুকুম", "es": "juzgamiento", "fr": "jugement", "de": "Urteil", "ru": "суждение", "zh": "判决"}}, "issues": [], "meta": {"elapsed": 4.2, "input_tokens": 2193, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

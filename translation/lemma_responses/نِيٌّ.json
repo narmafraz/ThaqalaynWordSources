@@ -1,0 +1,1 @@
+{"slug": "نِيٌّ", "kind": "lemma", "parsed": {"glosses": {"en": "fat", "fa": "چربی", "ur": "چربی", "tr": "yağ", "id": "lemak", "bn": "চর্বি", "es": "grasa", "fr": "graisse", "de": "Fett", "ru": "жир", "zh": "脂肪"}}, "issues": [], "meta": {"elapsed": 5.35, "input_tokens": 517, "output_tokens": 113, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

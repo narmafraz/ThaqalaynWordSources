@@ -1,0 +1,1 @@
+{"slug": "سِلاحٌ", "kind": "lemma", "parsed": {"glosses": {"en": "weapon", "fa": "سلاح", "ur": "سلاح", "tr": "silah", "id": "senjata", "bn": "অস্ত্র", "es": "arma", "fr": "arme", "de": "Waffe", "ru": "оружие", "zh": "武器"}}, "issues": [], "meta": {"elapsed": 3.79, "input_tokens": 1014, "output_tokens": 112, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

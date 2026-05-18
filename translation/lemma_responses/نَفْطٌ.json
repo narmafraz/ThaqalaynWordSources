@@ -1,0 +1,1 @@
+{"slug": "نَفْطٌ", "kind": "lemma", "parsed": {"glosses": {"en": "oil", "fa": "نفت", "ur": "تیل", "tr": "petrol", "id": "minyak", "bn": "তেল", "es": "petróleo", "fr": "pétrole", "de": "Erdöl", "ru": "нефть", "zh": "石油"}}, "issues": [], "meta": {"elapsed": 5.6, "input_tokens": 797, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "هَلَّمَ", "kind": "lemma", "parsed": {"glosses": {"en": "come", "fa": "بیا", "ur": "آؤ", "tr": "gel", "id": "datang", "bn": "আসো", "es": "ven", "fr": "viens", "de": "komm", "ru": "иди", "zh": "来"}}, "issues": [], "meta": {"elapsed": 3.14, "input_tokens": 1429, "output_tokens": 110, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

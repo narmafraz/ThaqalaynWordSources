@@ -1,0 +1,1 @@
+{"slug": "إِيست", "kind": "lemma", "parsed": {"glosses": {"en": "Ist", "fa": "ایست", "ur": "ایست", "tr": "Ist", "id": "Ist", "bn": "ইস্ট", "es": "Ist", "fr": "Ist", "de": "Ist", "ru": "Ист", "zh": "伊斯特"}}, "issues": [], "meta": {"elapsed": 2.09, "input_tokens": 449, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

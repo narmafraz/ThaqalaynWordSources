@@ -1,0 +1,1 @@
+{"slug": "قَضِيَّةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "case, lawsuit", "fa": "دعوی", "ur": "کیس", "tr": "dava", "id": "kasus", "bn": "মামলা", "es": "caso", "fr": "affaire", "de": "Fall", "ru": "дело", "zh": "案件"}}, "issues": [], "meta": {"elapsed": 6.57, "input_tokens": 626, "output_tokens": 114, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

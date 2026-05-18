@@ -1,0 +1,1 @@
+{"slug": "حاجِبٌ", "kind": "lemma", "parsed": {"glosses": {"en": "eyebrow", "fa": "ابرو", "ur": "بھن", "tr": "kaş", "id": "alisku", "bn": "ভ্র", "es": "ceja", "fr": "sourcil", "de": "Augenbraue", "ru": "бровь", "zh": "眉毛"}}, "issues": [], "meta": {"elapsed": 4.29, "input_tokens": 1005, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

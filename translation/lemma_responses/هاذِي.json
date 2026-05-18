@@ -1,0 +1,1 @@
+{"slug": "هاذِي", "kind": "lemma", "parsed": {"glosses": {"en": "this", "fa": "این", "ur": "یہ", "tr": "bu", "id": "ini", "bn": "এই", "es": "esta", "fr": "celle", "de": "diese", "ru": "эта", "zh": "这"}}, "issues": [], "meta": {"elapsed": 4.84, "input_tokens": 448, "output_tokens": 107, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

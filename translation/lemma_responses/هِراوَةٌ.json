@@ -1,0 +1,1 @@
+{"slug": "هِراوَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "baton, club", "fa": "چوب", "ur": "لاٹھی", "tr": "sopa", "id": "tongkat", "bn": "লাঠি", "es": "bastón", "fr": "bâton", "de": "Stock", "ru": "посох", "zh": "棍棒"}}, "issues": [], "meta": {"elapsed": 4.17, "input_tokens": 471, "output_tokens": 120, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

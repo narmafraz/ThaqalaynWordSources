@@ -1,0 +1,1 @@
+{"slug": "مَكّارٌ", "kind": "lemma", "parsed": {"glosses": {"en": "crafty", "fa": "حیله‌گر", "ur": "چالاک", "tr": "hilekar", "id": "licik", "bn": "চালাক", "es": "astuto", "fr": "rusé", "de": "listig", "ru": "хитрый", "zh": "狡诈的"}}, "issues": [], "meta": {"elapsed": 6.25, "input_tokens": 532, "output_tokens": 123, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

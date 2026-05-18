@@ -1,0 +1,1 @@
+{"slug": "أَجْرًا", "kind": "surface", "parsed": {"glosses": {"en": "wages", "fa": "اجرت", "ur": "اجرت", "tr": "ücret", "id": "upah", "bn": "মজুরি", "es": "salario", "fr": "salaire", "de": "Lohn", "ru": "плата", "zh": "工资"}}, "issues": [], "meta": {"elapsed": 4.22, "input_tokens": 920, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

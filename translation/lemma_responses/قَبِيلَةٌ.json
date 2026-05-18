@@ -1,0 +1,1 @@
+{"slug": "قَبِيلَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "tribe", "fa": "قبیله", "ur": "قبیلہ", "tr": "kabile", "id": "suku", "bn": "গোত্র", "es": "tribu", "fr": "tribu", "de": "Stamm", "ru": "племя", "zh": "部落"}}, "issues": [], "meta": {"elapsed": 5.26, "input_tokens": 565, "output_tokens": 114, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

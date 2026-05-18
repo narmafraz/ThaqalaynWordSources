@@ -1,0 +1,1 @@
+{"slug": "طَبِيبٌ", "kind": "lemma", "parsed": {"glosses": {"en": "doctor", "fa": "پزشک", "ur": "ڈاکٹر", "tr": "doktor", "id": "dokter", "bn": "ডাক্তার", "es": "médico", "fr": "médecin", "de": "Arzt", "ru": "врач", "zh": "医生"}}, "issues": [], "meta": {"elapsed": 3.33, "input_tokens": 805, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

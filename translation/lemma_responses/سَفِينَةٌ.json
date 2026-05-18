@@ -1,0 +1,1 @@
+{"slug": "سَفِينَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "ship", "fa": "کشتی", "ur": "کشتی", "tr": "gemi", "id": "kapal", "bn": "নৌকা", "es": "barco", "fr": "navire", "de": "Schiff", "ru": "корабль", "zh": "船"}}, "issues": [], "meta": {"elapsed": 3.56, "input_tokens": 940, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

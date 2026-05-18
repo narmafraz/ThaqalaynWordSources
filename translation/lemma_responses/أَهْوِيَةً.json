@@ -1,0 +1,1 @@
+{"slug": "أَهْوِيَةً", "kind": "lemma", "parsed": {"glosses": {"en": "air", "fa": "هوا", "ur": "ہوا", "tr": "hava", "id": "udara", "bn": "বাতাস", "es": "aire", "fr": "air", "de": "Luft", "ru": "воздух", "zh": "空气"}}, "issues": [], "meta": {"elapsed": 3.67, "input_tokens": 460, "output_tokens": 111, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

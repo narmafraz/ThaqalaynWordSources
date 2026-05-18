@@ -1,0 +1,1 @@
+{"slug": "لُقْمَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "bite", "fa": "لقمه", "ur": "لقمہ", "tr": "lokma", "id": "gigitan", "bn": "কামড়", "es": "bocado", "fr": "bouchée", "de": "Bissen", "ru": "кусок", "zh": "一口"}}, "issues": [], "meta": {"elapsed": 3.5, "input_tokens": 588, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

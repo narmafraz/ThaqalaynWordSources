@@ -1,0 +1,1 @@
+{"slug": "هَبَّ", "kind": "lemma", "parsed": {"glosses": {"en": "to blow", "fa": "وزیدن", "ur": "جھونکنا", "tr": "esmek", "id": "menderu", "bn": "বাতাস চলা", "es": "soplar", "fr": "souffler", "de": "wehen", "ru": "дуть", "zh": "吹"}}, "issues": [], "meta": {"elapsed": 5.26, "input_tokens": 1969, "output_tokens": 122, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

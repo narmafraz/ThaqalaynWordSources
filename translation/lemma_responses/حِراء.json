@@ -1,0 +1,1 @@
+{"slug": "حِراء", "kind": "lemma", "parsed": {"glosses": {"en": "Hira", "fa": "حراء", "ur": "حراء", "tr": "Hira", "id": "Hira", "bn": "হিরা", "es": "Hira", "fr": "Hira", "de": "Hira", "ru": "Хира", "zh": "希拉"}}, "issues": [], "meta": {"elapsed": 2.97, "input_tokens": 449, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

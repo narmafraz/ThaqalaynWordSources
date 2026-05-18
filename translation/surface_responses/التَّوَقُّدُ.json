@@ -1,0 +1,1 @@
+{"slug": "التَّوَقُّدُ", "kind": "surface", "parsed": {"glosses": {"en": "the flame", "fa": "شعله", "ur": "شعلہ", "tr": "alev", "id": "nyala", "bn": "জ্বালা", "es": "llama", "fr": "flamme", "de": "Flamme", "ru": "пламя", "zh": "火焰"}}, "issues": [], "meta": {"elapsed": 2.73, "input_tokens": 577, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

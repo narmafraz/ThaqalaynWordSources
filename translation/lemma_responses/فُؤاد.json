@@ -1,0 +1,1 @@
+{"slug": "فُؤاد", "kind": "lemma", "parsed": {"glosses": {"en": "heart", "fa": "دل", "ur": "دل", "tr": "kalp", "id": "hati", "bn": "হৃদয়", "es": "corazón", "fr": "cœur", "de": "Herz", "ru": "сердце", "zh": "心"}}, "issues": [], "meta": {"elapsed": 3.72, "input_tokens": 460, "output_tokens": 112, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

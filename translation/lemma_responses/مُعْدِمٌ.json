@@ -1,0 +1,1 @@
+{"slug": "مُعْدِمٌ", "kind": "lemma", "parsed": {"glosses": {"en": "poor", "fa": "فقیر", "ur": "غریب", "tr": "fakir", "id": "miskin", "bn": "গরিব", "es": "pobre", "fr": "pauvre", "de": "arm", "ru": "бедный", "zh": "贫穷的"}}, "issues": [], "meta": {"elapsed": 4.54, "input_tokens": 471, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

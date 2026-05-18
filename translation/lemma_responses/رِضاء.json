@@ -1,0 +1,1 @@
+{"slug": "رِضاء", "kind": "lemma", "parsed": {"glosses": {"en": "Rudaw", "fa": "رُضَی", "ur": "رضیٰ", "tr": "Rudav", "id": "Rudaw", "bn": "রুদাও", "es": "Rudaw", "fr": "Rudaw", "de": "Rudaw", "ru": "Рудау", "zh": "鲁达乌"}}, "issues": [], "meta": {"elapsed": 5.12, "input_tokens": 484, "output_tokens": 129, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

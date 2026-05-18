@@ -1,0 +1,1 @@
+{"slug": "مَلٌّ", "kind": "lemma", "parsed": {"glosses": {"en": "turning", "fa": "چرخش", "ur": "مڑنا", "tr": "dönme", "id": "berputar", "bn": "ঘোরানো", "es": "giro", "fr": "tournant", "de": "Drehen", "ru": "поворот", "zh": "转身"}}, "issues": [], "meta": {"elapsed": 5.43, "input_tokens": 471, "output_tokens": 120, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

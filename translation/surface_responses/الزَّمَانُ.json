@@ -1,0 +1,1 @@
+{"slug": "الزَّمَانُ", "kind": "surface", "parsed": {"glosses": {"en": "the time", "fa": "زمان", "ur": "وقت", "tr": "zaman", "id": "waktu", "bn": "সময়", "es": "tiempo", "fr": "temps", "de": "Zeit", "ru": "время", "zh": "时间"}}, "issues": [], "meta": {"elapsed": 4.73, "input_tokens": 689, "output_tokens": 109, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

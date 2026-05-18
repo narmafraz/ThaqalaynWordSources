@@ -1,0 +1,1 @@
+{"slug": "وَكْرٌ", "kind": "lemma", "parsed": {"glosses": {"en": "nest", "fa": "لانه", "ur": "آشیانہ", "tr": "yuva", "id": "sarang", "bn": "কুলাক", "es": "nido", "fr": "nid", "de": "Nest", "ru": "гнездо", "zh": "巢"}}, "issues": [], "meta": {"elapsed": 4.26, "input_tokens": 823, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

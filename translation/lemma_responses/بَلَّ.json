@@ -1,0 +1,1 @@
+{"slug": "بَلَّ", "kind": "lemma", "parsed": {"glosses": {"en": "nay", "fa": "بلکه", "ur": "بلکہ", "tr": "belki", "id": "melainkan", "bn": "বরং", "es": "sino", "fr": "mais", "de": "sondern", "ru": "но", "zh": "而是"}}, "issues": [], "meta": {"elapsed": 3.57, "input_tokens": 940, "output_tokens": 111, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

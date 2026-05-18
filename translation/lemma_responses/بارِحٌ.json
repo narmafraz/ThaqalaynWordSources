@@ -1,0 +1,1 @@
+{"slug": "بارِحٌ", "kind": "lemma", "parsed": {"glosses": {"en": "yesterday", "fa": "دیروز", "ur": "گزشتہ", "tr": "dün", "id": "kemarin", "bn": "গতকাল", "es": "ayer", "fr": "hier", "de": "gestern", "ru": "вчера", "zh": "昨天"}}, "issues": [], "meta": {"elapsed": 4.24, "input_tokens": 920, "output_tokens": 113, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

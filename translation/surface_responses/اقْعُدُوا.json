@@ -1,0 +1,1 @@
+{"slug": "اقْعُدُوا", "kind": "surface", "parsed": {"glosses": {"en": "sit", "fa": "بشینید", "ur": "بیٹھیں", "tr": "otur", "id": "duduk", "bn": "বসুন", "es": "sentarse", "fr": "asseoir", "de": "sitzen", "ru": "сидеть", "zh": "坐"}}, "issues": [], "meta": {"elapsed": 3.26, "input_tokens": 656, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

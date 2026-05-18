@@ -1,0 +1,1 @@
+{"slug": "أَنام", "kind": "lemma", "parsed": {"glosses": {"en": "to sleep", "fa": "خوابیدن", "ur": "سونا", "tr": "uyumak", "id": "tidur", "bn": "ঘুমানো", "es": "dormir", "fr": "dormir", "de": "schlafen", "ru": "спать", "zh": "睡觉"}}, "issues": [], "meta": {"elapsed": 5.14, "input_tokens": 969, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

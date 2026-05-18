@@ -1,0 +1,1 @@
+{"slug": "اللِّسَانِ", "kind": "surface", "parsed": {"glosses": {"en": "the tongue", "fa": "زبان", "ur": "زبان", "tr": "dil", "id": "lidah", "bn": "জিহ্বা", "es": "lengua", "fr": "langue", "de": "Zunge", "ru": "язык", "zh": "舌头"}}, "issues": [], "meta": {"elapsed": 4.95, "input_tokens": 869, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

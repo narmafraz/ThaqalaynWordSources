@@ -1,0 +1,1 @@
+{"slug": "صِبْغٌ", "kind": "lemma", "parsed": {"glosses": {"en": "dye", "fa": "رنگ", "ur": "رنگ", "tr": "boya", "id": "pewarna", "bn": "রং", "es": "tinte", "fr": "teinture", "de": "Färbung", "ru": "краска", "zh": "染料"}}, "issues": [], "meta": {"elapsed": 5.93, "input_tokens": 2089, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

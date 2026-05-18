@@ -1,0 +1,1 @@
+{"slug": "أَلِفٌ", "kind": "surface", "parsed": {"glosses": {"en": "thousand", "fa": "هزار", "ur": "ہزار", "tr": "bin", "id": "seribu", "bn": "হাজার", "es": "mil", "fr": "mille", "de": "tausend", "ru": "тысяча", "zh": "千"}}, "issues": [], "meta": {"elapsed": 3.7, "input_tokens": 1054, "output_tokens": 112, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

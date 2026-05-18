@@ -1,0 +1,1 @@
+{"slug": "مِسْمَعٌ", "kind": "lemma", "parsed": {"glosses": {"en": "ear", "fa": "گوش", "ur": "کان", "tr": "kulak", "id": "telinga", "bn": "কান", "es": "oreja", "fr": "oreille", "de": "Ohr", "ru": "ухо", "zh": "耳朵"}}, "issues": [], "meta": {"elapsed": 4.12, "input_tokens": 766, "output_tokens": 112, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

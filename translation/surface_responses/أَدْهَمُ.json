@@ -1,0 +1,1 @@
+{"slug": "أَدْهَمُ", "kind": "surface", "parsed": {"glosses": {"en": "Adham", "fa": "أدهم", "ur": "أدهم", "tr": "Adham", "id": "Adham", "bn": "আদহাম", "es": "Adham", "fr": "Adham", "de": "Adham", "ru": "Адхам", "zh": "阿德姆"}}, "issues": [], "meta": {"elapsed": 4.59, "input_tokens": 800, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

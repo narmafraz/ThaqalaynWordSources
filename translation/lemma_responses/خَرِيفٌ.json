@@ -1,0 +1,1 @@
+{"slug": "خَرِيفٌ", "kind": "lemma", "parsed": {"glosses": {"en": "autumn", "fa": "پاییز", "ur": "خزاں", "tr": "sonbahar", "id": "musim gugur", "bn": "শরৎ", "es": "otoño", "fr": "automne", "de": "Herbst", "ru": "осень", "zh": "秋天"}}, "issues": [], "meta": {"elapsed": 4.07, "input_tokens": 978, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "مُخْتَطِفٌ", "kind": "lemma", "parsed": {"glosses": {"en": "snatcher", "fa": "دزد", "ur": "چھیننے والا", "tr": "çalan", "id": "pencuri", "bn": "চোর", "es": "ladrón", "fr": "voleur", "de": "Dieb", "ru": "вор", "zh": "窃贼"}}, "issues": [], "meta": {"elapsed": 3.24, "input_tokens": 451, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

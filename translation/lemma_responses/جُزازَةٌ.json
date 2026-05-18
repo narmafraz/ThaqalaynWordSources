@@ -1,0 +1,1 @@
+{"slug": "جُزازَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "thorn", "fa": "خار", "ur": "کانٹا", "tr": "diken", "id": "duri", "bn": "কাঁটা", "es": "espina", "fr": "épine", "de": "Dorn", "ru": "шип", "zh": "刺"}}, "issues": [], "meta": {"elapsed": 4.73, "input_tokens": 482, "output_tokens": 114, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "مَعْجُونٌ", "kind": "lemma", "parsed": {"glosses": {"en": "paste", "fa": "خمیر", "ur": "پیسٹ", "tr": "macun", "id": "pasta", "bn": "পেস্ট", "es": "pasta", "fr": "pâte", "de": "Paste", "ru": "паста", "zh": "膏"}}, "issues": [], "meta": {"elapsed": 5.28, "input_tokens": 541, "output_tokens": 114, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

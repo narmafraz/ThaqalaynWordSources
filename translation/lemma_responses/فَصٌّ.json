@@ -1,0 +1,1 @@
+{"slug": "فَصٌّ", "kind": "lemma", "parsed": {"glosses": {"en": "gem", "fa": "سنگ", "ur": "پتھر", "tr": "taş", "id": "batu", "bn": "পাথর", "es": "gema", "fr": "gemme", "de": "Edelstein", "ru": "камень", "zh": "宝石"}}, "issues": [], "meta": {"elapsed": 3.97, "input_tokens": 1034, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

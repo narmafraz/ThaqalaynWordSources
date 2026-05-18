@@ -1,0 +1,1 @@
+{"slug": "مُنْذُ", "kind": "lemma", "parsed": {"glosses": {"en": "since", "fa": "از", "ur": "سے", "tr": "beri", "id": "sejak", "bn": "যেহেতু", "es": "desde", "fr": "depuis", "de": "seit", "ru": "с", "zh": "自从"}}, "issues": [], "meta": {"elapsed": 4.32, "input_tokens": 460, "output_tokens": 111, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "غَضارَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "clay", "fa": "خاک", "ur": "مٹی", "tr": "kil", "id": "tanah liat", "bn": "মাটি", "es": "arcilla", "fr": "argile", "de": "Lehm", "ru": "глина", "zh": "黏土"}}, "issues": [], "meta": {"elapsed": 4.13, "input_tokens": 997, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

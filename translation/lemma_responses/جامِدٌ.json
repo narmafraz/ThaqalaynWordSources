@@ -1,0 +1,1 @@
+{"slug": "جامِدٌ", "kind": "lemma", "parsed": {"glosses": {"en": "solid", "fa": "جامد", "ur": "جامد", "tr": "katı", "id": "padat", "bn": "ঠান্ডা", "es": "sólido", "fr": "solide", "de": "fest", "ru": "твердый", "zh": "固体"}}, "issues": [], "meta": {"elapsed": 3.67, "input_tokens": 980, "output_tokens": 114, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

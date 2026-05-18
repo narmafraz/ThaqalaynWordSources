@@ -1,0 +1,1 @@
+{"slug": "شاطِئٌ", "kind": "lemma", "parsed": {"glosses": {"en": "shore", "fa": "ساحل", "ur": "ساحل", "tr": "kıyı", "id": "pantai", "bn": "সমুদ্রতীর", "es": "costa", "fr": "rivage", "de": "Küste", "ru": "берег", "zh": "海岸"}}, "issues": [], "meta": {"elapsed": 4.84, "input_tokens": 470, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

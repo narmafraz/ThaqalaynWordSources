@@ -1,0 +1,1 @@
+{"slug": "سَغَبٌ", "kind": "lemma", "parsed": {"glosses": {"en": "thirst", "fa": "تشنگی", "ur": "پیاس", "tr": "susuzluk", "id": "haus", "bn": "তৃষ্ণা", "es": "sed", "fr": "soif", "de": "Durst", "ru": "жажда", "zh": "口渴"}}, "issues": [], "meta": {"elapsed": 4.66, "input_tokens": 514, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

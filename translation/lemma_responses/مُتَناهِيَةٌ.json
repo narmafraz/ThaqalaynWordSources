@@ -1,0 +1,1 @@
+{"slug": "مُتَناهِيَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "limit", "fa": "حد", "ur": "حد", "tr": "limit", "id": "batas", "bn": "সীমা", "es": "límite", "fr": "limite", "de": "Grenze", "ru": "предел", "zh": "极限"}}, "issues": [], "meta": {"elapsed": 5.27, "input_tokens": 451, "output_tokens": 110, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

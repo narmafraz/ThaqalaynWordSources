@@ -1,0 +1,1 @@
+{"slug": "مَنْصُورٌ", "kind": "lemma", "parsed": {"glosses": {"en": "Mansur", "fa": "منصور", "ur": "منصور", "tr": "Mansur", "id": "Mansur", "bn": "মানসুর", "es": "Mansur", "fr": "Mansur", "de": "Mansur", "ru": "Мансур", "zh": "曼苏尔"}}, "issues": [], "meta": {"elapsed": 3.48, "input_tokens": 527, "output_tokens": 122, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

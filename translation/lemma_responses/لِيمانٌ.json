@@ -1,0 +1,1 @@
+{"slug": "لِيمانٌ", "kind": "lemma", "parsed": {"glosses": {"en": "faith", "fa": "ایمان", "ur": "ایمان", "tr": "iman", "id": "iman", "bn": "ইমান", "es": "fe", "fr": "foi", "de": "Glaube", "ru": "вера", "zh": "信仰"}}, "issues": [], "meta": {"elapsed": 3.14, "input_tokens": 448, "output_tokens": 109, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

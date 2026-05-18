@@ -1,0 +1,1 @@
+{"slug": "ثَمَّ", "kind": "lemma", "parsed": {"glosses": {"en": "there", "fa": "آنجا", "ur": "وہاں", "tr": "orada", "id": "di sana", "bn": "সেখানে", "es": "allí", "fr": "là-bas", "de": "dort", "ru": "там", "zh": "那里"}}, "issues": [], "meta": {"elapsed": 4.13, "input_tokens": 896, "output_tokens": 114, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

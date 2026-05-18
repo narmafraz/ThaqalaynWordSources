@@ -1,0 +1,1 @@
+{"slug": "23", "kind": "surface", "parsed": {"glosses": {"en": "23", "fa": "۲۳", "ur": "۲۳", "tr": "23", "id": "23", "bn": "২৩", "es": "23", "fr": "23", "de": "23", "ru": "23", "zh": "23"}}, "issues": [], "meta": {"elapsed": 4.09, "input_tokens": 557, "output_tokens": 120, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

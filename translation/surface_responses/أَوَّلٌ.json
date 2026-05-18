@@ -1,0 +1,1 @@
+{"slug": "أَوَّلٌ", "kind": "surface", "parsed": {"glosses": {"en": "first", "fa": "اول", "ur": "پہلا", "tr": "ilk", "id": "pertama", "bn": "প্রথম", "es": "primero", "fr": "premier", "de": "erste", "ru": "первый", "zh": "第一"}}, "issues": [], "meta": {"elapsed": 3.19, "input_tokens": 946, "output_tokens": 110, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

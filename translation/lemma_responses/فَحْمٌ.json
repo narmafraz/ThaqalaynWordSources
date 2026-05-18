@@ -1,0 +1,1 @@
+{"slug": "فَحْمٌ", "kind": "lemma", "parsed": {"glosses": {"en": "charcoal", "fa": "زغال", "ur": "چارکول", "tr": "kömür", "id": "arang", "bn": "কয়লা", "es": "carbón", "fr": "charbon", "de": "Holzkohle", "ru": "уголь", "zh": "木炭"}}, "issues": [], "meta": {"elapsed": 5.19, "input_tokens": 801, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "ازْرَعُوا", "kind": "surface", "parsed": {"glosses": {"en": "to sow", "fa": "بکارید", "ur": "بوییں", "tr": "ekmek", "id": "menabur", "bn": "বপন করা", "es": "sembrar", "fr": "semer", "de": "säen", "ru": "сеять", "zh": "播种"}}, "issues": [], "meta": {"elapsed": 3.79, "input_tokens": 476, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "سُؤْرٌ", "kind": "lemma", "parsed": {"glosses": {"en": "dregs", "fa": "ته‌نشین", "ur": "تہہ", "tr": "telve", "id": "endapan", "bn": "তলা", "es": "posos", "fr": "lie", "de": "Sediment", "ru": "осадок", "zh": "沉淀物"}}, "issues": [], "meta": {"elapsed": 5.79, "input_tokens": 449, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

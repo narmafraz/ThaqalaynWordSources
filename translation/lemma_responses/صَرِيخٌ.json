@@ -1,0 +1,1 @@
+{"slug": "صَرِيخٌ", "kind": "lemma", "parsed": {"glosses": {"en": "cry", "fa": "فریاد", "ur": "چيخ", "tr": "çığlık", "id": "jeritan", "bn": "চিৎকার", "es": "grito", "fr": "cri", "de": "Schrei", "ru": "крик", "zh": "呼喊"}}, "issues": [], "meta": {"elapsed": 4.28, "input_tokens": 535, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

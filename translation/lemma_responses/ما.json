@@ -1,0 +1,1 @@
+{"slug": "ما", "kind": "lemma", "parsed": {"glosses": {"en": "what", "fa": "چه", "ur": "کیا", "tr": "ne", "id": "apa", "bn": "কী", "es": "qué", "fr": "quoi", "de": "was", "ru": "что", "zh": "什么"}}, "issues": [], "meta": {"elapsed": 3.33, "input_tokens": 978, "output_tokens": 105, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

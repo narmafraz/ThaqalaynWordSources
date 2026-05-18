@@ -1,0 +1,1 @@
+{"slug": "ضامِرٌ", "kind": "lemma", "parsed": {"glosses": {"en": "lean", "fa": "لاغر", "ur": "پتلا", "tr": "zayıf", "id": "kurus", "bn": "চোখা", "es": "flaco", "fr": "maigre", "de": "mager", "ru": "худой", "zh": "瘦的"}}, "issues": [], "meta": {"elapsed": 3.43, "input_tokens": 769, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

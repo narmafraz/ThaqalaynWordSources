@@ -1,0 +1,1 @@
+{"slug": "مُتَرَبِّعاً", "kind": "lemma", "parsed": {"glosses": {"en": "sitting", "fa": "نشسته", "ur": "بیٹھا", "tr": "oturarak", "id": "duduk", "bn": "বসে", "es": "sentado", "fr": "assis", "de": "sitzend", "ru": "сидя", "zh": "坐着"}}, "issues": [], "meta": {"elapsed": 4.67, "input_tokens": 452, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

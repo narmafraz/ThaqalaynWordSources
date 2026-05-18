@@ -1,0 +1,1 @@
+{"slug": "جَزَّ", "kind": "lemma", "parsed": {"glosses": {"en": "to shear", "fa": "گرفتن", "ur": "کترنا", "tr": "kesmek", "id": "memotong", "bn": "কাটা", "es": "esquilar", "fr": "tondre", "de": "scheren", "ru": "стричь", "zh": "剪"}}, "issues": [], "meta": {"elapsed": 4.68, "input_tokens": 1979, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

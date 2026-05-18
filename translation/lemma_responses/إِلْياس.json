@@ -1,0 +1,1 @@
+{"slug": "إِلْياس", "kind": "lemma", "parsed": {"glosses": {"en": "Elijah", "fa": "الیاس", "ur": "الیاس", "tr": "İlyas", "id": "Ilyas", "bn": "ইলিয়াস", "es": "Elías", "fr": "Élie", "de": "Elia", "ru": "Илия", "zh": "以利亚"}}, "issues": [], "meta": {"elapsed": 4.19, "input_tokens": 465, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

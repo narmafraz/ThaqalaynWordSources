@@ -1,0 +1,1 @@
+{"slug": "مَبْعَثٌ", "kind": "lemma", "parsed": {"glosses": {"en": "mission", "fa": "مأموریت", "ur": "رسالۃ", "tr": "görev", "id": "misi", "bn": "দূতত্ব", "es": "misión", "fr": "mission", "de": "Mission", "ru": "миссия", "zh": "使命"}}, "issues": [], "meta": {"elapsed": 3.15, "input_tokens": 518, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

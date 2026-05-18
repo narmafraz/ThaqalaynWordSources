@@ -1,0 +1,1 @@
+{"slug": "حِبْرٌ", "kind": "lemma", "parsed": {"glosses": {"en": "ink", "fa": "جوهر", "ur": "دوات", "tr": "mürekkep", "id": "tinta", "bn": "কালি", "es": "tinta", "fr": "encre", "de": "Tinte", "ru": "чернила", "zh": "墨水"}}, "issues": [], "meta": {"elapsed": 8.17, "input_tokens": 2183, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

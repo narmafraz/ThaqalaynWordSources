@@ -1,0 +1,1 @@
+{"slug": "إنما", "kind": "surface", "parsed": {"glosses": {"en": "only", "fa": "تنها", "ur": "صرف", "tr": "sadece", "id": "hanya", "bn": "মাত্র", "es": "solo", "fr": "seulement", "de": "nur", "ru": "лишь", "zh": "只是"}}, "issues": [], "meta": {"elapsed": 3.3, "input_tokens": 637, "output_tokens": 110, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

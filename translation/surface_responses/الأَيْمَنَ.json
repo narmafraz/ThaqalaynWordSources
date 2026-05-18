@@ -1,0 +1,1 @@
+{"slug": "الأَيْمَنَ", "kind": "surface", "parsed": {"glosses": {"en": "the Aiman", "fa": "آیمان", "ur": "آیمان", "tr": "Aiman", "id": "Aiman", "bn": "আইমান", "es": "Aiman", "fr": "Aiman", "de": "Aiman", "ru": "Айман", "zh": "艾曼"}}, "issues": [], "meta": {"elapsed": 3.36, "input_tokens": 816, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "ذُبابٌ", "kind": "lemma", "parsed": {"glosses": {"en": "fly", "fa": "مگس", "ur": "مگہ", "tr": "sinek", "id": "lalat", "bn": "মাছি", "es": "mosca", "fr": "mouche", "de": "Fliege", "ru": "муха", "zh": "苍蝇"}}, "issues": [], "meta": {"elapsed": 2.66, "input_tokens": 960, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

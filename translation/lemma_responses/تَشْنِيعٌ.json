@@ -1,0 +1,1 @@
+{"slug": "تَشْنِيعٌ", "kind": "lemma", "parsed": {"glosses": {"en": "blame", "fa": "سرزنش", "ur": "سرزنش", "tr": "kınama", "id": "kecaman", "bn": "নিন্দা", "es": "reproche", "fr": "blâme", "de": "Tadel", "ru": "укор", "zh": "责备"}}, "issues": [], "meta": {"elapsed": 5.27, "input_tokens": 478, "output_tokens": 120, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

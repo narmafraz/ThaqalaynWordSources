@@ -1,0 +1,1 @@
+{"slug": "ضُحَى", "kind": "lemma", "parsed": {"glosses": {"en": "forenoon", "fa": "ظهر", "ur": "دوپہر", "tr": "öğle", "id": "siang hari", "bn": "দুপুর", "es": "mediodía", "fr": "midi", "de": "Vormittag", "ru": "утро", "zh": "上午"}}, "issues": [], "meta": {"elapsed": 5.85, "input_tokens": 1793, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

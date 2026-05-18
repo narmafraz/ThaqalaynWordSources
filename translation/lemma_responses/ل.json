@@ -1,0 +1,1 @@
+{"slug": "ل", "kind": "lemma", "parsed": {"glosses": {"en": "to", "fa": "به", "ur": "کو", "tr": "için", "id": "untuk", "bn": "জন্য", "es": "para", "fr": "pour", "de": "für", "ru": "для", "zh": "对于"}}, "issues": [], "meta": {"elapsed": 2.39, "input_tokens": 953, "output_tokens": 106, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

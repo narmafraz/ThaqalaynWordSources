@@ -1,0 +1,1 @@
+{"slug": "سِتارٌ", "kind": "lemma", "parsed": {"glosses": {"en": "veil", "fa": "حجاب", "ur": "پردہ", "tr": "perde", "id": "tabir", "bn": "পর্দা", "es": "velo", "fr": "voile", "de": "Vorhang", "ru": "занавес", "zh": "帷幕"}}, "issues": [], "meta": {"elapsed": 5.45, "input_tokens": 583, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

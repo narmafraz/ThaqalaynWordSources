@@ -1,0 +1,1 @@
+{"slug": "أنه", "kind": "surface", "parsed": {"glosses": {"en": "that he", "fa": "که او", "ur": "کہ وہ", "tr": "o ki", "id": "bahwa dia", "bn": "যে সে", "es": "que él", "fr": "qu'il", "de": "dass er", "ru": "что он", "zh": "即他"}}, "issues": [], "meta": {"elapsed": 5.21, "input_tokens": 900, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

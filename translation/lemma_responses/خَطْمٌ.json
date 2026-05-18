@@ -1,0 +1,1 @@
+{"slug": "خَطْمٌ", "kind": "lemma", "parsed": {"glosses": {"en": "muzzle", "fa": "دم‌دسته", "ur": "منہ", "tr": "pabuç", "id": "moncong", "bn": "নাক", "es": "hocico", "fr": "museau", "de": "Schnauze", "ru": "морда", "zh": "口鼻"}}, "issues": [], "meta": {"elapsed": 3.96, "input_tokens": 1023, "output_tokens": 120, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

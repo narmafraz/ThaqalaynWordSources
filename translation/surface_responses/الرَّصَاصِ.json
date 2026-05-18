@@ -1,0 +1,1 @@
+{"slug": "الرَّصَاصِ", "kind": "surface", "parsed": {"glosses": {"en": "the lead", "fa": "سرب", "ur": "سیسہ", "tr": "kurşun", "id": "timbal", "bn": "সীসা", "es": "plomo", "fr": "plomb", "de": "Blei", "ru": "свинец", "zh": "铅"}}, "issues": [], "meta": {"elapsed": 3.07, "input_tokens": 910, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

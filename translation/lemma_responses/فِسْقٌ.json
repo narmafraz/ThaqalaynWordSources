@@ -1,0 +1,1 @@
+{"slug": "فِسْقٌ", "kind": "lemma", "parsed": {"glosses": {"en": "wickedness", "fa": "فسق", "ur": "فسق", "tr": "fısık", "id": "fisk", "bn": "ফিসক", "es": "fisk", "fr": "fisq", "de": "Fisk", "ru": "фиск", "zh": "菲斯克"}}, "issues": [], "meta": {"elapsed": 4.78, "input_tokens": 905, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

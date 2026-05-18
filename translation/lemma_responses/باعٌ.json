@@ -1,0 +1,1 @@
+{"slug": "باعٌ", "kind": "lemma", "parsed": {"glosses": {"en": "fathom", "fa": "فاذوم", "ur": "فاذوم", "tr": "fathom", "id": "fathom", "bn": "ফাদম", "es": "fathom", "fr": "fathom", "de": "fathom", "ru": "сажен", "zh": "英寻"}}, "issues": [], "meta": {"elapsed": 4.61, "input_tokens": 1092, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "أَقْوَامٍ", "kind": "surface", "parsed": {"glosses": {"en": "people", "fa": "مردم", "ur": "لوگ", "tr": "insanlar", "id": "kaum", "bn": "জনগণ", "es": "gente", "fr": "peuple", "de": "Volk", "ru": "народ", "zh": "人们"}}, "issues": [], "meta": {"elapsed": 1.73, "input_tokens": 919, "output_tokens": 63, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

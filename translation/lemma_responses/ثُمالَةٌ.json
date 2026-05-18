@@ -1,0 +1,1 @@
+{"slug": "ثُمالَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "dregs", "fa": "ته‌نشین", "ur": "تہہ", "tr": "çöküntü", "id": "endapan", "bn": "তল", "es": "sedimento", "fr": "dépôt", "de": "Sediment", "ru": "осадок", "zh": "沉淀物"}}, "issues": [], "meta": {"elapsed": 5.24, "input_tokens": 611, "output_tokens": 122, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

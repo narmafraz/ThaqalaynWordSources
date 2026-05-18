@@ -1,0 +1,1 @@
+{"slug": "شُورَى", "kind": "lemma", "parsed": {"glosses": {"en": "Shura", "fa": "شورا", "ur": "شوری", "tr": "Shura", "id": "Shura", "bn": "শুরা", "es": "Shura", "fr": "Shura", "de": "Shura", "ru": "Шура", "zh": "舒拉"}}, "issues": [], "meta": {"elapsed": 3.97, "input_tokens": 486, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

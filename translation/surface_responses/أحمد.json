@@ -1,0 +1,1 @@
+{"slug": "أحمد", "kind": "surface", "parsed": {"glosses": {"en": "Ahmad", "fa": "احمد", "ur": "احمد", "tr": "Ahmed", "id": "Ahmad", "bn": "আহমদ", "es": "Ahmad", "fr": "Ahmad", "de": "Ahmad", "ru": "Ахмад", "zh": "艾哈迈德"}}, "issues": [], "meta": {"elapsed": 5.47, "input_tokens": 917, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

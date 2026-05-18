@@ -1,0 +1,1 @@
+{"slug": "أَحْجَارٍ", "kind": "surface", "parsed": {"glosses": {"en": "stones", "fa": "سنگ‌ها", "ur": "پتھر", "tr": "taşlar", "id": "batu", "bn": "পাথর", "es": "piedras", "fr": "pierres", "de": "Steine", "ru": "камни", "zh": "石头"}}, "issues": [], "meta": {"elapsed": 5.26, "input_tokens": 1193, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

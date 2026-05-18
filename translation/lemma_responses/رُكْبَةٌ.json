@@ -1,0 +1,1 @@
+{"slug": "رُكْبَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "knee", "fa": "زانو", "ur": "گھٹنا", "tr": "diz", "id": "lutut", "bn": "হাঁটু", "es": "rodilla", "fr": "genou", "de": "Knie", "ru": "колено", "zh": "膝盖"}}, "issues": [], "meta": {"elapsed": 2.92, "input_tokens": 891, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

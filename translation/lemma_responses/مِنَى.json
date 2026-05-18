@@ -1,0 +1,1 @@
+{"slug": "مِنَى", "kind": "lemma", "parsed": {"glosses": {"en": "Mina", "fa": "مِنی", "ur": "مِنیٰ", "tr": "Mina", "id": "Mina", "bn": "মিনা", "es": "Mina", "fr": "Mina", "de": "Mina", "ru": "Мина", "zh": "米那"}}, "issues": [], "meta": {"elapsed": 5.05, "input_tokens": 529, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "التِّسْعَةُ", "kind": "surface", "parsed": {"glosses": {"en": "the nine", "fa": "نه", "ur": "نو", "tr": "dokuz", "id": "sembilan", "bn": "নয়", "es": "nueve", "fr": "neuf", "de": "neun", "ru": "девять", "zh": "九"}}, "issues": [], "meta": {"elapsed": 4.78, "input_tokens": 988, "output_tokens": 112, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

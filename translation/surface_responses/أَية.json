@@ -1,0 +1,1 @@
+{"slug": "أَية", "kind": "surface", "parsed": {"glosses": {"en": "sign of God", "fa": "آیه", "ur": "آیت", "tr": "ayet", "id": "ayat", "bn": "আয়াত", "es": "signo", "fr": "signe", "de": "Zeichen", "ru": "знамение", "zh": "迹象"}}, "issues": [], "meta": {"elapsed": 2.52, "input_tokens": 950, "output_tokens": 113, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "الدَّمْعَةَ", "kind": "surface", "parsed": {"glosses": {"en": "the tear", "fa": "اشک", "ur": "آنسو", "tr": "gözyaşı", "id": "air mata", "bn": "আঁশু", "es": "lágrima", "fr": "larme", "de": "Träne", "ru": "слеза", "zh": "眼泪"}}, "issues": [], "meta": {"elapsed": 3.5, "input_tokens": 611, "output_tokens": 120, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

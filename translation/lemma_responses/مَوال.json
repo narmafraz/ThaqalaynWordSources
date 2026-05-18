@@ -1,0 +1,1 @@
+{"slug": "مَوال", "kind": "lemma", "parsed": {"glosses": {"en": "master", "fa": "سرور", "ur": "مالی", "tr": "efendi", "id": "tuan", "bn": "মালিক", "es": "señor", "fr": "maître", "de": "Herr", "ru": "хозяин", "zh": "主人"}}, "issues": [], "meta": {"elapsed": 3.73, "input_tokens": 667, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

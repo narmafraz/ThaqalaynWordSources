@@ -1,0 +1,1 @@
+{"slug": "عَيْشٌ", "kind": "lemma", "parsed": {"glosses": {"en": "life", "fa": "زندگی", "ur": "زندگی", "tr": "hayat", "id": "kehidupan", "bn": "জীবন", "es": "vida", "fr": "vie", "de": "Leben", "ru": "жизнь", "zh": "生活"}}, "issues": [], "meta": {"elapsed": 4.67, "input_tokens": 856, "output_tokens": 113, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

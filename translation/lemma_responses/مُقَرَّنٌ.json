@@ -1,0 +1,1 @@
+{"slug": "مُقَرَّنٌ", "kind": "lemma", "parsed": {"glosses": {"en": "hemp", "fa": "کنب", "ur": "کنپ", "tr": "keten", "id": "ramie", "bn": "কেনাপ", "es": "cáñamo", "fr": "chanvre", "de": "Hanf", "ru": "конопля", "zh": "大麻"}}, "issues": [], "meta": {"elapsed": 2.98, "input_tokens": 470, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

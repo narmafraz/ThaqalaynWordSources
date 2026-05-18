@@ -1,0 +1,1 @@
+{"slug": "عَفاف", "kind": "lemma", "parsed": {"glosses": {"en": "modesty", "fa": "عفاف", "ur": "عفاف", "tr": "iffet", "id": "iffah", "bn": "ইফফা", "es": "modestia", "fr": "pudeur", "de": "Keuschheit", "ru": "целомудие", "zh": "贞洁"}}, "issues": [], "meta": {"elapsed": 4.54, "input_tokens": 472, "output_tokens": 121, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "دَرْسٌ", "kind": "lemma", "parsed": {"glosses": {"en": "lesson", "fa": "درس", "ur": "درس", "tr": "ders", "id": "pelajaran", "bn": "পাঠ", "es": "lección", "fr": "leçon", "de": "Lektion", "ru": "урок", "zh": "课程"}}, "issues": [], "meta": {"elapsed": 4.35, "input_tokens": 1331, "output_tokens": 110, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

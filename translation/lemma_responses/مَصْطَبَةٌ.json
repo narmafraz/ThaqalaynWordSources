@@ -1,0 +1,1 @@
+{"slug": "مَصْطَبَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "bench", "fa": "نیمکت", "ur": "بینچ", "tr": "bench", "id": "bangku", "bn": "বেঞ্চ", "es": "banco", "fr": "banquette", "de": "Bank", "ru": "скамейка", "zh": "长凳"}}, "issues": [], "meta": {"elapsed": 3.58, "input_tokens": 782, "output_tokens": 114, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "شَماتَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "gloating", "fa": "خوشحالی", "ur": "خوشی", "tr": "gıpta", "id": "gembira", "bn": "আনন্দ", "es": "gozo", "fr": "joie", "de": "Freude", "ru": "радость", "zh": "幸灾乐祸"}}, "issues": [], "meta": {"elapsed": 4.86, "input_tokens": 474, "output_tokens": 121, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

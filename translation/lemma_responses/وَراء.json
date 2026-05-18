@@ -1,0 +1,1 @@
+{"slug": "وَراء", "kind": "lemma", "parsed": {"glosses": {"en": "behind", "fa": "پشت", "ur": "پیچھے", "tr": "arkada", "id": "di belakang", "bn": "পেছনে", "es": "detrás", "fr": "derrière", "de": "hinter", "ru": "позади", "zh": "后面"}}, "issues": [], "meta": {"elapsed": 4.35, "input_tokens": 457, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "أُوقِيَّةٌ", "kind": "surface", "parsed": {"glosses": {"en": "ounce", "fa": "اونس", "ur": "اونس", "tr": "ons", "id": "ons", "bn": "আউন্স", "es": "onza", "fr": "once", "de": "Unze", "ru": "унция", "zh": "盎司"}}, "issues": [], "meta": {"elapsed": 1.87, "input_tokens": 699, "output_tokens": 111, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

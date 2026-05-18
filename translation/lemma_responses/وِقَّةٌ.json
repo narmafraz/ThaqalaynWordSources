@@ -1,0 +1,1 @@
+{"slug": "وِقَّةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "time", "fa": "زمان", "ur": "وقت", "tr": "zaman", "id": "waktu", "bn": "সময়", "es": "tiempo", "fr": "temps", "de": "Zeit", "ru": "время", "zh": "时间"}}, "issues": [], "meta": {"elapsed": 2.81, "input_tokens": 449, "output_tokens": 108, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

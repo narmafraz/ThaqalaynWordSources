@@ -1,0 +1,1 @@
+{"slug": "أَمْسٌ", "kind": "lemma", "parsed": {"glosses": {"en": "yesterday", "fa": "دیروز", "ur": "گزشتہ کل", "tr": "dün", "id": "kemarin", "bn": "গতকাল", "es": "ayer", "fr": "hier", "de": "gestern", "ru": "вчера", "zh": "昨天"}}, "issues": [], "meta": {"elapsed": 4.93, "input_tokens": 916, "output_tokens": 114, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

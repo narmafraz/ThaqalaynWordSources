@@ -1,0 +1,1 @@
+{"slug": "مِنْشارٌ", "kind": "lemma", "parsed": {"glosses": {"en": "saw", "fa": "اره", "ur": "اره", "tr": "testere", "id": "gergaji", "bn": "আরো", "es": "sierra", "fr": "scie", "de": "Säge", "ru": "пила", "zh": "锯"}}, "issues": [], "meta": {"elapsed": 2.18, "input_tokens": 533, "output_tokens": 113, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

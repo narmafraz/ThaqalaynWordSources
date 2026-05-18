@@ -1,0 +1,1 @@
+{"slug": "يُوتا", "kind": "lemma", "parsed": {"glosses": {"en": "Utah", "fa": "یوتا", "ur": "یوٹاہ", "tr": "Utah", "id": "Utah", "bn": "ইউটা", "es": "Utah", "fr": "Utah", "de": "Utah", "ru": "Юта", "zh": "犹他州"}}, "issues": [], "meta": {"elapsed": 1.98, "input_tokens": 467, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

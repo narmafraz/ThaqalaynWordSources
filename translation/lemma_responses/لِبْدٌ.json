@@ -1,0 +1,1 @@
+{"slug": "لِبْدٌ", "kind": "lemma", "parsed": {"glosses": {"en": "felt", "fa": "نمد", "ur": "نمد", "tr": "keçe", "id": "felt", "bn": "ফেল্ট", "es": "fieltro", "fr": "feutre", "de": "Filz", "ru": "войлок", "zh": "毡"}}, "issues": [], "meta": {"elapsed": 4.02, "input_tokens": 1981, "output_tokens": 113, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "سَفَطٌ", "kind": "lemma", "parsed": {"glosses": {"en": "casket", "fa": "صندوق", "ur": "صندوق", "tr": "sandık", "id": "peti", "bn": "সিন্দুক", "es": "caja", "fr": "cassette", "de": "Kästchen", "ru": "шкатулка", "zh": "盒子"}}, "issues": [], "meta": {"elapsed": 2.59, "input_tokens": 675, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

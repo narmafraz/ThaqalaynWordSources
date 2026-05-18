@@ -1,0 +1,1 @@
+{"slug": "عَرِيضِيّ", "kind": "lemma", "parsed": {"glosses": {"en": "Aridi", "fa": "عریضی", "ur": "عریضی", "tr": "Aridi", "id": "Aridi", "bn": "আরীদি", "es": "Aridi", "fr": "Aridi", "de": "Aridi", "ru": "Ариди", "zh": "阿里迪"}}, "issues": [], "meta": {"elapsed": 5.56, "input_tokens": 452, "output_tokens": 126, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

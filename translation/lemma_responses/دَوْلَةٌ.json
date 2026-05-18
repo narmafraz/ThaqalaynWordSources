@@ -1,0 +1,1 @@
+{"slug": "دَوْلَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "state", "fa": "دولت", "ur": "دولت", "tr": "devlet", "id": "negara", "bn": "রাষ্ট্র", "es": "estado", "fr": "État", "de": "Staat", "ru": "государство", "zh": "国家"}}, "issues": [], "meta": {"elapsed": 3.51, "input_tokens": 944, "output_tokens": 114, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

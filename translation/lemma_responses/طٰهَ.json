@@ -1,0 +1,1 @@
+{"slug": "طٰهَ", "kind": "lemma", "parsed": {"glosses": {"en": "Taha", "fa": "طه", "ur": "طٰہَ", "tr": "Taha", "id": "Taha", "bn": "তাহা", "es": "Taha", "fr": "Taha", "de": "Taha", "ru": "Таха", "zh": "塔哈"}}, "issues": [], "meta": {"elapsed": 4.04, "input_tokens": 768, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

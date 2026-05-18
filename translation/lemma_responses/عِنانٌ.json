@@ -1,0 +1,1 @@
+{"slug": "عِنانٌ", "kind": "lemma", "parsed": {"glosses": {"en": "rein", "fa": "لگام", "ur": "لگام", "tr": "eyer", "id": "tali kekang", "bn": "গেদান", "es": "rienda", "fr": "rêne", "de": "Zügel", "ru": "повод", "zh": "缰绳"}}, "issues": [], "meta": {"elapsed": 4.75, "input_tokens": 973, "output_tokens": 120, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

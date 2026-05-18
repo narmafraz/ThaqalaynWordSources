@@ -1,0 +1,1 @@
+{"slug": "وَرَقٌ", "kind": "lemma", "parsed": {"glosses": {"en": "leaves", "fa": "برگ", "ur": "پتے", "tr": "yaprak", "id": "daun", "bn": "পাতা", "es": "hojas", "fr": "feuilles", "de": "Blätter", "ru": "листья", "zh": "叶子"}}, "issues": [], "meta": {"elapsed": 4.83, "input_tokens": 506, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

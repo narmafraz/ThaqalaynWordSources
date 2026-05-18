@@ -1,0 +1,1 @@
+{"slug": "وَطِيسٌ", "kind": "lemma", "parsed": {"glosses": {"en": "anvil", "fa": "سندان", "ur": "سندان", "tr": "örs", "id": "landasan", "bn": "কলসি", "es": "yunque", "fr": "enclume", "de": "Amboss", "ru": "наковальня", "zh": "铁砧"}}, "issues": [], "meta": {"elapsed": 4.99, "input_tokens": 450, "output_tokens": 120, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

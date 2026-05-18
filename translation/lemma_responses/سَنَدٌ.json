@@ -1,0 +1,1 @@
+{"slug": "سَنَدٌ", "kind": "lemma", "parsed": {"glosses": {"en": "support", "fa": "پشتیبانی", "ur": "سند", "tr": "destek", "id": "sanad", "bn": "সমর্থন", "es": "apoyo", "fr": "soutien", "de": "Stütze", "ru": "опора", "zh": "支持"}}, "issues": [], "meta": {"elapsed": 4.03, "input_tokens": 957, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

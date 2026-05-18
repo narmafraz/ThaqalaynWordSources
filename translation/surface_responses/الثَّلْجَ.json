@@ -1,0 +1,1 @@
+{"slug": "الثَّلْجَ", "kind": "surface", "parsed": {"glosses": {"en": "the snow", "fa": "برف", "ur": "برف", "tr": "kar", "id": "salju", "bn": "তুষার", "es": "nieve", "fr": "neige", "de": "Schnee", "ru": "снег", "zh": "雪"}}, "issues": [], "meta": {"elapsed": 2.69, "input_tokens": 625, "output_tokens": 113, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

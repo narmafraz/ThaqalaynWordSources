@@ -1,0 +1,1 @@
+{"slug": "خَرِيطَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "map", "fa": "نقشه", "ur": "نقشہ", "tr": "harita", "id": "peta", "bn": "মানচিত্র", "es": "mapa", "fr": "carte", "de": "Karte", "ru": "карта", "zh": "地图"}}, "issues": [], "meta": {"elapsed": 4.05, "input_tokens": 764, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

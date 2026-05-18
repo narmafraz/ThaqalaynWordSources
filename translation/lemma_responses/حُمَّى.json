@@ -1,0 +1,1 @@
+{"slug": "حُمَّى", "kind": "lemma", "parsed": {"glosses": {"en": "fever", "fa": "تب", "ur": "بُخار", "tr": "ateş", "id": "demam", "bn": "জ্বর", "es": "fiebre", "fr": "fièvre", "de": "Fieber", "ru": "лихорадка", "zh": "发烧"}}, "issues": [], "meta": {"elapsed": 4.93, "input_tokens": 2351, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "طِيبَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "goodness", "fa": "خوبی", "ur": "خوبی", "tr": "güzellik", "id": "kebaikan", "bn": "ভালো", "es": "bondad", "fr": "bonté", "de": "Güte", "ru": "благо", "zh": "美好"}}, "issues": [], "meta": {"elapsed": 5.13, "input_tokens": 553, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

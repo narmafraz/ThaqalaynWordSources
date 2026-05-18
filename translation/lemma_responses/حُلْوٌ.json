@@ -1,0 +1,1 @@
+{"slug": "حُلْوٌ", "kind": "lemma", "parsed": {"glosses": {"en": "sweet", "fa": "شیرین", "ur": "میٹھا", "tr": "tatlı", "id": "manis", "bn": "মিষ্টি", "es": "dulce", "fr": "doux", "de": "süß", "ru": "сладкий", "zh": "甜"}}, "issues": [], "meta": {"elapsed": 5.9, "input_tokens": 2131, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

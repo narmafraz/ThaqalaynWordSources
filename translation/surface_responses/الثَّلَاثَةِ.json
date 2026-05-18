@@ -1,0 +1,1 @@
+{"slug": "الثَّلَاثَةِ", "kind": "surface", "parsed": {"glosses": {"en": "the three", "fa": "سه‌گانه", "ur": "تین", "tr": "üç", "id": "tiga", "bn": "তিন", "es": "tres", "fr": "trois", "de": "drei", "ru": "три", "zh": "三"}}, "issues": [], "meta": {"elapsed": 4.39, "input_tokens": 1164, "output_tokens": 112, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

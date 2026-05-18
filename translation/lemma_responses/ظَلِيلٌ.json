@@ -1,0 +1,1 @@
+{"slug": "ظَلِيلٌ", "kind": "lemma", "parsed": {"glosses": {"en": "shade", "fa": "سایه", "ur": "سایہ", "tr": "gölge", "id": "naungan", "bn": "ছায়া", "es": "sombra", "fr": "ombre", "de": "Schatten", "ru": "тень", "zh": "树荫"}}, "issues": [], "meta": {"elapsed": 4.38, "input_tokens": 467, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

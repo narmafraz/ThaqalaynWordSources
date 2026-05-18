@@ -1,0 +1,1 @@
+{"slug": "طَيَرانٌ", "kind": "lemma", "parsed": {"glosses": {"en": "flight", "fa": "پرواز", "ur": "پرواز", "tr": "uçuş", "id": "penerbangan", "bn": "উড়ান", "es": "vuelo", "fr": "vol", "de": "Flug", "ru": "полёт", "zh": "飞行"}}, "issues": [], "meta": {"elapsed": 6.44, "input_tokens": 476, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "مَنْطِقٌ", "kind": "lemma", "parsed": {"glosses": {"en": "logic", "fa": "منطق", "ur": "منطق", "tr": "mantık", "id": "logika", "bn": "যুক্তি", "es": "lógica", "fr": "logique", "de": "Logik", "ru": "логика", "zh": "逻辑"}}, "issues": [], "meta": {"elapsed": 2.84, "input_tokens": 498, "output_tokens": 113, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

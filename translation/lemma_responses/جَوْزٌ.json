@@ -1,0 +1,1 @@
+{"slug": "جَوْزٌ", "kind": "lemma", "parsed": {"glosses": {"en": "walnut", "fa": "گردو", "ur": "اخروٹ", "tr": "ceviz", "id": "kenari", "bn": "আখরোট", "es": "nuez", "fr": "noix", "de": "Walnuss", "ru": "грецкий орех", "zh": "核桃"}}, "issues": [], "meta": {"elapsed": 2.56, "input_tokens": 1745, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

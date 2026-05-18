@@ -1,0 +1,1 @@
+{"slug": "ياسِر", "kind": "lemma", "parsed": {"glosses": {"en": "Yasir", "fa": "یاسر", "ur": "یاسر", "tr": "Yasir", "id": "Yasir", "bn": "ইয়াসির", "es": "Yasir", "fr": "Yasir", "de": "Yasir", "ru": "Ясир", "zh": "雅西尔"}}, "issues": [], "meta": {"elapsed": 3.16, "input_tokens": 967, "output_tokens": 126, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

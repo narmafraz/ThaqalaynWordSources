@@ -1,0 +1,1 @@
+{"slug": "نَصِيحَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "advice", "fa": "پند", "ur": "مشورہ", "tr": "nasihat", "id": "nasihat", "bn": "পরামর্শ", "es": "consejo", "fr": "conseil", "de": "Rat", "ru": "совет", "zh": "建议"}}, "issues": [], "meta": {"elapsed": 5.54, "input_tokens": 626, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

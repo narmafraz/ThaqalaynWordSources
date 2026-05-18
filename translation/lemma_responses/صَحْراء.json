@@ -1,0 +1,1 @@
+{"slug": "صَحْراء", "kind": "lemma", "parsed": {"glosses": {"en": "desert", "fa": "بیابان", "ur": "صحرا", "tr": "çöl", "id": "gurun", "bn": "মরুভূমি", "es": "desierto", "fr": "désert", "de": "Wüste", "ru": "пустыня", "zh": "沙漠"}}, "issues": [], "meta": {"elapsed": 3.69, "input_tokens": 459, "output_tokens": 121, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

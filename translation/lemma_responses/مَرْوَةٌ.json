@@ -1,0 +1,1 @@
+{"slug": "مَرْوَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "Marwa", "fa": "مرو", "ur": "مروہ", "tr": "Merve", "id": "Marwa", "bn": "মরওয়া", "es": "Marwa", "fr": "Marwa", "de": "Marwa", "ru": "Марва", "zh": "马尔瓦"}}, "issues": [], "meta": {"elapsed": 6.45, "input_tokens": 465, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

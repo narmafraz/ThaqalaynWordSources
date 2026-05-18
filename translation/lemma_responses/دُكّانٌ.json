@@ -1,0 +1,1 @@
+{"slug": "دُكّانٌ", "kind": "lemma", "parsed": {"glosses": {"en": "shop", "fa": "دکان", "ur": "دکان", "tr": "dükkan", "id": "toko", "bn": "দোকান", "es": "tienda", "fr": "boutique", "de": "Laden", "ru": "магазин", "zh": "商店"}}, "issues": [], "meta": {"elapsed": 3.47, "input_tokens": 810, "output_tokens": 113, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

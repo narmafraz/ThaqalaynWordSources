@@ -1,0 +1,1 @@
+{"slug": "هِياجٌ", "kind": "lemma", "parsed": {"glosses": {"en": "fury", "fa": "خشم", "ur": "غصہ", "tr": "öfke", "id": "kemarahan", "bn": "রাগ", "es": "furia", "fr": "fureur", "de": "Wut", "ru": "ярость", "zh": "愤怒"}}, "issues": [], "meta": {"elapsed": 2.29, "input_tokens": 476, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

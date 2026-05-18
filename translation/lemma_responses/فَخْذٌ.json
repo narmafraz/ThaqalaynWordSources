@@ -1,0 +1,1 @@
+{"slug": "فَخْذٌ", "kind": "lemma", "parsed": {"glosses": {"en": "thigh", "fa": "ران", "ur": "ران", "tr": "uylang", "id": "paha", "bn": "উরু", "es": "muslo", "fr": "cuisse", "de": "Oberschenkel", "ru": "бедро", "zh": "大腿"}}, "issues": [], "meta": {"elapsed": 7.12, "input_tokens": 1014, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

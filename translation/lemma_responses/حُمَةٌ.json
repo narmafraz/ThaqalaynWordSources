@@ -1,0 +1,1 @@
+{"slug": "حُمَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "sting", "fa": "نیش", "ur": "نیش", "tr": "ısı", "id": "sengatan", "bn": "কামড়", "es": "picadura", "fr": "piqûre", "de": "Stich", "ru": "ужаление", "zh": "刺"}}, "issues": [], "meta": {"elapsed": 5.27, "input_tokens": 663, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

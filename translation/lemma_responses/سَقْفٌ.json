@@ -1,0 +1,1 @@
+{"slug": "سَقْفٌ", "kind": "lemma", "parsed": {"glosses": {"en": "ceiling", "fa": "سقف", "ur": "چھت", "tr": "tavan", "id": "langit-langit", "bn": "ছাদ", "es": "techo", "fr": "plafond", "de": "Decke", "ru": "потолок", "zh": "天花板"}}, "issues": [], "meta": {"elapsed": 3.66, "input_tokens": 924, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

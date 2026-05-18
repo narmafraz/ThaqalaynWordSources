@@ -1,0 +1,1 @@
+{"slug": "نِزالٌ", "kind": "lemma", "parsed": {"glosses": {"en": "combat", "fa": "نبرد", "ur": "جنگ", "tr": "çarpışma", "id": "pertempuran", "bn": "যুদ্ধ", "es": "combate", "fr": "combat", "de": "Kampf", "ru": "бой", "zh": "战斗"}}, "issues": [], "meta": {"elapsed": 2.32, "input_tokens": 475, "output_tokens": 113, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

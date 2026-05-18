@@ -1,0 +1,1 @@
+{"slug": "جامُوسٌ", "kind": "lemma", "parsed": {"glosses": {"en": "buffalo", "fa": "گاو‌میش", "ur": "بھینس", "tr": "güveç", "id": "kerbau", "bn": "গাই", "es": "búfalo", "fr": "bufle", "de": "Büffel", "ru": "буйвол", "zh": "水牛"}}, "issues": [], "meta": {"elapsed": 3.82, "input_tokens": 570, "output_tokens": 125, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

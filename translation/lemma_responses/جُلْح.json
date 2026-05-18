@@ -1,0 +1,1 @@
+{"slug": "جُلْح", "kind": "lemma", "parsed": {"glosses": {"en": "baldness", "fa": "کچلی", "ur": "کچلی", "tr": "kelik", "id": "botak", "bn": "কচা", "es": "calvicie", "fr": "calvitie", "de": "Kahlheit", "ru": "лысина", "zh": "秃顶"}}, "issues": [], "meta": {"elapsed": 4.81, "input_tokens": 864, "output_tokens": 122, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

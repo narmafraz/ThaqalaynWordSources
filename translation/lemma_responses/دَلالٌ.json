@@ -1,0 +1,1 @@
+{"slug": "دَلالٌ", "kind": "lemma", "parsed": {"glosses": {"en": "broker", "fa": "دلال", "ur": "دلال", "tr": "aracı", "id": "broker", "bn": "দালাল", "es": "corredor", "fr": "courtier", "de": "Makler", "ru": "посредник", "zh": "经纪人"}}, "issues": [], "meta": {"elapsed": 5.39, "input_tokens": 564, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

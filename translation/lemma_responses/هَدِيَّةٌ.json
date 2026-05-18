@@ -1,0 +1,1 @@
+{"slug": "هَدِيَّةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "gift", "fa": "هدیه", "ur": "تحفہ", "tr": "hediye", "id": "hadiah", "bn": "উপহার", "es": "regalo", "fr": "cadeau", "de": "Geschenk", "ru": "подарок", "zh": "礼物"}}, "issues": [], "meta": {"elapsed": 4.27, "input_tokens": 726, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

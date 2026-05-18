@@ -1,0 +1,1 @@
+{"slug": "مِفْتاحٌ", "kind": "lemma", "parsed": {"glosses": {"en": "key", "fa": "کلید", "ur": "چابی", "tr": "anahtar", "id": "kunci", "bn": "চাবি", "es": "llave", "fr": "clé", "de": "Schlüssel", "ru": "ключ", "zh": "钥匙"}}, "issues": [], "meta": {"elapsed": 2.8, "input_tokens": 911, "output_tokens": 112, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

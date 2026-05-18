@@ -1,0 +1,1 @@
+{"slug": "بُرْقُعٌ", "kind": "lemma", "parsed": {"glosses": {"en": "face veil", "fa": "برقع", "ur": "برقع", "tr": "burduk", "id": "burduq", "bn": "বুর্কু", "es": "burduq", "fr": "burduq", "de": "Burduq", "ru": "бурку", "zh": "面纱"}}, "issues": [], "meta": {"elapsed": 4.47, "input_tokens": 863, "output_tokens": 121, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

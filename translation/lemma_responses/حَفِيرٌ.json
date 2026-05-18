@@ -1,0 +1,1 @@
+{"slug": "حَفِيرٌ", "kind": "lemma", "parsed": {"glosses": {"en": "grave", "fa": "گور", "ur": "قبر", "tr": "mezar", "id": "kuburan", "bn": "কবর", "es": "tumba", "fr": "tombe", "de": "Grab", "ru": "могила", "zh": "坟墓"}}, "issues": [], "meta": {"elapsed": 3.87, "input_tokens": 641, "output_tokens": 114, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "السَّفِيهِ", "kind": "surface", "parsed": {"glosses": {"en": "the foolish", "fa": "نادان", "ur": "نادان", "tr": "ağır", "id": "bodoh", "bn": "মূর্খ", "es": "tonto", "fr": "sot", "de": "dumm", "ru": "глупый", "zh": "愚蠢的"}}, "issues": [], "meta": {"elapsed": 4.2, "input_tokens": 978, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "أَيٍّ", "kind": "surface", "parsed": {"glosses": {"en": "which", "fa": "کدام", "ur": "کون سا", "tr": "hangisi", "id": "yang mana", "bn": "কোনটি", "es": "cuál", "fr": "lequel", "de": "welcher", "ru": "какой", "zh": "哪个"}}, "issues": [], "meta": {"elapsed": 4.91, "input_tokens": 1113, "output_tokens": 114, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

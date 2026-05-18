@@ -1,0 +1,1 @@
+{"slug": "قِنِّينَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "bottle", "fa": "بطری", "ur": "بوتل", "tr": "şişe", "id": "botol", "bn": "বোতল", "es": "botella", "fr": "bouteille", "de": "Flasche", "ru": "бутылка", "zh": "瓶子"}}, "issues": [], "meta": {"elapsed": 3.98, "input_tokens": 463, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

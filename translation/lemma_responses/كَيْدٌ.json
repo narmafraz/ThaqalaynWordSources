@@ -1,0 +1,1 @@
+{"slug": "كَيْدٌ", "kind": "lemma", "parsed": {"glosses": {"en": "stratagem", "fa": "تلاش", "ur": "کوشش", "tr": "hile", "id": "tipu daya", "bn": "চাল", "es": "estratagema", "fr": "ruse", "de": "List", "ru": "хитрость", "zh": "计谋"}}, "issues": [], "meta": {"elapsed": 6.49, "input_tokens": 662, "output_tokens": 121, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "حُتُر", "kind": "lemma", "parsed": {"glosses": {"en": "Hutar", "fa": "حُتُر", "ur": "حُتُر", "tr": "Hutar", "id": "Hutar", "bn": "হুতর", "es": "Hutar", "fr": "Hutar", "de": "Hutar", "ru": "Хутур", "zh": "胡特鲁"}}, "issues": [], "meta": {"elapsed": 4.98, "input_tokens": 450, "output_tokens": 122, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

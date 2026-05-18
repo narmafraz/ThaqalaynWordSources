@@ -1,0 +1,1 @@
+{"slug": "كَمَرَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "camera", "fa": "دوربین", "ur": "کیمرہ", "tr": "kamera", "id": "kamera", "bn": "ক্যামেরা", "es": "cámara", "fr": "caméra", "de": "Kamera", "ru": "камера", "zh": "相机"}}, "issues": [], "meta": {"elapsed": 5.2, "input_tokens": 613, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

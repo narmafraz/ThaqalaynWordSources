@@ -1,0 +1,1 @@
+{"slug": "إِنِ", "kind": "surface", "parsed": {"glosses": {"en": "that", "fa": "که", "ur": "کہ", "tr": "ki", "id": "bahwa", "bn": "যে", "es": "que", "fr": "que", "de": "dass", "ru": "что", "zh": "即"}}, "issues": [], "meta": {"elapsed": 2.31, "input_tokens": 1017, "output_tokens": 106, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

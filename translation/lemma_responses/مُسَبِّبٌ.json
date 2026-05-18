@@ -1,0 +1,1 @@
+{"slug": "مُسَبِّبٌ", "kind": "lemma", "parsed": {"glosses": {"en": "cause", "fa": "علت", "ur": "وجہ", "tr": "sebep", "id": "penyebab", "bn": "কারণ", "es": "causa", "fr": "cause", "de": "Ursache", "ru": "причина", "zh": "原因"}}, "issues": [], "meta": {"elapsed": 4.41, "input_tokens": 558, "output_tokens": 113, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "نُورِيٌّ", "kind": "lemma", "parsed": {"glosses": {"en": "luminous", "fa": "نوری", "ur": "نوری", "tr": "nuri", "id": "nuri", "bn": "নুরি", "es": "luminoso", "fr": "lumineux", "de": "nuri", "ru": "нурӣ", "zh": "努里"}}, "issues": [], "meta": {"elapsed": 4.35, "input_tokens": 449, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "غايَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "end", "fa": "پایان", "ur": "آخر", "tr": "son", "id": "akhir", "bn": "শেষ", "es": "fin", "fr": "fin", "de": "Ende", "ru": "конец", "zh": "终点"}}, "issues": [], "meta": {"elapsed": 4.79, "input_tokens": 938, "output_tokens": 108, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "الطَّاوُسِ", "kind": "surface", "parsed": {"glosses": {"en": "peacock", "fa": "طاووس", "ur": "توہا", "tr": "tavus", "id": "merak", "bn": "তৌস", "es": "pavo real", "fr": "paon", "de": "Pfau", "ru": "павлин", "zh": "孔雀"}}, "issues": [], "meta": {"elapsed": 2.87, "input_tokens": 546, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

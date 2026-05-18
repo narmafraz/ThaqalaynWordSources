@@ -1,0 +1,1 @@
+{"slug": "ضَنِينٌ", "kind": "lemma", "parsed": {"glosses": {"en": "stingy", "fa": "خسیس", "ur": "خسیس", "tr": "cimri", "id": "kikir", "bn": "কৃপণ", "es": "tacaño", "fr": "avare", "de": "geizig", "ru": "скупой", "zh": "吝啬的"}}, "issues": [], "meta": {"elapsed": 3.71, "input_tokens": 645, "output_tokens": 122, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

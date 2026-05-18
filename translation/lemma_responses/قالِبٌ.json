@@ -1,0 +1,1 @@
+{"slug": "قالِبٌ", "kind": "lemma", "parsed": {"glosses": {"en": "mould", "fa": "قالب", "ur": "قالب", "tr": "kalıp", "id": "cetakan", "bn": "ছাঁচ", "es": "molde", "fr": "moule", "de": "Form", "ru": "форма", "zh": "模具"}}, "issues": [], "meta": {"elapsed": 5.63, "input_tokens": 974, "output_tokens": 112, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

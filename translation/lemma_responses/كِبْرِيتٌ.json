@@ -1,0 +1,1 @@
+{"slug": "كِبْرِيتٌ", "kind": "lemma", "parsed": {"glosses": {"en": "sulfur", "fa": "گوگرد", "ur": "سلفر", "tr": "kükürt", "id": "belerang", "bn": "গন্ধক", "es": "azufre", "fr": "soufre", "de": "Schwefel", "ru": "сера", "zh": "硫磺"}}, "issues": [], "meta": {"elapsed": 2.68, "input_tokens": 876, "output_tokens": 122, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

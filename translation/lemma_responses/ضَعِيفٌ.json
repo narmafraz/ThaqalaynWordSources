@@ -1,0 +1,1 @@
+{"slug": "ضَعِيفٌ", "kind": "lemma", "parsed": {"glosses": {"en": "weak", "fa": "ضعیف", "ur": "کمزور", "tr": "zayıf", "id": "lemah", "bn": "দুর্বল", "es": "débil", "fr": "faible", "de": "schwach", "ru": "слабый", "zh": "弱"}}, "issues": [], "meta": {"elapsed": 4.31, "input_tokens": 1042, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

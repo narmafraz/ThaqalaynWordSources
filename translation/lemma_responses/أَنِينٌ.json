@@ -1,0 +1,1 @@
+{"slug": "أَنِينٌ", "kind": "lemma", "parsed": {"glosses": {"en": "groaning", "fa": "ناله", "ur": "آہ", "tr": "hıçkırık", "id": "geraman", "bn": "আহত", "es": "gemido", "fr": "gémissement", "de": "Stöhnen", "ru": "стон", "zh": "呻吟"}}, "issues": [], "meta": {"elapsed": 3.49, "input_tokens": 470, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "الظَّمَأُ", "kind": "surface", "parsed": {"glosses": {"en": "the thirst", "fa": "تشنگی", "ur": "پیا س", "tr": "susuzluk", "id": "haus", "bn": "তৃষ্ণা", "es": "sed", "fr": "soif", "de": "Durst", "ru": "жажда", "zh": "口渴"}}, "issues": [], "meta": {"elapsed": 4.1, "input_tokens": 597, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

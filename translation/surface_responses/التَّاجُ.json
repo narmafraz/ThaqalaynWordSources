@@ -1,0 +1,1 @@
+{"slug": "التَّاجُ", "kind": "surface", "parsed": {"glosses": {"en": "the crown", "fa": "تاج", "ur": "تاج", "tr": "tac", "id": "mahkota", "bn": "তাজ", "es": "corona", "fr": "couronne", "de": "Krone", "ru": "корона", "zh": "皇冠"}}, "issues": [], "meta": {"elapsed": 4.99, "input_tokens": 827, "output_tokens": 112, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

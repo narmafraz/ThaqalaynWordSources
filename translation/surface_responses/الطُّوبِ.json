@@ -1,0 +1,1 @@
+{"slug": "الطُّوبِ", "kind": "surface", "parsed": {"glosses": {"en": "the brick", "fa": "آجر", "ur": "اینٹ", "tr": "tuğla", "id": "bata", "bn": "ইট", "es": "ladrillo", "fr": "brique", "de": "Ziegel", "ru": "кирпич", "zh": "砖"}}, "issues": [], "meta": {"elapsed": 3.72, "input_tokens": 759, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

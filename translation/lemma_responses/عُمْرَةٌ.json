@@ -1,0 +1,1 @@
+{"slug": "عُمْرَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "Umrah", "fa": "عمره", "ur": "عمرہ", "tr": "Umre", "id": "Umrah", "bn": "উমরাহ", "es": "Umrah", "fr": "Omra", "de": "Umra", "ru": "Умра", "zh": "乌姆拉"}}, "issues": [], "meta": {"elapsed": 2.79, "input_tokens": 848, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

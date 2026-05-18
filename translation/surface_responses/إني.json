@@ -1,0 +1,1 @@
+{"slug": "إني", "kind": "surface", "parsed": {"glosses": {"en": "that I", "fa": "که من", "ur": "کہ میں", "tr": "ki ben", "id": "bahwa aku", "bn": "যে আমি", "es": "que yo", "fr": "que je", "de": "dass ich", "ru": "что я", "zh": "即我"}}, "issues": [], "meta": {"elapsed": 3.31, "input_tokens": 904, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

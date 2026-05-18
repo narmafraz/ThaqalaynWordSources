@@ -1,0 +1,1 @@
+{"slug": "ثَلَمَ", "kind": "lemma", "parsed": {"glosses": {"en": "to break", "fa": "شکستن", "ur": "ٹوٹنا", "tr": "kırılmak", "id": "patah", "bn": "ভাঙা", "es": "romper", "fr": "casser", "de": "brechen", "ru": "ломать", "zh": "破裂"}}, "issues": [], "meta": {"elapsed": 4.62, "input_tokens": 507, "output_tokens": 120, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

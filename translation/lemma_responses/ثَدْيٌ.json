@@ -1,0 +1,1 @@
+{"slug": "ثَدْيٌ", "kind": "lemma", "parsed": {"glosses": {"en": "breast", "fa": "سینه", "ur": "چھاتی", "tr": "göğüs", "id": "payudara", "bn": "স্তন", "es": "pecho", "fr": "seins", "de": "Brust", "ru": "грудь", "zh": "乳房"}}, "issues": [], "meta": {"elapsed": 4.44, "input_tokens": 979, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

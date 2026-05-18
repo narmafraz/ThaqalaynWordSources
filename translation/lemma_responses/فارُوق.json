@@ -1,0 +1,1 @@
+{"slug": "فارُوق", "kind": "lemma", "parsed": {"glosses": {"en": "Faruq", "fa": "فاروق", "ur": "فاروق", "tr": "Faruq", "id": "Faruq", "bn": "ফারুক", "es": "Faruq", "fr": "Faruq", "de": "Faruq", "ru": "Фарук", "zh": "法鲁克"}}, "issues": [], "meta": {"elapsed": 5.52, "input_tokens": 685, "output_tokens": 123, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "بالَ", "kind": "lemma", "parsed": {"glosses": {"en": "mind", "fa": "ذهن", "ur": "ذہن", "tr": "akıl", "id": "pikiran", "bn": "মন", "es": "mente", "fr": "esprit", "de": "Verstand", "ru": "разум", "zh": "心智"}}, "issues": [], "meta": {"elapsed": 3.24, "input_tokens": 975, "output_tokens": 110, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

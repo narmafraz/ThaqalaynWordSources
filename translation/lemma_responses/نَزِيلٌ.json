@@ -1,0 +1,1 @@
+{"slug": "نَزِيلٌ", "kind": "lemma", "parsed": {"glosses": {"en": "lodger", "fa": "مهمان", "ur": "مہمان", "tr": "konuk", "id": "tamu", "bn": "অতিথি", "es": "huésped", "fr": "hôte", "de": "Gast", "ru": "гость", "zh": "客人"}}, "issues": [], "meta": {"elapsed": 4.23, "input_tokens": 515, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

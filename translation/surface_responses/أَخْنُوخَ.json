@@ -1,0 +1,1 @@
+{"slug": "أَخْنُوخَ", "kind": "surface", "parsed": {"glosses": {"en": "Enoch", "fa": "اخنوخی", "ur": "اخنوخی", "tr": "Enok", "id": "Enokh", "bn": "এনোক", "es": "Enoc", "fr": "Énoch", "de": "Enoch", "ru": "Енох", "zh": "以诺"}}, "issues": [], "meta": {"elapsed": 5.38, "input_tokens": 479, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "أَشْعَارًا", "kind": "surface", "parsed": {"glosses": {"en": "hairs", "fa": "موها", "ur": "بال", "tr": "saçlar", "id": "rambut", "bn": "চুল", "es": "pelo", "fr": "cheveux", "de": "Haare", "ru": "волосы", "zh": "头发"}}, "issues": [], "meta": {"elapsed": 4.04, "input_tokens": 904, "output_tokens": 114, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

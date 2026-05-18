@@ -1,0 +1,1 @@
+{"slug": "ضَحِكَ", "kind": "lemma", "parsed": {"glosses": {"en": "to laugh", "fa": "خندیدن", "ur": "ہنسنا", "tr": "gülmek", "id": "tertawa", "bn": "হাসা", "es": "reír", "fr": "rire", "de": "lachen", "ru": "смеяться", "zh": "笑"}}, "issues": [], "meta": {"elapsed": 3.06, "input_tokens": 2053, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "سُعْلَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "sweat", "fa": "عرق", "ur": "پسینہ", "tr": "ter", "id": "keringat", "bn": "ঘাম", "es": "sudor", "fr": "sueur", "de": "Schweiß", "ru": "пот", "zh": "汗"}}, "issues": [], "meta": {"elapsed": 3.61, "input_tokens": 449, "output_tokens": 114, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

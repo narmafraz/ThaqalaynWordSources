@@ -1,0 +1,1 @@
+{"slug": "دارا", "kind": "lemma", "parsed": {"glosses": {"en": "house", "fa": "خانه", "ur": "گھر", "tr": "ev", "id": "rumah", "bn": "বাড়ি", "es": "casa", "fr": "maison", "de": "Haus", "ru": "дом", "zh": "房子"}}, "issues": [], "meta": {"elapsed": 4.38, "input_tokens": 1049, "output_tokens": 108, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

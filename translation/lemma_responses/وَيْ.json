@@ -1,0 +1,1 @@
+{"slug": "وَيْ", "kind": "lemma", "parsed": {"glosses": {"en": "how", "fa": "چگونه", "ur": "کیسے", "tr": "nasıl", "id": "bagaimana", "bn": "কিভাবে", "es": "cómo", "fr": "comment", "de": "wie", "ru": "как", "zh": "如何"}}, "issues": [], "meta": {"elapsed": 2.58, "input_tokens": 467, "output_tokens": 110, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

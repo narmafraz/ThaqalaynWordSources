@@ -1,0 +1,1 @@
+{"slug": "أَذى", "kind": "surface", "parsed": {"glosses": {"en": "harm", "fa": "آزار", "ur": "نقصان", "tr": "zarar", "id": "kerugian", "bn": "ক্ষতি", "es": "daño", "fr": "dommage", "de": "Schaden", "ru": "вред", "zh": "伤害"}}, "issues": [], "meta": {"elapsed": 1.79, "input_tokens": 908, "output_tokens": 114, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

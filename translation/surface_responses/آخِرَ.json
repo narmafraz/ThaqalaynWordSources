@@ -1,0 +1,1 @@
+{"slug": "آخِرَ", "kind": "surface", "parsed": {"glosses": {"en": "last part", "fa": "پایان", "ur": "آخر", "tr": "son", "id": "akhir", "bn": "শেষ", "es": "último", "fr": "dernier", "de": "letzter", "ru": "последний", "zh": "最后的"}}, "issues": [], "meta": {"elapsed": 4.48, "input_tokens": 1152, "output_tokens": 111, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

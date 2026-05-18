@@ -1,0 +1,1 @@
+{"slug": "مَرْجانٌ", "kind": "lemma", "parsed": {"glosses": {"en": "coral", "fa": "مرجان", "ur": "مرجان", "tr": "mercan", "id": "karang", "bn": "মরজান", "es": "coral", "fr": "corail", "de": "Koralle", "ru": "коралл", "zh": "珊瑚"}}, "issues": [], "meta": {"elapsed": 5.56, "input_tokens": 797, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

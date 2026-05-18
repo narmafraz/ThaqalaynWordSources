@@ -1,0 +1,1 @@
+{"slug": "تَخْمٌ", "kind": "lemma", "parsed": {"glosses": {"en": "boundary", "fa": "مرز", "ur": "حد", "tr": "sınır", "id": "batas", "bn": "সীমানা", "es": "límite", "fr": "frontière", "de": "Grenze", "ru": "граница", "zh": "边界"}}, "issues": [], "meta": {"elapsed": 4.83, "input_tokens": 987, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

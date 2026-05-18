@@ -1,0 +1,1 @@
+{"slug": "دِماغٌ", "kind": "lemma", "parsed": {"glosses": {"en": "brain", "fa": "مغز", "ur": "دماغ", "tr": "beyin", "id": "otak", "bn": "মস্তিষ্ক", "es": "cerebro", "fr": "cerveau", "de": "Gehirn", "ru": "мозг", "zh": "大脑"}}, "issues": [], "meta": {"elapsed": 4.59, "input_tokens": 468, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

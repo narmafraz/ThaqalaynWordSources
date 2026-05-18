@@ -1,0 +1,1 @@
+{"slug": "فاكِهَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "fruit", "fa": "میوه", "ur": "پھل", "tr": "meyve", "id": "buah", "bn": "ফল", "es": "fruta", "fr": "fruit", "de": "Frucht", "ru": "фрукт", "zh": "水果"}}, "issues": [], "meta": {"elapsed": 4.5, "input_tokens": 928, "output_tokens": 111, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

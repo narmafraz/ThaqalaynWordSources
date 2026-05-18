@@ -1,0 +1,1 @@
+{"slug": "ساحِلٌ", "kind": "lemma", "parsed": {"glosses": {"en": "coast", "fa": "ساحل", "ur": "ساحل", "tr": "kıyı", "id": "pantai", "bn": "সমুদ্রতীর", "es": "costa", "fr": "côte", "de": "Küste", "ru": "побережье", "zh": "海岸"}}, "issues": [], "meta": {"elapsed": 6.23, "input_tokens": 722, "output_tokens": 122, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

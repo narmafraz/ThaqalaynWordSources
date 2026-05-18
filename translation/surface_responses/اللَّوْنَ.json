@@ -1,0 +1,1 @@
+{"slug": "اللَّوْنَ", "kind": "surface", "parsed": {"glosses": {"en": "the color", "fa": "رنگ", "ur": "رنگ", "tr": "renk", "id": "warna", "bn": "রঙ", "es": "el color", "fr": "la couleur", "de": "die Farbe", "ru": "цвет", "zh": "颜色"}}, "issues": [], "meta": {"elapsed": 4.4, "input_tokens": 615, "output_tokens": 111, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

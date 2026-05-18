@@ -1,0 +1,1 @@
+{"slug": "جُفْرَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "cavity", "fa": "حفره", "ur": "گودا", "tr": "çukur", "id": "rongga", "bn": "গর্ত", "es": "cavidad", "fr": "cavité", "de": "Höhle", "ru": "полость", "zh": "洞穴"}}, "issues": [], "meta": {"elapsed": 5.74, "input_tokens": 688, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

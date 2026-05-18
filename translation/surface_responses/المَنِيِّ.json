@@ -1,0 +1,1 @@
+{"slug": "المَنِيِّ", "kind": "surface", "parsed": {"glosses": {"en": "Mina", "fa": "مِنی", "ur": "مِنیٰ", "tr": "Mina", "id": "Mina", "bn": "মিনা", "es": "Mina", "fr": "Mina", "de": "Mina", "ru": "Мина", "zh": "米那"}}, "issues": [], "meta": {"elapsed": 3.73, "input_tokens": 646, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

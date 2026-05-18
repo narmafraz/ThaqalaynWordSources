@@ -1,0 +1,1 @@
+{"slug": "مَعْنَيَيْ", "kind": "lemma", "parsed": {"glosses": {"en": "meaning", "fa": "معنا", "ur": "معنی", "tr": "anlam", "id": "makna", "bn": "অর্থ", "es": "significado", "fr": "sens", "de": "Bedeutung", "ru": "смысл", "zh": "意义"}}, "issues": [], "meta": {"elapsed": 4.63, "input_tokens": 912, "output_tokens": 112, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "عَلِيِّ", "kind": "surface", "parsed": {"glosses": {"en": "of Ali", "fa": "علی", "ur": "علی", "tr": "Ali'nin", "id": "Ali", "bn": "আলির", "es": "de Ali", "fr": "d'Ali", "de": "Ali", "ru": "Али", "zh": "阿里"}}, "issues": [], "meta": {"elapsed": 5.5, "input_tokens": 1097, "output_tokens": 114, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

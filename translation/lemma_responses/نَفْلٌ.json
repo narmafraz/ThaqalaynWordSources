@@ -1,0 +1,1 @@
+{"slug": "نَفْلٌ", "kind": "lemma", "parsed": {"glosses": {"en": "voluntary prayer", "fa": "نفل", "ur": "نفل", "tr": "nafl", "id": "nafl", "bn": "নফল", "es": "nafl", "fr": "nafl", "de": "nafl", "ru": "нафль", "zh": "奈菲尔"}}, "issues": [], "meta": {"elapsed": 5.78, "input_tokens": 535, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "حَصْبَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "measles", "fa": "سرخس", "ur": "خس", "tr": "çıkık", "id": "campak", "bn": "হাম", "es": "sarampión", "fr": "rougeole", "de": "Masern", "ru": "корь", "zh": "麻疹"}}, "issues": [], "meta": {"elapsed": 6.08, "input_tokens": 682, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

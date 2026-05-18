@@ -1,0 +1,1 @@
+{"slug": "عُضْوٌ", "kind": "lemma", "parsed": {"glosses": {"en": "organ", "fa": "عضو", "ur": "عضو", "tr": "organ", "id": "organ", "bn": "অঙ্গ", "es": "órgano", "fr": "organe", "de": "Organ", "ru": "орган", "zh": "器官"}}, "issues": [], "meta": {"elapsed": 5.4, "input_tokens": 750, "output_tokens": 110, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

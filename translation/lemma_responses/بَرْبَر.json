@@ -1,0 +1,1 @@
+{"slug": "بَرْبَر", "kind": "lemma", "parsed": {"glosses": {"en": "Berber", "fa": "بربر", "ur": "بربر", "tr": "Berberi", "id": "Berber", "bn": "বারবার", "es": "bereber", "fr": "berbère", "de": "Berber", "ru": "бербер", "zh": "柏柏尔人"}}, "issues": [], "meta": {"elapsed": 3.53, "input_tokens": 986, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

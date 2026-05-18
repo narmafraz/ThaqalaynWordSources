@@ -1,0 +1,1 @@
+{"slug": "الثَّقْبِ", "kind": "surface", "parsed": {"glosses": {"en": "the hole", "fa": "سوراخ", "ur": "سوراخ", "tr": "delik", "id": "lubang", "bn": "ছিদ্র", "es": "agujero", "fr": "trou", "de": "Loch", "ru": "дыра", "zh": "洞"}}, "issues": [], "meta": {"elapsed": 2.53, "input_tokens": 902, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

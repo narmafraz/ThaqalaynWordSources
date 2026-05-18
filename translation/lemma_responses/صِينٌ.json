@@ -1,0 +1,1 @@
+{"slug": "صِينٌ", "kind": "lemma", "parsed": {"glosses": {"en": "China", "fa": "چین", "ur": "چین", "tr": "Çin", "id": "China", "bn": "চীন", "es": "China", "fr": "Chine", "de": "China", "ru": "Китай", "zh": "中国"}}, "issues": [], "meta": {"elapsed": 3.31, "input_tokens": 539, "output_tokens": 109, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

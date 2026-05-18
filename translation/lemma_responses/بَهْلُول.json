@@ -1,0 +1,1 @@
+{"slug": "بَهْلُول", "kind": "lemma", "parsed": {"glosses": {"en": "Bahlul", "fa": "بهلول", "ur": "بهلول", "tr": "Bahlul", "id": "Bahlul", "bn": "বহলুল", "es": "Bahlul", "fr": "Bahlul", "de": "Bahlul", "ru": "Бахлул", "zh": "巴胡鲁"}}, "issues": [], "meta": {"elapsed": 5.47, "input_tokens": 569, "output_tokens": 125, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

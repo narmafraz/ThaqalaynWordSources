@@ -1,0 +1,1 @@
+{"slug": "أَفْوَاهِ", "kind": "surface", "parsed": {"glosses": {"en": "mouths", "fa": "دهان‌ها", "ur": "منہ", "tr": "ağızlar", "id": "mulut", "bn": "মুখ", "es": "bocas", "fr": "bouches", "de": "Münder", "ru": "роты", "zh": "嘴"}}, "issues": [], "meta": {"elapsed": 2.69, "input_tokens": 1022, "output_tokens": 120, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

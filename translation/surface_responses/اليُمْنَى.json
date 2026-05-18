@@ -1,0 +1,1 @@
+{"slug": "اليُمْنَى", "kind": "surface", "parsed": {"glosses": {"en": "the right", "fa": "راست", "ur": "دائیں", "tr": "sağ", "id": "kanan", "bn": "ডান", "es": "derecho", "fr": "droit", "de": "rechts", "ru": "правый", "zh": "右"}}, "issues": [], "meta": {"elapsed": 4.0, "input_tokens": 584, "output_tokens": 113, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

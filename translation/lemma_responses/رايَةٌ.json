@@ -1,0 +1,1 @@
+{"slug": "رايَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "banner", "fa": "پرچم", "ur": "پرچم", "tr": "bayrak", "id": "bendera", "bn": "পতাকা", "es": "estandarte", "fr": "bannière", "de": "Banner", "ru": "знамя", "zh": "旗帜"}}, "issues": [], "meta": {"elapsed": 4.39, "input_tokens": 933, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "أَقْدَاحٍ", "kind": "surface", "parsed": {"glosses": {"en": "arrows", "fa": "تیرها", "ur": "تیر", "tr": "oklar", "id": "anak panah", "bn": "তীর", "es": "flechas", "fr": "flèches", "de": "Pfeile", "ru": "стрелы", "zh": "箭"}}, "issues": [], "meta": {"elapsed": 2.9, "input_tokens": 957, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

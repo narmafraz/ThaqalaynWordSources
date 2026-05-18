@@ -1,0 +1,1 @@
+{"slug": "بائِتٌ", "kind": "lemma", "parsed": {"glosses": {"en": "stale", "fa": "کهنه", "ur": "پرانا", "tr": "bayat", "id": "tawar", "bn": "পুরানো", "es": "rancio", "fr": "rassis", "de": "altbacken", "ru": "черствый", "zh": "不新鲜的"}}, "issues": [], "meta": {"elapsed": 4.39, "input_tokens": 462, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

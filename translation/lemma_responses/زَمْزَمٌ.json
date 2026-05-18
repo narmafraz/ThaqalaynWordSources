@@ -1,0 +1,1 @@
+{"slug": "زَمْزَمٌ", "kind": "lemma", "parsed": {"glosses": {"en": "Zamzam", "fa": "زمزم", "ur": "زمزم", "tr": "Zemzem", "id": "Zamzam", "bn": "জমজম", "es": "Zamzam", "fr": "Zamzam", "de": "Zamzam", "ru": "Замзам", "zh": "赞俩姆"}}, "issues": [], "meta": {"elapsed": 4.85, "input_tokens": 1478, "output_tokens": 124, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

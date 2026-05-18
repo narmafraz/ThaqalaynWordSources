@@ -1,0 +1,1 @@
+{"slug": "حَجِيج", "kind": "lemma", "parsed": {"glosses": {"en": "pilgrim", "fa": "حاج", "ur": "حاجی", "tr": "hacılı", "id": "jamaah haji", "bn": "হাজী", "es": "piloto", "fr": "pèlerin", "de": "Pilger", "ru": "хадж", "zh": "朝觐者"}}, "issues": [], "meta": {"elapsed": 4.28, "input_tokens": 762, "output_tokens": 122, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

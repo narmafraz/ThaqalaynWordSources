@@ -1,0 +1,1 @@
+{"slug": "شِبْرٌ", "kind": "lemma", "parsed": {"glosses": {"en": "span", "fa": "شبر", "ur": "شبر", "tr": "şibr", "id": "jengkal", "bn": "শবর", "es": "span", "fr": "span", "de": "Spannweite", "ru": "шубр", "zh": "掌宽"}}, "issues": [], "meta": {"elapsed": 3.71, "input_tokens": 1235, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

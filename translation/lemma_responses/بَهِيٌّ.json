@@ -1,0 +1,1 @@
+{"slug": "بَهِيٌّ", "kind": "lemma", "parsed": {"glosses": {"en": "beautiful", "fa": "زیبا", "ur": "خوبصورت", "tr": "güzel", "id": "indah", "bn": "সুন্দর", "es": "hermoso", "fr": "beau", "de": "schön", "ru": "красивый", "zh": "美丽的"}}, "issues": [], "meta": {"elapsed": 4.52, "input_tokens": 624, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

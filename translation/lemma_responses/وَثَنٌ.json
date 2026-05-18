@@ -1,0 +1,1 @@
+{"slug": "وَثَنٌ", "kind": "lemma", "parsed": {"glosses": {"en": "idol", "fa": "بت", "ur": "بت", "tr": "put", "id": "idola", "bn": "মূর্তি", "es": "ídolo", "fr": "idole", "de": "Götze", "ru": "идол", "zh": "偶像"}}, "issues": [], "meta": {"elapsed": 3.42, "input_tokens": 492, "output_tokens": 113, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

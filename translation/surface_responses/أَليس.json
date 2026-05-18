@@ -1,0 +1,1 @@
+{"slug": "أَليس", "kind": "surface", "parsed": {"glosses": {"en": "is not", "fa": "نبود", "ur": "ہونا نہیں", "tr": "değil", "id": "tidak", "bn": "ন", "es": "no es", "fr": "n'est pas", "de": "ist nicht", "ru": "не есть", "zh": "不是"}}, "issues": [], "meta": {"elapsed": 4.69, "input_tokens": 913, "output_tokens": 114, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "بَكٌ", "kind": "lemma", "parsed": {"glosses": {"en": "Bak", "fa": "بک", "ur": "بک", "tr": "Bak", "id": "Bak", "bn": "বক", "es": "Bak", "fr": "Bak", "de": "Bak", "ru": "Бак", "zh": "巴克"}}, "issues": [], "meta": {"elapsed": 4.99, "input_tokens": 449, "output_tokens": 113, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

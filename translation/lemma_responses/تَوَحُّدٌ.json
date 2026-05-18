@@ -1,0 +1,1 @@
+{"slug": "تَوَحُّدٌ", "kind": "lemma", "parsed": {"glosses": {"en": "unity", "fa": "وحدت", "ur": "اتحاد", "tr": "birlik", "id": "persatuan", "bn": "ঐক্য", "es": "unidad", "fr": "unité", "de": "Einheit", "ru": "единство", "zh": "统一"}}, "issues": [], "meta": {"elapsed": 3.68, "input_tokens": 482, "output_tokens": 113, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

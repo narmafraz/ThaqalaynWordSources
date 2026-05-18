@@ -1,0 +1,1 @@
+{"slug": "مِيسَمٌ", "kind": "lemma", "parsed": {"glosses": {"en": "brand mark", "fa": "نشانه", "ur": "نشان", "tr": "damga", "id": "tanda", "bn": "চিহ্ন", "es": "marca", "fr": "marque", "de": "Brandmal", "ru": "клеймо", "zh": "印记"}}, "issues": [], "meta": {"elapsed": 3.94, "input_tokens": 552, "output_tokens": 113, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

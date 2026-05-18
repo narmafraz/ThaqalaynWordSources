@@ -1,0 +1,1 @@
+{"slug": "ف", "kind": "lemma", "parsed": {"glosses": {"en": "F", "fa": "ف", "ur": "ف", "tr": "F", "id": "F", "bn": "ফ", "es": "F", "fr": "F", "de": "F", "ru": "Ф", "zh": "法"}}, "issues": [], "meta": {"elapsed": 2.02, "input_tokens": 951, "output_tokens": 103, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

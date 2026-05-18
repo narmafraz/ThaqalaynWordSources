@@ -1,0 +1,1 @@
+{"slug": "حَمْدٌ", "kind": "lemma", "parsed": {"glosses": {"en": "praise", "fa": "ستایش", "ur": "تعریف", "tr": "hamd", "id": "pujian", "bn": "প্রশংসা", "es": "alabanza", "fr": "louange", "de": "Lob", "ru": "хвала", "zh": "赞美"}}, "issues": [], "meta": {"elapsed": 5.4, "input_tokens": 2255, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

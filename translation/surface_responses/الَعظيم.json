@@ -1,0 +1,1 @@
+{"slug": "الَعظيم", "kind": "surface", "parsed": {"glosses": {"en": "the great", "fa": "عظیم", "ur": "عظیم", "tr": "büyük", "id": "agung", "bn": "মহান", "es": "grande", "fr": "grand", "de": "groß", "ru": "великий", "zh": "伟大的"}}, "issues": [], "meta": {"elapsed": 4.9, "input_tokens": 922, "output_tokens": 111, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

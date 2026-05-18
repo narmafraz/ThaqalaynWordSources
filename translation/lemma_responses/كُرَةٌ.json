@@ -1,0 +1,1 @@
+{"slug": "كُرَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "ball", "fa": "توپ", "ur": "گیند", "tr": "top", "id": "bola", "bn": "বল", "es": "pelota", "fr": "balle", "de": "Ball", "ru": "мяч", "zh": "球"}}, "issues": [], "meta": {"elapsed": 4.74, "input_tokens": 922, "output_tokens": 110, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

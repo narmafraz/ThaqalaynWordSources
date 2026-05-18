@@ -1,0 +1,1 @@
+{"slug": "نَظِيفٌ", "kind": "lemma", "parsed": {"glosses": {"en": "clean", "fa": "تمیز", "ur": "صاف", "tr": "temiz", "id": "bersih", "bn": "পরিষ্কার", "es": "limpio", "fr": "propre", "de": "sauber", "ru": "чистый", "zh": "干净的"}}, "issues": [], "meta": {"elapsed": 4.21, "input_tokens": 465, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

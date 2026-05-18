@@ -1,0 +1,1 @@
+{"slug": "قَيْصَرٌ", "kind": "lemma", "parsed": {"glosses": {"en": "Caesar", "fa": "قیصر", "ur": "قیصر", "tr": "Sezar", "id": "Caesar", "bn": "সিজার", "es": "César", "fr": "César", "de": "Caesar", "ru": "Цезарь", "zh": "凯撒"}}, "issues": [], "meta": {"elapsed": 5.29, "input_tokens": 476, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

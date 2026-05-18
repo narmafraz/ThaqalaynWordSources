@@ -1,0 +1,1 @@
+{"slug": "أُصُولِ", "kind": "surface", "parsed": {"glosses": {"en": "roots", "fa": "ریشه‌ها", "ur": "جڑیں", "tr": "kökler", "id": "akar", "bn": "মূল", "es": "raíces", "fr": "racines", "de": "Wurzeln", "ru": "корни", "zh": "根"}}, "issues": [], "meta": {"elapsed": 2.5, "input_tokens": 1130, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

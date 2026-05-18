@@ -1,0 +1,1 @@
+{"slug": "الضَّحِكُ", "kind": "surface", "parsed": {"glosses": {"en": "laughter", "fa": "خنده", "ur": "قہقہہ", "tr": "gülme", "id": "tawa", "bn": "হাসি", "es": "risa", "fr": "rire", "de": "Lachen", "ru": "смех", "zh": "笑"}}, "issues": [], "meta": {"elapsed": 2.97, "input_tokens": 944, "output_tokens": 114, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

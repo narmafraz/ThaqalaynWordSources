@@ -1,0 +1,1 @@
+{"slug": "حاكِمٌ", "kind": "lemma", "parsed": {"glosses": {"en": "judge", "fa": "قاضی", "ur": "قاضی", "tr": "hakim", "id": "hakim", "bn": "বিচারক", "es": "juez", "fr": "juge", "de": "Richter", "ru": "судья", "zh": "法官"}}, "issues": [], "meta": {"elapsed": 4.38, "input_tokens": 870, "output_tokens": 114, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

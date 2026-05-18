@@ -1,0 +1,1 @@
+{"slug": "لَحْم", "kind": "lemma", "parsed": {"glosses": {"en": "flesh", "fa": "گوشت", "ur": "گوشت", "tr": "et", "id": "daging", "bn": "মাংস", "es": "carne", "fr": "viande", "de": "Fleisch", "ru": "мясо", "zh": "肉"}}, "issues": [], "meta": {"elapsed": 3.47, "input_tokens": 461, "output_tokens": 114, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

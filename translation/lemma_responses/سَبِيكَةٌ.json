@@ -1,0 +1,1 @@
+{"slug": "سَبِيكَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "ingot", "fa": "شمش", "ur": "شمش", "tr": "ingot", "id": "ingot", "bn": "ইনগট", "es": "lingote", "fr": "lingot", "de": "Barren", "ru": "слиток", "zh": "金条"}}, "issues": [], "meta": {"elapsed": 3.2, "input_tokens": 829, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

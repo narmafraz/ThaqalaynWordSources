@@ -1,0 +1,1 @@
+{"slug": "مُباشِرٌ", "kind": "lemma", "parsed": {"glosses": {"en": "agent", "fa": "عامل", "ur": "عامل", "tr": "temsilci", "id": "agen", "bn": "এজেন্ট", "es": "agente", "fr": "agent", "de": "Agent", "ru": "агент", "zh": "代理人"}}, "issues": [], "meta": {"elapsed": 2.82, "input_tokens": 470, "output_tokens": 109, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

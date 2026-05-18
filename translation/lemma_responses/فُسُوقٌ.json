@@ -1,0 +1,1 @@
+{"slug": "فُسُوقٌ", "kind": "lemma", "parsed": {"glosses": {"en": "wickedness", "fa": "فسوق", "ur": "فسوق", "tr": "fısık", "id": "fusak", "bn": "ফুসুক", "es": "fusak", "fr": "fusak", "de": "Fusak", "ru": "фусук", "zh": "法苏克"}}, "issues": [], "meta": {"elapsed": 5.05, "input_tokens": 475, "output_tokens": 120, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

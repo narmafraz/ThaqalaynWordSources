@@ -1,0 +1,1 @@
+{"slug": "طُوفانٌ", "kind": "lemma", "parsed": {"glosses": {"en": "flood", "fa": "سیل", "ur": "طوفان", "tr": "sel", "id": "banjir", "bn": "বন্যা", "es": "inundación", "fr": "déluge", "de": "Flut", "ru": "потоп", "zh": "洪水"}}, "issues": [], "meta": {"elapsed": 7.0, "input_tokens": 917, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

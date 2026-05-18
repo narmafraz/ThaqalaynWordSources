@@ -1,0 +1,1 @@
+{"slug": "5", "kind": "lemma", "parsed": {"glosses": {"en": "five", "fa": "پنج", "ur": "پانچ", "tr": "beş", "id": "lima", "bn": "পাঁচ", "es": "cinco", "fr": "cinq", "de": "fünf", "ru": "пять", "zh": "五"}}, "issues": [], "meta": {"elapsed": 4.56, "input_tokens": 449, "output_tokens": 113, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

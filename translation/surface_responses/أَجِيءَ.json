@@ -1,0 +1,1 @@
+{"slug": "أَجِيءَ", "kind": "surface", "parsed": {"glosses": {"en": "to come", "fa": "آمدن", "ur": "آنا", "tr": "gelmek", "id": "datang", "bn": "আসা", "es": "venir", "fr": "venir", "de": "kommen", "ru": "приходить", "zh": "来"}}, "issues": [], "meta": {"elapsed": 2.38, "input_tokens": 556, "output_tokens": 111, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

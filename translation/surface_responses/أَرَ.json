@@ -1,0 +1,1 @@
+{"slug": "أَرَ", "kind": "surface", "parsed": {"glosses": {"en": "I saw", "fa": "دیدم", "ur": "دیکھا", "tr": "gördüm", "id": "melihat", "bn": "দেখেছি", "es": "vi", "fr": "j'ai vu", "de": "sah", "ru": "увидел", "zh": "看见"}}, "issues": [], "meta": {"elapsed": 4.28, "input_tokens": 1164, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "بَكَمٌ", "kind": "lemma", "parsed": {"glosses": {"en": "dumbness", "fa": "سکوت", "ur": "خاموشی", "tr": "sükunet", "id": "bisu", "bn": "মূকতা", "es": "mudez", "fr": "muet", "de": "Stummheit", "ru": "немой", "zh": "哑"}}, "issues": [], "meta": {"elapsed": 5.79, "input_tokens": 794, "output_tokens": 123, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

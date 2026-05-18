@@ -1,0 +1,1 @@
+{"slug": "أَثْقَالِ", "kind": "surface", "parsed": {"glosses": {"en": "weights", "fa": "وزن‌ها", "ur": "وزن", "tr": "ağırlıklar", "id": "berat", "bn": "ওজন", "es": "pesos", "fr": "poids", "de": "Gewichte", "ru": "весы", "zh": "重量"}}, "issues": [], "meta": {"elapsed": 4.02, "input_tokens": 641, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

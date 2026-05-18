@@ -1,0 +1,1 @@
+{"slug": "جَزِيرَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "island", "fa": "جزیره", "ur": "جزیره", "tr": "ada", "id": "pulau", "bn": "দ্বীপ", "es": "isla", "fr": "île", "de": "Insel", "ru": "остров", "zh": "岛屿"}}, "issues": [], "meta": {"elapsed": 3.57, "input_tokens": 609, "output_tokens": 113, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

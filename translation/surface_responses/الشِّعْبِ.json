@@ -1,0 +1,1 @@
+{"slug": "الشِّعْبِ", "kind": "surface", "parsed": {"glosses": {"en": "the tribe", "fa": "قبیله", "ur": "قبیلہ", "tr": "kabile", "id": "suku", "bn": "গোত্র", "es": "tribu", "fr": "tribu", "de": "Stamm", "ru": "племя", "zh": "部落"}}, "issues": [], "meta": {"elapsed": 3.36, "input_tokens": 921, "output_tokens": 114, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

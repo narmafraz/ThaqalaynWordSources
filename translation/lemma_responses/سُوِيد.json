@@ -1,0 +1,1 @@
+{"slug": "سُوِيد", "kind": "lemma", "parsed": {"glosses": {"en": "Suwayd", "fa": "سویید", "ur": "سویید", "tr": "Suveyd", "id": "Suwayd", "bn": "সুয়েদ", "es": "Suwayd", "fr": "Suwayd", "de": "Suwayd", "ru": "Сувайд", "zh": "苏韦德"}}, "issues": [], "meta": {"elapsed": 4.38, "input_tokens": 658, "output_tokens": 126, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

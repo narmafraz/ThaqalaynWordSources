@@ -1,0 +1,1 @@
+{"slug": "قُدُّوسٌ", "kind": "lemma", "parsed": {"glosses": {"en": "Holy One", "fa": "قدوس", "ur": "قدوس", "tr": "Kuddus", "id": "Kuddus", "bn": "কুদ্দুস", "es": "Kuddus", "fr": "Kuddus", "de": "Kuddus", "ru": "Куддус", "zh": "库杜斯"}}, "issues": [], "meta": {"elapsed": 4.51, "input_tokens": 450, "output_tokens": 126, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

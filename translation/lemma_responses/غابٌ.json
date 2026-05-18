@@ -1,0 +1,1 @@
+{"slug": "غابٌ", "kind": "lemma", "parsed": {"glosses": {"en": "forest", "fa": "جنگل", "ur": "جنگل", "tr": "orman", "id": "hutan", "bn": "বন", "es": "bosque", "fr": "forêt", "de": "Wald", "ru": "лес", "zh": "森林"}}, "issues": [], "meta": {"elapsed": 3.63, "input_tokens": 1077, "output_tokens": 112, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

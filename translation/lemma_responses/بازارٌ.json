@@ -1,0 +1,1 @@
+{"slug": "بازارٌ", "kind": "lemma", "parsed": {"glosses": {"en": "bazaar", "fa": "بازار", "ur": "بازار", "tr": "çarşı", "id": "pasar", "bn": "বাজার", "es": "bazar", "fr": "bazar", "de": "Basar", "ru": "базар", "zh": "集市"}}, "issues": [], "meta": {"elapsed": 5.56, "input_tokens": 458, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "رَوْضَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "garden", "fa": "باغ", "ur": "باغ", "tr": "bahçe", "id": "taman", "bn": "বাগান", "es": "jardín", "fr": "jardin", "de": "Garten", "ru": "сад", "zh": "花园"}}, "issues": [], "meta": {"elapsed": 4.2, "input_tokens": 870, "output_tokens": 114, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

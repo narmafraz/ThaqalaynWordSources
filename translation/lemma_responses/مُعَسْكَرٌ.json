@@ -1,0 +1,1 @@
+{"slug": "مُعَسْكَرٌ", "kind": "lemma", "parsed": {"glosses": {"en": "camp", "fa": "اردوگاه", "ur": "کیمپ", "tr": "kamp", "id": "kemp", "bn": "ক্যাম্প", "es": "campamento", "fr": "camp", "de": "Lager", "ru": "лагерь", "zh": "营地"}}, "issues": [], "meta": {"elapsed": 5.63, "input_tokens": 515, "output_tokens": 114, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

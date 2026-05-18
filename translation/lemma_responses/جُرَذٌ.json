@@ -1,0 +1,1 @@
+{"slug": "جُرَذٌ", "kind": "lemma", "parsed": {"glosses": {"en": "rat", "fa": "موش", "ur": "چوہا", "tr": "sıçan", "id": "tikus", "bn": "ইঁদুর", "es": "rata", "fr": "rat", "de": "Ratte", "ru": "крыса", "zh": "鼠"}}, "issues": [], "meta": {"elapsed": 4.32, "input_tokens": 1017, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

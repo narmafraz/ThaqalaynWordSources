@@ -1,0 +1,1 @@
+{"slug": "خَبَرٌ", "kind": "lemma", "parsed": {"glosses": {"en": "report", "fa": "خبر", "ur": "خبر", "tr": "haber", "id": "berita", "bn": "খবর", "es": "noticia", "fr": "nouvelle", "de": "Nachricht", "ru": "сообщение", "zh": "消息"}}, "issues": [], "meta": {"elapsed": 5.65, "input_tokens": 2170, "output_tokens": 113, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "النُّطَفُ", "kind": "surface", "parsed": {"glosses": {"en": "the sperm", "fa": "منی", "ur": "منی", "tr": "meniler", "id": "mani", "bn": "বীর্য", "es": "esperma", "fr": "sperme", "de": "Samen", "ru": "семена", "zh": "精液"}}, "issues": [], "meta": {"elapsed": 4.22, "input_tokens": 686, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

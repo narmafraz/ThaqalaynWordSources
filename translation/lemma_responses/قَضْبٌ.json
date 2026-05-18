@@ -1,0 +1,1 @@
+{"slug": "قَضْبٌ", "kind": "lemma", "parsed": {"glosses": {"en": "stem", "fa": "ساق", "ur": "ساق", "tr": "sap", "id": "batang", "bn": "স্টেম", "es": "tallo", "fr": "tige", "de": "Stamm", "ru": "стебель", "zh": "茎"}}, "issues": [], "meta": {"elapsed": 6.06, "input_tokens": 493, "output_tokens": 112, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "وافِدٌ", "kind": "lemma", "parsed": {"glosses": {"en": "envoy", "fa": "فرستاده", "ur": "سفیر", "tr": "elçi", "id": "utusan", "bn": "দূত", "es": "enviado", "fr": "envoyé", "de": "Gesandter", "ru": "посол", "zh": "使者"}}, "issues": [], "meta": {"elapsed": 5.86, "input_tokens": 915, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

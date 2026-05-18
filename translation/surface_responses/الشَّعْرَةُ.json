@@ -1,0 +1,1 @@
+{"slug": "الشَّعْرَةُ", "kind": "surface", "parsed": {"glosses": {"en": "the hair", "fa": "مو", "ur": "بال", "tr": "saç", "id": "ram", "bn": "চুল", "es": "pelo", "fr": "cheveux", "de": "Haar", "ru": "волос", "zh": "头发"}}, "issues": [], "meta": {"elapsed": 5.0, "input_tokens": 935, "output_tokens": 110, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

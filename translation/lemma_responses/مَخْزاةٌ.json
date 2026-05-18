@@ -1,0 +1,1 @@
+{"slug": "مَخْزاةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "disgrace", "fa": "شرم", "ur": "شرم", "tr": "utanç", "id": "malu", "bn": "লজ্জা", "es": "vergüenza", "fr": "honte", "de": "Schande", "ru": "позор", "zh": "耻辱"}}, "issues": [], "meta": {"elapsed": 4.74, "input_tokens": 486, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

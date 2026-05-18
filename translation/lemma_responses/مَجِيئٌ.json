@@ -1,0 +1,1 @@
+{"slug": "مَجِيئٌ", "kind": "lemma", "parsed": {"glosses": {"en": "coming", "fa": "آمدن", "ur": "آنا", "tr": "gelmek", "id": "datang", "bn": "আসা", "es": "llegada", "fr": "arrivée", "de": "Kommen", "ru": "приход", "zh": "到来"}}, "issues": [], "meta": {"elapsed": 3.86, "input_tokens": 476, "output_tokens": 113, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

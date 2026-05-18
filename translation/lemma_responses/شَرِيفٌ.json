@@ -1,0 +1,1 @@
+{"slug": "شَرِيفٌ", "kind": "lemma", "parsed": {"glosses": {"en": "noble", "fa": "شریف", "ur": "شریف", "tr": "soylu", "id": "mulia", "bn": "নবাবী", "es": "noble", "fr": "noble", "de": "edel", "ru": "благородный", "zh": "高贵的"}}, "issues": [], "meta": {"elapsed": 5.04, "input_tokens": 929, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

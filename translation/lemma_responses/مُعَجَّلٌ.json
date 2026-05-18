@@ -1,0 +1,1 @@
+{"slug": "مُعَجَّلٌ", "kind": "lemma", "parsed": {"glosses": {"en": "early", "fa": "زودرس", "ur": "جلد", "tr": "erken", "id": "cepat", "bn": "শীঘ্র", "es": "temprano", "fr": "hâtif", "de": "früh", "ru": "ранний", "zh": "早熟的"}}, "issues": [], "meta": {"elapsed": 5.74, "input_tokens": 907, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

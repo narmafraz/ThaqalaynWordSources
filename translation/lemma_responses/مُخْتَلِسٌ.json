@@ -1,0 +1,1 @@
+{"slug": "مُخْتَلِسٌ", "kind": "lemma", "parsed": {"glosses": {"en": "thief", "fa": "دزد", "ur": "چور", "tr": "hırsız", "id": "pencuri", "bn": "চোর", "es": "ladrón", "fr": "voleur", "de": "Dieb", "ru": "вор", "zh": "小偷"}}, "issues": [], "meta": {"elapsed": 4.97, "input_tokens": 468, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

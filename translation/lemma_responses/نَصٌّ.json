@@ -1,0 +1,1 @@
+{"slug": "نَصٌّ", "kind": "lemma", "parsed": {"glosses": {"en": "text", "fa": "متن", "ur": "متن", "tr": "metin", "id": "teks", "bn": "পাঠ্য", "es": "texto", "fr": "texte", "de": "Text", "ru": "текст", "zh": "文本"}}, "issues": [], "meta": {"elapsed": 3.26, "input_tokens": 901, "output_tokens": 110, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

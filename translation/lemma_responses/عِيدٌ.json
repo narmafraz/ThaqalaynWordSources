@@ -1,0 +1,1 @@
+{"slug": "عِيدٌ", "kind": "lemma", "parsed": {"glosses": {"en": "festival", "fa": "جشن", "ur": "تہوار", "tr": "bayram", "id": "festival", "bn": "উৎসব", "es": "fiesta", "fr": "fête", "de": "Fest", "ru": "празвлечение", "zh": "节日"}}, "issues": [], "meta": {"elapsed": 4.11, "input_tokens": 1344, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

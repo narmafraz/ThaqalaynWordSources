@@ -1,0 +1,1 @@
+{"slug": "حَشِيشٌ", "kind": "lemma", "parsed": {"glosses": {"en": "grass", "fa": "علوفه", "ur": "چراگاہ", "tr": "ot", "id": "rumput", "bn": "ঘাস", "es": "hierba", "fr": "herbe", "de": "Gras", "ru": "трава", "zh": "草"}}, "issues": [], "meta": {"elapsed": 4.35, "input_tokens": 926, "output_tokens": 114, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

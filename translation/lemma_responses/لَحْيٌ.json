@@ -1,0 +1,1 @@
+{"slug": "لَحْيٌ", "kind": "lemma", "parsed": {"glosses": {"en": "jawbone", "fa": "فک", "ur": "فک", "tr": "çene kemiği", "id": "rahang", "bn": "জঠর", "es": "mandíbula", "fr": "mâchoire", "de": "Kiefer", "ru": "челюсть", "zh": "颌骨"}}, "issues": [], "meta": {"elapsed": 3.75, "input_tokens": 594, "output_tokens": 122, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

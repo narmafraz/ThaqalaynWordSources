@@ -1,0 +1,1 @@
+{"slug": "مُلِمٌّ", "kind": "lemma", "parsed": {"glosses": {"en": "skilled", "fa": "ماهر", "ur": "ماہر", "tr": "ustalı", "id": "terampil", "bn": "দক্ষ", "es": "hábil", "fr": "compétent", "de": "geübt", "ru": "искусный", "zh": "熟练的"}}, "issues": [], "meta": {"elapsed": 2.96, "input_tokens": 467, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

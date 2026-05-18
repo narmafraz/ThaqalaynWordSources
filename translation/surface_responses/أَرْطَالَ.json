@@ -1,0 +1,1 @@
+{"slug": "أَرْطَالَ", "kind": "surface", "parsed": {"glosses": {"en": "rottol", "fa": "رطل", "ur": "رطل", "tr": "rottol", "id": "rottol", "bn": "রটল", "es": "rottol", "fr": "rottol", "de": "Rottol", "ru": "роттол", "zh": "拉特鲁"}}, "issues": [], "meta": {"elapsed": 2.72, "input_tokens": 1097, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

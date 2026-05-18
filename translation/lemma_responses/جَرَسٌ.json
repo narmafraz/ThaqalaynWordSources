@@ -1,0 +1,1 @@
+{"slug": "جَرَسٌ", "kind": "lemma", "parsed": {"glosses": {"en": "bell", "fa": "زنگ", "ur": "گھنٹی", "tr": "zil", "id": "lonceng", "bn": "ঘণ্টা", "es": "campana", "fr": "cloche", "de": "Glocke", "ru": "колокол", "zh": "钟"}}, "issues": [], "meta": {"elapsed": 3.83, "input_tokens": 713, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

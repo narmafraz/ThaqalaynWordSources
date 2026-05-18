@@ -1,0 +1,1 @@
+{"slug": "الشَّفْعُ", "kind": "surface", "parsed": {"glosses": {"en": "the pair", "fa": "جفت", "ur": "جفت", "tr": "çift", "id": "pasangan", "bn": "জোড়া", "es": "par", "fr": "paire", "de": "Paar", "ru": "пара", "zh": "对"}}, "issues": [], "meta": {"elapsed": 4.56, "input_tokens": 926, "output_tokens": 112, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

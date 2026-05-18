@@ -1,0 +1,1 @@
+{"slug": "شائِهٌ", "kind": "lemma", "parsed": {"glosses": {"en": "noisy", "fa": "شلوغ", "ur": "شور", "tr": "gürültülü", "id": "berisik", "bn": "শোরগোল", "es": "ruidoso", "fr": "bruyant", "de": "lärmend", "ru": "шумный", "zh": "喧闹的"}}, "issues": [], "meta": {"elapsed": 5.02, "input_tokens": 449, "output_tokens": 123, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

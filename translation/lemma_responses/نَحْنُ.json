@@ -1,0 +1,1 @@
+{"slug": "نَحْنُ", "kind": "lemma", "parsed": {"glosses": {"en": "we", "fa": "ما", "ur": "ہم", "tr": "biz", "id": "kami", "bn": "আমরা", "es": "nosotros", "fr": "nous", "de": "wir", "ru": "мы", "zh": "我们"}}, "issues": [], "meta": {"elapsed": 3.63, "input_tokens": 464, "output_tokens": 107, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

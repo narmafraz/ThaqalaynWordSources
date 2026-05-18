@@ -1,0 +1,1 @@
+{"slug": "الدِّيَةُ", "kind": "surface", "parsed": {"glosses": {"en": "blood money", "fa": "دیّه", "ur": "دیہ", "tr": "diye", "id": "diyah", "bn": "দিয়াহ", "es": "diyah", "fr": "diyah", "de": "Diyah", "ru": "дия", "zh": "迪叶"}}, "issues": [], "meta": {"elapsed": 5.01, "input_tokens": 807, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

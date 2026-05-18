@@ -1,0 +1,1 @@
+{"slug": "أَيْدِي", "kind": "surface", "parsed": {"glosses": {"en": "hands", "fa": "دست‌ها", "ur": "ہاتھ", "tr": "eller", "id": "tangan", "bn": "হাত", "es": "manos", "fr": "mains", "de": "Hände", "ru": "руки", "zh": "手"}}, "issues": [], "meta": {"elapsed": 2.52, "input_tokens": 1113, "output_tokens": 113, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

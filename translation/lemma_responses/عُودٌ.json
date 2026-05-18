@@ -1,0 +1,1 @@
+{"slug": "عُودٌ", "kind": "lemma", "parsed": {"glosses": {"en": "wood", "fa": "چوب", "ur": "لکڑی", "tr": "odun", "id": "kayu", "bn": "কাঠ", "es": "madera", "fr": "bois", "de": "Holz", "ru": "дерево", "zh": "木头"}}, "issues": [], "meta": {"elapsed": 5.33, "input_tokens": 2293, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

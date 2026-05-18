@@ -1,0 +1,1 @@
+{"slug": "صَخْرٌ", "kind": "lemma", "parsed": {"glosses": {"en": "rock", "fa": "صخره", "ur": "چٹان", "tr": "kaya", "id": "batu", "bn": "চূনা পাথর", "es": "roca", "fr": "rocher", "de": "Fels", "ru": "скала", "zh": "岩石"}}, "issues": [], "meta": {"elapsed": 4.37, "input_tokens": 796, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "لَقاحٌ", "kind": "lemma", "parsed": {"glosses": {"en": "pollen", "fa": "گرده", "ur": "گرہ", "tr": "polen", "id": "serbuk sari", "bn": "পরাগরেণু", "es": "polen", "fr": "pollen", "de": "Pollens", "ru": "пыльца", "zh": "花粉"}}, "issues": [], "meta": {"elapsed": 3.15, "input_tokens": 948, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

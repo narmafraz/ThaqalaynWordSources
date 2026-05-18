@@ -1,0 +1,1 @@
+{"slug": "قَبْضَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "fist", "fa": "مشت", "ur": "مشت", "tr": "yumruk", "id": "kepalan tangan", "bn": "মুষ্টি", "es": "puño", "fr": "poing", "de": "Faust", "ru": "кулак", "zh": "拳头"}}, "issues": [], "meta": {"elapsed": 4.6, "input_tokens": 641, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

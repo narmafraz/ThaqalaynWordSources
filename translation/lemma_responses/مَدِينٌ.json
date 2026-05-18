@@ -1,0 +1,1 @@
+{"slug": "مَدِينٌ", "kind": "lemma", "parsed": {"glosses": {"en": "Midian", "fa": "میدان", "ur": "میدان", "tr": "Midyan", "id": "Midian", "bn": "মিদিয়ান", "es": "Madián", "fr": "Midian", "de": "Midian", "ru": "Мидьян", "zh": "米甸"}}, "issues": [], "meta": {"elapsed": 3.65, "input_tokens": 724, "output_tokens": 122, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

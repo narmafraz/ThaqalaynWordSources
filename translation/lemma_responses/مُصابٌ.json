@@ -1,0 +1,1 @@
+{"slug": "مُصابٌ", "kind": "lemma", "parsed": {"glosses": {"en": "wounded", "fa": "زخمی", "ur": "زخمی", "tr": "yaralı", "id": "luka", "bn": "আহত", "es": "herido", "fr": "blessé", "de": "verwundet", "ru": "раненый", "zh": "受伤的"}}, "issues": [], "meta": {"elapsed": 4.78, "input_tokens": 818, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

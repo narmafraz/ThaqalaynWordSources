@@ -1,0 +1,1 @@
+{"slug": "رِشاء", "kind": "lemma", "parsed": {"glosses": {"en": "rope", "fa": "طناب", "ur": "رسی", "tr": "halat", "id": "tali", "bn": "দড়ি", "es": "cuerda", "fr": "corde", "de": "Seil", "ru": "веревка", "zh": "绳索"}}, "issues": [], "meta": {"elapsed": 4.82, "input_tokens": 460, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "قِطاعٌ", "kind": "lemma", "parsed": {"glosses": {"en": "section", "fa": "قطعه", "ur": "حصہ", "tr": "bölüm", "id": "bagian", "bn": "খণ্ড", "es": "sección", "fr": "section", "de": "Abschnitt", "ru": "сектор", "zh": "部分"}}, "issues": [], "meta": {"elapsed": 2.4, "input_tokens": 462, "output_tokens": 113, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

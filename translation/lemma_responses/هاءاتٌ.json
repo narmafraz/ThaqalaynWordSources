@@ -1,0 +1,1 @@
+{"slug": "هاءاتٌ", "kind": "lemma", "parsed": {"glosses": {"en": "Haa", "fa": "هاء", "ur": "ہاء", "tr": "Hâ", "id": "Ha'", "bn": "হা", "es": "Ha'", "fr": "Ha'", "de": "Ha'", "ru": "Ха'", "zh": "哈"}}, "issues": [], "meta": {"elapsed": 4.06, "input_tokens": 481, "output_tokens": 107, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

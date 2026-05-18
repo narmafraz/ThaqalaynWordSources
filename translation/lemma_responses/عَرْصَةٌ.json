@@ -1,0 +1,1 @@
+{"slug": "عَرْصَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "courtyard", "fa": "حیاط", "ur": "حویلی", "tr": "avlu", "id": "halaman", "bn": "আঙ্গিনা", "es": "patio", "fr": "cour", "de": "Hof", "ru": "двор", "zh": "庭院"}}, "issues": [], "meta": {"elapsed": 5.96, "input_tokens": 695, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

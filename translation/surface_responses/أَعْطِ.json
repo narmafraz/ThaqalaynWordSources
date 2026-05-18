@@ -1,0 +1,1 @@
+{"slug": "أَعْطِ", "kind": "surface", "parsed": {"glosses": {"en": "give", "fa": "بده", "ur": "دو", "tr": "ver", "id": "berikan", "bn": "দাও", "es": "dar", "fr": "donner", "de": "geben", "ru": "дай", "zh": "给"}}, "issues": [], "meta": {"elapsed": 2.71, "input_tokens": 648, "output_tokens": 109, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

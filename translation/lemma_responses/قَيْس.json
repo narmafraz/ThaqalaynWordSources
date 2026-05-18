@@ -1,0 +1,1 @@
+{"slug": "قَيْس", "kind": "lemma", "parsed": {"glosses": {"en": "Qays", "fa": "قیس", "ur": "قیس", "tr": "Kays", "id": "Qays", "bn": "কায়স", "es": "Qays", "fr": "Qays", "de": "Qays", "ru": "Кайс", "zh": "盖斯"}}, "issues": [], "meta": {"elapsed": 5.26, "input_tokens": 675, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

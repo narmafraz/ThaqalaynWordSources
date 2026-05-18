@@ -1,0 +1,1 @@
+{"slug": "شَبٌّ", "kind": "lemma", "parsed": {"glosses": {"en": "alum", "fa": "الون", "ur": "الون", "tr": "alın", "id": "alum", "bn": "আলম", "es": "alumbre", "fr": "alun", "de": "Alaun", "ru": "алунит", "zh": "明矾"}}, "issues": [], "meta": {"elapsed": 3.51, "input_tokens": 931, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

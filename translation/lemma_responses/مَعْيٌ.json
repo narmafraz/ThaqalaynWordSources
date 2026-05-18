@@ -1,0 +1,1 @@
+{"slug": "مَعْيٌ", "kind": "lemma", "parsed": {"glosses": {"en": "intestine", "fa": "روده", "ur": "آنتی", "tr": "bağırsak", "id": "usus", "bn": "আন্ত্র", "es": "intestino", "fr": "intestin", "de": "Darm", "ru": "кишка", "zh": "肠"}}, "issues": [], "meta": {"elapsed": 4.31, "input_tokens": 679, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

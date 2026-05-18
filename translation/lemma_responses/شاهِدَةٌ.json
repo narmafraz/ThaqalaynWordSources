@@ -1,0 +1,1 @@
+{"slug": "شاهِدَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "witness", "fa": "شاهد", "ur": "گواہ", "tr": "şahit", "id": "saksi", "bn": "সাক্ষী", "es": "testigo", "fr": "témoin", "de": "Zeuge", "ru": "свидетель", "zh": "见证者"}}, "issues": [], "meta": {"elapsed": 5.26, "input_tokens": 1109, "output_tokens": 121, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

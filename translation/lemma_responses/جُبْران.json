@@ -1,0 +1,1 @@
+{"slug": "جُبْران", "kind": "lemma", "parsed": {"glosses": {"en": "Jubran", "fa": "جبران", "ur": "جبران", "tr": "Cübrân", "id": "Jubran", "bn": "জুবরান", "es": "Jubran", "fr": "Jubran", "de": "Jubran", "ru": "Джубран", "zh": "朱卜兰"}}, "issues": [], "meta": {"elapsed": 6.22, "input_tokens": 481, "output_tokens": 126, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

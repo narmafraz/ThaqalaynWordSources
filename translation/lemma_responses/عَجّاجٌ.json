@@ -1,0 +1,1 @@
+{"slug": "عَجّاجٌ", "kind": "lemma", "parsed": {"glosses": {"en": "haze", "fa": "گرد و غبار", "ur": "دھند", "tr": "toz", "id": "kabut", "bn": "ধুলো", "es": "niebla", "fr": "brume", "de": "Nebel", "ru": "пыль", "zh": "尘雾"}}, "issues": [], "meta": {"elapsed": 4.26, "input_tokens": 885, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

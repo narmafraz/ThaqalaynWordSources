@@ -1,0 +1,1 @@
+{"slug": "الطَّوِيلُ", "kind": "surface", "parsed": {"glosses": {"en": "the long", "fa": "بلند", "ur": "لمبا", "tr": "uzun", "id": "panjang", "bn": "লম্বা", "es": "largo", "fr": "long", "de": "lang", "ru": "длинный", "zh": "长的"}}, "issues": [], "meta": {"elapsed": 4.57, "input_tokens": 1108, "output_tokens": 113, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

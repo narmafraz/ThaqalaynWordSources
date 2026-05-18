@@ -1,0 +1,1 @@
+{"slug": "كِفاحٌ", "kind": "lemma", "parsed": {"glosses": {"en": "struggle", "fa": "تلاش", "ur": "کوشش", "tr": "mücadele", "id": "perjuangan", "bn": "সংগ্রাম", "es": "lucha", "fr": "lutte", "de": "Kampf", "ru": "борьба", "zh": "斗争"}}, "issues": [], "meta": {"elapsed": 4.71, "input_tokens": 478, "output_tokens": 120, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

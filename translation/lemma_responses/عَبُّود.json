@@ -1,0 +1,1 @@
+{"slug": "عَبُّود", "kind": "lemma", "parsed": {"glosses": {"en": "Abbud", "fa": "عبود", "ur": "عبود", "tr": "Abbud", "id": "Abbud", "bn": "আব্বুদ", "es": "Abbud", "fr": "Abbud", "de": "Abbud", "ru": "Аббуд", "zh": "阿卜杜德"}}, "issues": [], "meta": {"elapsed": 3.37, "input_tokens": 449, "output_tokens": 120, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

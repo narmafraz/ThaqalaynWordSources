@@ -1,0 +1,1 @@
+{"slug": "دَقِيقَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "minute", "fa": "دقیقه", "ur": "منٹ", "tr": "dakika", "id": "menit", "bn": "মিনিট", "es": "minuto", "fr": "minute", "de": "Minute", "ru": "минута", "zh": "分钟"}}, "issues": [], "meta": {"elapsed": 3.57, "input_tokens": 495, "output_tokens": 112, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

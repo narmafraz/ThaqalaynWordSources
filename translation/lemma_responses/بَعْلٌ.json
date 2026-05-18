@@ -1,0 +1,1 @@
+{"slug": "بَعْلٌ", "kind": "lemma", "parsed": {"glosses": {"en": "husband", "fa": "شوهر", "ur": "شوہر", "tr": "koca", "id": "suami", "bn": "স্বামী", "es": "esposo", "fr": "mari", "de": "Ehemann", "ru": "муж", "zh": "丈夫"}}, "issues": [], "meta": {"elapsed": 7.94, "input_tokens": 973, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

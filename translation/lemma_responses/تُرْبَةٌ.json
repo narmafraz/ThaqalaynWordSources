@@ -1,0 +1,1 @@
+{"slug": "تُرْبَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "dust; soil", "fa": "خاک", "ur": "مٹی", "tr": "toprak", "id": "debu", "bn": "মাটি", "es": "polvo", "fr": "poussière", "de": "Staub", "ru": "пыль", "zh": "尘土"}}, "issues": [], "meta": {"elapsed": 4.1, "input_tokens": 568, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

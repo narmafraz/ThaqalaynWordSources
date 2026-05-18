@@ -1,0 +1,1 @@
+{"slug": "مُنْكَبٌّ", "kind": "lemma", "parsed": {"glosses": {"en": "shoulder", "fa": "شانه", "ur": "کندھا", "tr": "omuz", "id": "bahu", "bn": "কাঁধ", "es": "hombro", "fr": "épaule", "de": "Schulter", "ru": "плечо", "zh": "肩膀"}}, "issues": [], "meta": {"elapsed": 4.36, "input_tokens": 939, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

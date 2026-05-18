@@ -1,0 +1,1 @@
+{"slug": "وَجْنَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "cheek", "fa": "گونه", "ur": "گال", "tr": "yanak", "id": "pipi", "bn": "গাল", "es": "mejilla", "fr": "joue", "de": "Wange", "ru": "щека", "zh": "脸颊"}}, "issues": [], "meta": {"elapsed": 3.55, "input_tokens": 491, "output_tokens": 112, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

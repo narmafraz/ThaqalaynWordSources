@@ -1,0 +1,1 @@
+{"slug": "قُوَّةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "strength", "fa": "قدرت", "ur": "طاقت", "tr": "güç", "id": "kekuatan", "bn": "শক্তি", "es": "fuerza", "fr": "force", "de": "Stärke", "ru": "сила", "zh": "力量"}}, "issues": [], "meta": {"elapsed": 4.11, "input_tokens": 473, "output_tokens": 113, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

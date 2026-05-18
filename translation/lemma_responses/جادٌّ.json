@@ -1,0 +1,1 @@
+{"slug": "جادٌّ", "kind": "lemma", "parsed": {"glosses": {"en": "serious", "fa": "جدی", "ur": "جدی", "tr": "ciddi", "id": "serius", "bn": "গম্ভীর", "es": "serio", "fr": "sérieux", "de": "ernst", "ru": "серьезный", "zh": "严肃的"}}, "issues": [], "meta": {"elapsed": 4.8, "input_tokens": 1012, "output_tokens": 120, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

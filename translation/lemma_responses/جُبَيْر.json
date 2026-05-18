@@ -1,0 +1,1 @@
+{"slug": "جُبَيْر", "kind": "lemma", "parsed": {"glosses": {"en": "Jubayr", "fa": "جبیر", "ur": "جبیر", "tr": "Cübeyr", "id": "Jubayr", "bn": "জুবায়ের", "es": "Jubayr", "fr": "Jubayr", "de": "Jubayr", "ru": "Джубайр", "zh": "朱拜尔"}}, "issues": [], "meta": {"elapsed": 5.14, "input_tokens": 467, "output_tokens": 132, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

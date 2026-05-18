@@ -1,0 +1,1 @@
+{"slug": "صَغِيرٌ", "kind": "lemma", "parsed": {"glosses": {"en": "small", "fa": "کوچک", "ur": "چھوٹا", "tr": "küçük", "id": "kecil", "bn": "ছোট", "es": "pequeño", "fr": "petit", "de": "klein", "ru": "маленький", "zh": "小的"}}, "issues": [], "meta": {"elapsed": 4.41, "input_tokens": 875, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

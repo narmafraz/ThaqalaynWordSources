@@ -1,0 +1,1 @@
+{"slug": "نَهْرٌ", "kind": "lemma", "parsed": {"glosses": {"en": "river", "fa": "رود", "ur": "دریا", "tr": "nehir", "id": "sungai", "bn": "নদী", "es": "río", "fr": "rivière", "de": "Fluss", "ru": "река", "zh": "河流"}}, "issues": [], "meta": {"elapsed": 3.47, "input_tokens": 934, "output_tokens": 113, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

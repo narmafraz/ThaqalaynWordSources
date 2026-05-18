@@ -1,0 +1,1 @@
+{"slug": "نَشّابٌ", "kind": "lemma", "parsed": {"glosses": {"en": "arrow", "fa": "پیکان", "ur": "تیر", "tr": "ok", "id": "anak panah", "bn": "তীর", "es": "flecha", "fr": "flèche", "de": "Pfeil", "ru": "стрела", "zh": "箭"}}, "issues": [], "meta": {"elapsed": 5.3, "input_tokens": 565, "output_tokens": 114, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

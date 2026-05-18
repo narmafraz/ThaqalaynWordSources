@@ -1,0 +1,1 @@
+{"slug": "إِلٰهَ", "kind": "surface", "parsed": {"glosses": {"en": "god", "fa": "خدا", "ur": "خدا", "tr": "ilah", "id": "tuhan", "bn": "ঈশ্বর", "es": "dios", "fr": "dieu", "de": "Gott", "ru": "бог", "zh": "神"}}, "issues": [], "meta": {"elapsed": 2.19, "input_tokens": 1197, "output_tokens": 112, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

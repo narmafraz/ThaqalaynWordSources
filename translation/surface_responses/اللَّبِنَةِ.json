@@ -1,0 +1,1 @@
+{"slug": "اللَّبِنَةِ", "kind": "surface", "parsed": {"glosses": {"en": "the milk", "fa": "شیر", "ur": "دودھ", "tr": "süt", "id": "susu", "bn": "দুধ", "es": "la leche", "fr": "le lait", "de": "die Milch", "ru": "молоко", "zh": "牛奶"}}, "issues": [], "meta": {"elapsed": 3.18, "input_tokens": 686, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

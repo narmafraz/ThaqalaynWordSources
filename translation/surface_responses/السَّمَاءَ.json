@@ -1,0 +1,1 @@
+{"slug": "السَّمَاءَ", "kind": "surface", "parsed": {"glosses": {"en": "the heaven", "fa": "آسمان", "ur": "آسمان", "tr": "gök", "id": "langit", "bn": "আকাশ", "es": "cielo", "fr": "ciel", "de": "Himmel", "ru": "небо", "zh": "天"}}, "issues": [], "meta": {"elapsed": 4.76, "input_tokens": 791, "output_tokens": 114, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "أُفُقٌ", "kind": "lemma", "parsed": {"glosses": {"en": "horizon", "fa": "افق", "ur": "افق", "tr": "ufuk", "id": "horison", "bn": "উফুক", "es": "horizonte", "fr": "horizon", "de": "Horizont", "ru": "горизонт", "zh": "地平线"}}, "issues": [], "meta": {"elapsed": 2.93, "input_tokens": 1025, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

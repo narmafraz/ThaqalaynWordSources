@@ -1,0 +1,1 @@
+{"slug": "أَخْضَرُ", "kind": "surface", "parsed": {"glosses": {"en": "green", "fa": "سبز", "ur": "سبز", "tr": "yeşil", "id": "hijau", "bn": "সবুজ", "es": "verde", "fr": "vert", "de": "grün", "ru": "зеленый", "zh": "绿色"}}, "issues": [], "meta": {"elapsed": 2.66, "input_tokens": 1158, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

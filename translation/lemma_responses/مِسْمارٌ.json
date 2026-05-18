@@ -1,0 +1,1 @@
+{"slug": "مِسْمارٌ", "kind": "lemma", "parsed": {"glosses": {"en": "nail", "fa": "میخ", "ur": "میخ", "tr": "çivi", "id": "paku", "bn": "পাটকিলি", "es": "clavo", "fr": "clou", "de": "Nagel", "ru": "гвоздь", "zh": "钉子"}}, "issues": [], "meta": {"elapsed": 5.13, "input_tokens": 607, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

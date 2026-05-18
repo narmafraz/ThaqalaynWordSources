@@ -1,0 +1,1 @@
+{"slug": "دُبٌّ", "kind": "lemma", "parsed": {"glosses": {"en": "bear", "fa": "خرس", "ur": "ریچھ", "tr": "ayı", "id": "beruang", "bn": "ভালুক", "es": "oso", "fr": "ours", "de": "Bär", "ru": "медведь", "zh": "熊"}}, "issues": [], "meta": {"elapsed": 3.76, "input_tokens": 2288, "output_tokens": 112, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "الَحلم", "kind": "surface", "parsed": {"glosses": {"en": "the dream", "fa": "خواب", "ur": "خواب", "tr": "rüya", "id": "mimpi", "bn": "স্বপ্ন", "es": "sueño", "fr": "rêve", "de": "Traum", "ru": "сон", "zh": "梦"}}, "issues": [], "meta": {"elapsed": 7.96, "input_tokens": 881, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

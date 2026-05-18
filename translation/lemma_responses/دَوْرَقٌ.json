@@ -1,0 +1,1 @@
+{"slug": "دَوْرَقٌ", "kind": "lemma", "parsed": {"glosses": {"en": "flask", "fa": "دماق", "ur": "دماق", "tr": "ibrik", "id": "teko", "bn": "দামাক", "es": "jarra", "fr": "cruche", "de": "Krug", "ru": "кувшин", "zh": "水罐"}}, "issues": [], "meta": {"elapsed": 3.88, "input_tokens": 705, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

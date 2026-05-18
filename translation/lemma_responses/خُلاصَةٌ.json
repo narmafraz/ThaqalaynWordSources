@@ -1,0 +1,1 @@
+{"slug": "خُلاصَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "essence", "fa": "خلاصه", "ur": "خلاصہ", "tr": "öz", "id": "intisari", "bn": "সার", "es": "esencia", "fr": "essence", "de": "Kern", "ru": "сущность", "zh": "精华"}}, "issues": [], "meta": {"elapsed": 2.19, "input_tokens": 476, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

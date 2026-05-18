@@ -1,0 +1,1 @@
+{"slug": "شَكٌّ", "kind": "lemma", "parsed": {"glosses": {"en": "doubt", "fa": "شک", "ur": "شک", "tr": "şüphe", "id": "keraguan", "bn": "সন্দেহ", "es": "duda", "fr": "doute", "de": "Zweifel", "ru": "сомнение", "zh": "怀疑"}}, "issues": [], "meta": {"elapsed": 4.13, "input_tokens": 853, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

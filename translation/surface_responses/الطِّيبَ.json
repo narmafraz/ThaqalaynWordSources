@@ -1,0 +1,1 @@
+{"slug": "الطِّيبَ", "kind": "surface", "parsed": {"glosses": {"en": "the good", "fa": "خوب", "ur": "اچھا", "tr": "iyi", "id": "baik", "bn": "ভালো", "es": "bueno", "fr": "bon", "de": "gut", "ru": "хороший", "zh": "好的"}}, "issues": [], "meta": {"elapsed": 4.86, "input_tokens": 1019, "output_tokens": 114, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "جَبَلٌ", "kind": "lemma", "parsed": {"glosses": {"en": "mountain", "fa": "کوه", "ur": "پہاڑ", "tr": "dağ", "id": "gunung", "bn": "পাহাড়", "es": "montaña", "fr": "montagne", "de": "Berg", "ru": "гора", "zh": "山"}}, "issues": [], "meta": {"elapsed": 4.15, "input_tokens": 915, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

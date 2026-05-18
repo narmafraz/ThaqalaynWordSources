@@ -1,0 +1,1 @@
+{"slug": "بَغْداد", "kind": "lemma", "parsed": {"glosses": {"en": "Baghdad", "fa": "بغداد", "ur": "بغداد", "tr": "Bagdat", "id": "Baghdad", "bn": "বাগদাদ", "es": "Bagdad", "fr": "Bagdad", "de": "Bagdad", "ru": "Багдад", "zh": "巴格达"}}, "issues": [], "meta": {"elapsed": 4.51, "input_tokens": 467, "output_tokens": 122, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

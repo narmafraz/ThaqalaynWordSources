@@ -1,0 +1,1 @@
+{"slug": "الشِّفَاهِ", "kind": "surface", "parsed": {"glosses": {"en": "the lips", "fa": "لب‌ها", "ur": "ہونٹ", "tr": "dudaklar", "id": "bibir", "bn": "ঠোঁট", "es": "labios", "fr": "lèvres", "de": "Lippen", "ru": "губы", "zh": "嘴唇"}}, "issues": [], "meta": {"elapsed": 5.14, "input_tokens": 911, "output_tokens": 121, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

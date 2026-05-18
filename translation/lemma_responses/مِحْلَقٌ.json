@@ -1,0 +1,1 @@
+{"slug": "مِحْلَقٌ", "kind": "lemma", "parsed": {"glosses": {"en": "razor", "fa": "تیغ", "ur": "رازر", "tr": "bıçak", "id": "pisau cukur", "bn": "রেজর", "es": "navaja", "fr": "rasoir", "de": "Rasierer", "ru": "бритва", "zh": "剃刀"}}, "issues": [], "meta": {"elapsed": 4.69, "input_tokens": 556, "output_tokens": 121, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "جُنْدِيٌّ", "kind": "lemma", "parsed": {"glosses": {"en": "soldier", "fa": "سرباز", "ur": "فوجی", "tr": "asker", "id": "tentara", "bn": "সৈনিক", "es": "soldado", "fr": "soldat", "de": "Soldat", "ru": "солдат", "zh": "士兵"}}, "issues": [], "meta": {"elapsed": 5.56, "input_tokens": 501, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "الصَّافِيَةِ", "kind": "surface", "parsed": {"glosses": {"en": "the pure", "fa": "خالص", "ur": "خالص", "tr": "saf", "id": "murni", "bn": "পবিত্র", "es": "puro", "fr": "pur", "de": "rein", "ru": "чистый", "zh": "纯净"}}, "issues": [], "meta": {"elapsed": 2.76, "input_tokens": 735, "output_tokens": 114, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

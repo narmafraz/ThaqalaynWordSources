@@ -1,0 +1,1 @@
+{"slug": "فَقَط", "kind": "lemma", "parsed": {"glosses": {"en": "only", "fa": "فقط", "ur": "صرف", "tr": "sadece", "id": "hanya", "bn": "মাত্র", "es": "solo", "fr": "seulement", "de": "nur", "ru": "только", "zh": "仅"}}, "issues": [], "meta": {"elapsed": 2.47, "input_tokens": 460, "output_tokens": 110, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

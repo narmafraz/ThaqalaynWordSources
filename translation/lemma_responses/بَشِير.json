@@ -1,0 +1,1 @@
+{"slug": "بَشِير", "kind": "lemma", "parsed": {"glosses": {"en": "Bashir", "fa": "بشیر", "ur": "بشیر", "tr": "Bashir", "id": "Bashir", "bn": "বশির", "es": "Bashir", "fr": "Bashir", "de": "Bashir", "ru": "Башир", "zh": "巴希尔"}}, "issues": [], "meta": {"elapsed": 4.91, "input_tokens": 1000, "output_tokens": 124, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

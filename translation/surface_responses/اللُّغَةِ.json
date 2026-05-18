@@ -1,0 +1,1 @@
+{"slug": "اللُّغَةِ", "kind": "surface", "parsed": {"glosses": {"en": "the language", "fa": "زبان", "ur": "زبان", "tr": "dil", "id": "bahasa", "bn": "ভাষা", "es": "idioma", "fr": "langue", "de": "Sprache", "ru": "язык", "zh": "语言"}}, "issues": [], "meta": {"elapsed": 4.01, "input_tokens": 572, "output_tokens": 114, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

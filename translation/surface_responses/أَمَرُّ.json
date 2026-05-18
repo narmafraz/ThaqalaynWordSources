@@ -1,0 +1,1 @@
+{"slug": "أَمَرُّ", "kind": "surface", "parsed": {"glosses": {"en": "command", "fa": "دستور", "ur": "حکم", "tr": "emir", "id": "perintah", "bn": "আদেশ", "es": "orden", "fr": "ordre", "de": "Befehl", "ru": "приказ", "zh": "命令"}}, "issues": [], "meta": {"elapsed": 2.59, "input_tokens": 979, "output_tokens": 112, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "اللَّيِّنَةُ", "kind": "surface", "parsed": {"glosses": {"en": "the soft", "fa": "نرم", "ur": "نرم", "tr": "yumuşak", "id": "lembut", "bn": "নরম", "es": "suave", "fr": "doux", "de": "sanft", "ru": "мягкий", "zh": "柔和"}}, "issues": [], "meta": {"elapsed": 3.76, "input_tokens": 664, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

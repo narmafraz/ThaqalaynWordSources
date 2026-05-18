@@ -1,0 +1,1 @@
+{"slug": "إِسْلَامِ", "kind": "surface", "parsed": {"glosses": {"en": "Islam", "fa": "اسلام", "ur": "اسلام", "tr": "İslam", "id": "Islam", "bn": "ইসলাম", "es": "Islam", "fr": "Islam", "de": "Islam", "ru": "Ислам", "zh": "伊斯兰"}}, "issues": [], "meta": {"elapsed": 3.61, "input_tokens": 646, "output_tokens": 111, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

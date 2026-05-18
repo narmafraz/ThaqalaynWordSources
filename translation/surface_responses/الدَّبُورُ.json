@@ -1,0 +1,1 @@
+{"slug": "الدَّبُورُ", "kind": "surface", "parsed": {"glosses": {"en": "the wasp", "fa": "زنبور", "ur": "تند ہوا", "tr": "arı", "id": "tawon", "bn": "তনকা", "es": "avispa", "fr": "guêpe", "de": "Wespe", "ru": "оса", "zh": "黄蜂"}}, "issues": [], "meta": {"elapsed": 3.3, "input_tokens": 892, "output_tokens": 121, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "مَعُونَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "help", "fa": "کمک", "ur": "مدد", "tr": "yardım", "id": "bantuan", "bn": "সহায়তা", "es": "ayuda", "fr": "aide", "de": "Hilfe", "ru": "помощь", "zh": "帮助"}}, "issues": [], "meta": {"elapsed": 3.22, "input_tokens": 449, "output_tokens": 114, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

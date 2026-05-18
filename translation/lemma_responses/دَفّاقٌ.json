@@ -1,0 +1,1 @@
+{"slug": "دَفّاقٌ", "kind": "lemma", "parsed": {"glosses": {"en": "torrent", "fa": "سیل", "ur": "سیلاب", "tr": "sel", "id": "banjir", "bn": "সেল", "es": "torrente", "fr": "torrent", "de": "Strom", "ru": "поток", "zh": "洪流"}}, "issues": [], "meta": {"elapsed": 6.22, "input_tokens": 600, "output_tokens": 111, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "سِلْعَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "commodity", "fa": "کالا", "ur": "سامان", "tr": "mal", "id": "barang", "bn": "পণ্য", "es": "mercancía", "fr": "marchandise", "de": "Ware", "ru": "товар", "zh": "商品"}}, "issues": [], "meta": {"elapsed": 3.45, "input_tokens": 962, "output_tokens": 113, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

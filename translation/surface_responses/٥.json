@@ -1,0 +1,1 @@
+{"slug": "٥", "kind": "surface", "parsed": {"glosses": {"en": "five", "fa": "پنج", "ur": "پانچ", "tr": "beş", "id": "lima", "bn": "পাঁচ", "es": "cinco", "fr": "cinq", "de": "fünf", "ru": "пять", "zh": "五"}}, "issues": [], "meta": {"elapsed": 2.89, "input_tokens": 550, "output_tokens": 113, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

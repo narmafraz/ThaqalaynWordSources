@@ -1,0 +1,1 @@
+{"slug": "الشَّبَابَ", "kind": "surface", "parsed": {"glosses": {"en": "the alum", "fa": "الون", "ur": "الون", "tr": "alın", "id": "alum", "bn": "আলম", "es": "alumbre", "fr": "alun", "de": "Alaun", "ru": "алунит", "zh": "明矾"}}, "issues": [], "meta": {"elapsed": 4.34, "input_tokens": 974, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

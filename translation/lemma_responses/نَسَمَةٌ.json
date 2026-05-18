@@ -1,0 +1,1 @@
+{"slug": "نَسَمَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "soul", "fa": "جان", "ur": "جان", "tr": "can", "id": "jiwa", "bn": "আত্মা", "es": "alma", "fr": "âme", "de": "Seele", "ru": "душа", "zh": "灵魂"}}, "issues": [], "meta": {"elapsed": 3.44, "input_tokens": 522, "output_tokens": 110, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

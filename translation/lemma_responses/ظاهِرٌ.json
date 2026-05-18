@@ -1,0 +1,1 @@
+{"slug": "ظاهِرٌ", "kind": "lemma", "parsed": {"glosses": {"en": "face", "fa": "چهره", "ur": "چہرہ", "tr": "yüz", "id": "wajah", "bn": "মুখ", "es": "rostro", "fr": "visage", "de": "Gesicht", "ru": "лицо", "zh": "脸"}}, "issues": [], "meta": {"elapsed": 5.21, "input_tokens": 1276, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

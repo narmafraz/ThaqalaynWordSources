@@ -1,0 +1,1 @@
+{"slug": "عالَمٌ", "kind": "lemma", "parsed": {"glosses": {"en": "world", "fa": "جهان", "ur": "دنیا", "tr": "dünya", "id": "dunia", "bn": "বিশ্ব", "es": "mundo", "fr": "monde", "de": "Welt", "ru": "мир", "zh": "世界"}}, "issues": [], "meta": {"elapsed": 4.67, "input_tokens": 811, "output_tokens": 111, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

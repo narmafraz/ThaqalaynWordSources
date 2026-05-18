@@ -1,0 +1,1 @@
+{"slug": "مَضْجَعٌ", "kind": "lemma", "parsed": {"glosses": {"en": "bed", "fa": "تخت", "ur": "بستر", "tr": "yatak", "id": "tempat tidur", "bn": "বিছানা", "es": "cama", "fr": "lit", "de": "Bett", "ru": "постель", "zh": "床"}}, "issues": [], "meta": {"elapsed": 4.94, "input_tokens": 763, "output_tokens": 113, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

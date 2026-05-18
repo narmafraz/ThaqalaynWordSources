@@ -1,0 +1,1 @@
+{"slug": "عَصَبٌ", "kind": "lemma", "parsed": {"glosses": {"en": "nerve", "fa": "عصب", "ur": "عصب", "tr": "sinir", "id": "saraf", "bn": "স্নায়ু", "es": "nervio", "fr": "nerf", "de": "Nerv", "ru": "нерв", "zh": "神经"}}, "issues": [], "meta": {"elapsed": 3.61, "input_tokens": 1226, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

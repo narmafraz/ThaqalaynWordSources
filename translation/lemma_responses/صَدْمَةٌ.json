@@ -1,0 +1,1 @@
+{"slug": "صَدْمَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "shock", "fa": "ضربه", "ur": "جھٹکا", "tr": "çarpışma", "id": "kejutan", "bn": "আঘাত", "es": "choque", "fr": "choc", "de": "Stoß", "ru": "удар", "zh": "冲击"}}, "issues": [], "meta": {"elapsed": 5.32, "input_tokens": 733, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "ذَرْعٌ", "kind": "lemma", "parsed": {"glosses": {"en": "cubit", "fa": "ذرع", "ur": "ذرع", "tr": "kubit", "id": "kubit", "bn": "কিউবিট", "es": "codo", "fr": "coudée", "de": "Ellenbogen", "ru": "локоть", "zh": "肘"}}, "issues": [], "meta": {"elapsed": 3.83, "input_tokens": 1972, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

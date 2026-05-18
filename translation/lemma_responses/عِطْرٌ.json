@@ -1,0 +1,1 @@
+{"slug": "عِطْرٌ", "kind": "lemma", "parsed": {"glosses": {"en": "perfume", "fa": "عطر", "ur": "عطر", "tr": "parfüm", "id": "parfum", "bn": "গন্ধ", "es": "perfume", "fr": "parfum", "de": "Duft", "ru": "духи", "zh": "香水"}}, "issues": [], "meta": {"elapsed": 4.59, "input_tokens": 603, "output_tokens": 114, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

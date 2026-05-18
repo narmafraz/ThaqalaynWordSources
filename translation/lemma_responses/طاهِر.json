@@ -1,0 +1,1 @@
+{"slug": "طاهِر", "kind": "lemma", "parsed": {"glosses": {"en": "Tahir", "fa": "طاهر", "ur": "طاهر", "tr": "Tahir", "id": "Tahir", "bn": "তাহির", "es": "Tahir", "fr": "Tahir", "de": "Tahir", "ru": "Тахир", "zh": "塔希尔"}}, "issues": [], "meta": {"elapsed": 4.23, "input_tokens": 990, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

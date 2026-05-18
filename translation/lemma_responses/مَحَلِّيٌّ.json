@@ -1,0 +1,1 @@
+{"slug": "مَحَلِّيٌّ", "kind": "lemma", "parsed": {"glosses": {"en": "local", "fa": "محلی", "ur": "محلّی", "tr": "yerel", "id": "lokal", "bn": "স্থানীয়", "es": "local", "fr": "local", "de": "lokal", "ru": "местный", "zh": "当地的"}}, "issues": [], "meta": {"elapsed": 4.07, "input_tokens": 503, "output_tokens": 113, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

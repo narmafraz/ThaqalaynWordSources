@@ -1,0 +1,1 @@
+{"slug": "هَدَفٌ", "kind": "lemma", "parsed": {"glosses": {"en": "target, aim", "fa": "هدف", "ur": "ہدف", "tr": "hedef", "id": "tujuan", "bn": "লক্ষ্য", "es": "objetivo", "fr": "objectif", "de": "Ziel", "ru": "цель", "zh": "目标"}}, "issues": [], "meta": {"elapsed": 3.4, "input_tokens": 487, "output_tokens": 112, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

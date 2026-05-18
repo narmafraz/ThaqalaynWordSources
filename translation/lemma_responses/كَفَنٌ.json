@@ -1,0 +1,1 @@
+{"slug": "كَفَنٌ", "kind": "lemma", "parsed": {"glosses": {"en": "shroud", "fa": "کفن", "ur": "کفن", "tr": "kefen", "id": "kafan", "bn": "কফন", "es": "sudario", "fr": "linceul", "de": "Leichentuch", "ru": "саван", "zh": "寿衣"}}, "issues": [], "meta": {"elapsed": 5.47, "input_tokens": 673, "output_tokens": 120, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

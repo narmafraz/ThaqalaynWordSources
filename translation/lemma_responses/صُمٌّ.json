@@ -1,0 +1,1 @@
+{"slug": "صُمٌّ", "kind": "lemma", "parsed": {"glosses": {"en": "deaf", "fa": "نابینا", "ur": "بہرا", "tr": "sağır", "id": "tuli", "bn": "বধির", "es": "sordo", "fr": "sourd", "de": "taub", "ru": "глухой", "zh": "聋的"}}, "issues": [], "meta": {"elapsed": 6.37, "input_tokens": 2387, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

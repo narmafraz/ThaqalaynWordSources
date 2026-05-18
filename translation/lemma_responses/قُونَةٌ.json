@@ -1,0 +1,1 @@
+{"slug": "قُونَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "cattle tax", "fa": "خمس", "ur": "خمس", "tr": "kırkta bir", "id": "kharaj", "bn": "খাজনা", "es": "impuesto", "fr": "impôt", "de": "Zehnt", "ru": "харадж", "zh": "天课"}}, "issues": [], "meta": {"elapsed": 3.82, "input_tokens": 448, "output_tokens": 121, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

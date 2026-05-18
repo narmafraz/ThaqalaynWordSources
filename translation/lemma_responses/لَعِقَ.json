@@ -1,0 +1,1 @@
+{"slug": "لَعِقَ", "kind": "lemma", "parsed": {"glosses": {"en": "to lick", "fa": "لیسیدن", "ur": "چاٹنا", "tr": "yalamak", "id": " menjilat", "bn": "চাটা", "es": "lamer", "fr": "lécher", "de": "lecken", "ru": "лизать", "zh": "舔"}}, "issues": [], "meta": {"elapsed": 5.38, "input_tokens": 503, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "عَرِينٌ", "kind": "lemma", "parsed": {"glosses": {"en": "den", "fa": "لانه", "ur": "غار", "tr": "yuva", "id": "sarang", "bn": "গুহা", "es": "madriguera", "fr": "terrier", "de": "Höhle", "ru": "логово", "zh": "巢穴"}}, "issues": [], "meta": {"elapsed": 4.58, "input_tokens": 923, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

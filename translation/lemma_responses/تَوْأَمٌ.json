@@ -1,0 +1,1 @@
+{"slug": "تَوْأَمٌ", "kind": "lemma", "parsed": {"glosses": {"en": "twin", "fa": "دوقلو", "ur": "جڑواں", "tr": "ikiz", "id": "kembar", "bn": "জোড়া", "es": "gemelo", "fr": "jumeau", "de": "Zwilling", "ru": "близнец", "zh": "双胞胎"}}, "issues": [], "meta": {"elapsed": 5.23, "input_tokens": 482, "output_tokens": 120, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

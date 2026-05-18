@@ -1,0 +1,1 @@
+{"slug": "الابُ", "kind": "surface", "parsed": {"glosses": {"en": "the father", "fa": "پدر", "ur": "والد", "tr": "baba", "id": "ayah", "bn": "পিতা", "es": "el padre", "fr": "le père", "de": "der Vater", "ru": "отец", "zh": "父亲"}}, "issues": [], "meta": {"elapsed": 5.18, "input_tokens": 997, "output_tokens": 113, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

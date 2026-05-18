@@ -1,0 +1,1 @@
+{"slug": "آنِيَةٍ", "kind": "surface", "parsed": {"glosses": {"en": "vessel", "fa": "ظرف", "ur": "برتن", "tr": "kap", "id": "wadah", "bn": "পাত্র", "es": "vasija", "fr": "récipient", "de": "Gefäß", "ru": "сосуд", "zh": "器皿"}}, "issues": [], "meta": {"elapsed": 3.55, "input_tokens": 938, "output_tokens": 114, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

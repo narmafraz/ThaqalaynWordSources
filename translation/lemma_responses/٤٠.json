@@ -1,0 +1,1 @@
+{"slug": "٤٠", "kind": "lemma", "parsed": {"glosses": {"en": "40", "fa": "چهل", "ur": "چالیس", "tr": "kırk", "id": "empat puluh", "bn": "চল্লিশ", "es": "cuarenta", "fr": "quarante", "de": "vierzig", "ru": "сорок", "zh": "四十"}}, "issues": [], "meta": {"elapsed": 6.22, "input_tokens": 452, "output_tokens": 120, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

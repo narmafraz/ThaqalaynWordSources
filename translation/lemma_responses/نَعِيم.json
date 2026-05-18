@@ -1,0 +1,1 @@
+{"slug": "نَعِيم", "kind": "lemma", "parsed": {"glosses": {"en": "bliss", "fa": "لذت", "ur": "لذت", "tr": "neşe", "id": "kenikmatan", "bn": "আনন্দ", "es": "felicidad", "fr": "bonheur", "de": "Wonne", "ru": "блаженство", "zh": "极乐"}}, "issues": [], "meta": {"elapsed": 4.01, "input_tokens": 509, "output_tokens": 120, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

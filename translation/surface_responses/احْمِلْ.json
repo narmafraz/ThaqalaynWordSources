@@ -1,0 +1,1 @@
+{"slug": "احْمِلْ", "kind": "surface", "parsed": {"glosses": {"en": "carry", "fa": "حمل کن", "ur": "ٹھانا", "tr": "taşı", "id": "bawa", "bn": "বহন কর", "es": "lleva", "fr": "porte", "de": "trage", "ru": "неси", "zh": "携带"}}, "issues": [], "meta": {"elapsed": 2.89, "input_tokens": 1139, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

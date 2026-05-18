@@ -1,0 +1,1 @@
+{"slug": "بِيدٌ", "kind": "lemma", "parsed": {"glosses": {"en": "although", "fa": "اگرچه", "ur": "حالانکہ", "tr": "halbuki", "id": "meskipun", "bn": "যদিও", "es": "aunque", "fr": "bien que", "de": "obwohl", "ru": "хотя", "zh": "虽然"}}, "issues": [], "meta": {"elapsed": 5.02, "input_tokens": 973, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

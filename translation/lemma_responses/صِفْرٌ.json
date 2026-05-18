@@ -1,0 +1,1 @@
+{"slug": "صِفْرٌ", "kind": "lemma", "parsed": {"glosses": {"en": "Safar", "fa": "صفر", "ur": "صفر", "tr": "Safar", "id": "Safar", "bn": "সফর", "es": "Safar", "fr": "Safar", "de": "Safar", "ru": "Сафар", "zh": "萨法尔月"}}, "issues": [], "meta": {"elapsed": 5.0, "input_tokens": 1637, "output_tokens": 123, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

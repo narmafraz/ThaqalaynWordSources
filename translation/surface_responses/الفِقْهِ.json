@@ -1,0 +1,1 @@
+{"slug": "الفِقْهِ", "kind": "surface", "parsed": {"glosses": {"en": "the jurisprudence", "fa": "فقه", "ur": "فقہ", "tr": "fıkıh", "id": "fiqh", "bn": "ফিকহ", "es": "fiqh", "fr": "fiqh", "de": "Fiqh", "ru": "фикх", "zh": "菲格赫"}}, "issues": [], "meta": {"elapsed": 4.03, "input_tokens": 841, "output_tokens": 120, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

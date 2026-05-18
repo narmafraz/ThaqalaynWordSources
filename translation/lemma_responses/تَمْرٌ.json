@@ -1,0 +1,1 @@
+{"slug": "تَمْرٌ", "kind": "lemma", "parsed": {"glosses": {"en": "date", "fa": "خرما", "ur": "کھجور", "tr": "hurma", "id": "kurma", "bn": "খাজুর", "es": "dátil", "fr": "datte", "de": "Dattel", "ru": "финик", "zh": "椰枣"}}, "issues": [], "meta": {"elapsed": 3.72, "input_tokens": 955, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

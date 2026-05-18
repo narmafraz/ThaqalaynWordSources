@@ -1,0 +1,1 @@
+{"slug": "أَعْيَنَ", "kind": "surface", "parsed": {"glosses": {"en": "A'yan", "fa": "اعین", "ur": "اعین", "tr": "A'yan", "id": "A'yan", "bn": "আয়ইন", "es": "A'yan", "fr": "A'yan", "de": "A'yan", "ru": "Айян", "zh": "艾彦"}}, "issues": [], "meta": {"elapsed": 4.03, "input_tokens": 1088, "output_tokens": 123, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

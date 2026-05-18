@@ -1,0 +1,1 @@
+{"slug": "مَسْلُوكٌ", "kind": "lemma", "parsed": {"glosses": {"en": "path", "fa": "مسیر", "ur": "راستہ", "tr": "yol", "id": "jalan", "bn": "পথ", "es": "camino", "fr": "chemin", "de": "Weg", "ru": "путь", "zh": "路"}}, "issues": [], "meta": {"elapsed": 2.04, "input_tokens": 451, "output_tokens": 112, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

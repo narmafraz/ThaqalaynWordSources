@@ -1,0 +1,1 @@
+{"slug": "نُورَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "blossom", "fa": "گل", "ur": "پھول", "tr": "çiçek", "id": "bunga", "bn": "ফুল", "es": "flor", "fr": "fleur", "de": "Blüte", "ru": "цветок", "zh": "花"}}, "issues": [], "meta": {"elapsed": 4.69, "input_tokens": 744, "output_tokens": 114, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

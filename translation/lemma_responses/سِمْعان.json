@@ -1,0 +1,1 @@
+{"slug": "سِمْعان", "kind": "lemma", "parsed": {"glosses": {"en": "Simon", "fa": "سیمون", "ur": "سیمون", "tr": "Simon", "id": "Simon", "bn": "সিমোন", "es": "Simón", "fr": "Simon", "de": "Simon", "ru": "Симон", "zh": "西门"}}, "issues": [], "meta": {"elapsed": 2.86, "input_tokens": 477, "output_tokens": 110, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

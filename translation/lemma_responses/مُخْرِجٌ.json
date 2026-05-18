@@ -1,0 +1,1 @@
+{"slug": "مُخْرِجٌ", "kind": "lemma", "parsed": {"glosses": {"en": "exit", "fa": "خروج", "ur": "نکلنا", "tr": "çıkış", "id": "keluar", "bn": "প্রস্থান", "es": "salida", "fr": "sortie", "de": "Ausgang", "ru": "выход", "zh": "出口"}}, "issues": [], "meta": {"elapsed": 3.53, "input_tokens": 949, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

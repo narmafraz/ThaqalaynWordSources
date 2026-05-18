@@ -1,0 +1,1 @@
+{"slug": "لَيِّنٌ", "kind": "lemma", "parsed": {"glosses": {"en": "soft", "fa": "نرم", "ur": "نرم", "tr": "yumuşak", "id": "lembut", "bn": "নরম", "es": "suave", "fr": "doux", "de": "sanft", "ru": "мягкий", "zh": "柔和"}}, "issues": [], "meta": {"elapsed": 3.67, "input_tokens": 459, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

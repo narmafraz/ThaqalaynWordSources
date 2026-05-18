@@ -1,0 +1,1 @@
+{"slug": "لٰكِنَّ", "kind": "lemma", "parsed": {"glosses": {"en": "but", "fa": "اما", "ur": "لیکن", "tr": "fakat", "id": "tetapi", "bn": "কিন্তু", "es": "pero", "fr": "mais", "de": "aber", "ru": "но", "zh": "但是"}}, "issues": [], "meta": {"elapsed": 3.91, "input_tokens": 510, "output_tokens": 108, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

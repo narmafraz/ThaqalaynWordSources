@@ -1,0 +1,1 @@
+{"slug": "قَمٌّ", "kind": "lemma", "parsed": {"glosses": {"en": "hail", "fa": "تگرگ", "ur": "تگرگ", "tr": "dolu", "id": "hail", "bn": "বরফ", "es": "granizo", "fr": "grêle", "de": "Hagel", "ru": "град", "zh": "冰雹"}}, "issues": [], "meta": {"elapsed": 4.48, "input_tokens": 471, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

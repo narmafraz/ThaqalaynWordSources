@@ -1,0 +1,1 @@
+{"slug": "اخْسَأْ", "kind": "surface", "parsed": {"glosses": {"en": "go forth", "fa": "برو", "ur": "جا", "tr": "git", "id": "pergilah", "bn": "যাও", "es": "sal", "fr": "sors", "de": "geh", "ru": "уйди", "zh": "去吧"}}, "issues": [], "meta": {"elapsed": 3.33, "input_tokens": 585, "output_tokens": 111, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

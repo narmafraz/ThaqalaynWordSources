@@ -1,0 +1,1 @@
+{"slug": "لَهَبٌ", "kind": "lemma", "parsed": {"glosses": {"en": "flame", "fa": "شعله", "ur": "شعلہ", "tr": "alev", "id": "nyala", "bn": "জ্বালা", "es": "llama", "fr": "flamme", "de": "Flamme", "ru": "пламя", "zh": "火焰"}}, "issues": [], "meta": {"elapsed": 3.31, "input_tokens": 634, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

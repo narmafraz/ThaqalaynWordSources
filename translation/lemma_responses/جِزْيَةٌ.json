@@ -1,0 +1,1 @@
+{"slug": "جِزْيَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "jizya", "fa": "جزیه", "ur": "جزیہ", "tr": "cizye", "id": "jizyah", "bn": "জিজিয়া", "es": "yizia", "fr": "djizya", "de": "Dschizya", "ru": "джизья", "zh": "吉兹亚"}}, "issues": [], "meta": {"elapsed": 4.27, "input_tokens": 683, "output_tokens": 124, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

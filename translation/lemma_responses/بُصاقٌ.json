@@ -1,0 +1,1 @@
+{"slug": "بُصاقٌ", "kind": "lemma", "parsed": {"glosses": {"en": "spittle", "fa": "بزاق", "ur": "بزاق", "tr": "tük", "id": "liur", "bn": "লার", "es": "saliva", "fr": "salive", "de": "Speichel", "ru": "слюна", "zh": "唾液"}}, "issues": [], "meta": {"elapsed": 3.98, "input_tokens": 645, "output_tokens": 114, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

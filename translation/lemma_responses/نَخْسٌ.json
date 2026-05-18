@@ -1,0 +1,1 @@
+{"slug": "نَخْسٌ", "kind": "lemma", "parsed": {"glosses": {"en": "poke", "fa": "نیش زدن", "ur": "چبھونا", "tr": "dela", "id": "tusukan", "bn": "চাটা", "es": "punzada", "fr": "piqûre", "de": "Stechen", "ru": "укол", "zh": "刺"}}, "issues": [], "meta": {"elapsed": 6.09, "input_tokens": 476, "output_tokens": 120, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

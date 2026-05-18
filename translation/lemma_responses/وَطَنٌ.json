@@ -1,0 +1,1 @@
+{"slug": "وَطَنٌ", "kind": "lemma", "parsed": {"glosses": {"en": "homeland", "fa": "وطن", "ur": "وطن", "tr": "vatan", "id": "tanah air", "bn": "জন্মভূমি", "es": "patria", "fr": "patrie", "de": "Heimat", "ru": "родина", "zh": "祖国"}}, "issues": [], "meta": {"elapsed": 4.14, "input_tokens": 1837, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

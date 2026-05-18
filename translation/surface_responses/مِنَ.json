@@ -1,0 +1,1 @@
+{"slug": "مِنَ", "kind": "surface", "parsed": {"glosses": {"en": "from", "fa": "از", "ur": "سے", "tr": "dan/den", "id": "dari", "bn": "থেকে", "es": "de", "fr": "de", "de": "von", "ru": "от", "zh": "从"}}, "issues": [], "meta": {"elapsed": 2.45, "input_tokens": 1122, "output_tokens": 107, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

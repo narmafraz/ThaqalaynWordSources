@@ -1,0 +1,1 @@
+{"slug": "جاسُوسٌ", "kind": "lemma", "parsed": {"glosses": {"en": "spy", "fa": "جاسوس", "ur": "جاسوس", "tr": "casus", "id": "mata-mata", "bn": "গুপ্তচর", "es": "espía", "fr": "espion", "de": "Spion", "ru": "шпион", "zh": "间谍"}}, "issues": [], "meta": {"elapsed": 5.19, "input_tokens": 572, "output_tokens": 120, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

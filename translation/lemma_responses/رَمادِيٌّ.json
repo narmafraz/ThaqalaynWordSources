@@ -1,0 +1,1 @@
+{"slug": "رَمادِيٌّ", "kind": "lemma", "parsed": {"glosses": {"en": "gray", "fa": "خاکستری", "ur": "سرمئی", "tr": "gri", "id": "abu-abu", "bn": "ধূসর", "es": "gris", "fr": "gris", "de": "grau", "ru": "серый", "zh": "灰色的"}}, "issues": [], "meta": {"elapsed": 5.69, "input_tokens": 493, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

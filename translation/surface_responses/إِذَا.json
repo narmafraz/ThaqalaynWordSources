@@ -1,0 +1,1 @@
+{"slug": "إِذَا", "kind": "surface", "parsed": {"glosses": {"en": "when", "fa": "وقتی", "ur": "جب", "tr": "eğer", "id": "ketika", "bn": "যখন", "es": "cuando", "fr": "quand", "de": "wenn", "ru": "когда", "zh": "当"}}, "issues": [], "meta": {"elapsed": 3.23, "input_tokens": 1046, "output_tokens": 111, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "حادِي", "kind": "lemma", "parsed": {"glosses": {"en": "sharp", "fa": "تیز", "ur": "تیز", "tr": "keskin", "id": "tajam", "bn": "তীক্ষ্ণ", "es": "afilado", "fr": "tranchant", "de": "scharf", "ru": "острый", "zh": "锋利的"}}, "issues": [], "meta": {"elapsed": 4.22, "input_tokens": 448, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

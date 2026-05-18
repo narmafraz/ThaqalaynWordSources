@@ -1,0 +1,1 @@
+{"slug": "خَيْلٌ", "kind": "lemma", "parsed": {"glosses": {"en": "horse", "fa": "اسب", "ur": "گھوڑا", "tr": "at", "id": "kuda", "bn": "ঘোড়া", "es": "caballo", "fr": "cheval", "de": "Pferd", "ru": "лошадь", "zh": "马"}}, "issues": [], "meta": {"elapsed": 5.77, "input_tokens": 2034, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

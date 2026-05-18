@@ -1,0 +1,1 @@
+{"slug": "التَّرَحِ", "kind": "surface", "parsed": {"glosses": {"en": "the grief", "fa": "غم", "ur": "غم", "tr": "hüzün", "id": "kesedihan", "bn": "শোক", "es": "dolor", "fr": "chagrin", "de": "Trauer", "ru": "печаль", "zh": "悲伤"}}, "issues": [], "meta": {"elapsed": 4.04, "input_tokens": 884, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

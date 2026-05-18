@@ -1,0 +1,1 @@
+{"slug": "حُداء", "kind": "lemma", "parsed": {"glosses": {"en": "sandals", "fa": "صندل", "ur": "چپل", "tr": "terlik", "id": "sandal", "bn": "চপল", "es": "sandalias", "fr": "sandales", "de": "Sandalen", "ru": "сандалии", "zh": "凉鞋"}}, "issues": [], "meta": {"elapsed": 4.42, "input_tokens": 448, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

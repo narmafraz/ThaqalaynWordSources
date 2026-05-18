@@ -1,0 +1,1 @@
+{"slug": "شَعِيبٌ", "kind": "lemma", "parsed": {"glosses": {"en": "Shuaib", "fa": "شعیب", "ur": "شعیب", "tr": "Şuayb", "id": "Syu'aib", "bn": "শুয়াইব", "es": "Shu'aib", "fr": "Chouaïb", "de": "Schu'aib", "ru": "Шуаиб", "zh": "舒阿卜"}}, "issues": [], "meta": {"elapsed": 5.91, "input_tokens": 969, "output_tokens": 134, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

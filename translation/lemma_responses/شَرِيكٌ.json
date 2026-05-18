@@ -1,0 +1,1 @@
+{"slug": "شَرِيكٌ", "kind": "lemma", "parsed": {"glosses": {"en": "partner", "fa": "شریک", "ur": "شریک", "tr": "ortağı", "id": "mitra", "bn": "অংশীদার", "es": "socio", "fr": "associé", "de": "Partner", "ru": "партнер", "zh": "合伙人"}}, "issues": [], "meta": {"elapsed": 4.74, "input_tokens": 806, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

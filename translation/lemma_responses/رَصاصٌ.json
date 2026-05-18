@@ -1,0 +1,1 @@
+{"slug": "رَصاصٌ", "kind": "lemma", "parsed": {"glosses": {"en": "lead", "fa": "سرب", "ur": "سیسہ", "tr": "kurşun", "id": "timbal", "bn": "সীসা", "es": "plomo", "fr": "plomb", "de": "Blei", "ru": "свинец", "zh": "铅"}}, "issues": [], "meta": {"elapsed": 4.63, "input_tokens": 900, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

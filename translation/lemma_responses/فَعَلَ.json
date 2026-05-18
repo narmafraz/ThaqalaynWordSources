@@ -1,0 +1,1 @@
+{"slug": "فَعَلَ", "kind": "lemma", "parsed": {"glosses": {"en": "to do", "fa": "انجام دادن", "ur": "کرنا", "tr": "yapmak", "id": "melakukan", "bn": "করা", "es": "hacer", "fr": "faire", "de": "tun", "ru": "делать", "zh": "做"}}, "issues": [], "meta": {"elapsed": 3.82, "input_tokens": 1549, "output_tokens": 113, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

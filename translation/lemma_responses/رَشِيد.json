@@ -1,0 +1,1 @@
+{"slug": "رَشِيد", "kind": "lemma", "parsed": {"glosses": {"en": "Rashid", "fa": "رشید", "ur": "رشید", "tr": "Rashid", "id": "Rashid", "bn": "রশিদ", "es": "Rashid", "fr": "Rashid", "de": "Rashid", "ru": "Рашид", "zh": "拉希德"}}, "issues": [], "meta": {"elapsed": 3.93, "input_tokens": 599, "output_tokens": 123, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

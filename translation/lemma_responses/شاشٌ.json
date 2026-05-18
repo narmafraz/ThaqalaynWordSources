@@ -1,0 +1,1 @@
+{"slug": "شاشٌ", "kind": "lemma", "parsed": {"glosses": {"en": "muslin", "fa": "موسلین", "ur": "مسلن", "tr": "muslin", "id": "muslin", "bn": "মুসলিন", "es": "muselina", "fr": "museline", "de": "Muselin", "ru": "муслин", "zh": "细棉布"}}, "issues": [], "meta": {"elapsed": 3.87, "input_tokens": 459, "output_tokens": 123, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

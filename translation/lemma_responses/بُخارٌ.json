@@ -1,0 +1,1 @@
+{"slug": "بُخارٌ", "kind": "lemma", "parsed": {"glosses": {"en": "vapor", "fa": "بخار", "ur": "بخار", "tr": "buhar", "id": "uap", "bn": "বাষ্প", "es": "vapor", "fr": "vapeur", "de": "Dampf", "ru": "пар", "zh": "蒸汽"}}, "issues": [], "meta": {"elapsed": 4.8, "input_tokens": 606, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

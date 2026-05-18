@@ -1,0 +1,1 @@
+{"slug": "كُرُوم", "kind": "lemma", "parsed": {"glosses": {"en": "Chromium", "fa": "کروم", "ur": "کرومیم", "tr": "Krom", "id": "Kromium", "bn": "ক্রোমিয়াম", "es": "Cromo", "fr": "Chrome", "de": "Chrom", "ru": "Хром", "zh": "铬"}}, "issues": [], "meta": {"elapsed": 4.75, "input_tokens": 460, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "خَرْمٌ", "kind": "lemma", "parsed": {"glosses": {"en": "hole", "fa": "سوراخ", "ur": "سوراخ", "tr": "delik", "id": "lubang", "bn": "গর্ত", "es": "agujero", "fr": "trou", "de": "Loch", "ru": "дыра", "zh": "洞"}}, "issues": [], "meta": {"elapsed": 5.07, "input_tokens": 579, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

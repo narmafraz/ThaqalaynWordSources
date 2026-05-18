@@ -1,0 +1,1 @@
+{"slug": "ابْنَةُ", "kind": "surface", "parsed": {"glosses": {"en": "daughter", "fa": "دختر", "ur": "بیٹی", "tr": "kız", "id": "putri", "bn": "কন্যা", "es": "hija", "fr": "fille", "de": "Tochter", "ru": "дочь", "zh": "女儿"}}, "issues": [], "meta": {"elapsed": 3.74, "input_tokens": 731, "output_tokens": 114, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

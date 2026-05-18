@@ -1,0 +1,1 @@
+{"slug": "الرَّجُلِ", "kind": "surface", "parsed": {"glosses": {"en": "the man", "fa": "مرد", "ur": "مرد", "tr": "adam", "id": "pria", "bn": "পুরুষ", "es": "hombre", "fr": "homme", "de": "Mann", "ru": "мужчина", "zh": "男人"}}, "issues": [], "meta": {"elapsed": 4.74, "input_tokens": 1100, "output_tokens": 112, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

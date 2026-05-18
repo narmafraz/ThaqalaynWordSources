@@ -1,0 +1,1 @@
+{"slug": "أَمْلَسُ", "kind": "surface", "parsed": {"glosses": {"en": "smooth", "fa": "صاف", "ur": "ہموار", "tr": "pürüzsüz", "id": "halus", "bn": "মসৃণ", "es": "liso", "fr": "lisse", "de": "glatt", "ru": "гладкий", "zh": "光滑"}}, "issues": [], "meta": {"elapsed": 4.52, "input_tokens": 1054, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

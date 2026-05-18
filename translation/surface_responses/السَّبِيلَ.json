@@ -1,0 +1,1 @@
+{"slug": "السَّبِيلَ", "kind": "surface", "parsed": {"glosses": {"en": "the way", "fa": "راه", "ur": "راہ", "tr": "yol", "id": "jalan", "bn": "পথ", "es": "camino", "fr": "voie", "de": "Weg", "ru": "путь", "zh": "道路"}}, "issues": [], "meta": {"elapsed": 2.37, "input_tokens": 1188, "output_tokens": 110, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

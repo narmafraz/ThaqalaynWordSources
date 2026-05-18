@@ -1,0 +1,1 @@
+{"slug": "حَصِيرٌ", "kind": "lemma", "parsed": {"glosses": {"en": "mat", "fa": "حصیر", "ur": "حصیر", "tr": "hasır", "id": "tikar", "bn": "মাদুর", "es": "esterilla", "fr": "nattes", "de": "Matte", "ru": "циновка", "zh": "席子"}}, "issues": [], "meta": {"elapsed": 3.09, "input_tokens": 1014, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "بَلّاعَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "sinkhole", "fa": "چاله", "ur": "گڑھا", "tr": "çukur", "id": "lubang", "bn": "গর্ত", "es": "sumidero", "fr": "avaloir", "de": "Senke", "ru": "ловушка", "zh": "坑洞"}}, "issues": [], "meta": {"elapsed": 5.16, "input_tokens": 483, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

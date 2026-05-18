@@ -1,0 +1,1 @@
+{"slug": "نَهار", "kind": "lemma", "parsed": {"glosses": {"en": "daytime", "fa": "روز", "ur": "دن", "tr": "gündüz", "id": "siang", "bn": "দিন", "es": "día", "fr": "jour", "de": "Tag", "ru": "день", "zh": "白天"}}, "issues": [], "meta": {"elapsed": 4.59, "input_tokens": 904, "output_tokens": 108, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

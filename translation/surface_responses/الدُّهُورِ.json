@@ -1,0 +1,1 @@
+{"slug": "الدُّهُورِ", "kind": "surface", "parsed": {"glosses": {"en": "the ages", "fa": "دوران", "ur": "عہد", "tr": "devirler", "id": "zaman", "bn": "সময়", "es": "tiempos", "fr": "temps", "de": "Zeiten", "ru": "века", "zh": "时代"}}, "issues": [], "meta": {"elapsed": 6.21, "input_tokens": 1069, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

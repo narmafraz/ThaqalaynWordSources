@@ -1,0 +1,1 @@
+{"slug": "ق", "kind": "lemma", "parsed": {"glosses": {"en": "Qaf", "fa": "قاف", "ur": "قاف", "tr": "Kaf", "id": "Qaf", "bn": "ক্বাফ", "es": "Qaf", "fr": "Qaf", "de": "Qaf", "ru": "Каф", "zh": "卡夫"}}, "issues": [], "meta": {"elapsed": 6.61, "input_tokens": 849, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

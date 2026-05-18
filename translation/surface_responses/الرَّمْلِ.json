@@ -1,0 +1,1 @@
+{"slug": "الرَّمْلِ", "kind": "surface", "parsed": {"glosses": {"en": "the sand", "fa": "شن", "ur": "ریت", "tr": "kum", "id": "pasir", "bn": "বালি", "es": "arena", "fr": "sable", "de": "Sand", "ru": "песок", "zh": "沙"}}, "issues": [], "meta": {"elapsed": 2.67, "input_tokens": 994, "output_tokens": 112, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

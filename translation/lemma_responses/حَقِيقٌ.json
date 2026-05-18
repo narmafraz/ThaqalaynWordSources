@@ -1,0 +1,1 @@
+{"slug": "حَقِيقٌ", "kind": "lemma", "parsed": {"glosses": {"en": "worthy", "fa": "سزاوار", "ur": "سزاوار", "tr": "layık", "id": "layak", "bn": "যোগ্য", "es": "digno", "fr": "digne", "de": "würdig", "ru": "достойный", "zh": "值得"}}, "issues": [], "meta": {"elapsed": 5.55, "input_tokens": 1040, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

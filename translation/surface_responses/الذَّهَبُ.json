@@ -1,0 +1,1 @@
+{"slug": "الذَّهَبُ", "kind": "surface", "parsed": {"glosses": {"en": "the gold", "fa": "طلا", "ur": "سونا", "tr": "altın", "id": "emas", "bn": "স্বর্ণ", "es": "oro", "fr": "or", "de": "Gold", "ru": "золото", "zh": "黄金"}}, "issues": [], "meta": {"elapsed": 4.56, "input_tokens": 1084, "output_tokens": 109, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

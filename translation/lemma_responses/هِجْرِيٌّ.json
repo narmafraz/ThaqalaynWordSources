@@ -1,0 +1,1 @@
+{"slug": "هِجْرِيٌّ", "kind": "lemma", "parsed": {"glosses": {"en": "Hijri", "fa": "هجری", "ur": "ہجری", "tr": "Hicri", "id": "Hijri", "bn": "হিজরি", "es": "Hijri", "fr": "Hijri", "de": "Hidschri", "ru": "хиджри", "zh": "希吉拉"}}, "issues": [], "meta": {"elapsed": 4.8, "input_tokens": 451, "output_tokens": 126, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "حَجَرٌ", "kind": "lemma", "parsed": {"glosses": {"en": "stone", "fa": "سنگ", "ur": "پتھر", "tr": "taş", "id": "batu", "bn": "পাথর", "es": "piedra", "fr": "pierre", "de": "Stein", "ru": "камень", "zh": "石头"}}, "issues": [], "meta": {"elapsed": 4.56, "input_tokens": 1368, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "خُنْفُسٌ", "kind": "lemma", "parsed": {"glosses": {"en": "beetle", "fa": "سوسک", "ur": "سوسک", "tr": "börü", "id": "kumbang", "bn": "খুন্ফুস", "es": "escarabajo", "fr": "scarabée", "de": "Käfer", "ru": "жук", "zh": "金龟子"}}, "issues": [], "meta": {"elapsed": 4.6, "input_tokens": 496, "output_tokens": 126, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

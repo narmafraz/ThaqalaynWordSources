@@ -1,0 +1,1 @@
+{"slug": "يَبِسٌ", "kind": "lemma", "parsed": {"glosses": {"en": "dry", "fa": "خشک", "ur": "خشک", "tr": "kuru", "id": "kering", "bn": "শুকনো", "es": "seco", "fr": "sec", "de": "trocken", "ru": "сухой", "zh": "干燥的"}}, "issues": [], "meta": {"elapsed": 4.06, "input_tokens": 825, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

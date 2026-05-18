@@ -1,0 +1,1 @@
+{"slug": "أُخْدُودٌ", "kind": "lemma", "parsed": {"glosses": {"en": "trench", "fa": "خندق", "ur": "گڑھا", "tr": "çukur", "id": "parit", "bn": "খাদ", "es": "foso", "fr": "fossé", "de": "Graben", "ru": "ров", "zh": "沟渠"}}, "issues": [], "meta": {"elapsed": 3.76, "input_tokens": 966, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

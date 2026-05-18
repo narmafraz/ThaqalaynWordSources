@@ -1,0 +1,1 @@
+{"slug": "لَقَبٌ", "kind": "lemma", "parsed": {"glosses": {"en": "nickname", "fa": "لقب", "ur": "لقب", "tr": "lakap", "id": "julukan", "bn": "উপনাম", "es": "apodo", "fr": "surnom", "de": "Beiname", "ru": "прозвище", "zh": "绰号"}}, "issues": [], "meta": {"elapsed": 2.77, "input_tokens": 741, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

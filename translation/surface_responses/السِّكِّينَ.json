@@ -1,0 +1,1 @@
+{"slug": "السِّكِّينَ", "kind": "surface", "parsed": {"glosses": {"en": "the knife", "fa": "چاقو", "ur": "چاقو", "tr": "bıçak", "id": "pisau", "bn": "ছুরি", "es": "cuchillo", "fr": "couteau", "de": "Messer", "ru": "нож", "zh": "刀"}}, "issues": [], "meta": {"elapsed": 4.55, "input_tokens": 1093, "output_tokens": 120, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

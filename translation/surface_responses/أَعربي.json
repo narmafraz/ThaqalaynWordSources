@@ -1,0 +1,1 @@
+{"slug": "أَعربي", "kind": "surface", "parsed": {"glosses": {"en": "Arabic", "fa": "عربی", "ur": "عربی", "tr": "Arapça", "id": "Arab", "bn": "আরবি", "es": "árabe", "fr": "arabe", "de": "arabisch", "ru": "арабский", "zh": "阿拉伯语"}}, "issues": [], "meta": {"elapsed": 3.54, "input_tokens": 474, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

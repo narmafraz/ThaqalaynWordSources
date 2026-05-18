@@ -1,0 +1,1 @@
+{"slug": "فارَ", "kind": "lemma", "parsed": {"glosses": {"en": "mouse", "fa": "موش", "ur": "چوہا", "tr": "fare", "id": "tikus", "bn": "ইঁদুর", "es": "ratón", "fr": "souris", "de": "Maus", "ru": "мышь", "zh": "老鼠"}}, "issues": [], "meta": {"elapsed": 7.07, "input_tokens": 1020, "output_tokens": 114, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "قَمَرٌ", "kind": "lemma", "parsed": {"glosses": {"en": "moon", "fa": "ماه", "ur": "چاند", "tr": "ay", "id": "bulan", "bn": "চাঁদ", "es": "luna", "fr": "lune", "de": "Mond", "ru": "луна", "zh": "月亮"}}, "issues": [], "meta": {"elapsed": 3.72, "input_tokens": 683, "output_tokens": 110, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

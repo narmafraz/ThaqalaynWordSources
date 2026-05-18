@@ -1,0 +1,1 @@
+{"slug": "رِيحٌ", "kind": "lemma", "parsed": {"glosses": {"en": "wind", "fa": "باد", "ur": "ہوا", "tr": "rüzgar", "id": "angin", "bn": "বাতাস", "es": "viento", "fr": "vent", "de": "Wind", "ru": "ветер", "zh": "风"}}, "issues": [], "meta": {"elapsed": 3.48, "input_tokens": 979, "output_tokens": 111, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

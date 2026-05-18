@@ -1,0 +1,1 @@
+{"slug": "عَجِينٌ", "kind": "lemma", "parsed": {"glosses": {"en": "dough", "fa": "خمیر", "ur": "آٹا", "tr": "hamur", "id": "adonan", "bn": "ময়দা", "es": "masa", "fr": "pâte", "de": "Teig", "ru": "тесто", "zh": "面团"}}, "issues": [], "meta": {"elapsed": 4.26, "input_tokens": 726, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

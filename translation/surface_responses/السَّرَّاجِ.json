@@ -1,0 +1,1 @@
+{"slug": "السَّرَّاجِ", "kind": "surface", "parsed": {"glosses": {"en": "the lamp", "fa": "چراغ", "ur": "چراغ", "tr": "lamba", "id": "lampu", "bn": "বাতি", "es": "lámpara", "fr": "lampe", "de": "Lampe", "ru": "лампа", "zh": "灯"}}, "issues": [], "meta": {"elapsed": 3.81, "input_tokens": 1023, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

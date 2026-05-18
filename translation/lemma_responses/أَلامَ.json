@@ -1,0 +1,1 @@
+{"slug": "أَلامَ", "kind": "lemma", "parsed": {"glosses": {"en": "to what?", "fa": "به چه؟", "ur": "کیا؟", "tr": "ne?", "id": "ke apa?", "bn": "কী?", "es": "¿a qué?", "fr": "à quoi?", "de": "wofür?", "ru": "к чему?", "zh": "到什么？"}}, "issues": [], "meta": {"elapsed": 3.86, "input_tokens": 539, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

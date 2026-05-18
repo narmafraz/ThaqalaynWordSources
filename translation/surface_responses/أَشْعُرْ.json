@@ -1,0 +1,1 @@
+{"slug": "أَشْعُرْ", "kind": "surface", "parsed": {"glosses": {"en": "to know", "fa": "دانستن", "ur": "جاننا", "tr": "bilmek", "id": "tahu", "bn": "জানা", "es": "saber", "fr": "savoir", "de": "wissen", "ru": "знать", "zh": "知道"}}, "issues": [], "meta": {"elapsed": 4.34, "input_tokens": 1003, "output_tokens": 111, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

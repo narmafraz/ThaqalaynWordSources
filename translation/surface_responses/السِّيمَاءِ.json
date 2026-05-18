@@ -1,0 +1,1 @@
+{"slug": "السِّيمَاءِ", "kind": "surface", "parsed": {"glosses": {"en": "the mark", "fa": "علامت", "ur": "نشان", "tr": "işaret", "id": "tanda", "bn": "চিহ্ন", "es": "señal", "fr": "marque", "de": "Zeichen", "ru": "знак", "zh": "标记"}}, "issues": [], "meta": {"elapsed": 2.81, "input_tokens": 767, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

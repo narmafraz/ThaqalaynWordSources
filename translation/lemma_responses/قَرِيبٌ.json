@@ -1,0 +1,1 @@
+{"slug": "قَرِيبٌ", "kind": "lemma", "parsed": {"glosses": {"en": "near, close", "fa": "نزدیک", "ur": "قریب", "tr": "yakın", "id": "dekat", "bn": "নিকট", "es": "cercano", "fr": "proche", "de": "nah", "ru": "близкий", "zh": "近"}}, "issues": [], "meta": {"elapsed": 4.14, "input_tokens": 1031, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

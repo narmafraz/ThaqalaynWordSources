@@ -1,0 +1,1 @@
+{"slug": "حَلَقٌ", "kind": "lemma", "parsed": {"glosses": {"en": "shaving", "fa": "اصلاح", "ur": "کٹائی", "tr": "tıraş", "id": "cukur", "bn": "কুঁচানো", "es": "afeitado", "fr": "rasage", "de": "Rasur", "ru": "бритье", "zh": "剃头"}}, "issues": [], "meta": {"elapsed": 6.5, "input_tokens": 1853, "output_tokens": 122, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

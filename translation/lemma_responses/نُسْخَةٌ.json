@@ -1,0 +1,1 @@
+{"slug": "نُسْخَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "copy", "fa": "نسخه", "ur": "نسخہ", "tr": "kopya", "id": "salinan", "bn": "কপি", "es": "copia", "fr": "copie", "de": "Kopie", "ru": "копия", "zh": "副本"}}, "issues": [], "meta": {"elapsed": 4.43, "input_tokens": 543, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

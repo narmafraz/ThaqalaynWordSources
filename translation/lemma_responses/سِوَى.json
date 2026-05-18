@@ -1,0 +1,1 @@
+{"slug": "سِوَى", "kind": "lemma", "parsed": {"glosses": {"en": "other", "fa": "دیگر", "ur": "دیگر", "tr": "diğer", "id": "lain", "bn": "অন্য", "es": "otro", "fr": "autre", "de": "andere", "ru": "другой", "zh": "其他"}}, "issues": [], "meta": {"elapsed": 4.41, "input_tokens": 2283, "output_tokens": 111, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

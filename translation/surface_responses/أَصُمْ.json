@@ -1,0 +1,1 @@
+{"slug": "أَصُمْ", "kind": "surface", "parsed": {"glosses": {"en": "deaf", "fa": "نابینا", "ur": "بہرا", "tr": "sağır", "id": "tuli", "bn": "বধির", "es": "sordo", "fr": "sourd", "de": "taub", "ru": "глухой", "zh": "聋的"}}, "issues": [], "meta": {"elapsed": 2.83, "input_tokens": 976, "output_tokens": 94, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

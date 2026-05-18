@@ -1,0 +1,1 @@
+{"slug": "حالَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "state", "fa": "وضعیت", "ur": "حالت", "tr": "durum", "id": "keadaan", "bn": "অবস্থা", "es": "estado", "fr": "état", "de": "Zustand", "ru": "состояние", "zh": "状态"}}, "issues": [], "meta": {"elapsed": 3.21, "input_tokens": 971, "output_tokens": 113, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

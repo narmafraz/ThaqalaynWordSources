@@ -1,0 +1,1 @@
+{"slug": "حَكِيم", "kind": "lemma", "parsed": {"glosses": {"en": "sage", "fa": "حکیم", "ur": "حکیم", "tr": "hikim", "id": "hikim", "bn": "হাকিম", "es": "sabio", "fr": "sage", "de": "Weiser", "ru": "мудрый", "zh": "智者"}}, "issues": [], "meta": {"elapsed": 5.46, "input_tokens": 729, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

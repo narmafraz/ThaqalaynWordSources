@@ -1,0 +1,1 @@
+{"slug": "يَحْيَى", "kind": "lemma", "parsed": {"glosses": {"en": "John", "fa": "یحیی", "ur": "یحیی", "tr": "Yahya", "id": "Yahya", "bn": "ইয়াহইয়া", "es": "Juan", "fr": "Jean", "de": "Johannes", "ru": "Йахья", "zh": "叶哈雅"}}, "issues": [], "meta": {"elapsed": 5.74, "input_tokens": 469, "output_tokens": 120, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

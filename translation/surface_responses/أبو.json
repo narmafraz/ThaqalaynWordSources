@@ -1,0 +1,1 @@
+{"slug": "أبو", "kind": "surface", "parsed": {"glosses": {"en": "Abu", "fa": "ابو", "ur": "ابو", "tr": "Ebu", "id": "Abu", "bn": "আবু", "es": "Abu", "fr": "Abou", "de": "Abu", "ru": "Абу", "zh": "阿布"}}, "issues": [], "meta": {"elapsed": 3.96, "input_tokens": 628, "output_tokens": 114, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

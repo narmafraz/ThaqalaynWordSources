@@ -1,0 +1,1 @@
+{"slug": "التَّمْرَةِ", "kind": "surface", "parsed": {"glosses": {"en": "the date", "fa": "خرما", "ur": "کھجور", "tr": "hurma", "id": "kurma", "bn": "খাজুর", "es": "dátil", "fr": "datte", "de": "Dattel", "ru": "финик", "zh": "椰枣"}}, "issues": [], "meta": {"elapsed": 2.15, "input_tokens": 993, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "الصَّكُّ", "kind": "surface", "parsed": {"glosses": {"en": "the check", "fa": "چک", "ur": "چیک", "tr": "çek", "id": "cek", "bn": "চেক", "es": "el cheque", "fr": "le chèque", "de": "der Scheck", "ru": "чек", "zh": "支票"}}, "issues": [], "meta": {"elapsed": 3.77, "input_tokens": 975, "output_tokens": 112, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

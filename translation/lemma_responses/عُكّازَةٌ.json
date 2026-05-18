@@ -1,0 +1,1 @@
+{"slug": "عُكّازَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "cane", "fa": "عصا", "ur": "لاٹھی", "tr": "asap", "id": "tongkat", "bn": "লাঠি", "es": "bastón", "fr": "bâton", "de": "Stab", "ru": "трость", "zh": "拐杖"}}, "issues": [], "meta": {"elapsed": 4.1, "input_tokens": 747, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

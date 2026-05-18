@@ -1,0 +1,1 @@
+{"slug": "أَقُولُ", "kind": "surface", "parsed": {"glosses": {"en": "I say", "fa": "می‌گویم", "ur": "کہتا ہوں", "tr": "derim", "id": "berkata", "bn": "বলি", "es": "digo", "fr": "dis", "de": "sage", "ru": "говорю", "zh": "说"}}, "issues": [], "meta": {"elapsed": 3.95, "input_tokens": 1096, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

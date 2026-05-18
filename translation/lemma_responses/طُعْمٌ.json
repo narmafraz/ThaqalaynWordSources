@@ -1,0 +1,1 @@
+{"slug": "طُعْمٌ", "kind": "lemma", "parsed": {"glosses": {"en": "bait", "fa": "طعمه", "ur": "پھن", "tr": "yem", "id": "umpan", "bn": "ফাঁদ", "es": "cebo", "fr": "appât", "de": "Köder", "ru": "приманка", "zh": "诱饵"}}, "issues": [], "meta": {"elapsed": 5.55, "input_tokens": 2014, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

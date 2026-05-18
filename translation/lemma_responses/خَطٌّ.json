@@ -1,0 +1,1 @@
+{"slug": "خَطٌّ", "kind": "lemma", "parsed": {"glosses": {"en": "line", "fa": "خط", "ur": "خط", "tr": "çizgi", "id": "garis", "bn": "রেখা", "es": "línea", "fr": "ligne", "de": "Linie", "ru": "линия", "zh": "线"}}, "issues": [], "meta": {"elapsed": 4.78, "input_tokens": 955, "output_tokens": 111, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

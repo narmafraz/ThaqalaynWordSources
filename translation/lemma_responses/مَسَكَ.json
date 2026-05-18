@@ -1,0 +1,1 @@
+{"slug": "مَسَكَ", "kind": "lemma", "parsed": {"glosses": {"en": "to grab", "fa": "گرفتن", "ur": "پکڑنا", "tr": "tutmak", "id": "memegang", "bn": "ধরা", "es": "agarrar", "fr": "saisir", "de": "greifen", "ru": "хватать", "zh": "抓住"}}, "issues": [], "meta": {"elapsed": 9.01, "input_tokens": 1881, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

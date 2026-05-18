@@ -1,0 +1,1 @@
+{"slug": "حَكَّ", "kind": "lemma", "parsed": {"glosses": {"en": "to rub", "fa": "مالیدن", "ur": "رگڑنا", "tr": "oymak", "id": "menggosok", "bn": "ঘষা", "es": "frotar", "fr": "frotter", "de": "reiben", "ru": "тереть", "zh": "摩擦"}}, "issues": [], "meta": {"elapsed": 3.02, "input_tokens": 1542, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

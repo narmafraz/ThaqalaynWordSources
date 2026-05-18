@@ -1,0 +1,1 @@
+{"slug": "راء", "kind": "lemma", "parsed": {"glosses": {"en": "R", "fa": "ر", "ur": "ر", "tr": "R", "id": "R", "bn": "র", "es": "R", "fr": "R", "de": "R", "ru": "Р", "zh": "拉姆兹"}}, "issues": [], "meta": {"elapsed": 2.56, "input_tokens": 476, "output_tokens": 105, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

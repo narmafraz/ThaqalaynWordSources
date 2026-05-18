@@ -1,0 +1,1 @@
+{"slug": "عِزٌّ", "kind": "lemma", "parsed": {"glosses": {"en": "might", "fa": "قدرت", "ur": "عزت", "tr": "güç", "id": "kekuatan", "bn": "প্রভুত্ব", "es": "poder", "fr": "puissance", "de": "Macht", "ru": "могущество", "zh": "荣耀"}}, "issues": [], "meta": {"elapsed": 5.63, "input_tokens": 2301, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

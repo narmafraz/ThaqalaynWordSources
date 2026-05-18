@@ -1,0 +1,1 @@
+{"slug": "بَثْرٌ", "kind": "lemma", "parsed": {"glosses": {"en": "pimple", "fa": "جوش", "ur": "پھنسی", "tr": "sivilce", "id": "bisul", "bn": "ফোঁড়া", "es": "pústula", "fr": "bouton", "de": "Pickel", "ru": "прыщ", "zh": "粉刺"}}, "issues": [], "meta": {"elapsed": 4.34, "input_tokens": 749, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "غِيبَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "backbiting", "fa": "غیبت", "ur": "غیبَت", "tr": "gıybet", "id": "ghibah", "bn": "গিবাহ", "es": "ghibah", "fr": "ghibah", "de": "Ghibah", "ru": "гиба", "zh": "背谈"}}, "issues": [], "meta": {"elapsed": 3.27, "input_tokens": 688, "output_tokens": 124, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

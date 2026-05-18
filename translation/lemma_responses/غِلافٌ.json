@@ -1,0 +1,1 @@
+{"slug": "غِلافٌ", "kind": "lemma", "parsed": {"glosses": {"en": "cover", "fa": "روکش", "ur": "حفاظت", "tr": "kılıf", "id": "sarung", "bn": "আচ্ছাদন", "es": "funda", "fr": "fourreau", "de": "Hülle", "ru": "обложка", "zh": "外壳"}}, "issues": [], "meta": {"elapsed": 3.02, "input_tokens": 895, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

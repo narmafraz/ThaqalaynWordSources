@@ -1,0 +1,1 @@
+{"slug": "زَيْنَب", "kind": "lemma", "parsed": {"glosses": {"en": "Zainab", "fa": "زینب", "ur": "زینب", "tr": "Zeynep", "id": "Zainab", "bn": "জাইনাব", "es": "Zainab", "fr": "Zaïnab", "de": "Zainab", "ru": "Зайнаб", "zh": "宰纳卜"}}, "issues": [], "meta": {"elapsed": 5.78, "input_tokens": 474, "output_tokens": 129, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

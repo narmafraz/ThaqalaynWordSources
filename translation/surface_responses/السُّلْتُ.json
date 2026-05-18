@@ -1,0 +1,1 @@
+{"slug": "السُّلْتُ", "kind": "surface", "parsed": {"glosses": {"en": "the salt", "fa": "نمک", "ur": "نمک", "tr": "tuz", "id": "garam", "bn": "লবণ", "es": "la sal", "fr": "le sel", "de": "das Salz", "ru": "соль", "zh": "盐"}}, "issues": [], "meta": {"elapsed": 5.24, "input_tokens": 476, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

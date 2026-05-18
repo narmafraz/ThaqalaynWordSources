@@ -1,0 +1,1 @@
+{"slug": "جِيمٌ", "kind": "lemma", "parsed": {"glosses": {"en": "Jim", "fa": "جیم", "ur": "جیم", "tr": "Jim", "id": "Jim", "bn": "জিম", "es": "Jim", "fr": "Jim", "de": "Jim", "ru": "Джим", "zh": "吉姆"}}, "issues": [], "meta": {"elapsed": 3.57, "input_tokens": 554, "output_tokens": 108, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

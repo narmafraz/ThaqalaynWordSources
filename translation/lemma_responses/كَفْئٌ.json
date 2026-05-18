@@ -1,0 +1,1 @@
+{"slug": "كَفْئٌ", "kind": "lemma", "parsed": {"glosses": {"en": "equal", "fa": "برابر", "ur": "برابر", "tr": "eşit", "id": "setara", "bn": "সমান", "es": "igual", "fr": "égal", "de": "gleich", "ru": "равный", "zh": "平等"}}, "issues": [], "meta": {"elapsed": 5.86, "input_tokens": 512, "output_tokens": 111, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

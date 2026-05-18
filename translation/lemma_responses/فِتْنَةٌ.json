@@ -1,0 +1,1 @@
+{"slug": "فِتْنَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "trial", "fa": "آزمایش", "ur": "فتنہ", "tr": "fitne", "id": "cobaan", "bn": "ফিতনা", "es": "prueba", "fr": "épreuve", "de": "Prüfung", "ru": "испытание", "zh": "考验"}}, "issues": [], "meta": {"elapsed": 3.96, "input_tokens": 933, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

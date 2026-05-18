@@ -1,0 +1,1 @@
+{"slug": "تِيم", "kind": "lemma", "parsed": {"glosses": {"en": "Tim", "fa": "تیم", "ur": "تیم", "tr": "Tim", "id": "Tim", "bn": "তাইম", "es": "Tim", "fr": "Tim", "de": "Tim", "ru": "Тим", "zh": "提姆"}}, "issues": [], "meta": {"elapsed": 2.2, "input_tokens": 892, "output_tokens": 109, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

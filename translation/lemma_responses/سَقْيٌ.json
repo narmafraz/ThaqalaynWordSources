@@ -1,0 +1,1 @@
+{"slug": "سَقْيٌ", "kind": "lemma", "parsed": {"glosses": {"en": "drink", "fa": "نوشیدنی", "ur": "پانی", "tr": "içecek", "id": "minuman", "bn": "পানীয়", "es": "bebida", "fr": "boisson", "de": "Trank", "ru": "напиток", "zh": "饮料"}}, "issues": [], "meta": {"elapsed": 5.57, "input_tokens": 942, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

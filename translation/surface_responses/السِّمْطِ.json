@@ -1,0 +1,1 @@
+{"slug": "السِّمْطِ", "kind": "surface", "parsed": {"glosses": {"en": "the rank", "fa": "ردیف", "ur": "صف", "tr": "sıra", "id": "barisan", "bn": "শ্রেণী", "es": "fila", "fr": "rang", "de": "Reihe", "ru": "ряд", "zh": "排"}}, "issues": [], "meta": {"elapsed": 3.95, "input_tokens": 974, "output_tokens": 111, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

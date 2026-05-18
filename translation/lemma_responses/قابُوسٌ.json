@@ -1,0 +1,1 @@
+{"slug": "قابُوسٌ", "kind": "lemma", "parsed": {"glosses": {"en": "Qabus", "fa": "قابوس", "ur": "قابوس", "tr": "Kabus", "id": "Qabus", "bn": "কবুস", "es": "Qabus", "fr": "Qabus", "de": "Qabus", "ru": "Кабус", "zh": "卡布斯"}}, "issues": [], "meta": {"elapsed": 2.36, "input_tokens": 449, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

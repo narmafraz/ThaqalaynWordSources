@@ -1,0 +1,1 @@
+{"slug": "قَيْئٌ", "kind": "lemma", "parsed": {"glosses": {"en": "vomit", "fa": "قائمه", "ur": "قائہ", "tr": "kusmak", "id": "muntah", "bn": "কম্বল", "es": "vómito", "fr": "vomitif", "de": "Erbrechen", "ru": "рвота", "zh": "呕吐物"}}, "issues": [], "meta": {"elapsed": 5.35, "input_tokens": 564, "output_tokens": 125, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

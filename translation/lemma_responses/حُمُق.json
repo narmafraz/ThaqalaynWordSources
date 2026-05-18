@@ -1,0 +1,1 @@
+{"slug": "حُمُق", "kind": "lemma", "parsed": {"glosses": {"en": "fool", "fa": "احمق", "ur": "احمق", "tr": "ahmak", "id": "orang bodoh", "bn": "বোকা", "es": "tonto", "fr": "sot", "de": "Narr", "ru": "глупец", "zh": "傻瓜"}}, "issues": [], "meta": {"elapsed": 5.76, "input_tokens": 1019, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

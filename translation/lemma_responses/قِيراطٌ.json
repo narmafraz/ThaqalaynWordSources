@@ -1,0 +1,1 @@
+{"slug": "قِيراطٌ", "kind": "lemma", "parsed": {"glosses": {"en": "carat", "fa": "قیراط", "ur": "قیراط", "tr": "kırat", "id": "karat", "bn": "ক্যারেট", "es": "quilate", "fr": "carat", "de": "Karat", "ru": "карат", "zh": "克拉"}}, "issues": [], "meta": {"elapsed": 4.49, "input_tokens": 906, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "كَنِيسَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "church", "fa": "کلیسا", "ur": "چرچ", "tr": "kilise", "id": "gereja", "bn": "গির্জা", "es": "iglesia", "fr": "église", "de": "Kirche", "ru": "церковь", "zh": "教堂"}}, "issues": [], "meta": {"elapsed": 2.99, "input_tokens": 783, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

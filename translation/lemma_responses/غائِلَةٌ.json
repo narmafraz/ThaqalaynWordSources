@@ -1,0 +1,1 @@
+{"slug": "غائِلَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "evil", "fa": "شر", "ur": "شر", "tr": "kötülük", "id": "keburukan", "bn": "মন্দ", "es": "maldad", "fr": "mal", "de": "Böse", "ru": "зло", "zh": "恶"}}, "issues": [], "meta": {"elapsed": 3.43, "input_tokens": 459, "output_tokens": 112, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

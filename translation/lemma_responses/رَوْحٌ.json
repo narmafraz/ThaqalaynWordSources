@@ -1,0 +1,1 @@
+{"slug": "رَوْحٌ", "kind": "lemma", "parsed": {"glosses": {"en": "spirit", "fa": "روح", "ur": "روح", "tr": "ruh", "id": "roh", "bn": "রুহ", "es": "espíritu", "fr": "esprit", "de": "Geist", "ru": "дух", "zh": "精神"}}, "issues": [], "meta": {"elapsed": 4.64, "input_tokens": 2407, "output_tokens": 108, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

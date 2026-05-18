@@ -1,0 +1,1 @@
+{"slug": "سامِح", "kind": "lemma", "parsed": {"glosses": {"en": "SamiH", "fa": "سامِح", "ur": "سامِح", "tr": "SamiH", "id": "SamiH", "bn": "সামিহ", "es": "SamiH", "fr": "SamiH", "de": "SamiH", "ru": "Самих", "zh": "萨米赫"}}, "issues": [], "meta": {"elapsed": 3.65, "input_tokens": 461, "output_tokens": 124, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

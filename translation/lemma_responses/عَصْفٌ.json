@@ -1,0 +1,1 @@
+{"slug": "عَصْفٌ", "kind": "lemma", "parsed": {"glosses": {"en": "chaff", "fa": "کاه", "ur": "کھلی", "tr": "samân", "id": "sekam", "bn": "কুশ", "es": "paja", "fr": "paille", "de": "Stroh", "ru": "солома", "zh": "糠秕"}}, "issues": [], "meta": {"elapsed": 5.95, "input_tokens": 1346, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

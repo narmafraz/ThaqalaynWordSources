@@ -1,0 +1,1 @@
+{"slug": "أَجْسُرُ", "kind": "surface", "parsed": {"glosses": {"en": "bridges", "fa": "پل‌ها", "ur": "پل", "tr": "köprüler", "id": "jembatan", "bn": "সেতু", "es": "puentes", "fr": "ponts", "de": "Brücken", "ru": "мосты", "zh": "桥梁"}}, "issues": [], "meta": {"elapsed": 2.88, "input_tokens": 564, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

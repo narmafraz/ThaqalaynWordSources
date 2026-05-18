@@ -1,0 +1,1 @@
+{"slug": "إلَيك", "kind": "surface", "parsed": {"glosses": {"en": "to you", "fa": "به سوی تو", "ur": "کی طرف", "tr": "sana", "id": "kepadamu", "bn": "দিকে", "es": "a ti", "fr": "vers toi", "de": "zu dir", "ru": "к тебе", "zh": "到你"}}, "issues": [], "meta": {"elapsed": 4.15, "input_tokens": 887, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

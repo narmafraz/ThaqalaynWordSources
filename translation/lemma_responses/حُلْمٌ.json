@@ -1,0 +1,1 @@
+{"slug": "حُلْمٌ", "kind": "lemma", "parsed": {"glosses": {"en": "dream", "fa": "خواب", "ur": "خواب", "tr": "rüya", "id": "mimpi", "bn": "স্বপ্ন", "es": "sueño", "fr": "rêve", "de": "Traum", "ru": "сон", "zh": "梦"}}, "issues": [], "meta": {"elapsed": 3.95, "input_tokens": 1511, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

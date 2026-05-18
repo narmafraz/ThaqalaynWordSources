@@ -1,0 +1,1 @@
+{"slug": "جَرِيمَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "crime", "fa": "جرم", "ur": "جرم", "tr": "suç", "id": "kejahatan", "bn": "অপরাধ", "es": "crimen", "fr": "crime", "de": "Verbrechen", "ru": "преступление", "zh": "罪"}}, "issues": [], "meta": {"elapsed": 3.3, "input_tokens": 537, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

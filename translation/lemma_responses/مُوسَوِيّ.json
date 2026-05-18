@@ -1,0 +1,1 @@
+{"slug": "مُوسَوِيّ", "kind": "lemma", "parsed": {"glosses": {"en": "Musawi", "fa": "موسوی", "ur": "موسوی", "tr": "Musavi", "id": "Musawi", "bn": "মুসাভি", "es": "Musawi", "fr": "Musawi", "de": "Musawi", "ru": "Мусауи", "zh": "穆萨维"}}, "issues": [], "meta": {"elapsed": 4.36, "input_tokens": 451, "output_tokens": 122, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

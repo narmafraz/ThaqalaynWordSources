@@ -1,0 +1,1 @@
+{"slug": "فَلَكٌ", "kind": "lemma", "parsed": {"glosses": {"en": "orbit", "fa": "مدار", "ur": "مدار", "tr": "yörünge", "id": "orbit", "bn": "কক্ষপথ", "es": "órbita", "fr": "orbite", "de": "Umlaufbahn", "ru": "орбита", "zh": "轨道"}}, "issues": [], "meta": {"elapsed": 5.9, "input_tokens": 1010, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

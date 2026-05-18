@@ -1,0 +1,1 @@
+{"slug": "مَساءَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "evening", "fa": "عصر", "ur": "شام", "tr": "akşam", "id": "malam", "bn": "সন্ধ্যা", "es": "tarde", "fr": "soirée", "de": "Abend", "ru": "вечер", "zh": "傍晚"}}, "issues": [], "meta": {"elapsed": 7.25, "input_tokens": 475, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "فَرْحَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "joy", "fa": "شادی", "ur": "خوشی", "tr": "sevinç", "id": "kesehatan", "bn": "আনন্দ", "es": "alegría", "fr": "joie", "de": "Freude", "ru": "радость", "zh": "喜悦"}}, "issues": [], "meta": {"elapsed": 5.06, "input_tokens": 515, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

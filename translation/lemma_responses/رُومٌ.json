@@ -1,0 +1,1 @@
+{"slug": "رُومٌ", "kind": "lemma", "parsed": {"glosses": {"en": "Romans", "fa": "رومیان", "ur": "رومی", "tr": "Rumlar", "id": "Romawi", "bn": "রোমান", "es": "romanos", "fr": "Romains", "de": "Römer", "ru": "римляне", "zh": "罗马人"}}, "issues": [], "meta": {"elapsed": 3.26, "input_tokens": 834, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

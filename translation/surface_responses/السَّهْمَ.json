@@ -1,0 +1,1 @@
+{"slug": "السَّهْمَ", "kind": "surface", "parsed": {"glosses": {"en": "the arrow", "fa": "تیر", "ur": "تیر", "tr": "ok", "id": "panah", "bn": "তীর", "es": "flecha", "fr": "flèche", "de": "Pfeil", "ru": "стрела", "zh": "箭"}}, "issues": [], "meta": {"elapsed": 2.66, "input_tokens": 905, "output_tokens": 113, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

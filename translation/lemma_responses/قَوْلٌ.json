@@ -1,0 +1,1 @@
+{"slug": "قَوْلٌ", "kind": "lemma", "parsed": {"glosses": {"en": "speech", "fa": "گفتار", "ur": "قول", "tr": "söz", "id": "ucapan", "bn": "বাক্য", "es": "discurso", "fr": "parole", "de": "Wort", "ru": "слово", "zh": "言语"}}, "issues": [], "meta": {"elapsed": 5.25, "input_tokens": 531, "output_tokens": 112, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

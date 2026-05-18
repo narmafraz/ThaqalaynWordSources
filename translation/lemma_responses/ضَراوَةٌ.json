@@ -1,0 +1,1 @@
+{"slug": "ضَراوَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "envy", "fa": "حسد", "ur": "حسد", "tr": "haset", "id": "dengki", "bn": "হিংসা", "es": "envidia", "fr": "envie", "de": "Neid", "ru": "зависть", "zh": "嫉妒"}}, "issues": [], "meta": {"elapsed": 4.2, "input_tokens": 450, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

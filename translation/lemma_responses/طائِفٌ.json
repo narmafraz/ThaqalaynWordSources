@@ -1,0 +1,1 @@
+{"slug": "طائِفٌ", "kind": "lemma", "parsed": {"glosses": {"en": "tribe", "fa": "طایفه", "ur": "قبیلہ", "tr": "kabile", "id": "suku", "bn": "গোষ্ঠী", "es": "tribu", "fr": "tribu", "de": "Stamm", "ru": "племя", "zh": "部落"}}, "issues": [], "meta": {"elapsed": 4.99, "input_tokens": 449, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

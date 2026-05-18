@@ -1,0 +1,1 @@
+{"slug": "زَيْدانٌ", "kind": "lemma", "parsed": {"glosses": {"en": "Zaydan", "fa": "زیدان", "ur": "زیدان", "tr": "Zeydan", "id": "Zaydan", "bn": "জায়দান", "es": "Zaydan", "fr": "Zaydan", "de": "Zaydan", "ru": "Зайдан", "zh": "宰德安"}}, "issues": [], "meta": {"elapsed": 5.83, "input_tokens": 461, "output_tokens": 126, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

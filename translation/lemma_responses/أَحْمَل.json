@@ -1,0 +1,1 @@
+{"slug": "أَحْمَل", "kind": "lemma", "parsed": {"glosses": {"en": "load", "fa": "بار", "ur": "بوجھ", "tr": "yük", "id": "muatan", "bn": "ভার", "es": "carga", "fr": "charge", "de": "Last", "ru": "груз", "zh": "负载"}}, "issues": [], "meta": {"elapsed": 4.04, "input_tokens": 448, "output_tokens": 108, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

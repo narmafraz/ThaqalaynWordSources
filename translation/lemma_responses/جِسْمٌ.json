@@ -1,0 +1,1 @@
+{"slug": "جِسْمٌ", "kind": "lemma", "parsed": {"glosses": {"en": "body", "fa": "جسم", "ur": "جسم", "tr": "cis", "id": "badan", "bn": "শরীর", "es": "cuerpo", "fr": "corps", "de": "Körper", "ru": "тело", "zh": "身体"}}, "issues": [], "meta": {"elapsed": 3.81, "input_tokens": 1570, "output_tokens": 113, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

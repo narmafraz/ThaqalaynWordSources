@@ -1,0 +1,1 @@
+{"slug": "لَما", "kind": "lemma", "parsed": {"glosses": {"en": "when", "fa": "وقتی", "ur": "جب", "tr": "zaman ki", "id": "ketika", "bn": "যখন", "es": "cuando", "fr": "quand", "de": "wenn", "ru": "когда", "zh": "当"}}, "issues": [], "meta": {"elapsed": 5.39, "input_tokens": 980, "output_tokens": 112, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

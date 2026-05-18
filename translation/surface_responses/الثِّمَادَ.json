@@ -1,0 +1,1 @@
+{"slug": "الثِّمَادَ", "kind": "surface", "parsed": {"glosses": {"en": "manure", "fa": "کود", "ur": "کھاد", "tr": "gübre", "id": "pupuk", "bn": "সার", "es": "estiércol", "fr": "fumier", "de": "Dünger", "ru": "навоз", "zh": "粪肥"}}, "issues": [], "meta": {"elapsed": 4.69, "input_tokens": 540, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

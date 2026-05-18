@@ -1,0 +1,1 @@
+{"slug": "حَقْوٌ", "kind": "lemma", "parsed": {"glosses": {"en": "waist", "fa": "کمر", "ur": "کمر", "tr": "bel", "id": "pinggang", "bn": "কোমর", "es": "cintura", "fr": "flanc", "de": "Lende", "ru": "бедра", "zh": "腰"}}, "issues": [], "meta": {"elapsed": 5.22, "input_tokens": 1001, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

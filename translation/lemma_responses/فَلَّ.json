@@ -1,0 +1,1 @@
+{"slug": "فَلَّ", "kind": "lemma", "parsed": {"glosses": {"en": "break", "fa": "شکاف", "ur": "شگاف", "tr": "çatlak", "id": "retakan", "bn": "ফাটল", "es": "rotura", "fr": "fêlure", "de": "Bruch", "ru": "трещина", "zh": "裂缝"}}, "issues": [], "meta": {"elapsed": 5.9, "input_tokens": 1032, "output_tokens": 120, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "فَوْقَ", "kind": "lemma", "parsed": {"glosses": {"en": "above", "fa": "بالا", "ur": "اوپر", "tr": "üstünde", "id": "di atas", "bn": "উপরে", "es": "encima", "fr": "au-dessus", "de": "über", "ru": "над", "zh": "在...之上"}}, "issues": [], "meta": {"elapsed": 5.22, "input_tokens": 929, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "بِشْرٌ", "kind": "lemma", "parsed": {"glosses": {"en": "human", "fa": "انسان", "ur": "انسان", "tr": "insan", "id": "manusia", "bn": "মানুষ", "es": "humano", "fr": "humain", "de": "Mensch", "ru": "человек", "zh": "人类"}}, "issues": [], "meta": {"elapsed": 4.63, "input_tokens": 1840, "output_tokens": 113, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

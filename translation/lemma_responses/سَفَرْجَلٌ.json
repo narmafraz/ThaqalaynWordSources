@@ -1,0 +1,1 @@
+{"slug": "سَفَرْجَلٌ", "kind": "lemma", "parsed": {"glosses": {"en": "quince", "fa": "به", "ur": "بلوط", "tr": "ayva", "id": "quince", "bn": "কুইন্স", "es": "membrillo", "fr": "coing", "de": "Quitte", "ru": "айва", "zh": "榲桲"}}, "issues": [], "meta": {"elapsed": 4.02, "input_tokens": 801, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

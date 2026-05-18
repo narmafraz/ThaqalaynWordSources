@@ -1,0 +1,1 @@
+{"slug": "غَنِيٌّ", "kind": "lemma", "parsed": {"glosses": {"en": "rich, wealthy", "fa": "ثروتمند", "ur": "غنی", "tr": "zengin", "id": "kaya", "bn": "ধনী", "es": "rico", "fr": "riche", "de": "reich", "ru": "богатый", "zh": "富有的"}}, "issues": [], "meta": {"elapsed": 5.38, "input_tokens": 1629, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

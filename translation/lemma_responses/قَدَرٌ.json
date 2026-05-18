@@ -1,0 +1,1 @@
+{"slug": "قَدَرٌ", "kind": "lemma", "parsed": {"glosses": {"en": "destiny", "fa": "سرنوشت", "ur": "تقدیر", "tr": "kader", "id": "takdir", "bn": "কদর", "es": "destino", "fr": "destin", "de": "Schicksal", "ru": "судьба", "zh": "命运"}}, "issues": [], "meta": {"elapsed": 7.51, "input_tokens": 1957, "output_tokens": 120, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

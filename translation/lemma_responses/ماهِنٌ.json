@@ -1,0 +1,1 @@
+{"slug": "ماهِنٌ", "kind": "lemma", "parsed": {"glosses": {"en": "debt", "fa": "بدهی", "ur": "قرض", "tr": "borç", "id": "utang", "bn": "ঋণ", "es": "deuda", "fr": "dette", "de": "Schuld", "ru": "долг", "zh": "债务"}}, "issues": [], "meta": {"elapsed": 4.93, "input_tokens": 448, "output_tokens": 114, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

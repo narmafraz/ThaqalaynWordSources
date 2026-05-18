@@ -1,0 +1,1 @@
+{"slug": "عَزاء", "kind": "lemma", "parsed": {"glosses": {"en": "mourning", "fa": "عزا", "ur": "عزا", "tr": "yas", "id": "berduka", "bn": "শোক", "es": "luto", "fr": "deuil", "de": "Trauer", "ru": "траур", "zh": "哀悼"}}, "issues": [], "meta": {"elapsed": 4.39, "input_tokens": 458, "output_tokens": 114, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "عامٌّ", "kind": "lemma", "parsed": {"glosses": {"en": "general", "fa": "عمومی", "ur": "عام", "tr": "genel", "id": "umum", "bn": "সাধারণ", "es": "general", "fr": "général", "de": "allgemein", "ru": "общий", "zh": "普遍的"}}, "issues": [], "meta": {"elapsed": 5.68, "input_tokens": 873, "output_tokens": 112, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

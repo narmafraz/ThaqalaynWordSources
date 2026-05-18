@@ -1,0 +1,1 @@
+{"slug": "الضَّادِ", "kind": "surface", "parsed": {"glosses": {"en": "the Dad", "fa": "ضاد", "ur": "ضاد", "tr": "Dad", "id": "Dad", "bn": "দাদ", "es": "Dad", "fr": "Dad", "de": "Dad", "ru": "Дад", "zh": "达德"}}, "issues": [], "meta": {"elapsed": 3.26, "input_tokens": 677, "output_tokens": 114, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

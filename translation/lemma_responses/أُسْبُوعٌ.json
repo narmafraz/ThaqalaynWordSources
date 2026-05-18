@@ -1,0 +1,1 @@
+{"slug": "أُسْبُوعٌ", "kind": "lemma", "parsed": {"glosses": {"en": "week", "fa": "هفته", "ur": "ہفتہ", "tr": "hafta", "id": "ming", "bn": "সপ্তাহ", "es": "semana", "fr": "semaine", "de": "Woche", "ru": "неделя", "zh": "周"}}, "issues": [], "meta": {"elapsed": 3.56, "input_tokens": 977, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

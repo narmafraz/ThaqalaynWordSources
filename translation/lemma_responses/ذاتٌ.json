@@ -1,0 +1,1 @@
+{"slug": "ذاتٌ", "kind": "lemma", "parsed": {"glosses": {"en": "self", "fa": "خود", "ur": "خود", "tr": "kendisi", "id": "diri", "bn": "নিজ", "es": "sí mismo", "fr": "soi-même", "de": "Selbst", "ru": "сама", "zh": "自身"}}, "issues": [], "meta": {"elapsed": 4.63, "input_tokens": 529, "output_tokens": 112, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

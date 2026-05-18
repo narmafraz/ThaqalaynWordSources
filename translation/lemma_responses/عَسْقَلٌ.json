@@ -1,0 +1,1 @@
+{"slug": "عَسْقَلٌ", "kind": "lemma", "parsed": {"glosses": {"en": "gourd", "fa": "کدو", "ur": "کدو", "tr": "kabak", "id": "labu", "bn": "কুমড়া", "es": "calabaza", "fr": "courge", "de": "Kürbis", "ru": "тыква", "zh": "葫芦"}}, "issues": [], "meta": {"elapsed": 5.43, "input_tokens": 450, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

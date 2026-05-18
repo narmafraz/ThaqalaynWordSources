@@ -1,0 +1,1 @@
+{"slug": "رُكَّع", "kind": "lemma", "parsed": {"glosses": {"en": "bowing", "fa": "رکوع", "ur": "رکوع", "tr": "rükû", "id": "rukuk", "bn": "রুকু", "es": "rúku'", "fr": "rûkû'", "de": "Rukû", "ru": "рукӯʿ", "zh": "鞠躬"}}, "issues": [], "meta": {"elapsed": 4.43, "input_tokens": 1311, "output_tokens": 123, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

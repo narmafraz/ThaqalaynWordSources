@@ -1,0 +1,1 @@
+{"slug": "طاحَ", "kind": "lemma", "parsed": {"glosses": {"en": "to fall", "fa": "سقوط کردن", "ur": "گرنہ", "tr": "düşmek", "id": "jatuh", "bn": "পড়া", "es": "caer", "fr": "tomber", "de": "fallen", "ru": "падать", "zh": "坠落"}}, "issues": [], "meta": {"elapsed": 2.42, "input_tokens": 1014, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

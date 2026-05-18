@@ -1,0 +1,1 @@
+{"slug": "ذَقْنٌ", "kind": "lemma", "parsed": {"glosses": {"en": "chin", "fa": "چانه", "ur": "ٹھوڑی", "tr": "çene", "id": "dagu", "bn": "ঠোঁট", "es": "mentón", "fr": "menton", "de": "Kinn", "ru": "подбородок", "zh": "下巴"}}, "issues": [], "meta": {"elapsed": 6.64, "input_tokens": 966, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

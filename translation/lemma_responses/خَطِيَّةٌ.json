@@ -1,0 +1,1 @@
+{"slug": "خَطِيَّةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "sin", "fa": "گناه", "ur": "گناہ", "tr": "günah", "id": "dosa", "bn": "পাপ", "es": "pecado", "fr": "péché", "de": "Sünde", "ru": "грех", "zh": "罪"}}, "issues": [], "meta": {"elapsed": 4.0, "input_tokens": 541, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

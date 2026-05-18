@@ -1,0 +1,1 @@
+{"slug": "فُطْرٌ", "kind": "lemma", "parsed": {"glosses": {"en": "mushroom", "fa": "قارچ", "ur": "مشروم", "tr": "mantar", "id": "jamur", "bn": "ছত্রাক", "es": "hongo", "fr": "champignon", "de": "Pilz", "ru": "гриб", "zh": "蘑菇"}}, "issues": [], "meta": {"elapsed": 3.96, "input_tokens": 2189, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

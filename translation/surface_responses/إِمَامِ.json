@@ -1,0 +1,1 @@
+{"slug": "إِمَامِ", "kind": "surface", "parsed": {"glosses": {"en": "leader", "fa": "پیشوا", "ur": "امام", "tr": "imam", "id": "imam", "bn": "ইমাম", "es": "imam", "fr": "imam", "de": "Imam", "ru": "имам", "zh": "伊玛目"}}, "issues": [], "meta": {"elapsed": 2.49, "input_tokens": 1113, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

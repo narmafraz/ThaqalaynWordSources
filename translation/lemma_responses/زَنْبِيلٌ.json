@@ -1,0 +1,1 @@
+{"slug": "زَنْبِيلٌ", "kind": "lemma", "parsed": {"glosses": {"en": "basket", "fa": "سبد", "ur": "ٹوکری", "tr": "sepet", "id": "keranjang", "bn": "ঝুড়ি", "es": "cesta", "fr": "panier", "de": "Korb", "ru": "корзина", "zh": "篮子"}}, "issues": [], "meta": {"elapsed": 3.28, "input_tokens": 548, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

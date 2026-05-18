@@ -1,0 +1,1 @@
+{"slug": "أَنْفِ", "kind": "surface", "parsed": {"glosses": {"en": "nose of", "fa": "بینیِ", "ur": "ناک کا", "tr": "burnun", "id": "hidung", "bn": "নাকের", "es": "nariz de", "fr": "nez de", "de": "Nase des", "ru": "нос", "zh": "鼻子"}}, "issues": [], "meta": {"elapsed": 2.71, "input_tokens": 999, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

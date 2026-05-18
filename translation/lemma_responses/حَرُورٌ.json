@@ -1,0 +1,1 @@
+{"slug": "حَرُورٌ", "kind": "lemma", "parsed": {"glosses": {"en": "heat", "fa": "گرما", "ur": "حرارت", "tr": "sıcaklık", "id": "panas", "bn": "তাপ", "es": "calor", "fr": "chaleur", "de": "Hitze", "ru": "жар", "zh": "炎热"}}, "issues": [], "meta": {"elapsed": 4.91, "input_tokens": 764, "output_tokens": 114, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

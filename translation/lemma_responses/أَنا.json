@@ -1,0 +1,1 @@
+{"slug": "أَنا", "kind": "lemma", "parsed": {"glosses": {"en": "I", "fa": "من", "ur": "میں", "tr": "ben", "id": "saya", "bn": "আমি", "es": "yo", "fr": "je", "de": "ich", "ru": "я", "zh": "我"}}, "issues": [], "meta": {"elapsed": 3.78, "input_tokens": 491, "output_tokens": 107, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

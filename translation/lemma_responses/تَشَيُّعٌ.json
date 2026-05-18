@@ -1,0 +1,1 @@
+{"slug": "تَشَيُّعٌ", "kind": "lemma", "parsed": {"glosses": {"en": "Shiism", "fa": "شیعه", "ur": "شیعیت", "tr": "Şiilik", "id": "Syiah", "bn": "শিয়া", "es": "chiismo", "fr": "chiisme", "de": "Schia", "ru": "шиизм", "zh": "什叶派"}}, "issues": [], "meta": {"elapsed": 3.74, "input_tokens": 480, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

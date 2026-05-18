@@ -1,0 +1,1 @@
+{"slug": "غَسّانٌ", "kind": "lemma", "parsed": {"glosses": {"en": "Ghassan", "fa": "غسان", "ur": "غسان", "tr": "Gassan", "id": "Ghassan", "bn": "গাসসান", "es": "Ghassan", "fr": "Ghassan", "de": "Ghassan", "ru": "Гассан", "zh": "加桑"}}, "issues": [], "meta": {"elapsed": 5.13, "input_tokens": 451, "output_tokens": 128, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

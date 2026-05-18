@@ -1,0 +1,1 @@
+{"slug": "هَضَمَ", "kind": "lemma", "parsed": {"glosses": {"en": "to break", "fa": "شکستن", "ur": "ٹوٹنا", "tr": "kırmak", "id": "memecah", "bn": "ভাঙা", "es": "romper", "fr": "casser", "de": "brechen", "ru": "ломать", "zh": "打破"}}, "issues": [], "meta": {"elapsed": 3.89, "input_tokens": 513, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

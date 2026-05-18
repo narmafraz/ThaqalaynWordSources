@@ -1,0 +1,1 @@
+{"slug": "الشَّعِيرِيِّ", "kind": "surface", "parsed": {"glosses": {"en": "of the barley", "fa": "جو", "ur": "جو", "tr": "arpa", "id": "jelai", "bn": "জোয়", "es": "cebada", "fr": "orge", "de": "Gerste", "ru": "ячмень", "zh": "大麦"}}, "issues": [], "meta": {"elapsed": 6.21, "input_tokens": 478, "output_tokens": 112, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

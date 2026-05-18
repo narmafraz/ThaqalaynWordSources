@@ -1,0 +1,1 @@
+{"slug": "سَطْلٌ", "kind": "lemma", "parsed": {"glosses": {"en": "bucket", "fa": "سطل", "ur": "بالٹی", "tr": "kova", "id": "ember", "bn": "বাঁশের ঝুড়ি", "es": "cubo", "fr": "seau", "de": "Eimer", "ru": "ведро", "zh": "桶"}}, "issues": [], "meta": {"elapsed": 5.59, "input_tokens": 822, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

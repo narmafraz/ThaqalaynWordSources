@@ -1,0 +1,1 @@
+{"slug": "رَئِيسٌ", "kind": "lemma", "parsed": {"glosses": {"en": "leader", "fa": "رهبر", "ur": "سربراہ", "tr": "lider", "id": "pemimpin", "bn": "নেতা", "es": "líder", "fr": "chef", "de": "Führer", "ru": "лидер", "zh": "领袖"}}, "issues": [], "meta": {"elapsed": 5.64, "input_tokens": 465, "output_tokens": 112, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

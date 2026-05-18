@@ -1,0 +1,1 @@
+{"slug": "صَحْنٌ", "kind": "lemma", "parsed": {"glosses": {"en": "bowl", "fa": "کاسه", "ur": "پیالہ", "tr": "kase", "id": "mangkuk", "bn": "বাটি", "es": "cuenco", "fr": "bol", "de": "Schale", "ru": "чаша", "zh": "碗"}}, "issues": [], "meta": {"elapsed": 5.37, "input_tokens": 1001, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

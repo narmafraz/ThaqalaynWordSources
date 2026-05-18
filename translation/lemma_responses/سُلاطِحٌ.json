@@ -1,0 +1,1 @@
+{"slug": "سُلاطِحٌ", "kind": "lemma", "parsed": {"glosses": {"en": "wide", "fa": "پهن", "ur": "وسیع", "tr": "geniş", "id": "luas", "bn": "প্রশস্ত", "es": "ancho", "fr": "large", "de": "breit", "ru": "широкий", "zh": "宽阔"}}, "issues": [], "meta": {"elapsed": 3.01, "input_tokens": 487, "output_tokens": 112, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "حَرْبٌ", "kind": "lemma", "parsed": {"glosses": {"en": "war", "fa": "جنگ", "ur": "جنگ", "tr": "savaş", "id": "perang", "bn": "যুদ্ধ", "es": "guerra", "fr": "guerre", "de": "Krieg", "ru": "война", "zh": "战争"}}, "issues": [], "meta": {"elapsed": 2.42, "input_tokens": 964, "output_tokens": 112, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

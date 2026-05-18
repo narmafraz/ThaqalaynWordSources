@@ -1,0 +1,1 @@
+{"slug": "طُنٌّ", "kind": "lemma", "parsed": {"glosses": {"en": "tonne", "fa": "تن", "ur": "ٹن", "tr": "ton", "id": "ton", "bn": "টন", "es": "tonelada", "fr": "tonne", "de": "Tonne", "ru": "тонна", "zh": "吨"}}, "issues": [], "meta": {"elapsed": 4.73, "input_tokens": 848, "output_tokens": 111, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

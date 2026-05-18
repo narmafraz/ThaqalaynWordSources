@@ -1,0 +1,1 @@
+{"slug": "واصِفٌ", "kind": "lemma", "parsed": {"glosses": {"en": "Wassif", "fa": "وصیف", "ur": "وصف", "tr": "Wassif", "id": "Wassif", "bn": "ওয়াশিফ", "es": "Wassif", "fr": "Wassif", "de": "Wassif", "ru": "Вассиф", "zh": "瓦西夫"}}, "issues": [], "meta": {"elapsed": 2.92, "input_tokens": 461, "output_tokens": 124, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

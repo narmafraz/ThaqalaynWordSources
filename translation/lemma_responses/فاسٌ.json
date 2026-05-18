@@ -1,0 +1,1 @@
+{"slug": "فاسٌ", "kind": "lemma", "parsed": {"glosses": {"en": "hoe", "fa": "بیل", "ur": "فاس", "tr": "çapa", "id": "cangkul", "bn": "ফাস", "es": "pala", "fr": "houe", "de": "Hacke", "ru": "мотыга", "zh": "锄头"}}, "issues": [], "meta": {"elapsed": 5.41, "input_tokens": 1026, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

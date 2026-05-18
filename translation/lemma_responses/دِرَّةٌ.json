@@ -1,0 +1,1 @@
+{"slug": "دِرَّةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "pearl", "fa": "مروارید", "ur": "موتی", "tr": "incir", "id": "mutiara", "bn": "মুক্তা", "es": "perla", "fr": "perle", "de": "Perle", "ru": "жемчуг", "zh": "珍珠"}}, "issues": [], "meta": {"elapsed": 3.81, "input_tokens": 938, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

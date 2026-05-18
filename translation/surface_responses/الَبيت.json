@@ -1,0 +1,1 @@
+{"slug": "الَبيت", "kind": "surface", "parsed": {"glosses": {"en": "the house", "fa": "خانه", "ur": "گھر", "tr": "ev", "id": "rumah", "bn": "বাড়ি", "es": "la casa", "fr": "la maison", "de": "das Haus", "ru": "дом", "zh": "房屋"}}, "issues": [], "meta": {"elapsed": 4.85, "input_tokens": 872, "output_tokens": 111, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "سِرْبٌ", "kind": "lemma", "parsed": {"glosses": {"en": "flock", "fa": "گله", "ur": "جھنڈ", "tr": "sürü", "id": "kawanan", "bn": "দল", "es": "rebaño", "fr": "troupeau", "de": "Schwarm", "ru": "стадо", "zh": "群"}}, "issues": [], "meta": {"elapsed": 6.03, "input_tokens": 995, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

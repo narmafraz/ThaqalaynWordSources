@@ -1,0 +1,1 @@
+{"slug": "نَظَرٌ", "kind": "lemma", "parsed": {"glosses": {"en": "glance", "fa": "نگاه", "ur": "نگاہ", "tr": "bakış", "id": "pandangan", "bn": "দৃষ্টি", "es": "mirada", "fr": "regard", "de": "Blick", "ru": "взгляд", "zh": "凝视"}}, "issues": [], "meta": {"elapsed": 3.73, "input_tokens": 870, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

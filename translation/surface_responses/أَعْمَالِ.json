@@ -1,0 +1,1 @@
+{"slug": "أَعْمَالِ", "kind": "surface", "parsed": {"glosses": {"en": "deeds", "fa": "اعمال", "ur": "اعمال", "tr": "işler", "id": "amal", "bn": "কাজ", "es": "obras", "fr": "œuvres", "de": "Werke", "ru": "дела", "zh": "行为"}}, "issues": [], "meta": {"elapsed": 2.39, "input_tokens": 1023, "output_tokens": 111, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

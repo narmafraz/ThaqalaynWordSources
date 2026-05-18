@@ -1,0 +1,1 @@
+{"slug": "عَفِيٌّ", "kind": "lemma", "parsed": {"glosses": {"en": "pure", "fa": "پاک", "ur": "صاف", "tr": "temiz", "id": "murni", "bn": "পবিত্র", "es": "puro", "fr": "pur", "de": "rein", "ru": "чистый", "zh": "纯洁的"}}, "issues": [], "meta": {"elapsed": 3.38, "input_tokens": 449, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

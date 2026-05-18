@@ -1,0 +1,1 @@
+{"slug": "عَضَّ", "kind": "lemma", "parsed": {"glosses": {"en": "to bite", "fa": "گاز گرفتن", "ur": "کترنا", "tr": "ısır", "id": "menggigit", "bn": "কাটা", "es": "morder", "fr": "mordre", "de": "beißen", "ru": "кусать", "zh": "咬"}}, "issues": [], "meta": {"elapsed": 4.7, "input_tokens": 2055, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

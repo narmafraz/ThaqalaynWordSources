@@ -1,0 +1,1 @@
+{"slug": "دَيْرانِيٌّ", "kind": "lemma", "parsed": {"glosses": {"en": "monk", "fa": "راهب", "ur": "راہب", "tr": "rahib", "id": "biarawan", "bn": "ভিক্ষু", "es": "monje", "fr": "moine", "de": "Mönch", "ru": "монах", "zh": "僧侣"}}, "issues": [], "meta": {"elapsed": 5.05, "input_tokens": 541, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

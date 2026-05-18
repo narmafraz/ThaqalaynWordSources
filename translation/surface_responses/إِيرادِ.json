@@ -1,0 +1,1 @@
+{"slug": "إِيرادِ", "kind": "surface", "parsed": {"glosses": {"en": "income", "fa": "درآمد", "ur": "آمد", "tr": "gelir", "id": "pendapatan", "bn": "আয়", "es": "ingreso", "fr": "revenu", "de": "Einkommen", "ru": "доход", "zh": "收入"}}, "issues": [], "meta": {"elapsed": 3.46, "input_tokens": 744, "output_tokens": 112, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

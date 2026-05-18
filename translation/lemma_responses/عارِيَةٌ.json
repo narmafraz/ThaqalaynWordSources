@@ -1,0 +1,1 @@
+{"slug": "عارِيَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "loan", "fa": "قرض", "ur": "قرض", "tr": "ödünç", "id": "pinjaman", "bn": "ঋণ", "es": "préstamo", "fr": "prêt", "de": "Leihe", "ru": "займ", "zh": "借用"}}, "issues": [], "meta": {"elapsed": 4.76, "input_tokens": 928, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

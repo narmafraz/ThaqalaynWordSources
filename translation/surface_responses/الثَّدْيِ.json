@@ -1,0 +1,1 @@
+{"slug": "الثَّدْيِ", "kind": "surface", "parsed": {"glosses": {"en": "the breast", "fa": "سینه", "ur": "چھاتی", "tr": "göğüs", "id": "payudara", "bn": "স্তন", "es": "pecho", "fr": "seins", "de": "Brust", "ru": "грудь", "zh": "乳房"}}, "issues": [], "meta": {"elapsed": 5.22, "input_tokens": 934, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

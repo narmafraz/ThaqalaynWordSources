@@ -1,0 +1,1 @@
+{"slug": "نُوبِيٌّ", "kind": "lemma", "parsed": {"glosses": {"en": "Nubian", "fa": "نوبی", "ur": "نوبی", "tr": "Nübi", "id": "Nubia", "bn": "নুবীয়", "es": "nubio", "fr": "nubien", "de": "Nubier", "ru": "нубиец", "zh": "努比亚人"}}, "issues": [], "meta": {"elapsed": 6.63, "input_tokens": 461, "output_tokens": 126, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

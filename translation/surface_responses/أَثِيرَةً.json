@@ -1,0 +1,1 @@
+{"slug": "أَثِيرَةً", "kind": "surface", "parsed": {"glosses": {"en": "ether", "fa": "اثر", "ur": "اثر", "tr": "ether", "id": "ether", "bn": "এথার", "es": "éter", "fr": "éther", "de": "Äther", "ru": "эфир", "zh": "以太"}}, "issues": [], "meta": {"elapsed": 2.88, "input_tokens": 1008, "output_tokens": 110, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

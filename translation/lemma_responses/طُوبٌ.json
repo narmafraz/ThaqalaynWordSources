@@ -1,0 +1,1 @@
+{"slug": "طُوبٌ", "kind": "lemma", "parsed": {"glosses": {"en": "brick", "fa": "آجر", "ur": "اینٹ", "tr": "tuğla", "id": "bata", "bn": "ইট", "es": "ladrillo", "fr": "brique", "de": "Ziegel", "ru": "кирпич", "zh": "砖"}}, "issues": [], "meta": {"elapsed": 3.88, "input_tokens": 641, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

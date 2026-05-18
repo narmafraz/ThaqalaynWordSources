@@ -1,0 +1,1 @@
+{"slug": "عِظام", "kind": "lemma", "parsed": {"glosses": {"en": "bones", "fa": "استخوان‌ها", "ur": "ہڈیاں", "tr": "kemikler", "id": "tulang", "bn": "হাড়", "es": "huesos", "fr": "os", "de": "Knochen", "ru": "кости", "zh": "骨头"}}, "issues": [], "meta": {"elapsed": 4.4, "input_tokens": 486, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

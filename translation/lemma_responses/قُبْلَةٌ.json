@@ -1,0 +1,1 @@
+{"slug": "قُبْلَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "kiss", "fa": "بوسه", "ur": "بوسہ", "tr": "öpücük", "id": "ciuman", "bn": "চুম্বন", "es": "beso", "fr": "baiser", "de": "Kuss", "ru": "поцелуй", "zh": "吻"}}, "issues": [], "meta": {"elapsed": 4.62, "input_tokens": 459, "output_tokens": 120, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

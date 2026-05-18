@@ -1,0 +1,1 @@
+{"slug": "نَبْعٌ", "kind": "lemma", "parsed": {"glosses": {"en": "spring", "fa": "چشمه", "ur": "چشمہ", "tr": "pınar", "id": "mata air", "bn": "ঝর্ণা", "es": "manantial", "fr": "source", "de": "Quelle", "ru": "источник", "zh": "泉水"}}, "issues": [], "meta": {"elapsed": 2.97, "input_tokens": 852, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

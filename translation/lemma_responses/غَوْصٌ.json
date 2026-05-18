@@ -1,0 +1,1 @@
+{"slug": "غَوْصٌ", "kind": "lemma", "parsed": {"glosses": {"en": "diving", "fa": "غواصی", "ur": "غوطہ", "tr": "dalış", "id": "menyelam", "bn": "ডুব", "es": "buceo", "fr": "plongée", "de": "Tauchen", "ru": "ныряние", "zh": "潜水"}}, "issues": [], "meta": {"elapsed": 4.28, "input_tokens": 479, "output_tokens": 120, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

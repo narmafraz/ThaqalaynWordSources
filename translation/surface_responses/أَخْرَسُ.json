@@ -1,0 +1,1 @@
+{"slug": "أَخْرَسُ", "kind": "surface", "parsed": {"glosses": {"en": "dumb", "fa": "نابینایی", "ur": "خاموشی", "tr": "sağır", "id": "bisu", "bn": "মূক", "es": "mudez", "fr": "muet", "de": "Stummheit", "ru": "немота", "zh": "哑"}}, "issues": [], "meta": {"elapsed": 4.14, "input_tokens": 1012, "output_tokens": 122, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

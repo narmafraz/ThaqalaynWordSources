@@ -1,0 +1,1 @@
+{"slug": "صَرْدا", "kind": "lemma", "parsed": {"glosses": {"en": "Sarda", "fa": "صردا", "ur": "صردا", "tr": "Sarda", "id": "Sarda", "bn": "সর্দা", "es": "Sarda", "fr": "Sarda", "de": "Sarda", "ru": "Сарда", "zh": "萨尔达"}}, "issues": [], "meta": {"elapsed": 4.76, "input_tokens": 449, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

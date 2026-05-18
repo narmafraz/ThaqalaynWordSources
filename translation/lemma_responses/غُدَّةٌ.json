@@ -1,0 +1,1 @@
+{"slug": "غُدَّةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "gland", "fa": "غده", "ur": "غدد", "tr": "bez", "id": "kelenjar", "bn": "গ্রন্থি", "es": "glándula", "fr": "glande", "de": "Drüse", "ru": "железа", "zh": "腺体"}}, "issues": [], "meta": {"elapsed": 5.84, "input_tokens": 977, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

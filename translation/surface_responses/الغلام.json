@@ -1,0 +1,1 @@
+{"slug": "الغلام", "kind": "surface", "parsed": {"glosses": {"en": "the boy", "fa": "پسر", "ur": "لڑکا", "tr": "oğlan", "id": "anak laki-laki", "bn": "ছেলে", "es": "niño", "fr": "garçon", "de": "Junge", "ru": "мальчик", "zh": "男孩"}}, "issues": [], "meta": {"elapsed": 3.99, "input_tokens": 973, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

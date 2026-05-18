@@ -1,0 +1,1 @@
+{"slug": "مِثْلَما", "kind": "lemma", "parsed": {"glosses": {"en": "like", "fa": "مانند", "ur": "جیسے", "tr": "gibi", "id": "seperti", "bn": "যেমন", "es": "como", "fr": "comme", "de": "wie", "ru": "как", "zh": "如同"}}, "issues": [], "meta": {"elapsed": 9.27, "input_tokens": 1642, "output_tokens": 110, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

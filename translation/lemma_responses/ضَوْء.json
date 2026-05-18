@@ -1,0 +1,1 @@
+{"slug": "ضَوْء", "kind": "lemma", "parsed": {"glosses": {"en": "light", "fa": "نور", "ur": "روشنی", "tr": "ışık", "id": "cahaya", "bn": "আলো", "es": "luz", "fr": "lumière", "de": "Licht", "ru": "свет", "zh": "光"}}, "issues": [], "meta": {"elapsed": 4.49, "input_tokens": 997, "output_tokens": 114, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

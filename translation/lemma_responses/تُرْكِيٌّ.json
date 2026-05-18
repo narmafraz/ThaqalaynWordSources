@@ -1,0 +1,1 @@
+{"slug": "تُرْكِيٌّ", "kind": "lemma", "parsed": {"glosses": {"en": "Turkish", "fa": "ترکی", "ur": "ترکی", "tr": "Türk", "id": "Turki", "bn": "তুর্কি", "es": "turco", "fr": "turc", "de": "türkisch", "ru": "турецкий", "zh": "土耳其的"}}, "issues": [], "meta": {"elapsed": 3.91, "input_tokens": 460, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

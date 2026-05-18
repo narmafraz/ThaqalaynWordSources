@@ -1,0 +1,1 @@
+{"slug": "سُخْطٌ", "kind": "lemma", "parsed": {"glosses": {"en": "anger", "fa": "خشم", "ur": "غصہ", "tr": "öfke", "id": "kemarahan", "bn": "রাগ", "es": "ira", "fr": "colère", "de": "Zorn", "ru": "гнев", "zh": "愤怒"}}, "issues": [], "meta": {"elapsed": 3.32, "input_tokens": 938, "output_tokens": 113, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

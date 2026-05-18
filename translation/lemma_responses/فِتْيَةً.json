@@ -1,0 +1,1 @@
+{"slug": "فِتْيَةً", "kind": "lemma", "parsed": {"glosses": {"en": "youth", "fa": "جوان", "ur": "جوان", "tr": "genç", "id": "pemuda", "bn": "যুবক", "es": "joven", "fr": "jeune homme", "de": "Jugendlicher", "ru": "юноша", "zh": "青年"}}, "issues": [], "meta": {"elapsed": 4.63, "input_tokens": 493, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

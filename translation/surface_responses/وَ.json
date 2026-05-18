@@ -1,0 +1,1 @@
+{"slug": "وَ", "kind": "surface", "parsed": {"glosses": {"en": "and", "fa": "و", "ur": "اور", "tr": "ve", "id": "dan", "bn": "এবং", "es": "y", "fr": "et", "de": "und", "ru": "и", "zh": "和"}}, "issues": [], "meta": {"elapsed": 3.96, "input_tokens": 981, "output_tokens": 105, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

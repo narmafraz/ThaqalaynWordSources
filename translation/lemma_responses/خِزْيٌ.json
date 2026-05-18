@@ -1,0 +1,1 @@
+{"slug": "خِزْيٌ", "kind": "lemma", "parsed": {"glosses": {"en": "disgrace", "fa": "شرم", "ur": "شرم", "tr": "rezillik", "id": "malu", "bn": "শরম", "es": "vergüenza", "fr": "honte", "de": "Schande", "ru": "позор", "zh": "耻辱"}}, "issues": [], "meta": {"elapsed": 5.46, "input_tokens": 1003, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

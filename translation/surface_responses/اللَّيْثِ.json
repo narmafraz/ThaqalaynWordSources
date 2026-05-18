@@ -1,0 +1,1 @@
+{"slug": "اللَّيْثِ", "kind": "surface", "parsed": {"glosses": {"en": "the lion", "fa": "شیر", "ur": "شیر", "tr": "aslan", "id": "singa", "bn": "সিংহ", "es": "el león", "fr": "le lion", "de": "der Löwe", "ru": "лев", "zh": "狮子"}}, "issues": [], "meta": {"elapsed": 5.17, "input_tokens": 1025, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

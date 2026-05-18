@@ -1,0 +1,1 @@
+{"slug": "أَعْطَى", "kind": "lemma", "parsed": {"glosses": {"en": "to give", "fa": "دادن", "ur": "دینا", "tr": "vermek", "id": "memberi", "bn": "দান করা", "es": "dar", "fr": "donner", "de": "geben", "ru": "давать", "zh": "给予"}}, "issues": [], "meta": {"elapsed": 3.02, "input_tokens": 492, "output_tokens": 113, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

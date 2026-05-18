@@ -1,0 +1,1 @@
+{"slug": "قَطُّ", "kind": "surface", "parsed": {"glosses": {"en": "ever", "fa": "تا کنون", "ur": "کبھی", "tr": "hiç", "id": "pernah", "bn": "কখনো", "es": "jamás", "fr": "jamais", "de": "jemals", "ru": "когда-либо", "zh": "曾经"}}, "issues": [], "meta": {"elapsed": 4.53, "input_tokens": 1135, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

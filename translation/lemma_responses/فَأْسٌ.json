@@ -1,0 +1,1 @@
+{"slug": "فَأْسٌ", "kind": "lemma", "parsed": {"glosses": {"en": "axe", "fa": "تبر", "ur": "بیل", "tr": "balta", "id": "kapak", "bn": "কুড়াল", "es": "hacha", "fr": "hache", "de": "Axt", "ru": "топор", "zh": "斧头"}}, "issues": [], "meta": {"elapsed": 5.63, "input_tokens": 1018, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

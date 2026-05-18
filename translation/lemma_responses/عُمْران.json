@@ -1,0 +1,1 @@
+{"slug": "عُمْران", "kind": "lemma", "parsed": {"glosses": {"en": "Imran", "fa": "عمران", "ur": "عمران", "tr": "Imran", "id": "Imran", "bn": "ইমরান", "es": "Imran", "fr": "Imran", "de": "Imran", "ru": "Имран", "zh": "伊姆兰"}}, "issues": [], "meta": {"elapsed": 2.85, "input_tokens": 741, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

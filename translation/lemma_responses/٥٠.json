@@ -1,0 +1,1 @@
+{"slug": "٥٠", "kind": "lemma", "parsed": {"glosses": {"en": "50", "fa": "پنجاه", "ur": "پچاس", "tr": "elli", "id": "lima puluh", "bn": "পঞ্চাশ", "es": "cincuenta", "fr": "cinquante", "de": "fünfzig", "ru": "пятьдесят", "zh": "五十"}}, "issues": [], "meta": {"elapsed": 6.21, "input_tokens": 452, "output_tokens": 120, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

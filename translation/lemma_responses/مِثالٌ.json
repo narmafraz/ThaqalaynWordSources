@@ -1,0 +1,1 @@
+{"slug": "مِثالٌ", "kind": "lemma", "parsed": {"glosses": {"en": "example", "fa": "مثال", "ur": "مثال", "tr": "örnek", "id": "contoh", "bn": "উদাহরণ", "es": "ejemplo", "fr": "exemple", "de": "Beispiel", "ru": "пример", "zh": "例子"}}, "issues": [], "meta": {"elapsed": 3.22, "input_tokens": 636, "output_tokens": 111, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

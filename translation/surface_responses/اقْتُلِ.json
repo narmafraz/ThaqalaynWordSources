@@ -1,0 +1,1 @@
+{"slug": "اقْتُلِ", "kind": "surface", "parsed": {"glosses": {"en": "kill!", "fa": "بکش!", "ur": "قتل کرو!", "tr": "öldür!", "id": "bunuh!", "bn": "হত্যা কর!", "es": "¡mata!", "fr": "tue!", "de": "töte!", "ru": "убей!", "zh": "杀死！"}}, "issues": [], "meta": {"elapsed": 4.59, "input_tokens": 640, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

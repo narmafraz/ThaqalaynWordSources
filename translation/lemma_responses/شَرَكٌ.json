@@ -1,0 +1,1 @@
+{"slug": "شَرَكٌ", "kind": "lemma", "parsed": {"glosses": {"en": "snare", "fa": "تله", "ur": "فندان", "tr": "tuzak", "id": "jerat", "bn": "ফাঁদ", "es": "trampa", "fr": "piège", "de": "Schlinge", "ru": "ловушка", "zh": "陷阱"}}, "issues": [], "meta": {"elapsed": 3.97, "input_tokens": 2111, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

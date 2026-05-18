@@ -1,0 +1,1 @@
+{"slug": "تِبْنٌ", "kind": "lemma", "parsed": {"glosses": {"en": "straw", "fa": "کاه", "ur": "کھلی", "tr": "samanyı", "id": "jerami", "bn": "কুঁড়ি", "es": "paja", "fr": "paille", "de": "Stroh", "ru": "солома", "zh": "稻草"}}, "issues": [], "meta": {"elapsed": 4.1, "input_tokens": 896, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

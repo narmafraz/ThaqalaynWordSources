@@ -1,0 +1,1 @@
+{"slug": "عُنْقُودٌ", "kind": "lemma", "parsed": {"glosses": {"en": "cluster", "fa": "دسته", "ur": "گچھ", "tr": "salkım", "id": "tandan", "bn": "গুচ্ছ", "es": "racimo", "fr": "grappe", "de": "Traube", "ru": "кисть", "zh": "串"}}, "issues": [], "meta": {"elapsed": 5.97, "input_tokens": 618, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

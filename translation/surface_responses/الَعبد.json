@@ -1,0 +1,1 @@
+{"slug": "الَعبد", "kind": "surface", "parsed": {"glosses": {"en": "the slave", "fa": "برده", "ur": "غلام", "tr": "köle", "id": "hamba", "bn": "দাস", "es": "esclavo", "fr": "esclave", "de": "Sklave", "ru": "раб", "zh": "奴隶"}}, "issues": [], "meta": {"elapsed": 6.16, "input_tokens": 961, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

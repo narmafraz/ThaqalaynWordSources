@@ -1,0 +1,1 @@
+{"slug": "9", "kind": "surface", "parsed": {"glosses": {"en": "9", "fa": "۹", "ur": "۹", "tr": "9", "id": "9", "bn": "৯", "es": "9", "fr": "9", "de": "9", "ru": "9", "zh": "9"}}, "issues": [], "meta": {"elapsed": 3.21, "input_tokens": 540, "output_tokens": 106, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "واوٌ", "kind": "lemma", "parsed": {"glosses": {"en": "Waw", "fa": "واو", "ur": "واؤ", "tr": "Vav", "id": "Waw", "bn": "ওয়াও", "es": "Waw", "fr": "Waw", "de": "Waw", "ru": "Вау", "zh": "瓦乌"}}, "issues": [], "meta": {"elapsed": 3.31, "input_tokens": 480, "output_tokens": 114, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

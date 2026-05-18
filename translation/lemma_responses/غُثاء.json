@@ -1,0 +1,1 @@
+{"slug": "غُثاء", "kind": "lemma", "parsed": {"glosses": {"en": "stubble", "fa": "کاه", "ur": "پھلی", "tr": "saman", "id": "jerami", "bn": "কুশ", "es": "paja", "fr": "paille", "de": "Stoppel", "ru": "солома", "zh": "麦秸"}}, "issues": [], "meta": {"elapsed": 3.93, "input_tokens": 463, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

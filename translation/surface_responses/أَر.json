@@ -1,0 +1,1 @@
+{"slug": "أَر", "kind": "surface", "parsed": {"glosses": {"en": "to say", "fa": "گفتن", "ur": "کہنا", "tr": "demek", "id": "berkata", "bn": "বলা", "es": "decir", "fr": "dire", "de": "sagen", "ru": "говорить", "zh": "说"}}, "issues": [], "meta": {"elapsed": 4.07, "input_tokens": 545, "output_tokens": 113, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

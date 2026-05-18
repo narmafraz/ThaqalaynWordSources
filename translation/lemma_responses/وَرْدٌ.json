@@ -1,0 +1,1 @@
+{"slug": "وَرْدٌ", "kind": "lemma", "parsed": {"glosses": {"en": "rose", "fa": "گل رز", "ur": "گلاب", "tr": "gül", "id": "mawar", "bn": "গোলাপ", "es": "rosa", "fr": "rose", "de": "Rose", "ru": "роза", "zh": "玫瑰"}}, "issues": [], "meta": {"elapsed": 5.24, "input_tokens": 1735, "output_tokens": 111, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

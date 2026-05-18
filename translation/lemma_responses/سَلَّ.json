@@ -1,0 +1,1 @@
+{"slug": "سَلَّ", "kind": "lemma", "parsed": {"glosses": {"en": "to pull out", "fa": "کشیدن", "ur": "کھینچنا", "tr": "çekmek", "id": "menarik", "bn": "টানা", "es": "tirar", "fr": "tirer", "de": "ziehen", "ru": "тянуть", "zh": "拉"}}, "issues": [], "meta": {"elapsed": 4.64, "input_tokens": 963, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

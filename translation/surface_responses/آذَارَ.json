@@ -1,0 +1,1 @@
+{"slug": "آذَارَ", "kind": "surface", "parsed": {"glosses": {"en": "March", "fa": "مارس", "ur": "مارچ", "tr": "Mart", "id": "Maret", "bn": "মার্চ", "es": "Marzo", "fr": "Mars", "de": "März", "ru": "Март", "zh": "三月"}}, "issues": [], "meta": {"elapsed": 2.15, "input_tokens": 706, "output_tokens": 113, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

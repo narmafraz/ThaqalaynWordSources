@@ -1,0 +1,1 @@
+{"slug": "نِظامٌ", "kind": "lemma", "parsed": {"glosses": {"en": "system", "fa": "نظام", "ur": "نظام", "tr": "sistem", "id": "sistem", "bn": "নিতম", "es": "sistema", "fr": "système", "de": "System", "ru": "система", "zh": "系统"}}, "issues": [], "meta": {"elapsed": 4.26, "input_tokens": 791, "output_tokens": 112, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "هُتافٌ", "kind": "lemma", "parsed": {"glosses": {"en": "shout", "fa": "فریاد", "ur": "چيخ", "tr": "bağırma", "id": "teriakan", "bn": "চিৎকার", "es": "grito", "fr": "cri", "de": "Schrei", "ru": "крик", "zh": "呼喊"}}, "issues": [], "meta": {"elapsed": 6.44, "input_tokens": 450, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

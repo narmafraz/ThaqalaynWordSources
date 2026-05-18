@@ -1,0 +1,1 @@
+{"slug": "خَيْمَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "tent", "fa": "خیمه", "ur": "خیمہ", "tr": "çadır", "id": "tenda", "bn": "খিমার", "es": "tienda", "fr": "tente", "de": "Zelt", "ru": "палатка", "zh": "帐篷"}}, "issues": [], "meta": {"elapsed": 5.43, "input_tokens": 943, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

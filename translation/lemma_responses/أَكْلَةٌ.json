@@ -1,0 +1,1 @@
+{"slug": "أَكْلَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "meal", "fa": "وعده غذا", "ur": "کھانا", "tr": "yemek", "id": "makanan", "bn": "খাবার", "es": "comida", "fr": "repas", "de": "Mahlzeit", "ru": "еда", "zh": "一餐"}}, "issues": [], "meta": {"elapsed": 6.18, "input_tokens": 894, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

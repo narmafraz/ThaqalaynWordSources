@@ -1,0 +1,1 @@
+{"slug": "إدريس", "kind": "surface", "parsed": {"glosses": {"en": "Idris", "fa": "ادريس", "ur": "ادريس", "tr": "Idris", "id": "Idris", "bn": "ইদরিস", "es": "Idris", "fr": "Idris", "de": "Idris", "ru": "Идрис", "zh": "伊德里斯"}}, "issues": [], "meta": {"elapsed": 1.91, "input_tokens": 574, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

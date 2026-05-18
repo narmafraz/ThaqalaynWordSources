@@ -1,0 +1,1 @@
+{"slug": "ضِلْعٌ", "kind": "lemma", "parsed": {"glosses": {"en": "rib", "fa": "دنده", "ur": "پسلی", "tr": "kaburga", "id": "tulang rusuk", "bn": "পাঁজর", "es": "costilla", "fr": "côte", "de": "Rippe", "ru": "ребро", "zh": "肋骨"}}, "issues": [], "meta": {"elapsed": 4.26, "input_tokens": 499, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

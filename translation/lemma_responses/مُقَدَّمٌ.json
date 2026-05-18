@@ -1,0 +1,1 @@
+{"slug": "مُقَدَّمٌ", "kind": "lemma", "parsed": {"glosses": {"en": "chief", "fa": "رئیس", "ur": "سربراہ", "tr": "başkan", "id": "ketua", "bn": "প্রধান", "es": "jefe", "fr": "chef", "de": "Anführer", "ru": "глава", "zh": "首领"}}, "issues": [], "meta": {"elapsed": 5.14, "input_tokens": 542, "output_tokens": 114, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

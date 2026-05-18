@@ -1,0 +1,1 @@
+{"slug": "الطَّاقِ", "kind": "surface", "parsed": {"glosses": {"en": "the arch", "fa": "طاق", "ur": "طاق", "tr": "kemer", "id": "kubah", "bn": "আর্ক", "es": "el arco", "fr": "l'arche", "de": "der Bogen", "ru": "арка", "zh": "拱门"}}, "issues": [], "meta": {"elapsed": 4.66, "input_tokens": 1045, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "زَقُّومٌ", "kind": "lemma", "parsed": {"glosses": {"en": "Zaqqum", "fa": "زقوم", "ur": "زقوم", "tr": "Zakkum", "id": "Zaqqum", "bn": "জাক্কুম", "es": "Zaqqum", "fr": "Zaqqum", "de": "Zaqqum", "ru": "Заккум", "zh": "扎克库姆"}}, "issues": [], "meta": {"elapsed": 4.18, "input_tokens": 974, "output_tokens": 133, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

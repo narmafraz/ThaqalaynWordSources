@@ -1,0 +1,1 @@
+{"slug": "عُمَيْر", "kind": "lemma", "parsed": {"glosses": {"en": "Umayr", "fa": "عمیر", "ur": "عمیر", "tr": "Umeyr", "id": "Umayr", "bn": "উমাইর", "es": "Umayr", "fr": "Umayr", "de": "Umayr", "ru": "Умайр", "zh": "乌迈尔"}}, "issues": [], "meta": {"elapsed": 4.52, "input_tokens": 466, "output_tokens": 124, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

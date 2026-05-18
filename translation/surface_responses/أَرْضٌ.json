@@ -1,0 +1,1 @@
+{"slug": "أَرْضٌ", "kind": "surface", "parsed": {"glosses": {"en": "earth", "fa": "زمین", "ur": "زمین", "tr": "yer", "id": "bumi", "bn": "পৃথিবী", "es": "tierra", "fr": "terre", "de": "Erde", "ru": "земля", "zh": "大地"}}, "issues": [], "meta": {"elapsed": 3.34, "input_tokens": 1083, "output_tokens": 114, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

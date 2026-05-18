@@ -1,0 +1,1 @@
+{"slug": "أَسُنَّةٌ", "kind": "surface", "parsed": {"glosses": {"en": "teeth", "fa": "دندان‌ها", "ur": "دانت", "tr": "dişler", "id": "gigi", "bn": "দাঁত", "es": "dientes", "fr": "dents", "de": "Zähne", "ru": "зубы", "zh": "牙齿"}}, "issues": [], "meta": {"elapsed": 2.33, "input_tokens": 907, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

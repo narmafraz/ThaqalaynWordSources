@@ -1,0 +1,1 @@
+{"slug": "عاصِي", "kind": "lemma", "parsed": {"glosses": {"en": "Oasi", "fa": "عاصی", "ur": "عاصی", "tr": "Asi", "id": "Oasi", "bn": "ওয়াসি", "es": "Oasi", "fr": "Oasi", "de": "Oasi", "ru": "Оаси", "zh": "瓦西"}}, "issues": [], "meta": {"elapsed": 4.3, "input_tokens": 449, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

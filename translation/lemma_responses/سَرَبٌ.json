@@ -1,0 +1,1 @@
+{"slug": "سَرَبٌ", "kind": "lemma", "parsed": {"glosses": {"en": "burrow", "fa": "لانه", "ur": "غار", "tr": "yuva", "id": "liang", "bn": "গর্ত", "es": "madriguera", "fr": "terrier", "de": "Bau", "ru": "нора", "zh": "洞穴"}}, "issues": [], "meta": {"elapsed": 4.8, "input_tokens": 979, "output_tokens": 112, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

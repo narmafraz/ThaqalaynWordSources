@@ -1,0 +1,1 @@
+{"slug": "اشْرَبُوا", "kind": "surface", "parsed": {"glosses": {"en": "drink", "fa": "نوشیدن", "ur": "پاییدن", "tr": "içmek", "id": "minum", "bn": "পান করা", "es": "beber", "fr": "boire", "de": "trinken", "ru": "пить", "zh": "喝"}}, "issues": [], "meta": {"elapsed": 5.07, "input_tokens": 749, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

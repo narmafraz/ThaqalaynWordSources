@@ -1,0 +1,1 @@
+{"slug": "حاسِدٌ", "kind": "lemma", "parsed": {"glosses": {"en": "envier", "fa": "حسود", "ur": "حاسد", "tr": "haset", "id": "iri", "bn": "হিংসু", "es": "envidioso", "fr": "envieux", "de": "Neider", "ru": "завистник", "zh": "嫉妒者"}}, "issues": [], "meta": {"elapsed": 4.5, "input_tokens": 535, "output_tokens": 120, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

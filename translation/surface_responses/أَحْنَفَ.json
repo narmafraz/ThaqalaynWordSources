@@ -1,0 +1,1 @@
+{"slug": "أَحْنَفَ", "kind": "surface", "parsed": {"glosses": {"en": "Ahnaf", "fa": "احنف", "ur": "احنف", "tr": "Ahnaf", "id": "Ahnaf", "bn": "আহনফ", "es": "Ahnaf", "fr": "Ahnaf", "de": "Ahnaf", "ru": "Ахнаф", "zh": "艾赫纳夫"}}, "issues": [], "meta": {"elapsed": 4.38, "input_tokens": 969, "output_tokens": 120, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

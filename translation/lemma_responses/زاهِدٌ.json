@@ -1,0 +1,1 @@
+{"slug": "زاهِدٌ", "kind": "lemma", "parsed": {"glosses": {"en": "ascetic", "fa": "زاهد", "ur": "زہد کرنے والا", "tr": "zahid", "id": "zuhud", "bn": "জাহিদ", "es": "asceta", "fr": "ascète", "de": "Asket", "ru": "аскет", "zh": "苦行者"}}, "issues": [], "meta": {"elapsed": 4.38, "input_tokens": 612, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

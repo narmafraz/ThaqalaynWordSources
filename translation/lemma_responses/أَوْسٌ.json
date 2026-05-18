@@ -1,0 +1,1 @@
+{"slug": "أَوْسٌ", "kind": "lemma", "parsed": {"glosses": {"en": "Aws", "fa": "اوس", "ur": "اوس", "tr": "Aws", "id": "Aws", "bn": "আউস", "es": "Aws", "fr": "Aws", "de": "Aws", "ru": "Аус", "zh": "奥斯"}}, "issues": [], "meta": {"elapsed": 3.15, "input_tokens": 449, "output_tokens": 109, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "صادٌ", "kind": "lemma", "parsed": {"glosses": {"en": "Ṣād", "fa": "صاد", "ur": "صاد", "tr": "Sad", "id": "Sad", "bn": "সাদ", "es": "Ṣād", "fr": "Ṣād", "de": "Ṣād", "ru": "Сад", "zh": "萨德"}}, "issues": [], "meta": {"elapsed": 5.78, "input_tokens": 944, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

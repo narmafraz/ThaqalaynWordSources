@@ -1,0 +1,1 @@
+{"slug": "لَكّ", "kind": "lemma", "parsed": {"glosses": {"en": "varnish", "fa": "لاک", "ur": "لیکر", "tr": "lak", "id": "pernis", "bn": "ল্যাকার", "es": "barniz", "fr": "vernis", "de": "Lack", "ru": "лак", "zh": "清漆"}}, "issues": [], "meta": {"elapsed": 5.99, "input_tokens": 1181, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

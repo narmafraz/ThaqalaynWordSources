@@ -1,0 +1,1 @@
+{"slug": "زَهَقَ", "kind": "lemma", "parsed": {"glosses": {"en": "to depart", "fa": "رفتن", "ur": "جانا", "tr": "gitmek", "id": "pergi", "bn": "যাওয়া", "es": "irse", "fr": "partir", "de": "gehen", "ru": "покидать", "zh": "离开"}}, "issues": [], "meta": {"elapsed": 4.31, "input_tokens": 591, "output_tokens": 113, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "أُحُدٍ", "kind": "surface", "parsed": {"glosses": {"en": "Uhud", "fa": "اُحُد", "ur": "اُحُد", "tr": "Uhud", "id": "Uhud", "bn": "উহুদ", "es": "Uhud", "fr": "Ouhoud", "de": "Uhud", "ru": "Ухуд", "zh": "乌侯德"}}, "issues": [], "meta": {"elapsed": 6.53, "input_tokens": 1061, "output_tokens": 122, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "أَنتم", "kind": "surface", "parsed": {"glosses": {"en": "you (plural)", "fa": "شما", "ur": "تم", "tr": "siz", "id": "kalian", "bn": "তোমরা", "es": "vosotros", "fr": "vous", "de": "ihr", "ru": "вы", "zh": "你们"}}, "issues": [], "meta": {"elapsed": 4.83, "input_tokens": 590, "output_tokens": 111, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

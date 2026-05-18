@@ -1,0 +1,1 @@
+{"slug": "السُّنَّةُ", "kind": "surface", "parsed": {"glosses": {"en": "the year", "fa": "سال", "ur": "سال", "tr": "yıl", "id": "tahun", "bn": "বছর", "es": "año", "fr": "année", "de": "Jahr", "ru": "год", "zh": "年"}}, "issues": [], "meta": {"elapsed": 3.42, "input_tokens": 1080, "output_tokens": 109, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

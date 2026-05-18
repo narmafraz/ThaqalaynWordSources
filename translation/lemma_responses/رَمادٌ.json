@@ -1,0 +1,1 @@
+{"slug": "رَمادٌ", "kind": "lemma", "parsed": {"glosses": {"en": "ash", "fa": "خاکستر", "ur": "راش", "tr": "kül", "id": "abu", "bn": "ভস্ম", "es": "ceniza", "fr": "cendre", "de": "Asche", "ru": "пепел", "zh": "灰烬"}}, "issues": [], "meta": {"elapsed": 5.66, "input_tokens": 986, "output_tokens": 113, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "فَرِيسَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "prey", "fa": "شکار", "ur": "شکار", "tr": "av", "id": "buruan", "bn": "শিকার", "es": "presa", "fr": "proie", "de": "Beute", "ru": "добыча", "zh": "猎物"}}, "issues": [], "meta": {"elapsed": 4.48, "input_tokens": 498, "output_tokens": 113, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

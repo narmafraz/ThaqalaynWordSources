@@ -1,0 +1,1 @@
+{"slug": "حَوّاء", "kind": "lemma", "parsed": {"glosses": {"en": "Eve", "fa": "حوا", "ur": "حواء", "tr": "Havva", "id": "Hawa", "bn": "হাওয়া", "es": "Eva", "fr": "Ève", "de": "Eva", "ru": "Хавва", "zh": "夏娃"}}, "issues": [], "meta": {"elapsed": 3.51, "input_tokens": 469, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

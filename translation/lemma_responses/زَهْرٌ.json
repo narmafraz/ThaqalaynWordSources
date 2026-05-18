@@ -1,0 +1,1 @@
+{"slug": "زَهْرٌ", "kind": "lemma", "parsed": {"glosses": {"en": "flower", "fa": "گل", "ur": "پھول", "tr": "çiçek", "id": "bunga", "bn": "ফুল", "es": "flor", "fr": "fleur", "de": "Blume", "ru": "цветок", "zh": "花"}}, "issues": [], "meta": {"elapsed": 3.64, "input_tokens": 1425, "output_tokens": 112, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

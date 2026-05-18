@@ -1,0 +1,1 @@
+{"slug": "شِعْرٌ", "kind": "lemma", "parsed": {"glosses": {"en": "hair", "fa": "مو", "ur": "بال", "tr": "saç", "id": "rambut", "bn": "চুল", "es": "pelo", "fr": "cheveux", "de": "Haar", "ru": "волос", "zh": "头发"}}, "issues": [], "meta": {"elapsed": 3.81, "input_tokens": 1546, "output_tokens": 110, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

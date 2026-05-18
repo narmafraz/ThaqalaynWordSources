@@ -1,0 +1,1 @@
+{"slug": "أَخْفَافَ", "kind": "surface", "parsed": {"glosses": {"en": "hooves", "fa": "سم‌ها", "ur": "پاؤں", "tr": "ayaklar", "id": "kuku", "bn": "পা", "es": "pezuñas", "fr": "sabots", "de": "Hufe", "ru": "копыта", "zh": "蹄子"}}, "issues": [], "meta": {"elapsed": 4.98, "input_tokens": 1065, "output_tokens": 120, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

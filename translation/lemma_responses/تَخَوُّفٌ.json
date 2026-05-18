@@ -1,0 +1,1 @@
+{"slug": "تَخَوُّفٌ", "kind": "lemma", "parsed": {"glosses": {"en": "fear", "fa": "ترس", "ur": "خوف", "tr": "korku", "id": "takut", "bn": "ভয়", "es": "temor", "fr": "crainte", "de": "Furcht", "ru": "страх", "zh": "恐惧"}}, "issues": [], "meta": {"elapsed": 2.89, "input_tokens": 481, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

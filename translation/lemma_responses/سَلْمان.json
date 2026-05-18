@@ -1,0 +1,1 @@
+{"slug": "سَلْمان", "kind": "lemma", "parsed": {"glosses": {"en": "Salman", "fa": "سلمان", "ur": "سلمان", "tr": "Salman", "id": "Salman", "bn": "সালমান", "es": "Salman", "fr": "Salman", "de": "Salman", "ru": "Сальман", "zh": "萨尔曼"}}, "issues": [], "meta": {"elapsed": 3.53, "input_tokens": 619, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

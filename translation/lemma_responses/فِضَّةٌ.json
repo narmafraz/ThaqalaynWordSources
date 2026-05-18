@@ -1,0 +1,1 @@
+{"slug": "فِضَّةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "silver", "fa": "نقره", "ur": "چاندی", "tr": "gümüş", "id": "perak", "bn": "রূপা", "es": "plata", "fr": "argent", "de": "Silber", "ru": "серебро", "zh": "银"}}, "issues": [], "meta": {"elapsed": 4.16, "input_tokens": 767, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

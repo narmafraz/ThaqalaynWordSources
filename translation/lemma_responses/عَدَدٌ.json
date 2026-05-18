@@ -1,0 +1,1 @@
+{"slug": "عَدَدٌ", "kind": "lemma", "parsed": {"glosses": {"en": "number", "fa": "عدد", "ur": "عدد", "tr": "sayı", "id": "jumlah", "bn": "সংখ্যা", "es": "número", "fr": "nombre", "de": "Anzahl", "ru": "число", "zh": "数字"}}, "issues": [], "meta": {"elapsed": 4.5, "input_tokens": 1260, "output_tokens": 110, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

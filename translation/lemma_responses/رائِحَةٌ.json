@@ -1,0 +1,1 @@
+{"slug": "رائِحَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "smell", "fa": "بوی خوش", "ur": "خوشبوئی", "tr": "koku", "id": "bau", "bn": "গন্ধ", "es": "olor", "fr": "odeur", "de": "Geruch", "ru": "запах", "zh": "气味"}}, "issues": [], "meta": {"elapsed": 2.59, "input_tokens": 462, "output_tokens": 114, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

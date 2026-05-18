@@ -1,0 +1,1 @@
+{"slug": "بَيْضٌ", "kind": "lemma", "parsed": {"glosses": {"en": "egg", "fa": "تخم مرغ", "ur": "انڈا", "tr": "yumurta", "id": "telur", "bn": "ডিম", "es": "huevo", "fr": "œuf", "de": "Ei", "ru": "яйцо", "zh": "蛋"}}, "issues": [], "meta": {"elapsed": 3.46, "input_tokens": 1803, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

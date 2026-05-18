@@ -1,0 +1,1 @@
+{"slug": "أَلْكَن", "kind": "lemma", "parsed": {"glosses": {"en": "lisper", "fa": "لال", "ur": "لال", "tr": "lal", "id": "pelolet", "bn": "ললিত", "es": "tartamudo", "fr": "bègue", "de": "Stotterer", "ru": "заика", "zh": "口吃者"}}, "issues": [], "meta": {"elapsed": 4.91, "input_tokens": 460, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

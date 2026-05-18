@@ -1,0 +1,1 @@
+{"slug": "بَصَلٌ", "kind": "lemma", "parsed": {"glosses": {"en": "onion", "fa": "پیاز", "ur": "پیاز", "tr": "soğan", "id": "bawang", "bn": "পেঁয়াজ", "es": "cebolla", "fr": "oignon", "de": "Zwiebel", "ru": "лук", "zh": "洋葱"}}, "issues": [], "meta": {"elapsed": 7.25, "input_tokens": 974, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

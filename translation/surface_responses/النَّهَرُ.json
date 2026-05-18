@@ -1,0 +1,1 @@
+{"slug": "النَّهَرُ", "kind": "surface", "parsed": {"glosses": {"en": "the river", "fa": "رود", "ur": "دریا", "tr": "nehir", "id": "sungai", "bn": "নদী", "es": "río", "fr": "rivière", "de": "Fluss", "ru": "река", "zh": "河流"}}, "issues": [], "meta": {"elapsed": 5.29, "input_tokens": 999, "output_tokens": 114, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

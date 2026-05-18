@@ -1,0 +1,1 @@
+{"slug": "أَلْبَانِ", "kind": "surface", "parsed": {"glosses": {"en": "milks", "fa": "شیرها", "ur": "دودھ", "tr": "sütler", "id": "susu", "bn": "দুধ", "es": "leches", "fr": "laits", "de": "Milch", "ru": "молоко", "zh": "牛奶"}}, "issues": [], "meta": {"elapsed": 5.25, "input_tokens": 789, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

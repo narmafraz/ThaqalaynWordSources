@@ -1,0 +1,1 @@
+{"slug": "خُضْرَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "greenness", "fa": "سبزی", "ur": "سبز رنگ", "tr": "yeşillik", "id": "hijau", "bn": "সবুজ", "es": "verde", "fr": "verdure", "de": "Grün", "ru": "зелень", "zh": "绿色"}}, "issues": [], "meta": {"elapsed": 4.84, "input_tokens": 917, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

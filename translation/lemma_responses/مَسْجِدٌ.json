@@ -1,0 +1,1 @@
+{"slug": "مَسْجِدٌ", "kind": "lemma", "parsed": {"glosses": {"en": "mosque", "fa": "مسجد", "ur": "مسجد", "tr": "mescit", "id": "masjid", "bn": "মসজিদ", "es": "mezquita", "fr": "mosquée", "de": "Moschee", "ru": "мечеть", "zh": "清真寺"}}, "issues": [], "meta": {"elapsed": 4.13, "input_tokens": 964, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "لَحْنٌ", "kind": "lemma", "parsed": {"glosses": {"en": "tone of speech", "fa": "لحن", "ur": "لحن", "tr": "üslup", "id": "nada", "bn": "লহন", "es": "tono", "fr": "ton", "de": "Tonfall", "ru": "тон", "zh": "语调"}}, "issues": [], "meta": {"elapsed": 3.46, "input_tokens": 765, "output_tokens": 114, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "خاتامٌ", "kind": "lemma", "parsed": {"glosses": {"en": "seal", "fa": "مُهر", "ur": "مُہر", "tr": "mühür", "id": "segel", "bn": "মুহর", "es": "sello", "fr": "sceau", "de": "Siegel", "ru": "печать", "zh": "印章"}}, "issues": [], "meta": {"elapsed": 3.42, "input_tokens": 469, "output_tokens": 120, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "اللِّبْدِ", "kind": "surface", "parsed": {"glosses": {"en": "the felt", "fa": "نمد", "ur": "نمد", "tr": "keçe", "id": "felt", "bn": "ফেল্ট", "es": "fieltro", "fr": "feutre", "de": "Filz", "ru": "войлок", "zh": "毡"}}, "issues": [], "meta": {"elapsed": 2.9, "input_tokens": 822, "output_tokens": 114, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

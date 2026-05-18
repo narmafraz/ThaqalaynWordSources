@@ -1,0 +1,1 @@
+{"slug": "رَطْبٌ", "kind": "lemma", "parsed": {"glosses": {"en": "moist", "fa": "نرم", "ur": "نرم", "tr": "nemli", "id": "lembap", "bn": "নরম", "es": "húmedo", "fr": "humide", "de": "feucht", "ru": "влажный", "zh": "湿润"}}, "issues": [], "meta": {"elapsed": 5.06, "input_tokens": 947, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "هادِي", "kind": "lemma", "parsed": {"glosses": {"en": "Hadi", "fa": "هادی", "ur": "ہادی", "tr": "Hadi", "id": "Hadi", "bn": "হাদি", "es": "Hadi", "fr": "Hadi", "de": "Hadi", "ru": "Хадий", "zh": "哈迪"}}, "issues": [], "meta": {"elapsed": 3.12, "input_tokens": 462, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

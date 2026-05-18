@@ -1,0 +1,1 @@
+{"slug": "قارِئٌ", "kind": "lemma", "parsed": {"glosses": {"en": "reader", "fa": "خواننده", "ur": "قاری", "tr": "okuyucu", "id": "pembaca", "bn": "পাঠক", "es": "lector", "fr": "lecteur", "de": "Leser", "ru": "чтец", "zh": "读者"}}, "issues": [], "meta": {"elapsed": 3.87, "input_tokens": 460, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "دِيان", "kind": "lemma", "parsed": {"glosses": {"en": "Judge", "fa": "قاضی", "ur": "قاضی", "tr": "Hakim", "id": "Penghakim", "bn": "বিচারক", "es": "Juez", "fr": "Juge", "de": "Richter", "ru": "Судия", "zh": "审判者"}}, "issues": [], "meta": {"elapsed": 4.71, "input_tokens": 637, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

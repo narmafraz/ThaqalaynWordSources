@@ -1,0 +1,1 @@
+{"slug": "طَرِيٌّ", "kind": "lemma", "parsed": {"glosses": {"en": "fresh", "fa": "تازه", "ur": "تازہ", "tr": "taze", "id": "segar", "bn": "তাজা", "es": "fresco", "fr": "frais", "de": "frisch", "ru": "свежий", "zh": "新鲜的"}}, "issues": [], "meta": {"elapsed": 4.41, "input_tokens": 679, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

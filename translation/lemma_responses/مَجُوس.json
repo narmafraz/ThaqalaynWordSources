@@ -1,0 +1,1 @@
+{"slug": "مَجُوس", "kind": "lemma", "parsed": {"glosses": {"en": "Magians", "fa": "مَجُوس", "ur": "مَجُوس", "tr": "Magi", "id": "Magi", "bn": "মাজুস", "es": "magos", "fr": "mages", "de": "Magier", "ru": "маги", "zh": "马吉人"}}, "issues": [], "meta": {"elapsed": 3.25, "input_tokens": 472, "output_tokens": 121, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

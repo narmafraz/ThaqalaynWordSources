@@ -1,0 +1,1 @@
+{"slug": "الرُّكُوعِ", "kind": "surface", "parsed": {"glosses": {"en": "bowing", "fa": "رکوع", "ur": "رکوع", "tr": "rükû", "id": "rukuk", "bn": "রুকু", "es": "rúku'", "fr": "ruku'", "de": "Ruku'", "ru": "руку'", "zh": "鞠躬"}}, "issues": [], "meta": {"elapsed": 4.72, "input_tokens": 480, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

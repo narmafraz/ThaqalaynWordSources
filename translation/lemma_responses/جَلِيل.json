@@ -1,0 +1,1 @@
+{"slug": "جَلِيل", "kind": "lemma", "parsed": {"glosses": {"en": "Jalil", "fa": "جلیل", "ur": "جلیل", "tr": "Celil", "id": "Jalil", "bn": "জলীল", "es": "Yalil", "fr": "Jalil", "de": "Dschalil", "ru": "Джалиль", "zh": "贾利勒"}}, "issues": [], "meta": {"elapsed": 4.71, "input_tokens": 1000, "output_tokens": 124, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

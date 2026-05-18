@@ -1,0 +1,1 @@
+{"slug": "التَّصَيُّدَ", "kind": "surface", "parsed": {"glosses": {"en": "hunting", "fa": "شکار", "ur": "شکار", "tr": "av", "id": "berburu", "bn": "শিকার", "es": "caza", "fr": "chasse", "de": "Jagd", "ru": "охота", "zh": "狩猎"}}, "issues": [], "meta": {"elapsed": 3.15, "input_tokens": 482, "output_tokens": 114, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

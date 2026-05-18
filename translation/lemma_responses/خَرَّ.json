@@ -1,0 +1,1 @@
+{"slug": "خَرَّ", "kind": "lemma", "parsed": {"glosses": {"en": "sound", "fa": "صدا", "ur": "آواز", "tr": "ses", "id": "suara", "bn": "শব্দ", "es": "sonido", "fr": "son", "de": "Geräusch", "ru": "звук", "zh": "声音"}}, "issues": [], "meta": {"elapsed": 5.69, "input_tokens": 1049, "output_tokens": 113, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

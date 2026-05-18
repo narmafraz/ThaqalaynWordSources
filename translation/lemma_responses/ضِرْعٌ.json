@@ -1,0 +1,1 @@
+{"slug": "ضِرْعٌ", "kind": "lemma", "parsed": {"glosses": {"en": "udder", "fa": "دبیر", "ur": "دودھ کی نالی", "tr": "döş", "id": "punggung", "bn": "গোবর", "es": "ubres", "fr": "pis", "de": "Euter", "ru": "вымя", "zh": "乳房"}}, "issues": [], "meta": {"elapsed": 4.33, "input_tokens": 665, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

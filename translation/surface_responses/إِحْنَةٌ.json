@@ -1,0 +1,1 @@
+{"slug": "إِحْنَةٌ", "kind": "surface", "parsed": {"glosses": {"en": "hunger", "fa": "گرسنگی", "ur": "بھوک", "tr": "açlık", "id": "lapar", "bn": "ভুঁক", "es": "hambre", "fr": "faim", "de": "Hunger", "ru": "голод", "zh": "饥饿"}}, "issues": [], "meta": {"elapsed": 3.24, "input_tokens": 476, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

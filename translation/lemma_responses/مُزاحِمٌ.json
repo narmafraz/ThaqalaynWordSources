@@ -1,0 +1,1 @@
+{"slug": "مُزاحِمٌ", "kind": "lemma", "parsed": {"glosses": {"en": "elephant", "fa": "فیل", "ur": "ہاتھی", "tr": "fil", "id": "gajah", "bn": "হাতি", "es": "elefante", "fr": "éléphant", "de": "Elefant", "ru": "слон", "zh": "大象"}}, "issues": [], "meta": {"elapsed": 3.88, "input_tokens": 574, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

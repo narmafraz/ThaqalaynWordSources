@@ -1,0 +1,1 @@
+{"slug": "اِسْتٌ", "kind": "lemma", "parsed": {"glosses": {"en": "rump", "fa": "دُم", "ur": "گودا", "tr": "kuyruk", "id": "pantat", "bn": "পিঠ", "es": "nalgas", "fr": "fesses", "de": "Gesäß", "ru": "ягодицы", "zh": "臀部"}}, "issues": [], "meta": {"elapsed": 3.99, "input_tokens": 927, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

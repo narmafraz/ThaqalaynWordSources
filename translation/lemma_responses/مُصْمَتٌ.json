@@ -1,0 +1,1 @@
+{"slug": "مُصْمَتٌ", "kind": "lemma", "parsed": {"glosses": {"en": "tongue-tied", "fa": "زبان‌بسته", "ur": "زبان بند", "tr": "dilsiz", "id": "bisu", "bn": "মুক", "es": "mudo", "fr": "muet", "de": "stumm", "ru": "немой", "zh": "哑的"}}, "issues": [], "meta": {"elapsed": 4.78, "input_tokens": 790, "output_tokens": 123, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "قانِصٌ", "kind": "lemma", "parsed": {"glosses": {"en": "hunter", "fa": "شکارچی", "ur": "شکاری", "tr": "avcı", "id": "pemburu", "bn": "শিকারী", "es": "cazador", "fr": "chasseur", "de": "Jäger", "ru": "охотник", "zh": "猎人"}}, "issues": [], "meta": {"elapsed": 4.56, "input_tokens": 800, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "شَمْسٌ", "kind": "lemma", "parsed": {"glosses": {"en": "sun", "fa": "خورشید", "ur": "سورج", "tr": "güneş", "id": "matahari", "bn": "সূর্য", "es": "sol", "fr": "soleil", "de": "Sonne", "ru": "солнце", "zh": "太阳"}}, "issues": [], "meta": {"elapsed": 4.87, "input_tokens": 1012, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

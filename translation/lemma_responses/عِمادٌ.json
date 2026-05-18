@@ -1,0 +1,1 @@
+{"slug": "عِمادٌ", "kind": "lemma", "parsed": {"glosses": {"en": "pillar", "fa": "ستون", "ur": "ستون", "tr": "sütun", "id": "tiang", "bn": "স্তম্ভ", "es": "pilar", "fr": "pilier", "de": "Säule", "ru": "столп", "zh": "支柱"}}, "issues": [], "meta": {"elapsed": 3.27, "input_tokens": 808, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "فِجْلٌ", "kind": "lemma", "parsed": {"glosses": {"en": "radish", "fa": "شلغم", "ur": "شلغم", "tr": "şalgam", "id": "lobak", "bn": "মুলি", "es": "nabo", "fr": "navis", "de": "Steckrübe", "ru": "репа", "zh": "芜菁"}}, "issues": [], "meta": {"elapsed": 5.06, "input_tokens": 478, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "حِزامٌ", "kind": "lemma", "parsed": {"glosses": {"en": "belt", "fa": "کمربند", "ur": "کمر بند", "tr": "kemer", "id": "sabuk", "bn": "বেল্ট", "es": "cinturón", "fr": "ceinture", "de": "Gürtel", "ru": "ремень", "zh": "腰带"}}, "issues": [], "meta": {"elapsed": 5.78, "input_tokens": 824, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

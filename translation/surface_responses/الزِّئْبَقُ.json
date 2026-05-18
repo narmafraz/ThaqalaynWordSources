@@ -1,0 +1,1 @@
+{"slug": "الزِّئْبَقُ", "kind": "surface", "parsed": {"glosses": {"en": "the taste", "fa": "طعم", "ur": "ذائقہ", "tr": "tat", "id": "rasa", "bn": "স্বাদ", "es": "sabor", "fr": "goût", "de": "Geschmack", "ru": "вкус", "zh": "味道"}}, "issues": [], "meta": {"elapsed": 3.85, "input_tokens": 573, "output_tokens": 114, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

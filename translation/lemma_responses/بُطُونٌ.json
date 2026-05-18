@@ -1,0 +1,1 @@
+{"slug": "بُطُونٌ", "kind": "lemma", "parsed": {"glosses": {"en": "belly", "fa": "شکم", "ur": "پیٹ", "tr": "karın", "id": "perut", "bn": "পেট", "es": "vientre", "fr": "ventre", "de": "Bauch", "ru": "живот", "zh": "腹部"}}, "issues": [], "meta": {"elapsed": 3.6, "input_tokens": 470, "output_tokens": 114, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "جُؤْجُؤٌ", "kind": "lemma", "parsed": {"glosses": {"en": "cockcrow", "fa": "خروس", "ur": "خروس", "tr": "horoz", "id": "ayam", "bn": "খড়খড়", "es": "gallo", "fr": "coq", "de": "Hahn", "ru": "петух", "zh": "公鸡"}}, "issues": [], "meta": {"elapsed": 4.68, "input_tokens": 453, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

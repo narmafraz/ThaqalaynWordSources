@@ -1,0 +1,1 @@
+{"slug": "جُزْعٌ", "kind": "lemma", "parsed": {"glosses": {"en": "onyx", "fa": "عقیق", "ur": "عقیق", "tr": "akik", "id": "akik", "bn": "আকিক", "es": "ónice", "fr": "onyx", "de": "Onyx", "ru": "оникс", "zh": "玛瑙"}}, "issues": [], "meta": {"elapsed": 6.65, "input_tokens": 1653, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

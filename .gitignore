@@ -16,3 +16,12 @@ sources/hawramani-classical/raw/
 Thumbs.db
 .vscode/
 .idea/
+
+# Path B regenerable inputs — produced from ThaqalaynWords + response
+# files via scripts/extract_*_translation_prompts.py and
+# scripts/extract_corpus_contexts.py. Re-deriving them is part of any
+# fresh Path B run. The response files themselves are the irreproducible
+# archive (committed below).
+translation/lemma_prompts.jsonl       # 25 MB, regenerable
+translation/surface_prompts.jsonl     # 332 MB, regenerable
+translation/surface_contexts.json     # 32 MB, regenerable

@@ -1,0 +1,1 @@
+{"slug": "الزِّمِّيرَ", "kind": "surface", "parsed": {"glosses": {"en": "the quill", "fa": "قلم", "ur": "قلم", "tr": "kalem", "id": "pen", "bn": "কলম", "es": "la pluma", "fr": "la plume", "de": "die Feder", "ru": "перо", "zh": "笔"}}, "issues": [], "meta": {"elapsed": 4.5, "input_tokens": 481, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "جِنائِيٌّ", "kind": "lemma", "parsed": {"glosses": {"en": "criminal", "fa": "جریمه", "ur": "جریمہ", "tr": "ceza", "id": "hukuman", "bn": "জরিমানা", "es": "pena", "fr": "peine", "de": "Strafe", "ru": "штраф", "zh": "罚款"}}, "issues": [], "meta": {"elapsed": 4.28, "input_tokens": 460, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

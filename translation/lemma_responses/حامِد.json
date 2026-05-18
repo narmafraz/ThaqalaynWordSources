@@ -1,0 +1,1 @@
+{"slug": "حامِد", "kind": "lemma", "parsed": {"glosses": {"en": "Hamid", "fa": "حامد", "ur": "حامد", "tr": "Hamid", "id": "Hamid", "bn": "হামিদ", "es": "Hamid", "fr": "Hamid", "de": "Hamid", "ru": "Хамид", "zh": "哈米德"}}, "issues": [], "meta": {"elapsed": 3.11, "input_tokens": 464, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "غُبارٌ", "kind": "lemma", "parsed": {"glosses": {"en": "dust", "fa": "گرد و غبار", "ur": "گرد", "tr": "toz", "id": "debu", "bn": "ধুলো", "es": "polvo", "fr": "poussière", "de": "Staub", "ru": "пыль", "zh": "灰尘"}}, "issues": [], "meta": {"elapsed": 4.6, "input_tokens": 766, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

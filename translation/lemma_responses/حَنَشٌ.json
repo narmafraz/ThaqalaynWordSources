@@ -1,0 +1,1 @@
+{"slug": "حَنَشٌ", "kind": "lemma", "parsed": {"glosses": {"en": "viper", "fa": "مار", "ur": "سانپ", "tr": "yılan", "id": "ular", "bn": "সাপ", "es": "víbora", "fr": "vipère", "de": "Viper", "ru": "гюрза", "zh": "蝰蛇"}}, "issues": [], "meta": {"elapsed": 4.23, "input_tokens": 829, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

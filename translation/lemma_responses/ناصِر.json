@@ -1,0 +1,1 @@
+{"slug": "ناصِر", "kind": "lemma", "parsed": {"glosses": {"en": "Nasir", "fa": "ناصر", "ur": "ناصر", "tr": "Nasir", "id": "Nasir", "bn": "নাসির", "es": "Nasir", "fr": "Nasir", "de": "Nasir", "ru": "Насир", "zh": "纳绥尔"}}, "issues": [], "meta": {"elapsed": 3.32, "input_tokens": 804, "output_tokens": 121, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

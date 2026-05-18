@@ -1,0 +1,1 @@
+{"slug": "آنٍ", "kind": "surface", "parsed": {"glosses": {"en": "time", "fa": "زمان", "ur": "وقت", "tr": "zaman", "id": "waktu", "bn": "সময়", "es": "tiempo", "fr": "temps", "de": "Zeit", "ru": "время", "zh": "时间"}}, "issues": [], "meta": {"elapsed": 3.07, "input_tokens": 848, "output_tokens": 108, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

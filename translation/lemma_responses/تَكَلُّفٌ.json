@@ -1,0 +1,1 @@
+{"slug": "تَكَلُّفٌ", "kind": "lemma", "parsed": {"glosses": {"en": "effort", "fa": "تکلف", "ur": "تکلف", "tr": "çaba", "id": "usaha", "bn": "চেষ্টা", "es": "esfuerzo", "fr": "effort", "de": "Mühe", "ru": "усилие", "zh": "努力"}}, "issues": [], "meta": {"elapsed": 3.86, "input_tokens": 477, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

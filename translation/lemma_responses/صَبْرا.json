@@ -1,0 +1,1 @@
+{"slug": "صَبْرا", "kind": "lemma", "parsed": {"glosses": {"en": "Sabr", "fa": "صبر", "ur": "صبر", "tr": "Sabr", "id": "Sabr", "bn": "সবর", "es": "Sabr", "fr": "Sabr", "de": "Sabr", "ru": "Сабр", "zh": "萨布爾"}}, "issues": [], "meta": {"elapsed": 3.58, "input_tokens": 450, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

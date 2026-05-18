@@ -1,0 +1,1 @@
+{"slug": "طائِيّ", "kind": "lemma", "parsed": {"glosses": {"en": "Tayy", "fa": "طایی", "ur": "طائی", "tr": "Tayy", "id": "Tayy", "bn": "তাইয়", "es": "Tayy", "fr": "Tayy", "de": "Tayy", "ru": "Тайй", "zh": "塔伊"}}, "issues": [], "meta": {"elapsed": 3.39, "input_tokens": 450, "output_tokens": 122, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

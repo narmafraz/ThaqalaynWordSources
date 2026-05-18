@@ -1,0 +1,1 @@
+{"slug": "مَن", "kind": "lemma", "parsed": {"glosses": {"en": "who", "fa": "چه کسی", "ur": "جو", "tr": "kim", "id": "siapa", "bn": "যে", "es": "quien", "fr": "qui", "de": "wer", "ru": "кто", "zh": "谁"}}, "issues": [], "meta": {"elapsed": 3.0, "input_tokens": 953, "output_tokens": 107, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

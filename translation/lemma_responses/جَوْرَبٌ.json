@@ -1,0 +1,1 @@
+{"slug": "جَوْرَبٌ", "kind": "lemma", "parsed": {"glosses": {"en": "sock", "fa": "جوراب", "ur": "جوراب", "tr": "çorap", "id": "kaus kaki", "bn": "মোজা", "es": "calcetín", "fr": "chaussette", "de": "Socke", "ru": "носок", "zh": "袜子"}}, "issues": [], "meta": {"elapsed": 4.7, "input_tokens": 649, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

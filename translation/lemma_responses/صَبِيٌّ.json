@@ -1,0 +1,1 @@
+{"slug": "صَبِيٌّ", "kind": "lemma", "parsed": {"glosses": {"en": "boy", "fa": "پسر", "ur": "لڑکا", "tr": "oğlan", "id": "anak laki", "bn": "ছেলে", "es": "niño", "fr": "garçon", "de": "Junge", "ru": "мальчик", "zh": "男孩"}}, "issues": [], "meta": {"elapsed": 4.57, "input_tokens": 1009, "output_tokens": 114, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

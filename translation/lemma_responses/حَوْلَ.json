@@ -1,0 +1,1 @@
+{"slug": "حَوْلَ", "kind": "lemma", "parsed": {"glosses": {"en": "year", "fa": "سال", "ur": "سال", "tr": "yıl", "id": "tahun", "bn": "বছর", "es": "año", "fr": "année", "de": "Jahr", "ru": "год", "zh": "年"}}, "issues": [], "meta": {"elapsed": 3.77, "input_tokens": 1262, "output_tokens": 108, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "الصَّادِقِ", "kind": "surface", "parsed": {"glosses": {"en": "the Sadiq", "fa": "صادق", "ur": "صادق", "tr": "Sadiq", "id": "Sadiq", "bn": "সাদিক", "es": "Sadiq", "fr": "Sadiq", "de": "Sadiq", "ru": "Садик", "zh": "萨迪克"}}, "issues": [], "meta": {"elapsed": 4.79, "input_tokens": 1055, "output_tokens": 124, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "دُهْنٌ", "kind": "lemma", "parsed": {"glosses": {"en": "oil", "fa": "روغن", "ur": "تیل", "tr": "yağ", "id": "minyak", "bn": "তেল", "es": "aceite", "fr": "huile", "de": "Öl", "ru": "масло", "zh": "油"}}, "issues": [], "meta": {"elapsed": 3.39, "input_tokens": 1351, "output_tokens": 111, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

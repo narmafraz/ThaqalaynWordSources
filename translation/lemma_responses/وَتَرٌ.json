@@ -1,0 +1,1 @@
+{"slug": "وَتَرٌ", "kind": "lemma", "parsed": {"glosses": {"en": "string", "fa": "ریسمان", "ur": "رسی", "tr": "yayın ipi", "id": "tali", "bn": "দড়ি", "es": "cuerda", "fr": "corde", "de": "Saite", "ru": "струна", "zh": "弦"}}, "issues": [], "meta": {"elapsed": 4.35, "input_tokens": 1807, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

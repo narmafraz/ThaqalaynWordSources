@@ -1,0 +1,1 @@
+{"slug": "زَنْجِيٌّ", "kind": "lemma", "parsed": {"glosses": {"en": "Negro", "fa": "زنجی", "ur": "زنجی", "tr": "Zenci", "id": "Zanj", "bn": "জাতিবিশেষ", "es": "negro", "fr": "Zanj", "de": "Zanj", "ru": "занджи", "zh": "赞吉"}}, "issues": [], "meta": {"elapsed": 3.64, "input_tokens": 519, "output_tokens": 121, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "مَعْطِسٌ", "kind": "lemma", "parsed": {"glosses": {"en": "nose", "fa": "بینی", "ur": "ناک", "tr": "burun", "id": "hidung", "bn": "নাক", "es": "nariz", "fr": "nez", "de": "Nase", "ru": "нос", "zh": "鼻子"}}, "issues": [], "meta": {"elapsed": 2.83, "input_tokens": 510, "output_tokens": 110, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

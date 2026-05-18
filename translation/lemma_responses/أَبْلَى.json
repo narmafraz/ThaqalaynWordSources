@@ -1,0 +1,1 @@
+{"slug": "أَبْلَى", "kind": "lemma", "parsed": {"glosses": {"en": "to be old", "fa": "پیر شدن", "ur": "پھانسا", "tr": "eski", "id": "tua", "bn": "বৃদ্ধ", "es": "viejo", "fr": "vieux", "de": "alt", "ru": "старый", "zh": "老"}}, "issues": [], "meta": {"elapsed": 5.43, "input_tokens": 774, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

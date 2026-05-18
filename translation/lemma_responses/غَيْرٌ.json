@@ -1,0 +1,1 @@
+{"slug": "غَيْرٌ", "kind": "lemma", "parsed": {"glosses": {"en": "other than", "fa": "دیگر", "ur": "دیگر", "tr": "başka", "id": "lain", "bn": "অন্য", "es": "otro", "fr": "autre", "de": "andere", "ru": "другой", "zh": "其他"}}, "issues": [], "meta": {"elapsed": 2.52, "input_tokens": 2027, "output_tokens": 112, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

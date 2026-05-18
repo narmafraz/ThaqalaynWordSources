@@ -1,0 +1,1 @@
+{"slug": "أَيَّامُ", "kind": "surface", "parsed": {"glosses": {"en": "days", "fa": "روزها", "ur": "دن", "tr": "günler", "id": "hari", "bn": "দিন", "es": "días", "fr": "jours", "de": "Tage", "ru": "дни", "zh": "天"}}, "issues": [], "meta": {"elapsed": 4.92, "input_tokens": 1100, "output_tokens": 108, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

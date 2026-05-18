@@ -1,0 +1,1 @@
+{"slug": "قَيْلٌ", "kind": "lemma", "parsed": {"glosses": {"en": "saying", "fa": "گفتن", "ur": "کہنا", "tr": "söyleme", "id": "ucapan", "bn": "কথা", "es": "dicho", "fr": "parole", "de": "Sage", "ru": "слова", "zh": "言语"}}, "issues": [], "meta": {"elapsed": 4.34, "input_tokens": 473, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

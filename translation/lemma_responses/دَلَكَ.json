@@ -1,0 +1,1 @@
+{"slug": "دَلَكَ", "kind": "lemma", "parsed": {"glosses": {"en": "to rub", "fa": "مالیدن", "ur": "رگڑنا", "tr": "ovmak", "id": "menggosok", "bn": "ঘষা", "es": "frotar", "fr": "frotter", "de": "reiben", "ru": "тереть", "zh": "摩擦"}}, "issues": [], "meta": {"elapsed": 4.1, "input_tokens": 979, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

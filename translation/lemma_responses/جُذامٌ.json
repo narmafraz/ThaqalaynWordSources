@@ -1,0 +1,1 @@
+{"slug": "جُذامٌ", "kind": "lemma", "parsed": {"glosses": {"en": "leprosy", "fa": "جذام", "ur": "جذام", "tr": "cüzzam", "id": "kusta", "bn": "কুষ্ঠ", "es": "lepra", "fr": "lèpre", "de": "Aussatz", "ru": "проказа", "zh": "麻风病"}}, "issues": [], "meta": {"elapsed": 5.33, "input_tokens": 648, "output_tokens": 123, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

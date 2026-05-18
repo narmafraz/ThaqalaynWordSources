@@ -1,0 +1,1 @@
+{"slug": "سَيّارَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "car", "fa": "خودرو", "ur": "گاڑی", "tr": "araba", "id": "mobil", "bn": "গাড়ি", "es": "coche", "fr": "voiture", "de": "Auto", "ru": "автомобиль", "zh": "汽车"}}, "issues": [], "meta": {"elapsed": 5.89, "input_tokens": 465, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

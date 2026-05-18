@@ -1,0 +1,1 @@
+{"slug": "حَنَفِيّ", "kind": "lemma", "parsed": {"glosses": {"en": "Hanafi", "fa": "حنفی", "ur": "حنفی", "tr": "Hanefi", "id": "Hanafi", "bn": "হানাফি", "es": "Hanafi", "fr": "Hanafi", "de": "Hanafi", "ru": "Ханафи", "zh": "哈乃斐"}}, "issues": [], "meta": {"elapsed": 5.23, "input_tokens": 462, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

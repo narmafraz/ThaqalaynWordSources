@@ -1,0 +1,1 @@
+{"slug": "حَقٌّ", "kind": "lemma", "parsed": {"glosses": {"en": "right", "fa": "حق", "ur": "حق", "tr": "hak", "id": "hak", "bn": "হক", "es": "derecho", "fr": "droit", "de": "Recht", "ru": "право", "zh": "权利"}}, "issues": [], "meta": {"elapsed": 2.87, "input_tokens": 909, "output_tokens": 107, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

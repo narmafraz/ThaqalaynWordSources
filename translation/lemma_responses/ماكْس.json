@@ -1,0 +1,1 @@
+{"slug": "ماكْس", "kind": "lemma", "parsed": {"glosses": {"en": "Maks", "fa": "مکس", "ur": "مکس", "tr": "Maks", "id": "Maks", "bn": "মাক্স", "es": "Maks", "fr": "Maks", "de": "Maks", "ru": "Макс", "zh": "马克斯"}}, "issues": [], "meta": {"elapsed": 4.04, "input_tokens": 466, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

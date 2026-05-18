@@ -1,0 +1,1 @@
+{"slug": "مَصْدَرٌ", "kind": "lemma", "parsed": {"glosses": {"en": "source", "fa": "منبع", "ur": "ماخذ", "tr": "kaynak", "id": "sumber", "bn": "উৎস", "es": "fuente", "fr": "source", "de": "Quelle", "ru": "источник", "zh": "来源"}}, "issues": [], "meta": {"elapsed": 4.6, "input_tokens": 909, "output_tokens": 113, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

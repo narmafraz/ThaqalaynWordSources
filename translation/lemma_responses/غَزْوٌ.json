@@ -1,0 +1,1 @@
+{"slug": "غَزْوٌ", "kind": "lemma", "parsed": {"glosses": {"en": "raid", "fa": "غزوه", "ur": "غزو", "tr": "sefer", "id": "perang", "bn": "যুদ্ধ", "es": "incursión", "fr": "raid", "de": "Feldzug", "ru": "поход", "zh": "战役"}}, "issues": [], "meta": {"elapsed": 3.98, "input_tokens": 475, "output_tokens": 114, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

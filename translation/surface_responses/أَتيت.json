@@ -1,0 +1,1 @@
+{"slug": "أَتيت", "kind": "surface", "parsed": {"glosses": {"en": "I came", "fa": "آمدم", "ur": "آیا", "tr": "geldim", "id": "datang", "bn": "আসি", "es": "vine", "fr": "je suis venu", "de": "ich kam", "ru": "я пришёл", "zh": "我来"}}, "issues": [], "meta": {"elapsed": 4.19, "input_tokens": 889, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

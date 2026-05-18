@@ -1,0 +1,1 @@
+{"slug": "رَخِيصٌ", "kind": "lemma", "parsed": {"glosses": {"en": "cheap", "fa": "ارزان", "ur": "سستا", "tr": "ucuz", "id": "murah", "bn": "সস্তা", "es": "barato", "fr": "bon marché", "de": "billig", "ru": "дешёвый", "zh": "便宜的"}}, "issues": [], "meta": {"elapsed": 5.11, "input_tokens": 581, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "الصَّدْرِ", "kind": "surface", "parsed": {"glosses": {"en": "the chest", "fa": "سینه", "ur": "چھاتی", "tr": "göğüs", "id": "dada", "bn": "বক্ষ", "es": "pecho", "fr": "poitrine", "de": "Brust", "ru": "грудь", "zh": "胸膛"}}, "issues": [], "meta": {"elapsed": 4.57, "input_tokens": 936, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

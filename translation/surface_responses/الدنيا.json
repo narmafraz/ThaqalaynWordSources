@@ -1,0 +1,1 @@
+{"slug": "الدنيا", "kind": "surface", "parsed": {"glosses": {"en": "the world", "fa": "دنیا", "ur": "دنیا", "tr": "dünya", "id": "dunia", "bn": "দুনিয়া", "es": "el mundo", "fr": "le monde", "de": "die Welt", "ru": "мир", "zh": "世界"}}, "issues": [], "meta": {"elapsed": 4.7, "input_tokens": 640, "output_tokens": 114, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

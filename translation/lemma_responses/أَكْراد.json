@@ -1,0 +1,1 @@
+{"slug": "أَكْراد", "kind": "lemma", "parsed": {"glosses": {"en": "Kurd", "fa": "کرد", "ur": "کرد", "tr": "Kürt", "id": "Kurd", "bn": "কুর্দ", "es": "Kurd", "fr": "Kourde", "de": "Kurd", "ru": "курды", "zh": "库尔德人"}}, "issues": [], "meta": {"elapsed": 3.35, "input_tokens": 460, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

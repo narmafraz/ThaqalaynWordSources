@@ -1,0 +1,1 @@
+{"slug": "اللَّيْلَةَ", "kind": "surface", "parsed": {"glosses": {"en": "the night", "fa": "شب", "ur": "رات", "tr": "gece", "id": "malam", "bn": "রাত", "es": "la noche", "fr": "la nuit", "de": "die Nacht", "ru": "ночь", "zh": "夜"}}, "issues": [], "meta": {"elapsed": 3.96, "input_tokens": 864, "output_tokens": 111, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

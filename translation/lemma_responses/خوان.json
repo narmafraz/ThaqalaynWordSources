@@ -1,0 +1,1 @@
+{"slug": "خوان", "kind": "lemma", "parsed": {"glosses": {"en": "table", "fa": "میز", "ur": "میز", "tr": "masa", "id": "meja", "bn": "টেবিল", "es": "mesa", "fr": "table", "de": "Tisch", "ru": "стол", "zh": "桌子"}}, "issues": [], "meta": {"elapsed": 6.2, "input_tokens": 957, "output_tokens": 112, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

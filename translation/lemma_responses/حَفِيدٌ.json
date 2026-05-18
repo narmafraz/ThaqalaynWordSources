@@ -1,0 +1,1 @@
+{"slug": "حَفِيدٌ", "kind": "lemma", "parsed": {"glosses": {"en": "grandson", "fa": "نوه", "ur": "پوتا", "tr": "torun", "id": "cucu", "bn": "নাতোজা", "es": "nieto", "fr": "petit-fils", "de": "Enkel", "ru": "внук", "zh": "孙子"}}, "issues": [], "meta": {"elapsed": 3.88, "input_tokens": 477, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

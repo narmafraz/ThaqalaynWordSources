@@ -1,0 +1,1 @@
+{"slug": "أَكْثَمَ", "kind": "surface", "parsed": {"glosses": {"en": "Aktham", "fa": "اکثم", "ur": "اکثم", "tr": "Ekthem", "id": "Aktham", "bn": "আকথম", "es": "Aktham", "fr": "Aktham", "de": "Aktham", "ru": "Актама", "zh": "阿克萨姆"}}, "issues": [], "meta": {"elapsed": 3.63, "input_tokens": 614, "output_tokens": 122, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

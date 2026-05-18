@@ -1,0 +1,1 @@
+{"slug": "ثُعْبانٌ", "kind": "lemma", "parsed": {"glosses": {"en": "snake", "fa": "مار", "ur": "سانپ", "tr": "yılan", "id": "ular", "bn": "সাপ", "es": "serpiente", "fr": "serpent", "de": "Schlange", "ru": "змея", "zh": "蛇"}}, "issues": [], "meta": {"elapsed": 4.89, "input_tokens": 677, "output_tokens": 110, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

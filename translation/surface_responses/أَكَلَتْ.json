@@ -1,0 +1,1 @@
+{"slug": "أَكَلَتْ", "kind": "surface", "parsed": {"glosses": {"en": "she ate", "fa": "خورد", "ur": "کھایا", "tr": "yedi", "id": "makan", "bn": "খেলো", "es": "comió", "fr": "mangé", "de": "aß", "ru": "ела", "zh": "吃了"}}, "issues": [], "meta": {"elapsed": 4.08, "input_tokens": 1163, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

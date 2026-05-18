@@ -1,0 +1,1 @@
+{"slug": "أَعْضَاءِ", "kind": "surface", "parsed": {"glosses": {"en": "organs", "fa": "اعضا", "ur": "اعضا", "tr": "organlar", "id": "organ", "bn": "অঙ্গ", "es": "órganos", "fr": "organes", "de": "Organe", "ru": "органы", "zh": "器官"}}, "issues": [], "meta": {"elapsed": 2.88, "input_tokens": 944, "output_tokens": 113, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "خَسارَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "loss", "fa": "زیان", "ur": "نقصان", "tr": "zarar", "id": "kerugian", "bn": "ক্ষতি", "es": "pérdida", "fr": "perte", "de": "Verlust", "ru": "убыток", "zh": "损失"}}, "issues": [], "meta": {"elapsed": 3.89, "input_tokens": 501, "output_tokens": 114, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

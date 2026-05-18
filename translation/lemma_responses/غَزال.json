@@ -1,0 +1,1 @@
+{"slug": "غَزال", "kind": "lemma", "parsed": {"glosses": {"en": "gazelle", "fa": "غزال", "ur": "غزال", "tr": "gazel", "id": "gazella", "bn": "গাজেল", "es": "gacela", "fr": "gazelle", "de": "Gazelle", "ru": "газель", "zh": "瞪羚"}}, "issues": [], "meta": {"elapsed": 3.57, "input_tokens": 973, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "جَيْشٌ", "kind": "lemma", "parsed": {"glosses": {"en": "army", "fa": "ارتش", "ur": "فوج", "tr": "ordu", "id": "pasukan", "bn": "সেনাবাহিনী", "es": "ejército", "fr": "armée", "de": "Armee", "ru": "армия", "zh": "军队"}}, "issues": [], "meta": {"elapsed": 5.05, "input_tokens": 539, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

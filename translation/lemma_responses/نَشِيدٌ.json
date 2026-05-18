@@ -1,0 +1,1 @@
+{"slug": "نَشِيدٌ", "kind": "lemma", "parsed": {"glosses": {"en": "song, hymn", "fa": "سرود", "ur": "نغمہ", "tr": "şarkı, marş", "id": "nyanyian", "bn": "গান", "es": "canción", "fr": "chant", "de": "Lied", "ru": "песнь", "zh": "歌"}}, "issues": [], "meta": {"elapsed": 6.6, "input_tokens": 589, "output_tokens": 122, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

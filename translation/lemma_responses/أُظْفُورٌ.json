@@ -1,0 +1,1 @@
+{"slug": "أُظْفُورٌ", "kind": "lemma", "parsed": {"glosses": {"en": "fingernail", "fa": "ناخن", "ur": "ناخن", "tr": "tırnak", "id": "kuku", "bn": "নখ", "es": "uña", "fr": "ongle", "de": "Fingernagel", "ru": "ноготь", "zh": "指甲"}}, "issues": [], "meta": {"elapsed": 3.46, "input_tokens": 522, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

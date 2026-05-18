@@ -1,0 +1,1 @@
+{"slug": "كارٌ", "kind": "lemma", "parsed": {"glosses": {"en": "work", "fa": "کار", "ur": "کام", "tr": "iş", "id": "pekerjaan", "bn": "কাজ", "es": "trabajo", "fr": "travail", "de": "Arbeit", "ru": "работа", "zh": "工作"}}, "issues": [], "meta": {"elapsed": 3.06, "input_tokens": 447, "output_tokens": 109, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

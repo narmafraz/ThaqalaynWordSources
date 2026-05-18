@@ -1,0 +1,1 @@
+{"slug": "الرِّيشُ", "kind": "surface", "parsed": {"glosses": {"en": "the feather", "fa": "پر", "ur": "پَر", "tr": "tüy", "id": "bulu", "bn": "পাখার পালক", "es": "pluma", "fr": "plume", "de": "Feder", "ru": "перо", "zh": "羽毛"}}, "issues": [], "meta": {"elapsed": 2.82, "input_tokens": 903, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

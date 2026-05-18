@@ -1,0 +1,1 @@
+{"slug": "الرَّيْبُ", "kind": "surface", "parsed": {"glosses": {"en": "the doubt", "fa": "شک", "ur": "شک", "tr": "şüphe", "id": "keraguan", "bn": "সন্দেহ", "es": "duda", "fr": "doute", "de": "Zweifel", "ru": "сомнение", "zh": "怀疑"}}, "issues": [], "meta": {"elapsed": 4.67, "input_tokens": 933, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

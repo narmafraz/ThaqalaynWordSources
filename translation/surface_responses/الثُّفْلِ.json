@@ -1,0 +1,1 @@
+{"slug": "الثُّفْلِ", "kind": "surface", "parsed": {"glosses": {"en": "the dregs", "fa": "ته‌نشین", "ur": "تہہ", "tr": "tortu", "id": "endapan", "bn": "তল", "es": "dregs", "fr": "dépôt", "de": "Trotten", "ru": "осадок", "zh": "沉淀物"}}, "issues": [], "meta": {"elapsed": 4.86, "input_tokens": 936, "output_tokens": 122, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "حَتَّى", "kind": "surface", "parsed": {"glosses": {"en": "until", "fa": "تا", "ur": "تک", "tr": "kadar", "id": "hingga", "bn": "পর্যন্ত", "es": "hasta", "fr": "jusqu'à", "de": "bis", "ru": "пока", "zh": "直到"}}, "issues": [], "meta": {"elapsed": 4.01, "input_tokens": 1094, "output_tokens": 111, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

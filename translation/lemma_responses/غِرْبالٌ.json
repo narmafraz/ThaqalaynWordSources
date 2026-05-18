@@ -1,0 +1,1 @@
+{"slug": "غِرْبالٌ", "kind": "lemma", "parsed": {"glosses": {"en": "sieve", "fa": "الک", "ur": "چھاننی", "tr": "elek", "id": "saringan", "bn": "ছ", "es": "cedazo", "fr": "passoire", "de": "Sieb", "ru": "сито", "zh": "筛子"}}, "issues": [], "meta": {"elapsed": 3.64, "input_tokens": 665, "output_tokens": 114, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

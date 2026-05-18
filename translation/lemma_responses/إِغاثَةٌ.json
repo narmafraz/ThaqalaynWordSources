@@ -1,0 +1,1 @@
+{"slug": "إِغاثَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "aid", "fa": "یاری", "ur": "مدد", "tr": "yardım", "id": "bantuan", "bn": "সহায়তা", "es": "auxilio", "fr": "secours", "de": "Hilfe", "ru": "помощь", "zh": "援助"}}, "issues": [], "meta": {"elapsed": 4.36, "input_tokens": 685, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

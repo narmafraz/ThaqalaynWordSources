@@ -1,0 +1,1 @@
+{"slug": "إِيل", "kind": "lemma", "parsed": {"glosses": {"en": "stag, hart; deer", "fa": "گوزن", "ur": "گھڑ", "tr": "dağ keçisi", "id": "kijang", "bn": "হরিণ", "es": "ciervo", "fr": "cerf", "de": "Hirsch", "ru": "олень", "zh": "鹿"}}, "issues": [], "meta": {"elapsed": 5.4, "input_tokens": 1025, "output_tokens": 122, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

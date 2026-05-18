@@ -1,0 +1,1 @@
+{"slug": "وِزْرٌ", "kind": "lemma", "parsed": {"glosses": {"en": "burden", "fa": "بار", "ur": "بار", "tr": "yük", "id": "beban", "bn": "ভার", "es": "carga", "fr": "fardeau", "de": "Last", "ru": "бремя", "zh": "负担"}}, "issues": [], "meta": {"elapsed": 3.27, "input_tokens": 1411, "output_tokens": 112, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

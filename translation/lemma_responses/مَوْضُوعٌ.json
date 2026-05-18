@@ -1,0 +1,1 @@
+{"slug": "مَوْضُوعٌ", "kind": "lemma", "parsed": {"glosses": {"en": "topic", "fa": "موضوع", "ur": "موضوع", "tr": "konu", "id": "topik", "bn": "বিষয়", "es": "tema", "fr": "sujet", "de": "Thema", "ru": "тема", "zh": "主题"}}, "issues": [], "meta": {"elapsed": 3.92, "input_tokens": 663, "output_tokens": 113, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

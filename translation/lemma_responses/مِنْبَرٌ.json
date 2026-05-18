@@ -1,0 +1,1 @@
+{"slug": "مِنْبَرٌ", "kind": "lemma", "parsed": {"glosses": {"en": "pulpit", "fa": "منبر", "ur": "منبر", "tr": "minber", "id": "minbar", "bn": "মিনবার", "es": "púlpito", "fr": "chaire", "de": "Minbar", "ru": "минбар", "zh": "敏拜尔"}}, "issues": [], "meta": {"elapsed": 5.08, "input_tokens": 519, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

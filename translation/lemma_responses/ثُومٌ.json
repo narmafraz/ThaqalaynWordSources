@@ -1,0 +1,1 @@
+{"slug": "ثُومٌ", "kind": "lemma", "parsed": {"glosses": {"en": "garlic", "fa": "سیر", "ur": "لہسن", "tr": "sarımsak", "id": "bawang putih", "bn": "রসুন", "es": "ajo", "fr": "ail", "de": "Knoblauch", "ru": "чеснок", "zh": "大蒜"}}, "issues": [], "meta": {"elapsed": 3.63, "input_tokens": 929, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

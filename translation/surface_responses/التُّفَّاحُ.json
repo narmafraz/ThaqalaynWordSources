@@ -1,0 +1,1 @@
+{"slug": "التُّفَّاحُ", "kind": "surface", "parsed": {"glosses": {"en": "the apple", "fa": "سیب", "ur": "سیب", "tr": "elma", "id": "apel", "bn": "আপেল", "es": "manzana", "fr": "pomme", "de": "Apfel", "ru": "яблоко", "zh": "苹果"}}, "issues": [], "meta": {"elapsed": 2.39, "input_tokens": 950, "output_tokens": 114, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

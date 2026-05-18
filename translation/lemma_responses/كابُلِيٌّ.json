@@ -1,0 +1,1 @@
+{"slug": "كابُلِيٌّ", "kind": "lemma", "parsed": {"glosses": {"en": "Kabuli", "fa": "کابلی", "ur": "کابلی", "tr": "Kabuli", "id": "Kabuli", "bn": "কাবুলি", "es": "Kabuli", "fr": "Kabuli", "de": "Kabuli", "ru": "Кабули", "zh": "卡布利"}}, "issues": [], "meta": {"elapsed": 4.87, "input_tokens": 460, "output_tokens": 120, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

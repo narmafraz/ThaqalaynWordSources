@@ -1,0 +1,1 @@
+{"slug": "وَعِيرٌ", "kind": "lemma", "parsed": {"glosses": {"en": "camel", "fa": "شتر", "ur": "اونٹ", "tr": "deve", "id": "unta", "bn": "উট", "es": "camello", "fr": "chameau", "de": "Kamel", "ru": "верблюд", "zh": "骆驼"}}, "issues": [], "meta": {"elapsed": 3.23, "input_tokens": 464, "output_tokens": 113, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

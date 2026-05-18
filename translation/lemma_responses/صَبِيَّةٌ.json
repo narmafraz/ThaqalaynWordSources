@@ -1,0 +1,1 @@
+{"slug": "صَبِيَّةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "girl", "fa": "دختر", "ur": "لڑکی", "tr": "kız", "id": "gadis", "bn": "মেয়ে", "es": "niña", "fr": "fille", "de": "Mädchen", "ru": "девочка", "zh": "女孩"}}, "issues": [], "meta": {"elapsed": 3.93, "input_tokens": 487, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

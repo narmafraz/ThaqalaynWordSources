@@ -1,0 +1,1 @@
+{"slug": "زِرٌّ", "kind": "lemma", "parsed": {"glosses": {"en": "button", "fa": "دکمه", "ur": "بٹن", "tr": "düğme", "id": "kancing", "bn": "বাটন", "es": "botón", "fr": "bouton", "de": "Knopf", "ru": "пуговица", "zh": "纽扣"}}, "issues": [], "meta": {"elapsed": 4.95, "input_tokens": 957, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

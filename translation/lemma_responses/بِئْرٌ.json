@@ -1,0 +1,1 @@
+{"slug": "بِئْرٌ", "kind": "lemma", "parsed": {"glosses": {"en": "well", "fa": "چاه", "ur": "کُؤار", "tr": "kuyu", "id": "sumur", "bn": "কূপ", "es": "pozo", "fr": "puits", "de": "Brunnen", "ru": "колодец", "zh": "井"}}, "issues": [], "meta": {"elapsed": 4.55, "input_tokens": 465, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

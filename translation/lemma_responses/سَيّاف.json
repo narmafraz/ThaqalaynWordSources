@@ -1,0 +1,1 @@
+{"slug": "سَيّاف", "kind": "lemma", "parsed": {"glosses": {"en": "Seyyaf", "fa": "سیاف", "ur": "سیاف", "tr": "Seyyaf", "id": "Seyyaf", "bn": "সেয়্যাফ", "es": "Seyyaf", "fr": "Seyyaf", "de": "Seyyaf", "ru": "Сайяф", "zh": "赛亚夫"}}, "issues": [], "meta": {"elapsed": 5.88, "input_tokens": 673, "output_tokens": 133, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

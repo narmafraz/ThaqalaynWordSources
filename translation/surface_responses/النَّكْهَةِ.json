@@ -1,0 +1,1 @@
+{"slug": "النَّكْهَةِ", "kind": "surface", "parsed": {"glosses": {"en": "the scent", "fa": "عطر", "ur": "خوشبوئی", "tr": "koku", "id": "aroma", "bn": "গন্ধ", "es": "aroma", "fr": "parfum", "de": "Duft", "ru": "аромат", "zh": "香气"}}, "issues": [], "meta": {"elapsed": 6.79, "input_tokens": 608, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "زَبِيدِيّ", "kind": "lemma", "parsed": {"glosses": {"en": "Zabidi", "fa": "زبیدی", "ur": "زبیدی", "tr": "Zebidi", "id": "Zabidi", "bn": "জাবিদি", "es": "Zabidi", "fr": "Zabidi", "de": "Zabidi", "ru": "Забиди", "zh": "扎比迪"}}, "issues": [], "meta": {"elapsed": 3.37, "input_tokens": 451, "output_tokens": 127, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

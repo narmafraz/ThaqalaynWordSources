@@ -1,0 +1,1 @@
+{"slug": "اجْلِسِي", "kind": "surface", "parsed": {"glosses": {"en": "sit", "fa": "بشین", "ur": "بیٹھو", "tr": "otur", "id": "duduk", "bn": "বসো", "es": "siéntate", "fr": "assieds-toi", "de": "sitze", "ru": "сиди", "zh": "坐"}}, "issues": [], "meta": {"elapsed": 4.23, "input_tokens": 547, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

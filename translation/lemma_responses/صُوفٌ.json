@@ -1,0 +1,1 @@
+{"slug": "صُوفٌ", "kind": "lemma", "parsed": {"glosses": {"en": "wool", "fa": "پشم", "ur": "اون", "tr": "yün", "id": "wol", "bn": "উল", "es": "lana", "fr": "laine", "de": "Wolle", "ru": "шерсть", "zh": "羊毛"}}, "issues": [], "meta": {"elapsed": 4.56, "input_tokens": 943, "output_tokens": 111, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

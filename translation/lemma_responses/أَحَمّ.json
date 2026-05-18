@@ -1,0 +1,1 @@
+{"slug": "أَحَمّ", "kind": "lemma", "parsed": {"glosses": {"en": "black", "fa": "سیاه", "ur": "کالا", "tr": "siyah", "id": "hitam", "bn": "কালো", "es": "negro", "fr": "noir", "de": "schwarz", "ru": "чёрный", "zh": "黑色"}}, "issues": [], "meta": {"elapsed": 3.64, "input_tokens": 946, "output_tokens": 114, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

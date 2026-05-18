@@ -1,0 +1,1 @@
+{"slug": "مَأْكُولٌ", "kind": "lemma", "parsed": {"glosses": {"en": "food", "fa": "خوراکی", "ur": "خوراک", "tr": "yemek", "id": "makanan", "bn": "খাবার", "es": "comida", "fr": "nourriture", "de": "Essen", "ru": "еда", "zh": "食物"}}, "issues": [], "meta": {"elapsed": 3.21, "input_tokens": 594, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

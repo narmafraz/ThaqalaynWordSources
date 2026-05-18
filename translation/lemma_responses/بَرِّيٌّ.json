@@ -1,0 +1,1 @@
+{"slug": "بَرِّيٌّ", "kind": "lemma", "parsed": {"glosses": {"en": "wild", "fa": "وحشی", "ur": "وحشی", "tr": "vahşi", "id": "liar", "bn": "বন্য", "es": "salvaje", "fr": "sauvage", "de": "wild", "ru": "дикий", "zh": "野生的"}}, "issues": [], "meta": {"elapsed": 4.79, "input_tokens": 966, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

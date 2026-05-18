@@ -1,0 +1,1 @@
+{"slug": "يَتِيمٌ", "kind": "lemma", "parsed": {"glosses": {"en": "orphan", "fa": "یتیم", "ur": "یتیم", "tr": "yetim", "id": "yatim", "bn": "যতিম", "es": "huérfano", "fr": "orphelin", "de": "Waise", "ru": "сирота", "zh": "孤儿"}}, "issues": [], "meta": {"elapsed": 5.41, "input_tokens": 459, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

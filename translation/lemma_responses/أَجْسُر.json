@@ -1,0 +1,1 @@
+{"slug": "أَجْسُر", "kind": "lemma", "parsed": {"glosses": {"en": "bridges", "fa": "پل‌ها", "ur": "پل", "tr": "köprüler", "id": "jembatan", "bn": "সেতু", "es": "puentes", "fr": "ponts", "de": "Brücken", "ru": "мосты", "zh": "桥梁"}}, "issues": [], "meta": {"elapsed": 3.66, "input_tokens": 449, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "فُجُورٌ", "kind": "lemma", "parsed": {"glosses": {"en": "wickedness", "fa": "گناه", "ur": "گناہ", "tr": "fucur", "id": "fujur", "bn": "ফুজুর", "es": "fujur", "fr": "fujur", "de": "Fujur", "ru": "фуджур", "zh": "法朱尔"}}, "issues": [], "meta": {"elapsed": 6.01, "input_tokens": 491, "output_tokens": 122, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

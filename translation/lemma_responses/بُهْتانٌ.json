@@ -1,0 +1,1 @@
+{"slug": "بُهْتانٌ", "kind": "lemma", "parsed": {"glosses": {"en": "calumny", "fa": "تهمت", "ur": "قذف", "tr": "iftira", "id": "tuduhan", "bn": "অপবাদ", "es": "calumnia", "fr": "calomnie", "de": "Lüge", "ru": "клевета", "zh": "诽谤"}}, "issues": [], "meta": {"elapsed": 3.74, "input_tokens": 921, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

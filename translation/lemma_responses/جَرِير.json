@@ -1,0 +1,1 @@
+{"slug": "جَرِير", "kind": "lemma", "parsed": {"glosses": {"en": "Jarir", "fa": "جریر", "ur": "جریر", "tr": "Cerir", "id": "Jarir", "bn": "জারির", "es": "Jarir", "fr": "Jarir", "de": "Jarir", "ru": "Джирир", "zh": "贾比尔"}}, "issues": [], "meta": {"elapsed": 4.0, "input_tokens": 629, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

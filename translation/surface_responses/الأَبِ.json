@@ -1,0 +1,1 @@
+{"slug": "الأَبِ", "kind": "surface", "parsed": {"glosses": {"en": "the August", "fa": "آگوست", "ur": "آگست", "tr": "Ağustos", "id": "Agustus", "bn": "আগস্ট", "es": "agosto", "fr": "août", "de": "August", "ru": "август", "zh": "八月"}}, "issues": [], "meta": {"elapsed": 4.51, "input_tokens": 957, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

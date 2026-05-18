@@ -1,0 +1,1 @@
+{"slug": "قَطِيعٌ", "kind": "lemma", "parsed": {"glosses": {"en": "herd", "fa": "گله", "ur": "جھنڈ", "tr": "sürü", "id": "gerombolan", "bn": "পাল", "es": "rebaño", "fr": "troupeau", "de": "Herde", "ru": "стадо", "zh": "兽群"}}, "issues": [], "meta": {"elapsed": 4.51, "input_tokens": 734, "output_tokens": 121, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

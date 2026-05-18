@@ -1,0 +1,1 @@
+{"slug": "إِكْلِيلٌ", "kind": "lemma", "parsed": {"glosses": {"en": "crown", "fa": "تاج", "ur": "تاج", "tr": "taç", "id": "mahkota", "bn": "মুকুট", "es": "corona", "fr": "couronne", "de": "Krone", "ru": "корона", "zh": "皇冠"}}, "issues": [], "meta": {"elapsed": 4.58, "input_tokens": 468, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

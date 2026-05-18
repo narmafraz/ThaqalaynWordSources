@@ -1,0 +1,1 @@
+{"slug": "سُكَّرٌ", "kind": "lemma", "parsed": {"glosses": {"en": "sugar", "fa": "شکر", "ur": "چینی", "tr": "şeker", "id": "gula", "bn": "চিনি", "es": "azúcar", "fr": "sucre", "de": "Zucker", "ru": "сахар", "zh": "糖"}}, "issues": [], "meta": {"elapsed": 3.23, "input_tokens": 2135, "output_tokens": 113, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

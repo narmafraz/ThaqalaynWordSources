@@ -1,0 +1,1 @@
+{"slug": "اجْعَلُوا", "kind": "surface", "parsed": {"glosses": {"en": "make", "fa": "بکنید", "ur": "بنائیں", "tr": "yapın", "id": "jadikanlah", "bn": "করুন", "es": "haced", "fr": "faites", "de": "macht", "ru": "сделайте", "zh": "使"}}, "issues": [], "meta": {"elapsed": 3.69, "input_tokens": 534, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

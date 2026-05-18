@@ -1,0 +1,1 @@
+{"slug": "أَجْثاثٌ", "kind": "lemma", "parsed": {"glosses": {"en": "corpse", "fa": "جثه", "ur": "جثہ", "tr": "ceset", "id": "jenazah", "bn": "জঠা", "es": "cadáver", "fr": "cadavre", "de": "Leiche", "ru": "труп", "zh": "尸体"}}, "issues": [], "meta": {"elapsed": 3.91, "input_tokens": 881, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "إِسْحاق", "kind": "lemma", "parsed": {"glosses": {"en": "Isaac", "fa": "اسحاق", "ur": "اسحاق", "tr": "Isaac", "id": "Isaac", "bn": "ইসহাক", "es": "Isaac", "fr": "Isaac", "de": "Isaak", "ru": "Исхак", "zh": "以撒"}}, "issues": [], "meta": {"elapsed": 5.16, "input_tokens": 464, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

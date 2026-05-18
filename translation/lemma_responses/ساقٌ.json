@@ -1,0 +1,1 @@
+{"slug": "ساقٌ", "kind": "lemma", "parsed": {"glosses": {"en": "leg", "fa": "ساق", "ur": "ٹانگ", "tr": "bacak", "id": "kaki", "bn": "পা", "es": "pierna", "fr": "jambe", "de": "Bein", "ru": "голень", "zh": "小腿"}}, "issues": [], "meta": {"elapsed": 4.12, "input_tokens": 1773, "output_tokens": 113, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

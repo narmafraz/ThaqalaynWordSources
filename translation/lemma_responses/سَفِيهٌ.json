@@ -1,0 +1,1 @@
+{"slug": "سَفِيهٌ", "kind": "lemma", "parsed": {"glosses": {"en": "foolish", "fa": "نادان", "ur": "نادان", "tr": "ağır", "id": "bodoh", "bn": "মূর্খ", "es": "tonto", "fr": "sot", "de": "dumm", "ru": "глупый", "zh": "愚蠢的"}}, "issues": [], "meta": {"elapsed": 2.29, "input_tokens": 944, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

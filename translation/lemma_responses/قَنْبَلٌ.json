@@ -1,0 +1,1 @@
+{"slug": "قَنْبَلٌ", "kind": "lemma", "parsed": {"glosses": {"en": "cannon", "fa": "توپ توپخانه", "ur": "توپ", "tr": "top", "id": "meriam", "bn": "তুপ", "es": "cañón", "fr": "canon", "de": "Kanone", "ru": "пушка", "zh": "大炮"}}, "issues": [], "meta": {"elapsed": 4.48, "input_tokens": 450, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

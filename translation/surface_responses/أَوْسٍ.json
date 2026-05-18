@@ -1,0 +1,1 @@
+{"slug": "أَوْسٍ", "kind": "surface", "parsed": {"glosses": {"en": "Aws", "fa": "اوس", "ur": "اوس", "tr": "Aws", "id": "Aws", "bn": "আউস", "es": "Aws", "fr": "Aws", "de": "Aws", "ru": "Аус", "zh": "奥斯"}}, "issues": [], "meta": {"elapsed": 2.87, "input_tokens": 709, "output_tokens": 108, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

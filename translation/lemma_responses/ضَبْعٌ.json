@@ -1,0 +1,1 @@
+{"slug": "ضَبْعٌ", "kind": "lemma", "parsed": {"glosses": {"en": "hyena", "fa": "کفتار", "ur": "کچوا", "tr": "çita", "id": "hyena", "bn": "হাইনা", "es": "hiena", "fr": "hyène", "de": "Hyäne", "ru": "гиена", "zh": "鬣狗"}}, "issues": [], "meta": {"elapsed": 4.66, "input_tokens": 932, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "أَحْمَقُ", "kind": "surface", "parsed": {"glosses": {"en": "fool", "fa": "احمق", "ur": "احمق", "tr": "ahmak", "id": "orang bodoh", "bn": "বোকা", "es": "tonto", "fr": "sot", "de": "Narr", "ru": "глупец", "zh": "傻瓜"}}, "issues": [], "meta": {"elapsed": 4.42, "input_tokens": 1167, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

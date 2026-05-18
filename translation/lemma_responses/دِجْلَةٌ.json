@@ -1,0 +1,1 @@
+{"slug": "دِجْلَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "Tigris", "fa": "دجله", "ur": "دجلہ", "tr": "Dicle", "id": "Tigris", "bn": "তিগ্রিস", "es": "Tigris", "fr": "Tigre", "de": "Tigris", "ru": "Тигр", "zh": "底格里斯河"}}, "issues": [], "meta": {"elapsed": 4.05, "input_tokens": 490, "output_tokens": 124, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

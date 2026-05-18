@@ -1,0 +1,1 @@
+{"slug": "أُتْرُجَّةٌ", "kind": "surface", "parsed": {"glosses": {"en": "citron", "fa": "لیمو", "ur": "لیمو", "tr": "limon", "id": "limau", "bn": "লেবু", "es": "cidra", "fr": "cédrat", "de": "Zitrone", "ru": "цитрон", "zh": "香橼"}}, "issues": [], "meta": {"elapsed": 3.47, "input_tokens": 667, "output_tokens": 120, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

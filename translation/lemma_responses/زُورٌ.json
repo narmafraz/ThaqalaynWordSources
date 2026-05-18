@@ -1,0 +1,1 @@
+{"slug": "زُورٌ", "kind": "lemma", "parsed": {"glosses": {"en": "falsehood", "fa": "دروغ", "ur": "دروغ", "tr": "yalan", "id": "kebohongan", "bn": "মিথ্যা", "es": "falsedad", "fr": "fausseté", "de": "Lüge", "ru": "ложь", "zh": "谎言"}}, "issues": [], "meta": {"elapsed": 4.26, "input_tokens": 961, "output_tokens": 121, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

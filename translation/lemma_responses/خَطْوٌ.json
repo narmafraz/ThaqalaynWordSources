@@ -1,0 +1,1 @@
+{"slug": "خَطْوٌ", "kind": "lemma", "parsed": {"glosses": {"en": "step", "fa": "قدم", "ur": "قدم", "tr": "adım", "id": "langkah", "bn": "পদক্ষেপ", "es": "paso", "fr": "pas", "de": "Schritt", "ru": "шаг", "zh": "步"}}, "issues": [], "meta": {"elapsed": 2.55, "input_tokens": 449, "output_tokens": 110, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "مَلِيكَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "angel", "fa": "فرشته", "ur": "فرشتہ", "tr": "melek", "id": "malaikat", "bn": "ফেরেশতা", "es": "ángel", "fr": "ange", "de": "Engel", "ru": "ангел", "zh": "天使"}}, "issues": [], "meta": {"elapsed": 4.66, "input_tokens": 450, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

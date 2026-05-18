@@ -1,0 +1,1 @@
+{"slug": "قُرُوء", "kind": "lemma", "parsed": {"glosses": {"en": "menstruation", "fa": "قُرُوء", "ur": "قُرُوء", "tr": "kuru", "id": "kuru", "bn": "কুরু", "es": "kuru", "fr": "kuru", "de": "kuru", "ru": "куру", "zh": "库鲁"}}, "issues": [], "meta": {"elapsed": 5.42, "input_tokens": 449, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

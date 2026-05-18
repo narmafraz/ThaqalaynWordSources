@@ -1,0 +1,1 @@
+{"slug": "اصْبُبْ", "kind": "surface", "parsed": {"glosses": {"en": "to pour", "fa": "ریختن", "ur": "ڈالنا", "tr": "dökmek", "id": "menuangkan", "bn": "ঢালা", "es": "verter", "fr": "verser", "de": "gießen", "ru": "лить", "zh": "倒"}}, "issues": [], "meta": {"elapsed": 4.15, "input_tokens": 476, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

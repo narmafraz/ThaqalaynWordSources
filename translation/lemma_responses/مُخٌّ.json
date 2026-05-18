@@ -1,0 +1,1 @@
+{"slug": "مُخٌّ", "kind": "lemma", "parsed": {"glosses": {"en": "marrow", "fa": "مغز", "ur": "مغز", "tr": "iliği", "id": "sumsum", "bn": "মজ্জা", "es": "médula", "fr": "moelle", "de": "Mark", "ru": "мозг", "zh": "骨髓"}}, "issues": [], "meta": {"elapsed": 4.4, "input_tokens": 998, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "طَبَقٌ", "kind": "lemma", "parsed": {"glosses": {"en": "plate", "fa": "سینی", "ur": "تشتہ", "tr": "tabak", "id": "piring", "bn": "প্লেট", "es": "plato", "fr": "assiette", "de": "Teller", "ru": "тарелка", "zh": "盘子"}}, "issues": [], "meta": {"elapsed": 5.34, "input_tokens": 2400, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

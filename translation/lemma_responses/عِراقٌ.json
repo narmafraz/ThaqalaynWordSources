@@ -1,0 +1,1 @@
+{"slug": "عِراقٌ", "kind": "lemma", "parsed": {"glosses": {"en": "Iraq", "fa": "عراق", "ur": "عراق", "tr": "Irak", "id": "Irak", "bn": "ইরাক", "es": "Irak", "fr": "Irak", "de": "Irak", "ru": "Ирак", "zh": "伊拉克"}}, "issues": [], "meta": {"elapsed": 4.7, "input_tokens": 996, "output_tokens": 113, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

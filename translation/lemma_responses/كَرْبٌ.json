@@ -1,0 +1,1 @@
+{"slug": "كَرْبٌ", "kind": "lemma", "parsed": {"glosses": {"en": "distress", "fa": "اندوه", "ur": "غم", "tr": "üzüntü", "id": "kesedihan", "bn": "দুঃখ", "es": "angustia", "fr": "détresse", "de": "Not", "ru": "горе", "zh": "痛苦"}}, "issues": [], "meta": {"elapsed": 5.77, "input_tokens": 1013, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

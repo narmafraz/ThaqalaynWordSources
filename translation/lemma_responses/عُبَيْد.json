@@ -1,0 +1,1 @@
+{"slug": "عُبَيْد", "kind": "lemma", "parsed": {"glosses": {"en": "Ubayd", "fa": "عُبَید", "ur": "عُبَید", "tr": "Ubeyd", "id": "Ubayd", "bn": "উবাইদ", "es": "Ubayd", "fr": "Ubayd", "de": "Ubayd", "ru": "Убайд", "zh": "乌拜德"}}, "issues": [], "meta": {"elapsed": 4.31, "input_tokens": 730, "output_tokens": 128, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "فَرْوٌ", "kind": "lemma", "parsed": {"glosses": {"en": "fur", "fa": "پشم", "ur": "فرو", "tr": "kürk", "id": "bulu", "bn": "ফার", "es": "piel", "fr": "fourrure", "de": "Pelz", "ru": "мех", "zh": "毛皮"}}, "issues": [], "meta": {"elapsed": 4.12, "input_tokens": 761, "output_tokens": 112, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

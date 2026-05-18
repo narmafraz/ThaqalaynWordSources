@@ -1,0 +1,1 @@
+{"slug": "هُودٌ", "kind": "lemma", "parsed": {"glosses": {"en": "Hud", "fa": "هود", "ur": "ہود", "tr": "Hud", "id": "Hud", "bn": "হুদ", "es": "Hud", "fr": "Hud", "de": "Hud", "ru": "Худ", "zh": "胡德"}}, "issues": [], "meta": {"elapsed": 4.4, "input_tokens": 806, "output_tokens": 114, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

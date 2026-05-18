@@ -1,0 +1,1 @@
+{"slug": "35", "kind": "surface", "parsed": {"glosses": {"en": "35", "fa": "۳۵", "ur": "۳۵", "tr": "35", "id": "35", "bn": "৩৫", "es": "35", "fr": "35", "de": "35", "ru": "35", "zh": "35"}}, "issues": [], "meta": {"elapsed": 4.33, "input_tokens": 557, "output_tokens": 120, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

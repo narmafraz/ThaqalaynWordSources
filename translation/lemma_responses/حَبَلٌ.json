@@ -1,0 +1,1 @@
+{"slug": "حَبَلٌ", "kind": "lemma", "parsed": {"glosses": {"en": "rope", "fa": "طناب", "ur": "رسی", "tr": "ip", "id": "tali", "bn": "দড়ি", "es": "cuerda", "fr": "corde", "de": "Seil", "ru": "веревка", "zh": "绳子"}}, "issues": [], "meta": {"elapsed": 4.66, "input_tokens": 1742, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

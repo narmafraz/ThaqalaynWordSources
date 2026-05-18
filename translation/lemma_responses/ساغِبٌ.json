@@ -1,0 +1,1 @@
+{"slug": "ساغِبٌ", "kind": "lemma", "parsed": {"glosses": {"en": "hungry", "fa": "گرسنه", "ur": "بھوکا", "tr": "aç", "id": "lapar", "bn": "ভুক্ত", "es": "hambriento", "fr": "affamé", "de": "hungrig", "ru": "голодный", "zh": "饥饿的"}}, "issues": [], "meta": {"elapsed": 5.06, "input_tokens": 647, "output_tokens": 120, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

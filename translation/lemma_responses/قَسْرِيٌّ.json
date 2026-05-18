@@ -1,0 +1,1 @@
+{"slug": "قَسْرِيٌّ", "kind": "lemma", "parsed": {"glosses": {"en": "Coptic", "fa": "قبطی", "ur": "قبطی", "tr": "Kıpti", "id": "Koptik", "bn": "কপ্টিক", "es": "copto", "fr": "copte", "de": "koptisch", "ru": "коптский", "zh": "科普特的"}}, "issues": [], "meta": {"elapsed": 7.53, "input_tokens": 450, "output_tokens": 123, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "السُّوءُ", "kind": "surface", "parsed": {"glosses": {"en": "the evil", "fa": "بدی", "ur": "بدی", "tr": "kötülük", "id": "keburukan", "bn": "মন্দ", "es": "maldad", "fr": "mal", "de": "Böse", "ru": "зло", "zh": "恶"}}, "issues": [], "meta": {"elapsed": 5.09, "input_tokens": 979, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

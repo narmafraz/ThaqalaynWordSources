@@ -1,0 +1,1 @@
+{"slug": "اغْسِلُوا", "kind": "surface", "parsed": {"glosses": {"en": "to wash", "fa": "شستن", "ur": "دھونا", "tr": "yıkamak", "id": "mencuci", "bn": "ধোয়া", "es": "lavar", "fr": "laver", "de": "waschen", "ru": "мыть", "zh": "洗"}}, "issues": [], "meta": {"elapsed": 5.38, "input_tokens": 476, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

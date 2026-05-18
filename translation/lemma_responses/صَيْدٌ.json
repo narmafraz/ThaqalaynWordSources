@@ -1,0 +1,1 @@
+{"slug": "صَيْدٌ", "kind": "lemma", "parsed": {"glosses": {"en": "game, prey", "fa": "شکار", "ur": "شکار", "tr": "av", "id": "buruan", "bn": "শিকার", "es": "caza", "fr": "chasse", "de": "Wild", "ru": "дичь", "zh": "猎物"}}, "issues": [], "meta": {"elapsed": 2.69, "input_tokens": 955, "output_tokens": 114, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "حَتْمٌ", "kind": "lemma", "parsed": {"glosses": {"en": "decree", "fa": "حکم", "ur": "حکم", "tr": "kader", "id": "ketetapan", "bn": "হুকুম", "es": "decreto", "fr": "décret", "de": "Erlass", "ru": "приговор", "zh": "判决"}}, "issues": [], "meta": {"elapsed": 3.91, "input_tokens": 1239, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

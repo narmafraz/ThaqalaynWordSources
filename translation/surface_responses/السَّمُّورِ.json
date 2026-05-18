@@ -1,0 +1,1 @@
+{"slug": "السَّمُّورِ", "kind": "surface", "parsed": {"glosses": {"en": "the sable", "fa": "سمور", "ur": "سمور", "tr": "sümsük", "id": "sable", "bn": "সম্বর", "es": "sable", "fr": "sable", "de": "Sable", "ru": "соболь", "zh": "紫貂"}}, "issues": [], "meta": {"elapsed": 4.35, "input_tokens": 737, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

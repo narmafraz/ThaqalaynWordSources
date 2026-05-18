@@ -1,0 +1,1 @@
+{"slug": "صَدْرٌ", "kind": "lemma", "parsed": {"glosses": {"en": "chest", "fa": "سینه", "ur": "چھاتی", "tr": "göğüs", "id": "dada", "bn": "বক্ষ", "es": "pecho", "fr": "poitrine", "de": "Brust", "ru": "грудь", "zh": "胸膛"}}, "issues": [], "meta": {"elapsed": 5.34, "input_tokens": 1487, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

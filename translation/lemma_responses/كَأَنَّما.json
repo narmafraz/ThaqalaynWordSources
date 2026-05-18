@@ -1,0 +1,1 @@
+{"slug": "كَأَنَّما", "kind": "lemma", "parsed": {"glosses": {"en": "as if", "fa": "گویی", "ur": "جیسے", "tr": " sanki", "id": "seolah", "bn": "যেন", "es": "como si", "fr": "comme si", "de": "als ob", "ru": "словно", "zh": "仿佛"}}, "issues": [], "meta": {"elapsed": 4.31, "input_tokens": 448, "output_tokens": 113, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

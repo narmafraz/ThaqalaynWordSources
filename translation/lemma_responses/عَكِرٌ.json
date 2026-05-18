@@ -1,0 +1,1 @@
+{"slug": "عَكِرٌ", "kind": "lemma", "parsed": {"glosses": {"en": "murky, muddy", "fa": "کدر", "ur": "کدرا", "tr": "bulanık", "id": "keruh", "bn": "কদর", "es": "turbio", "fr": "trouble", "de": "trüb", "ru": "мутный", "zh": "浑浊的"}}, "issues": [], "meta": {"elapsed": 4.98, "input_tokens": 489, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

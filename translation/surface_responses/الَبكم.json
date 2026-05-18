@@ -1,0 +1,1 @@
+{"slug": "الَبكم", "kind": "surface", "parsed": {"glosses": {"en": "the mute", "fa": "خرس", "ur": "خرس", "tr": "sağır", "id": "bisu", "bn": "মুগ্ধ", "es": "mudo", "fr": "muet", "de": "stumm", "ru": "немой", "zh": "哑的"}}, "issues": [], "meta": {"elapsed": 5.44, "input_tokens": 904, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

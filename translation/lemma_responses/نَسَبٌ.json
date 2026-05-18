@@ -1,0 +1,1 @@
+{"slug": "نَسَبٌ", "kind": "lemma", "parsed": {"glosses": {"en": "lineage", "fa": "نسب", "ur": "نسب", "tr": "soy", "id": "nasab", "bn": "নসাব", "es": "linaje", "fr": "lignée", "de": "Abstammung", "ru": "родословная", "zh": "世系"}}, "issues": [], "meta": {"elapsed": 5.39, "input_tokens": 1578, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

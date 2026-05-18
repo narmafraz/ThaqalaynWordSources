@@ -1,0 +1,1 @@
+{"slug": "لِحافٌ", "kind": "lemma", "parsed": {"glosses": {"en": "blanket", "fa": "پتو", "ur": "کمبل", "tr": "yorgan", "id": "selimut", "bn": "কম্বল", "es": "manta", "fr": "couverture", "de": "Decke", "ru": "одеяло", "zh": "毯子"}}, "issues": [], "meta": {"elapsed": 3.58, "input_tokens": 476, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

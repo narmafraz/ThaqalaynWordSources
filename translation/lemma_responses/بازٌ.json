@@ -1,0 +1,1 @@
+{"slug": "بازٌ", "kind": "lemma", "parsed": {"glosses": {"en": "hawk", "fa": "باز", "ur": "باز", "tr": "şahin", "id": "elang", "bn": "বাজপাখি", "es": "halcón", "fr": "faucon", "de": "Falke", "ru": "ястреб", "zh": "鹰"}}, "issues": [], "meta": {"elapsed": 5.99, "input_tokens": 964, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

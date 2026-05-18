@@ -1,0 +1,1 @@
+{"slug": "شَعْرانِيّ", "kind": "lemma", "parsed": {"glosses": {"en": "Ashari", "fa": "اشعری", "ur": "اشعری", "tr": "Eşari", "id": "Asyari", "bn": "আশারি", "es": "Ashari", "fr": "Ashari", "de": "Aschari", "ru": "Ашари", "zh": "阿沙里"}}, "issues": [], "meta": {"elapsed": 3.66, "input_tokens": 530, "output_tokens": 123, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

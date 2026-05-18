@@ -1,0 +1,1 @@
+{"slug": "دَفَّ", "kind": "lemma", "parsed": {"glosses": {"en": "side", "fa": "پهلو", "ur": "پہلو", "tr": "yan", "id": "sisi", "bn": "পাশ", "es": "lado", "fr": "côté", "de": "Seite", "ru": "бок", "zh": "侧面"}}, "issues": [], "meta": {"elapsed": 4.4, "input_tokens": 1029, "output_tokens": 112, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

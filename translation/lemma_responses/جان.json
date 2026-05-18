@@ -1,0 +1,1 @@
+{"slug": "جان", "kind": "lemma", "parsed": {"glosses": {"en": "serpent", "fa": "مار", "ur": "مار", "tr": "yılan", "id": "ular", "bn": "সর্প", "es": "serpiente", "fr": "serpent", "de": "Schlange", "ru": "змея", "zh": "蛇"}}, "issues": [], "meta": {"elapsed": 4.11, "input_tokens": 846, "output_tokens": 111, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

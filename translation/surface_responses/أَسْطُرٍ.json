@@ -1,0 +1,1 @@
+{"slug": "أَسْطُرٍ", "kind": "surface", "parsed": {"glosses": {"en": "lines", "fa": "سطرها", "ur": "سطر", "tr": "satırlar", "id": "baris", "bn": "সারি", "es": "líneas", "fr": "lignes", "de": "Zeilen", "ru": "строки", "zh": "行"}}, "issues": [], "meta": {"elapsed": 2.96, "input_tokens": 1032, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

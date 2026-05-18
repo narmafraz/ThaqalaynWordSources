@@ -1,0 +1,1 @@
+{"slug": "مُقْعَدٌ", "kind": "lemma", "parsed": {"glosses": {"en": "lame", "fa": "لنگ", "ur": "لنگا", "tr": "sakat", "id": "pincang", "bn": "লঙ্গা", "es": "cojo", "fr": "boiteux", "de": "lahm", "ru": "хромой", "zh": "瘸的"}}, "issues": [], "meta": {"elapsed": 4.28, "input_tokens": 918, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

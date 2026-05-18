@@ -1,0 +1,1 @@
+{"slug": "نِقاشٌ", "kind": "lemma", "parsed": {"glosses": {"en": "engraving", "fa": "نقش", "ur": "نقش", "tr": "oyma", "id": "ukiran", "bn": "নকশা", "es": "grabado", "fr": "gravure", "de": "Gravur", "ru": "гравировка", "zh": "雕刻"}}, "issues": [], "meta": {"elapsed": 5.15, "input_tokens": 548, "output_tokens": 122, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

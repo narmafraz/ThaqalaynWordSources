@@ -1,0 +1,1 @@
+{"slug": "كُوبٌ", "kind": "lemma", "parsed": {"glosses": {"en": "cup", "fa": "لیوان", "ur": "کپ", "tr": "kupa", "id": "gelas", "bn": "কাপ", "es": "vaso", "fr": "tasse", "de": "Becher", "ru": "чашка", "zh": "杯子"}}, "issues": [], "meta": {"elapsed": 3.56, "input_tokens": 573, "output_tokens": 113, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

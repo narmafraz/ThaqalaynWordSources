@@ -1,0 +1,1 @@
+{"slug": "غُولٌ", "kind": "lemma", "parsed": {"glosses": {"en": "goblin", "fa": "غول", "ur": "غول", "tr": "göl", "id": "goblin", "bn": "গোল", "es": "goblin", "fr": "goblin", "de": "Goblin", "ru": "гул", "zh": "巨灵"}}, "issues": [], "meta": {"elapsed": 4.12, "input_tokens": 929, "output_tokens": 114, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "مِيزانٌ", "kind": "lemma", "parsed": {"glosses": {"en": "balance", "fa": "ترازو", "ur": "تولہ", "tr": "terazi", "id": "timbangan", "bn": "তুলা", "es": "balanza", "fr": "balance", "de": "Waage", "ru": "весы", "zh": "天平"}}, "issues": [], "meta": {"elapsed": 3.89, "input_tokens": 513, "output_tokens": 112, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

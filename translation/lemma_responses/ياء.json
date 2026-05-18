@@ -1,0 +1,1 @@
+{"slug": "ياء", "kind": "lemma", "parsed": {"glosses": {"en": "Yaa", "fa": "یاء", "ur": "یا", "tr": "Yâ", "id": "Ya", "bn": "যা", "es": "Yaa", "fr": "Yaa", "de": "Ya", "ru": "Яа", "zh": "亚"}}, "issues": [], "meta": {"elapsed": 4.16, "input_tokens": 481, "output_tokens": 110, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

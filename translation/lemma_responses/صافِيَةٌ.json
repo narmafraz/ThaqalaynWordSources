@@ -1,0 +1,1 @@
+{"slug": "صافِيَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "pure", "fa": "خالص", "ur": "خالص", "tr": "saf", "id": "murni", "bn": "পবিত্র", "es": "puro", "fr": "pur", "de": "rein", "ru": "чистый", "zh": "纯净"}}, "issues": [], "meta": {"elapsed": 4.78, "input_tokens": 615, "output_tokens": 113, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

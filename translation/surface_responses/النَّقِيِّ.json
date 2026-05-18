@@ -1,0 +1,1 @@
+{"slug": "النَّقِيِّ", "kind": "surface", "parsed": {"glosses": {"en": "the pure", "fa": "خالص", "ur": "خالص", "tr": "saf", "id": "murni", "bn": "পবিত্র", "es": "puro", "fr": "pur", "de": "rein", "ru": "чистый", "zh": "纯洁的"}}, "issues": [], "meta": {"elapsed": 6.06, "input_tokens": 782, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

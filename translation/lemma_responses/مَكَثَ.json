@@ -1,0 +1,1 @@
+{"slug": "مَكَثَ", "kind": "lemma", "parsed": {"glosses": {"en": "to dwell", "fa": "ماندن", "ur": "رُکنا", "tr": "kalmak", "id": "tinggal", "bn": "থাকা", "es": "morar", "fr": "demeurer", "de": "wohnen", "ru": "жить", "zh": "居住"}}, "issues": [], "meta": {"elapsed": 2.35, "input_tokens": 1150, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

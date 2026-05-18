@@ -1,0 +1,1 @@
+{"slug": "أَخُو", "kind": "lemma", "parsed": {"glosses": {"en": "brother", "fa": "برادر", "ur": "بھائی", "tr": "kardeş", "id": "saudara", "bn": "ভাই", "es": "hermano", "fr": "frère", "de": "Bruder", "ru": "брат", "zh": "兄弟"}}, "issues": [], "meta": {"elapsed": 3.49, "input_tokens": 480, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

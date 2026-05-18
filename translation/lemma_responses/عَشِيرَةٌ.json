@@ -1,0 +1,1 @@
+{"slug": "عَشِيرَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "clan", "fa": "قبیله", "ur": "خاندان", "tr": "kabile", "id": "klan", "bn": "গোত্র", "es": "clan", "fr": "clan", "de": "Clan", "ru": "клан", "zh": "氏族"}}, "issues": [], "meta": {"elapsed": 4.57, "input_tokens": 750, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

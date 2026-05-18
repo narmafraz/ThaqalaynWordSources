@@ -1,0 +1,1 @@
+{"slug": "بِنِين", "kind": "lemma", "parsed": {"glosses": {"en": "sons", "fa": "پسران", "ur": "بیٹے", "tr": "oğullar", "id": "anak laki-laki", "bn": "পুত্র", "es": "hijos", "fr": "fils", "de": "Söhne", "ru": "сыновья", "zh": "儿子"}}, "issues": [], "meta": {"elapsed": 4.41, "input_tokens": 506, "output_tokens": 121, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

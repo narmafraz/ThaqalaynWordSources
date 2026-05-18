@@ -1,0 +1,1 @@
+{"slug": "بَخَّ", "kind": "lemma", "parsed": {"glosses": {"en": "to say", "fa": "آفرین", "ur": "آفرین", "tr": "afes", "id": "bagus", "bn": "অসাধারণ", "es": "bravo", "fr": "bravo", "de": "bravo", "ru": "браво", "zh": "好"}}, "issues": [], "meta": {"elapsed": 3.82, "input_tokens": 1263, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

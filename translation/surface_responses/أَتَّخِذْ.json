@@ -1,0 +1,1 @@
+{"slug": "أَتَّخِذْ", "kind": "surface", "parsed": {"glosses": {"en": "take", "fa": "گرفتن", "ur": "لینا", "tr": "almak", "id": "mengambil", "bn": "নেওয়া", "es": "tomar", "fr": "prendre", "de": "nehmen", "ru": "брать", "zh": "拿取"}}, "issues": [], "meta": {"elapsed": 4.71, "input_tokens": 580, "output_tokens": 112, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

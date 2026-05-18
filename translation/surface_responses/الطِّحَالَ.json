@@ -1,0 +1,1 @@
+{"slug": "الطِّحَالَ", "kind": "surface", "parsed": {"glosses": {"en": "the spleen", "fa": "طحال", "ur": "طحال", "tr": "dalak", "id": "limpa", "bn": "প্লীহা", "es": "bazo", "fr": "rate", "de": "Milz", "ru": "селезёнка", "zh": "脾脏"}}, "issues": [], "meta": {"elapsed": 5.19, "input_tokens": 975, "output_tokens": 120, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

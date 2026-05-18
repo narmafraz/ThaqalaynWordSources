@@ -1,0 +1,1 @@
+{"slug": "صَلْصالٌ", "kind": "lemma", "parsed": {"glosses": {"en": "clay", "fa": "خاک رس", "ur": "مٹی", "tr": "kil", "id": "tanah liat", "bn": "মাটি", "es": "arcilla", "fr": "argile", "de": "Lehm", "ru": "глина", "zh": "粘土"}}, "issues": [], "meta": {"elapsed": 5.32, "input_tokens": 848, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

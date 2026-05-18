@@ -1,0 +1,1 @@
+{"slug": "مَعْز", "kind": "lemma", "parsed": {"glosses": {"en": "goat", "fa": "بز", "ur": "بکرا", "tr": "keçi", "id": "kambing", "bn": "ছাগল", "es": "cabra", "fr": "chèvre", "de": "Ziege", "ru": "коза", "zh": "山羊"}}, "issues": [], "meta": {"elapsed": 5.24, "input_tokens": 954, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

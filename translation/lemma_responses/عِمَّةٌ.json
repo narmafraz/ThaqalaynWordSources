@@ -1,0 +1,1 @@
+{"slug": "عِمَّةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "turban", "fa": "عمامه", "ur": "عمامہ", "tr": "sarık", "id": "sorban", "bn": "পাগড়ি", "es": "turbante", "fr": "turban", "de": "Turban", "ru": "тюрбан", "zh": "头巾"}}, "issues": [], "meta": {"elapsed": 5.28, "input_tokens": 587, "output_tokens": 120, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

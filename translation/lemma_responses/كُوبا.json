@@ -1,0 +1,1 @@
+{"slug": "كُوبا", "kind": "lemma", "parsed": {"glosses": {"en": "Cuba", "fa": "كوبا", "ur": "كيوبا", "tr": "Küba", "id": "Kuba", "bn": "কিউবা", "es": "Cuba", "fr": "Cuba", "de": "Kuba", "ru": "Куба", "zh": "古巴"}}, "issues": [], "meta": {"elapsed": 3.54, "input_tokens": 476, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

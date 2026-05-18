@@ -1,0 +1,1 @@
+{"slug": "فِرارٌ", "kind": "lemma", "parsed": {"glosses": {"en": "flight", "fa": "گریز", "ur": "بھاگنا", "tr": "kaçış", "id": "pelarian", "bn": "পলায়ন", "es": "huida", "fr": "fuite", "de": "Flucht", "ru": "бегство", "zh": "逃跑"}}, "issues": [], "meta": {"elapsed": 3.43, "input_tokens": 1019, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

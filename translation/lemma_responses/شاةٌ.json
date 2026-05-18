@@ -1,0 +1,1 @@
+{"slug": "شاةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "sheep", "fa": "گوسفند", "ur": "بھیڑ", "tr": "koyun", "id": "domba", "bn": "ভেড়া", "es": "oveja", "fr": "mouton", "de": "Schaf", "ru": "овца", "zh": "羊"}}, "issues": [], "meta": {"elapsed": 3.78, "input_tokens": 980, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

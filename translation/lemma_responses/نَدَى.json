@@ -1,0 +1,1 @@
+{"slug": "نَدَى", "kind": "lemma", "parsed": {"glosses": {"en": "dew", "fa": "شبنم", "ur": "شبنم", "tr": "çiy", "id": "embun", "bn": "শিশির", "es": "rocío", "fr": "rosée", "de": "Tau", "ru": "роса", "zh": "露水"}}, "issues": [], "meta": {"elapsed": 4.68, "input_tokens": 927, "output_tokens": 114, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

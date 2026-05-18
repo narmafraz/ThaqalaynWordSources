@@ -1,0 +1,1 @@
+{"slug": "أَعْرابِيٌّ", "kind": "lemma", "parsed": {"glosses": {"en": "Bedouin", "fa": "عربی", "ur": "عربی", "tr": "Arap", "id": "Arab", "bn": "আরবী", "es": "árabe", "fr": "arabe", "de": "arabisch", "ru": "араб", "zh": "阿拉伯的"}}, "issues": [], "meta": {"elapsed": 5.68, "input_tokens": 470, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

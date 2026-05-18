@@ -1,0 +1,1 @@
+{"slug": "أَلَمٌ", "kind": "lemma", "parsed": {"glosses": {"en": "pain", "fa": "درد", "ur": "درد", "tr": "acı", "id": "sakit", "bn": "বেদনা", "es": "dolor", "fr": "douleur", "de": "Schmerz", "ru": "боль", "zh": "疼痛"}}, "issues": [], "meta": {"elapsed": 5.03, "input_tokens": 1238, "output_tokens": 111, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "أَنِيسًا", "kind": "surface", "parsed": {"glosses": {"en": "Anis", "fa": "انیس", "ur": "انیس", "tr": "Anis", "id": "Anis", "bn": "আনিস", "es": "Anis", "fr": "Anis", "de": "Anis", "ru": "Анис", "zh": "安尼斯"}}, "issues": [], "meta": {"elapsed": 2.32, "input_tokens": 998, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

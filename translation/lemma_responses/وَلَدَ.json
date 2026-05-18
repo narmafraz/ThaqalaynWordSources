@@ -1,0 +1,1 @@
+{"slug": "وَلَدَ", "kind": "lemma", "parsed": {"glosses": {"en": "child", "fa": "فرزند", "ur": "بچہ", "tr": "çocuk", "id": "anak", "bn": "সন্তান", "es": "hijo", "fr": "enfant", "de": "Kind", "ru": "ребенок", "zh": "孩子"}}, "issues": [], "meta": {"elapsed": 5.31, "input_tokens": 1802, "output_tokens": 111, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

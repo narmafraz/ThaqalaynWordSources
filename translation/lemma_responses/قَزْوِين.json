@@ -1,0 +1,1 @@
+{"slug": "قَزْوِين", "kind": "lemma", "parsed": {"glosses": {"en": "Qazvin", "fa": "قزوین", "ur": "قزوین", "tr": "Qazvin", "id": "Qazvin", "bn": "কাজভিন", "es": "Qazvin", "fr": "Qazvin", "de": "Qazvin", "ru": "Казвин", "zh": "加兹温"}}, "issues": [], "meta": {"elapsed": 3.86, "input_tokens": 468, "output_tokens": 126, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

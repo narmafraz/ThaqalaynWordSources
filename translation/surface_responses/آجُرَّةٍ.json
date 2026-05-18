@@ -1,0 +1,1 @@
+{"slug": "آجُرَّةٍ", "kind": "surface", "parsed": {"glosses": {"en": "brick", "fa": "آجر", "ur": "اینٹ", "tr": "tuğla", "id": "bata", "bn": "ইট", "es": "ladrillo", "fr": "brique", "de": "Ziegel", "ru": "кирпич", "zh": "砖"}}, "issues": [], "meta": {"elapsed": 6.76, "input_tokens": 1084, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

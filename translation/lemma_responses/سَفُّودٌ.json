@@ -1,0 +1,1 @@
+{"slug": "سَفُّودٌ", "kind": "lemma", "parsed": {"glosses": {"en": "spit, skewer", "fa": "سیخ", "ur": "سیخ", "tr": "şiş", "id": "tusuk", "bn": "সিখ", "es": "asador", "fr": "broche", "de": "Spieß", "ru": "вертел", "zh": "烤叉"}}, "issues": [], "meta": {"elapsed": 4.84, "input_tokens": 613, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

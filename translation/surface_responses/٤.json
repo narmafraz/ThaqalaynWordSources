@@ -1,0 +1,1 @@
+{"slug": "٤", "kind": "surface", "parsed": {"glosses": {"en": "4", "fa": "۴", "ur": "۴", "tr": "4", "id": "4", "bn": "৪", "es": "4", "fr": "4", "de": "4", "ru": "4", "zh": "4"}}, "issues": [], "meta": {"elapsed": 2.68, "input_tokens": 543, "output_tokens": 106, "cost": 0.0, "stop_reason": "stop", "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null, "error": null}

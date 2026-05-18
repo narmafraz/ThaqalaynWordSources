@@ -1,0 +1,1 @@
+{"slug": "بِئْسٌ", "kind": "lemma", "parsed": {"glosses": {"en": "misery", "fa": "بدی", "ur": "برائی", "tr": "kötülük", "id": "keburukan", "bn": "মন্দ", "es": "miseria", "fr": "misère", "de": "Übel", "ru": "зло", "zh": "恶"}}, "issues": [], "meta": {"elapsed": 4.86, "input_tokens": 551, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

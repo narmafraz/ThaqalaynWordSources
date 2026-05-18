@@ -1,0 +1,1 @@
+{"slug": "دُودٌ", "kind": "lemma", "parsed": {"glosses": {"en": "worm", "fa": "کرم", "ur": "کیڑا", "tr": "solucan", "id": "cacing", "bn": "কীট", "es": "gusano", "fr": "verbo", "de": "Wurm", "ru": "червь", "zh": "蠕虫"}}, "issues": [], "meta": {"elapsed": 3.56, "input_tokens": 820, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

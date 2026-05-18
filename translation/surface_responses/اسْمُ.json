@@ -1,0 +1,1 @@
+{"slug": "اسْمُ", "kind": "surface", "parsed": {"glosses": {"en": "name", "fa": "نام", "ur": "نام", "tr": "isim", "id": "nama", "bn": "নাম", "es": "nombre", "fr": "nom", "de": "Name", "ru": "имя", "zh": "名字"}}, "issues": [], "meta": {"elapsed": 1.36, "input_tokens": 1073, "output_tokens": 106, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

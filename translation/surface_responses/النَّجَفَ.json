@@ -1,0 +1,1 @@
+{"slug": "النَّجَفَ", "kind": "surface", "parsed": {"glosses": {"en": "Najaf", "fa": "نجف", "ur": "نجف", "tr": "Necf", "id": "Najaf", "bn": "নাজাফ", "es": "Nayaf", "fr": "Najaf", "de": "Nadschaf", "ru": "Наджаф", "zh": "纳杰夫"}}, "issues": [], "meta": {"elapsed": 3.55, "input_tokens": 654, "output_tokens": 125, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

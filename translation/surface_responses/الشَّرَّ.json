@@ -1,0 +1,1 @@
+{"slug": "الشَّرَّ", "kind": "surface", "parsed": {"glosses": {"en": "the evil", "fa": "شر", "ur": "شر", "tr": "kötülük", "id": "kejahatan", "bn": "মন্দ", "es": "el mal", "fr": "le mal", "de": "das Böse", "ru": "зло", "zh": "恶"}}, "issues": [], "meta": {"elapsed": 5.01, "input_tokens": 1136, "output_tokens": 114, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

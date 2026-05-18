@@ -1,0 +1,1 @@
+{"slug": "هَزْلٌ", "kind": "lemma", "parsed": {"glosses": {"en": "joking", "fa": "شوخی", "ur": "مزاح", "tr": "şaka", "id": "bercanda", "bn": "মজা", "es": "broma", "fr": "plaisanterie", "de": "Scherz", "ru": "шутка", "zh": "玩笑"}}, "issues": [], "meta": {"elapsed": 4.27, "input_tokens": 619, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "جَبَرُوتٌ", "kind": "lemma", "parsed": {"glosses": {"en": "power", "fa": "قدرت", "ur": "طاقت", "tr": "güç", "id": "kekuatan", "bn": "শক্তি", "es": "poder", "fr": "pouvoir", "de": "Macht", "ru": "сила", "zh": "力量"}}, "issues": [], "meta": {"elapsed": 3.15, "input_tokens": 464, "output_tokens": 113, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

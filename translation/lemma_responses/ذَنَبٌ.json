@@ -1,0 +1,1 @@
+{"slug": "ذَنَبٌ", "kind": "lemma", "parsed": {"glosses": {"en": "tail", "fa": "دُم", "ur": "دم", "tr": "kuyruk", "id": "ekor", "bn": "লেজ", "es": "cola", "fr": "queue", "de": "Schwanz", "ru": "хвост", "zh": "尾巴"}}, "issues": [], "meta": {"elapsed": 3.71, "input_tokens": 968, "output_tokens": 111, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

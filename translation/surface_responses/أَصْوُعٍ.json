@@ -1,0 +1,1 @@
+{"slug": "أَصْوُعٍ", "kind": "surface", "parsed": {"glosses": {"en": "sacks", "fa": "کیسه‌ها", "ur": "تھیلیاں", "tr": "torbalar", "id": "karung", "bn": "থলি", "es": "sacos", "fr": "sacs", "de": "Säcke", "ru": "мешки", "zh": "袋子"}}, "issues": [], "meta": {"elapsed": 4.67, "input_tokens": 540, "output_tokens": 122, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

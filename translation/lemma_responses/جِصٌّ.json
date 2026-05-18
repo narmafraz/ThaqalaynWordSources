@@ -1,0 +1,1 @@
+{"slug": "جِصٌّ", "kind": "lemma", "parsed": {"glosses": {"en": "gypsum", "fa": "گچ", "ur": "گچ", "tr": "alçı", "id": "gipsum", "bn": "গিপসাম", "es": "yeso", "fr": "gypse", "de": "Gips", "ru": "гипс", "zh": "石膏"}}, "issues": [], "meta": {"elapsed": 3.79, "input_tokens": 754, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

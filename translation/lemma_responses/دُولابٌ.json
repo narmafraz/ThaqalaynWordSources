@@ -1,0 +1,1 @@
+{"slug": "دُولابٌ", "kind": "lemma", "parsed": {"glosses": {"en": "cupboard", "fa": "کمد", "ur": "الماری", "tr": "dolap", "id": "lemari", "bn": "আলমারি", "es": "armario", "fr": "armoire", "de": "Schrank", "ru": "шкаф", "zh": "衣柜"}}, "issues": [], "meta": {"elapsed": 4.43, "input_tokens": 916, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

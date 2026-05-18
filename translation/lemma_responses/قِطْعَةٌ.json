@@ -1,0 +1,1 @@
+{"slug": "قِطْعَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "piece", "fa": "تکه", "ur": "ٹکڑا", "tr": "parça", "id": "potongan", "bn": "টুকরো", "es": "pedazo", "fr": "morceau", "de": "Stück", "ru": "кусок", "zh": "块"}}, "issues": [], "meta": {"elapsed": 5.22, "input_tokens": 632, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

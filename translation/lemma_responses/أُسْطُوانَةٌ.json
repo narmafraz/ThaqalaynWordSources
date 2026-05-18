@@ -1,0 +1,1 @@
+{"slug": "أُسْطُوانَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "column", "fa": "ستون", "ur": "ستون", "tr": "sütun", "id": "kolom", "bn": "স্তম্ভ", "es": "columna", "fr": "colonne", "de": "Säule", "ru": "колонна", "zh": "柱子"}}, "issues": [], "meta": {"elapsed": 4.31, "input_tokens": 914, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

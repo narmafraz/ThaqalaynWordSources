@@ -1,0 +1,1 @@
+{"slug": "سُقُوطٌ", "kind": "lemma", "parsed": {"glosses": {"en": "falling", "fa": "سقوط", "ur": "گرنے", "tr": "düşme", "id": "jatuh", "bn": "পতন", "es": "caída", "fr": "chute", "de": "Fallen", "ru": "падение", "zh": "坠落"}}, "issues": [], "meta": {"elapsed": 4.16, "input_tokens": 497, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

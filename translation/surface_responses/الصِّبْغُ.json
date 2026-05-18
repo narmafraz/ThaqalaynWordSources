@@ -1,0 +1,1 @@
+{"slug": "الصِّبْغُ", "kind": "surface", "parsed": {"glosses": {"en": "the dye", "fa": "رنگ", "ur": "رنگ", "tr": "boya", "id": "pewarna", "bn": "রং", "es": "tinte", "fr": "teinture", "de": "Färbung", "ru": "краска", "zh": "染料"}}, "issues": [], "meta": {"elapsed": 5.32, "input_tokens": 1102, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

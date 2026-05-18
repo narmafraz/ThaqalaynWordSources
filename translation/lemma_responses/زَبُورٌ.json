@@ -1,0 +1,1 @@
+{"slug": "زَبُورٌ", "kind": "lemma", "parsed": {"glosses": {"en": "Psalms", "fa": "زبور", "ur": "زبور", "tr": "Zebur", "id": "Zabur", "bn": "জবুর", "es": "Zabur", "fr": "Zabur", "de": "Zabur", "ru": "Забуур", "zh": "祖布尔"}}, "issues": [], "meta": {"elapsed": 4.35, "input_tokens": 499, "output_tokens": 122, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

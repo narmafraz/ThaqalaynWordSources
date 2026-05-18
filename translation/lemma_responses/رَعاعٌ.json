@@ -1,0 +1,1 @@
+{"slug": "رَعاعٌ", "kind": "lemma", "parsed": {"glosses": {"en": "rabble", "fa": "عوام", "ur": "عوام", "tr": "sürü", "id": "kerumunan", "bn": "সমূহ", "es": "plebeyos", "fr": "vulgarité", "de": "Pöbel", "ru": "чернь", "zh": "平民"}}, "issues": [], "meta": {"elapsed": 4.45, "input_tokens": 822, "output_tokens": 121, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

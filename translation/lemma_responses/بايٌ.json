@@ -1,0 +1,1 @@
+{"slug": "بايٌ", "kind": "lemma", "parsed": {"glosses": {"en": "biceps", "fa": "دوسر", "ur": "بایسپس", "tr": "biceps", "id": "biceps", "bn": "বাইসেপস", "es": "bíceps", "fr": "biceps", "de": "Bizeps", "ru": "бицепс", "zh": "二头肌"}}, "issues": [], "meta": {"elapsed": 3.89, "input_tokens": 466, "output_tokens": 126, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

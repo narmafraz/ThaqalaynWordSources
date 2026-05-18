@@ -1,0 +1,1 @@
+{"slug": "قِرْنٌ", "kind": "lemma", "parsed": {"glosses": {"en": "horn", "fa": "شاخ", "ur": "سینگ", "tr": "boynuz", "id": "tanduk", "bn": "শিং", "es": "cuerno", "fr": "corne", "de": "Horn", "ru": "рог", "zh": "角"}}, "issues": [], "meta": {"elapsed": 4.34, "input_tokens": 1727, "output_tokens": 114, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

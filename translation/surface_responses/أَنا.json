@@ -1,0 +1,1 @@
+{"slug": "أَنا", "kind": "surface", "parsed": {"glosses": {"en": "I", "fa": "من", "ur": "میں", "tr": "ben", "id": "saya", "bn": "আমি", "es": "yo", "fr": "je", "de": "ich", "ru": "я", "zh": "我"}}, "issues": [], "meta": {"elapsed": 1.6, "input_tokens": 582, "output_tokens": 107, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "غازِيَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "raider", "fa": "غازی", "ur": "غازیہ", "tr": "gazici", "id": "raider", "bn": "গাজি", "es": "raider", "fr": "raideur", "de": "Krieger", "ru": "воин", "zh": "战士"}}, "issues": [], "meta": {"elapsed": 4.67, "input_tokens": 465, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

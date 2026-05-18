@@ -1,0 +1,1 @@
+{"slug": "أَبْكَمَ", "kind": "lemma", "parsed": {"glosses": {"en": "mute", "fa": "خرس", "ur": "خرس", "tr": "sağır-saum", "id": "bisu", "bn": "মুগ্ধ", "es": "mudo", "fr": "muet", "de": "stumm", "ru": "немой", "zh": "哑巴"}}, "issues": [], "meta": {"elapsed": 5.93, "input_tokens": 928, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

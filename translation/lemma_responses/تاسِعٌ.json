@@ -1,0 +1,1 @@
+{"slug": "تاسِعٌ", "kind": "lemma", "parsed": {"glosses": {"en": "ninth", "fa": "نهم", "ur": "نویں", "tr": "dokuzuncu", "id": "kesembilan", "bn": "নবম", "es": "noveno", "fr": "neuvième", "de": "neunten", "ru": "девятый", "zh": "第九"}}, "issues": [], "meta": {"elapsed": 4.82, "input_tokens": 625, "output_tokens": 121, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

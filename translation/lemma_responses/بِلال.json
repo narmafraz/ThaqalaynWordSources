@@ -1,0 +1,1 @@
+{"slug": "بِلال", "kind": "lemma", "parsed": {"glosses": {"en": "Bilal", "fa": "بلال", "ur": "بلال", "tr": "Bilal", "id": "Bilal", "bn": "বিলাল", "es": "Bilal", "fr": "Bilal", "de": "Bilal", "ru": "Билаль", "zh": "比拉勒"}}, "issues": [], "meta": {"elapsed": 5.29, "input_tokens": 804, "output_tokens": 123, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

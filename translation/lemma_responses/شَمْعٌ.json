@@ -1,0 +1,1 @@
+{"slug": "شَمْعٌ", "kind": "lemma", "parsed": {"glosses": {"en": "wax", "fa": "موم", "ur": "موم", "tr": "mum", "id": "lilin", "bn": "মোম", "es": "cera", "fr": "cire", "de": "Wachs", "ru": "воск", "zh": "蜡"}}, "issues": [], "meta": {"elapsed": 3.9, "input_tokens": 818, "output_tokens": 112, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "ثُؤْلُولٌ", "kind": "lemma", "parsed": {"glosses": {"en": "wart", "fa": "زگیل", "ur": "زگیل", "tr": "veruka", "id": "veruka", "bn": "মসৃণ", "es": "verruga", "fr": "verrue", "de": "Warze", "ru": "бородавка", "zh": "疣"}}, "issues": [], "meta": {"elapsed": 6.86, "input_tokens": 464, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

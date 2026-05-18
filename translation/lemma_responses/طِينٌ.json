@@ -1,0 +1,1 @@
+{"slug": "طِينٌ", "kind": "lemma", "parsed": {"glosses": {"en": "clay", "fa": "خاک", "ur": "مٹی", "tr": "kil", "id": "lumpur", "bn": "কাদা", "es": "arcilla", "fr": "argile", "de": "Lehm", "ru": "глина", "zh": "黏土"}}, "issues": [], "meta": {"elapsed": 3.87, "input_tokens": 1756, "output_tokens": 114, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "مِجَنٌّ", "kind": "lemma", "parsed": {"glosses": {"en": "shield", "fa": "سپر", "ur": "ڈھال", "tr": "kalkan", "id": "perisai", "bn": "ঢাল", "es": "escudo", "fr": "bouclier", "de": "Schild", "ru": "щит", "zh": "盾牌"}}, "issues": [], "meta": {"elapsed": 5.72, "input_tokens": 812, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

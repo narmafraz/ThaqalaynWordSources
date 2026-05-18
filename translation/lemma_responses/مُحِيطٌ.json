@@ -1,0 +1,1 @@
+{"slug": "مُحِيطٌ", "kind": "lemma", "parsed": {"glosses": {"en": "ocean", "fa": "اقیانوس", "ur": "سمندر", "tr": "okyanus", "id": "samudra", "bn": "মহাসাগর", "es": "océano", "fr": "océan", "de": "Ozean", "ru": "океан", "zh": "海洋"}}, "issues": [], "meta": {"elapsed": 5.12, "input_tokens": 724, "output_tokens": 121, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "خالِدٌ", "kind": "lemma", "parsed": {"glosses": {"en": "immortal", "fa": "جاویدان", "ur": "جاویدان", "tr": "ebedi", "id": "kekal", "bn": "অমর", "es": "inmortal", "fr": "immortel", "de": "ewig", "ru": "вечный", "zh": "永恒的"}}, "issues": [], "meta": {"elapsed": 4.65, "input_tokens": 707, "output_tokens": 121, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

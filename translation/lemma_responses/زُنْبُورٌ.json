@@ -1,0 +1,1 @@
+{"slug": "زُنْبُورٌ", "kind": "lemma", "parsed": {"glosses": {"en": "hornet", "fa": "زنبور", "ur": "زنبور", "tr": "arı", "id": "tawon", "bn": "মৌমাছি", "es": "avispa", "fr": "frelon", "de": "Wespe", "ru": "оса", "zh": "黄蜂"}}, "issues": [], "meta": {"elapsed": 5.85, "input_tokens": 967, "output_tokens": 120, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

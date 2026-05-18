@@ -1,0 +1,1 @@
+{"slug": "مَكِيدَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "deceit", "fa": "فریب", "ur": "دھوکہ", "tr": "hile", "id": "tipu daya", "bn": "প্রতারণা", "es": "engaño", "fr": "ruse", "de": "List", "ru": "хитрость", "zh": "诡计"}}, "issues": [], "meta": {"elapsed": 4.31, "input_tokens": 557, "output_tokens": 121, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

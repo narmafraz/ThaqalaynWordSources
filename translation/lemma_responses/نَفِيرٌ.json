@@ -1,0 +1,1 @@
+{"slug": "نَفِيرٌ", "kind": "lemma", "parsed": {"glosses": {"en": "trumpet", "fa": "شیپور", "ur": "سنگ", "tr": "boru", "id": "terompet", "bn": "শিং", "es": "trompeta", "fr": "trompette", "de": "Trompete", "ru": "труба", "zh": "号角"}}, "issues": [], "meta": {"elapsed": 5.61, "input_tokens": 926, "output_tokens": 120, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

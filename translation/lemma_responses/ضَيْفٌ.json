@@ -1,0 +1,1 @@
+{"slug": "ضَيْفٌ", "kind": "lemma", "parsed": {"glosses": {"en": "guest", "fa": "مهمان", "ur": "مہمان", "tr": "konuk", "id": "tamu", "bn": "অতিথি", "es": "invitado", "fr": "invité", "de": "Gast", "ru": "гость", "zh": "客人"}}, "issues": [], "meta": {"elapsed": 5.62, "input_tokens": 896, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

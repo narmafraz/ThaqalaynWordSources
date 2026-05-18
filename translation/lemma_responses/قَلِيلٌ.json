@@ -1,0 +1,1 @@
+{"slug": "قَلِيلٌ", "kind": "lemma", "parsed": {"glosses": {"en": "few, little", "fa": "کم", "ur": "کم", "tr": "az", "id": "sedikit", "bn": "কিছু", "es": "poco", "fr": "peu", "de": "wenig", "ru": "мало", "zh": "少"}}, "issues": [], "meta": {"elapsed": 3.74, "input_tokens": 684, "output_tokens": 112, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

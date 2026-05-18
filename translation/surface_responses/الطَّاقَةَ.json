@@ -1,0 +1,1 @@
+{"slug": "الطَّاقَةَ", "kind": "surface", "parsed": {"glosses": {"en": "the power", "fa": "توانایی", "ur": "طاقت", "tr": "güç", "id": "kekuatan", "bn": "শক্তি", "es": "fuerza", "fr": "force", "de": "Kraft", "ru": "сила", "zh": "力量"}}, "issues": [], "meta": {"elapsed": 4.96, "input_tokens": 943, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

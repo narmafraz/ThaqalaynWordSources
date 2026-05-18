@@ -1,0 +1,1 @@
+{"slug": "الصَّلْصَالُ", "kind": "surface", "parsed": {"glosses": {"en": "clay", "fa": "خاک رس", "ur": "مٹی", "tr": "kil", "id": "tanah liat", "bn": "মাটি", "es": "arcilla", "fr": "argile", "de": "Lehm", "ru": "глина", "zh": "粘土"}}, "issues": [], "meta": {"elapsed": 3.0, "input_tokens": 934, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

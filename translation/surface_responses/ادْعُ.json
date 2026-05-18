@@ -1,0 +1,1 @@
+{"slug": "ادْعُ", "kind": "surface", "parsed": {"glosses": {"en": "call", "fa": "دعوت کن", "ur": "دعوت کرو", "tr": "çağır", "id": "panggil", "bn": "ডাকো", "es": "llama", "fr": "appelle", "de": "rufe", "ru": "зови", "zh": "呼唤"}}, "issues": [], "meta": {"elapsed": 2.53, "input_tokens": 737, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

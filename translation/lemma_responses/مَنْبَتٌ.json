@@ -1,0 +1,1 @@
+{"slug": "مَنْبَتٌ", "kind": "lemma", "parsed": {"glosses": {"en": "source", "fa": "چشمه", "ur": "ماخذ", "tr": "kaynak", "id": "sumber", "bn": "উৎস", "es": "fuente", "fr": "source", "de": "Quelle", "ru": "источник", "zh": "源头"}}, "issues": [], "meta": {"elapsed": 4.71, "input_tokens": 484, "output_tokens": 114, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

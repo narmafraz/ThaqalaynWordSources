@@ -1,0 +1,1 @@
+{"slug": "نَيْئٌ", "kind": "lemma", "parsed": {"glosses": {"en": "raw", "fa": "خام", "ur": "کچا", "tr": "ham", "id": "mentah", "bn": "কাঁচা", "es": "crudo", "fr": "cru", "de": "roh", "ru": "сырой", "zh": "生的"}}, "issues": [], "meta": {"elapsed": 3.96, "input_tokens": 620, "output_tokens": 113, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

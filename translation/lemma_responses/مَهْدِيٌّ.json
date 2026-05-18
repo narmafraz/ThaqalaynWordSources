@@ -1,0 +1,1 @@
+{"slug": "مَهْدِيٌّ", "kind": "lemma", "parsed": {"glosses": {"en": "Mahdi", "fa": "مهدي", "ur": "مہدي", "tr": "Mahdi", "id": "Mahdi", "bn": "মহদি", "es": "Mahdi", "fr": "Mahdi", "de": "Mahdi", "ru": "Махди", "zh": "马赫迪"}}, "issues": [], "meta": {"elapsed": 3.44, "input_tokens": 486, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

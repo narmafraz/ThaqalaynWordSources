@@ -1,0 +1,1 @@
+{"slug": "اقْرَءُوا", "kind": "surface", "parsed": {"glosses": {"en": "Read", "fa": "بخوانید", "ur": "پڑھو", "tr": "Okuyun", "id": "Bacalah", "bn": "পড়ুন", "es": "Leed", "fr": "Lisez", "de": "Lest", "ru": "Читайте", "zh": "诵读"}}, "issues": [], "meta": {"elapsed": 4.31, "input_tokens": 537, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

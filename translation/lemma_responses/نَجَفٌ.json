@@ -1,0 +1,1 @@
+{"slug": "نَجَفٌ", "kind": "lemma", "parsed": {"glosses": {"en": "Najaf", "fa": "نجف", "ur": "نجف", "tr": "Necf", "id": "Najaf", "bn": "নাজাফ", "es": "Nayaf", "fr": "Najaf", "de": "Nadschaf", "ru": "Наджаф", "zh": "纳杰夫"}}, "issues": [], "meta": {"elapsed": 4.12, "input_tokens": 470, "output_tokens": 125, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

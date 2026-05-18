@@ -1,0 +1,1 @@
+{"slug": "لِحْيَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "beard", "fa": "ریش", "ur": "داڑھی", "tr": "sakal", "id": "jenggot", "bn": "দাড়ি", "es": "barba", "fr": "barbe", "de": "Bart", "ru": "борода", "zh": "胡须"}}, "issues": [], "meta": {"elapsed": 2.6, "input_tokens": 459, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

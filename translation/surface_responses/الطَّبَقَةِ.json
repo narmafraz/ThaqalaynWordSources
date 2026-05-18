@@ -1,0 +1,1 @@
+{"slug": "الطَّبَقَةِ", "kind": "surface", "parsed": {"glosses": {"en": "the layer", "fa": "لایه", "ur": "تہہ", "tr": "katman", "id": "lapisan", "bn": "স্তর", "es": "capa", "fr": "couche", "de": "Schicht", "ru": "слой", "zh": "层"}}, "issues": [], "meta": {"elapsed": 4.0, "input_tokens": 917, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

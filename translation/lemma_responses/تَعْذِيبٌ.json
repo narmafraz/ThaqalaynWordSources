@@ -1,0 +1,1 @@
+{"slug": "تَعْذِيبٌ", "kind": "lemma", "parsed": {"glosses": {"en": "torture", "fa": "عذاب", "ur": "عذاب", "tr": "azap", "id": "siksa", "bn": "যন্ত্রণা", "es": "tortura", "fr": "torture", "de": "Folter", "ru": "муки", "zh": "折磨"}}, "issues": [], "meta": {"elapsed": 3.96, "input_tokens": 483, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

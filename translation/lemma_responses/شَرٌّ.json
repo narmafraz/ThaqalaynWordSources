@@ -1,0 +1,1 @@
+{"slug": "شَرٌّ", "kind": "lemma", "parsed": {"glosses": {"en": "evil", "fa": "شر", "ur": "شر", "tr": "kötülük", "id": "kejahatan", "bn": "মন্দ", "es": "mal", "fr": "mal", "de": "Böses", "ru": "зло", "zh": "恶"}}, "issues": [], "meta": {"elapsed": 3.42, "input_tokens": 1026, "output_tokens": 111, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

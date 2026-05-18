@@ -1,0 +1,1 @@
+{"slug": "واضِحٌ", "kind": "lemma", "parsed": {"glosses": {"en": "clear", "fa": "واضح", "ur": "واضح", "tr": "açık", "id": "jelas", "bn": "স্পষ্ট", "es": "claro", "fr": "clair", "de": "klar", "ru": "ясный", "zh": "清晰的"}}, "issues": [], "meta": {"elapsed": 4.21, "input_tokens": 957, "output_tokens": 111, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

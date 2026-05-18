@@ -1,0 +1,1 @@
+{"slug": "التَّأَثُّمِ", "kind": "surface", "parsed": {"glosses": {"en": "guilt", "fa": "گناه", "ur": "گناہ", "tr": "günah", "id": "dosa", "bn": "পাপ", "es": "culpa", "fr": "culpabilité", "de": "Schuld", "ru": "грех", "zh": "罪"}}, "issues": [], "meta": {"elapsed": 2.55, "input_tokens": 482, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

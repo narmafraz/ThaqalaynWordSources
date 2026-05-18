@@ -1,0 +1,1 @@
+{"slug": "طالِقٌ", "kind": "lemma", "parsed": {"glosses": {"en": "free", "fa": "آزاد", "ur": "آزاد", "tr": "serbest", "id": "bebas", "bn": "মুক্ত", "es": "libre", "fr": "libre", "de": "frei", "ru": "свободный", "zh": "自由的"}}, "issues": [], "meta": {"elapsed": 3.57, "input_tokens": 919, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "أَسْبَاطِ", "kind": "surface", "parsed": {"glosses": {"en": "grandchild", "fa": "نوه", "ur": "پوتا", "tr": "torun", "id": "cucu", "bn": "নাতী", "es": "nieto", "fr": "petit-enfant", "de": "Enkel", "ru": "внук", "zh": "孙子"}}, "issues": [], "meta": {"elapsed": 4.36, "input_tokens": 923, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

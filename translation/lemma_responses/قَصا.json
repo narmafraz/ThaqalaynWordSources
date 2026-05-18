@@ -1,0 +1,1 @@
+{"slug": "قَصا", "kind": "lemma", "parsed": {"glosses": {"en": "far, remote", "fa": "دور", "ur": "دور", "tr": "uzak", "id": "jauh", "bn": "দূর", "es": "lejos", "fr": "loin", "de": "fern", "ru": "далеко", "zh": "遥远"}}, "issues": [], "meta": {"elapsed": 5.38, "input_tokens": 478, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "مَرْيَم", "kind": "lemma", "parsed": {"glosses": {"en": "Maryam", "fa": "مریم", "ur": "مریم", "tr": "Meryem", "id": "Maryam", "bn": "মরিয়ম", "es": "Maryam", "fr": "Maryam", "de": "Maryam", "ru": "Марьям", "zh": "麦尔彦"}}, "issues": [], "meta": {"elapsed": 6.01, "input_tokens": 605, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "حُلْقُومٌ", "kind": "lemma", "parsed": {"glosses": {"en": "throat", "fa": "حلقوم", "ur": "حلقوم", "tr": "boğaz", "id": "tenggorokan", "bn": "গল", "es": "garganta", "fr": "gorge", "de": "Kehle", "ru": "горло", "zh": "喉咙"}}, "issues": [], "meta": {"elapsed": 5.19, "input_tokens": 895, "output_tokens": 120, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

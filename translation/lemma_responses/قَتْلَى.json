@@ -1,0 +1,1 @@
+{"slug": "قَتْلَى", "kind": "lemma", "parsed": {"glosses": {"en": "slain person", "fa": "کشته‌شده", "ur": "شہید", "tr": "ölü", "id": "orang gugur", "bn": "নিহত", "es": "muerto", "fr": "tué", "de": "Tote", "ru": "убитый", "zh": "死者"}}, "issues": [], "meta": {"elapsed": 5.91, "input_tokens": 468, "output_tokens": 121, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

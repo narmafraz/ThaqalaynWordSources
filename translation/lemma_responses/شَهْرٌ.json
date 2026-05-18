@@ -1,0 +1,1 @@
+{"slug": "شَهْرٌ", "kind": "lemma", "parsed": {"glosses": {"en": "month", "fa": "ماه", "ur": "ماہ", "tr": "ay", "id": "bulan", "bn": "মাস", "es": "mes", "fr": "mois", "de": "Monat", "ru": "месяц", "zh": "月"}}, "issues": [], "meta": {"elapsed": 5.0, "input_tokens": 1825, "output_tokens": 107, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

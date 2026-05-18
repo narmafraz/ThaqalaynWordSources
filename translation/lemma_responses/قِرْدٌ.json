@@ -1,0 +1,1 @@
+{"slug": "قِرْدٌ", "kind": "lemma", "parsed": {"glosses": {"en": "monkey", "fa": "میمون", "ur": "بندر", "tr": "maymun", "id": "monyet", "bn": "বানর", "es": "mono", "fr": "singe", "de": "Affe", "ru": "обезьяна", "zh": "猴子"}}, "issues": [], "meta": {"elapsed": 5.64, "input_tokens": 762, "output_tokens": 114, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

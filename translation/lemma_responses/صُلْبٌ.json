@@ -1,0 +1,1 @@
+{"slug": "صُلْبٌ", "kind": "lemma", "parsed": {"glosses": {"en": "backbone", "fa": "کمر", "ur": "کمر", "tr": "bel", "id": "pinggang", "bn": "কোমর", "es": "lumbar", "fr": "reins", "de": "Lende", "ru": "поясница", "zh": "腰"}}, "issues": [], "meta": {"elapsed": 5.28, "input_tokens": 2221, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

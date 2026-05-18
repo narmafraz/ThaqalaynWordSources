@@ -1,0 +1,1 @@
+{"slug": "بُويَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "cattle", "fa": "مال", "ur": "مال", "tr": "hayvan", "id": "ternak", "bn": "পশু", "es": "ganado", "fr": "bétail", "de": "Vieh", "ru": "скот", "zh": "牲畜"}}, "issues": [], "meta": {"elapsed": 4.84, "input_tokens": 448, "output_tokens": 113, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

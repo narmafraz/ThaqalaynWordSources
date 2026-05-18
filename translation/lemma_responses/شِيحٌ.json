@@ -1,0 +1,1 @@
+{"slug": "شِيحٌ", "kind": "lemma", "parsed": {"glosses": {"en": "wormwood", "fa": "شوح", "ur": "شوح", "tr": "şih", "id": "shih", "bn": "শিহ", "es": "shih", "fr": "shih", "de": "Shih", "ru": "ших", "zh": "艾蒿"}}, "issues": [], "meta": {"elapsed": 4.64, "input_tokens": 957, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

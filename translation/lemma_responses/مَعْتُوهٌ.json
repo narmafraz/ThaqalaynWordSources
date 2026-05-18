@@ -1,0 +1,1 @@
+{"slug": "مَعْتُوهٌ", "kind": "lemma", "parsed": {"glosses": {"en": "insane", "fa": "دیوانه", "ur": "دیوانہ", "tr": "deli", "id": "gila", "bn": "পাগল", "es": "loco", "fr": "fou", "de": "verrückt", "ru": "безумный", "zh": "疯狂的"}}, "issues": [], "meta": {"elapsed": 3.81, "input_tokens": 581, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

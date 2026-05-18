@@ -1,0 +1,1 @@
+{"slug": "حُمُولَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "burden", "fa": "بار", "ur": "بار", "tr": "yük", "id": "muatan", "bn": "ভার", "es": "carga", "fr": "charge", "de": "Last", "ru": "груз", "zh": "负担"}}, "issues": [], "meta": {"elapsed": 4.4, "input_tokens": 743, "output_tokens": 107, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

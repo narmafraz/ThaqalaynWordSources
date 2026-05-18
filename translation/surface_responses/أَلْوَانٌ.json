@@ -1,0 +1,1 @@
+{"slug": "أَلْوَانٌ", "kind": "surface", "parsed": {"glosses": {"en": "colors", "fa": "رنگ‌ها", "ur": "رنگ", "tr": "renkler", "id": "warna", "bn": "রঙ", "es": "colores", "fr": "couleurs", "de": "Farben", "ru": "цвета", "zh": "颜色"}}, "issues": [], "meta": {"elapsed": 2.86, "input_tokens": 765, "output_tokens": 112, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

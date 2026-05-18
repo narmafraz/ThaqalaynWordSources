@@ -1,0 +1,1 @@
+{"slug": "إِبْرِيقٌ", "kind": "surface", "parsed": {"glosses": {"en": "pitcher", "fa": "ایبریک", "ur": "ایبریک", "tr": "ibrik", "id": "teko", "bn": "পিচার", "es": "jarra", "fr": "cruche", "de": "Kanne", "ru": "кувшин", "zh": "水壶"}}, "issues": [], "meta": {"elapsed": 2.21, "input_tokens": 994, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

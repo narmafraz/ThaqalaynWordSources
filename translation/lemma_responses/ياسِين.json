@@ -1,0 +1,1 @@
+{"slug": "ياسِين", "kind": "lemma", "parsed": {"glosses": {"en": "Yasin", "fa": "یاسین", "ur": "یاسین", "tr": "Yasin", "id": "Yasin", "bn": "ইয়াসিন", "es": "Yasin", "fr": "Yasin", "de": "Yasin", "ru": "Ясин", "zh": "雅辛"}}, "issues": [], "meta": {"elapsed": 5.79, "input_tokens": 464, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

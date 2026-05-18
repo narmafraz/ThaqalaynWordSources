@@ -1,0 +1,1 @@
+{"slug": "طافَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "circumambulation", "fa": "طواف", "ur": "طواف", "tr": "tavaf", "id": "tawaf", "bn": "তওয়াফ", "es": "tawaf", "fr": "tawaf", "de": "Tawaf", "ru": "таваф", "zh": "塔瓦夫"}}, "issues": [], "meta": {"elapsed": 3.7, "input_tokens": 448, "output_tokens": 123, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

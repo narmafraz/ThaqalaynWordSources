@@ -1,0 +1,1 @@
+{"slug": "زِمامٌ", "kind": "lemma", "parsed": {"glosses": {"en": "reins", "fa": "زمام", "ur": "زمام", "tr": "zımmam", "id": "tali kendali", "bn": "জিমাম", "es": "riendas", "fr": "rênes", "de": "Zügel", "ru": "повод", "zh": "缰绳"}}, "issues": [], "meta": {"elapsed": 3.64, "input_tokens": 952, "output_tokens": 121, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

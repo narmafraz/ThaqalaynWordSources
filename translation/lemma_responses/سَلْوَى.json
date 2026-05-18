@@ -1,0 +1,1 @@
+{"slug": "سَلْوَى", "kind": "lemma", "parsed": {"glosses": {"en": "Selwa", "fa": "سلوی", "ur": "سلویٰ", "tr": "Selva", "id": "Selwa", "bn": "সেলওয়া", "es": "Selwa", "fr": "Selwa", "de": "Selwa", "ru": "Сальва", "zh": "塞尔瓦"}}, "issues": [], "meta": {"elapsed": 3.55, "input_tokens": 948, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

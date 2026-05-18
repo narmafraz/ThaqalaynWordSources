@@ -1,0 +1,1 @@
+{"slug": "قَطْرَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "a drop", "fa": "قطره", "ur": "قطرہ", "tr": "damla", "id": "tetes", "bn": "ফোঁটা", "es": "gota", "fr": "goutte", "de": "Tropfen", "ru": "капля", "zh": "滴"}}, "issues": [], "meta": {"elapsed": 6.25, "input_tokens": 485, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

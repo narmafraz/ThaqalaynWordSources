@@ -1,0 +1,1 @@
+{"slug": "الطَّاءُ", "kind": "surface", "parsed": {"glosses": {"en": "Taa", "fa": "طاء", "ur": "طاء", "tr": "Tâ", "id": "Taa", "bn": "তা", "es": "Tâ", "fr": "Tâ", "de": "Tâ", "ru": "Та", "zh": "塔"}}, "issues": [], "meta": {"elapsed": 4.22, "input_tokens": 594, "output_tokens": 109, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

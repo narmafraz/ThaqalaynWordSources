@@ -1,0 +1,1 @@
+{"slug": "ذاهِبٌ", "kind": "lemma", "parsed": {"glosses": {"en": "going", "fa": "رونده", "ur": "جانے والا", "tr": "giden", "id": "pergi", "bn": "যাওয়া", "es": "yendo", "fr": "allant", "de": "gehend", "ru": "идущий", "zh": "正在去"}}, "issues": [], "meta": {"elapsed": 5.5, "input_tokens": 589, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

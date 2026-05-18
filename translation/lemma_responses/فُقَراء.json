@@ -1,0 +1,1 @@
+{"slug": "فُقَراء", "kind": "lemma", "parsed": {"glosses": {"en": "poor man", "fa": "گرسنه", "ur": "مسکین", "tr": "fakir", "id": "miskin", "bn": "গরিব", "es": "pobre", "fr": "pauvre", "de": "Armer", "ru": "бедняк", "zh": "穷人"}}, "issues": [], "meta": {"elapsed": 4.52, "input_tokens": 944, "output_tokens": 122, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

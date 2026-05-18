@@ -1,0 +1,1 @@
+{"slug": "حَزازَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "scorbutus", "fa": "حزاز", "ur": "حزاز", "tr": "hazaz", "id": "hazaz", "bn": "হাজাজ", "es": "hazaz", "fr": "hazaz", "de": "Hazzaz", "ru": "хазаз", "zh": "哈扎兹"}}, "issues": [], "meta": {"elapsed": 4.37, "input_tokens": 482, "output_tokens": 124, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

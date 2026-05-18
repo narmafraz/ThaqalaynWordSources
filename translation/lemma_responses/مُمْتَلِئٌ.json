@@ -1,0 +1,1 @@
+{"slug": "مُمْتَلِئٌ", "kind": "lemma", "parsed": {"glosses": {"en": "full", "fa": "پر", "ur": "بھرا ہوا", "tr": "dolu", "id": "penuh", "bn": "পূর্ণ", "es": "lleno", "fr": "plein", "de": "voll", "ru": "полный", "zh": "充满的"}}, "issues": [], "meta": {"elapsed": 4.3, "input_tokens": 470, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

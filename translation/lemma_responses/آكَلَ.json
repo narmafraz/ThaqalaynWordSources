@@ -1,0 +1,1 @@
+{"slug": "آكَلَ", "kind": "lemma", "parsed": {"glosses": {"en": "to eat", "fa": "خوردن", "ur": "کھانا", "tr": "yemek", "id": "makan", "bn": "খাওয়া", "es": "comer", "fr": "manger", "de": "essen", "ru": "есть", "zh": "吃"}}, "issues": [], "meta": {"elapsed": 4.52, "input_tokens": 2310, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

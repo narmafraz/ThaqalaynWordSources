@@ -1,0 +1,1 @@
+{"slug": "الطَّبَقِ", "kind": "surface", "parsed": {"glosses": {"en": "the plate", "fa": "سینی", "ur": "تہ", "tr": "tabak", "id": "piring", "bn": "প্লেট", "es": "plato", "fr": "assiette", "de": "Teller", "ru": "тарелка", "zh": "盘子"}}, "issues": [], "meta": {"elapsed": 4.0, "input_tokens": 951, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "بَخْتٌ", "kind": "lemma", "parsed": {"glosses": {"en": "fortune", "fa": "شانس", "ur": "قسمت", "tr": "şans", "id": "keberuntungan", "bn": "ভাগ্য", "es": "suerte", "fr": "chance", "de": "Glück", "ru": "удача", "zh": "运气"}}, "issues": [], "meta": {"elapsed": 3.88, "input_tokens": 611, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

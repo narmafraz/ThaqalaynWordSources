@@ -1,0 +1,1 @@
+{"slug": "نَحْبٌ", "kind": "lemma", "parsed": {"glosses": {"en": "vow", "fa": "نذر", "ur": "نذر", "tr": "yemin", "id": "nazar", "bn": "নাজর", "es": "voto", "fr": "vœu", "de": "Gelübde", "ru": "обет", "zh": "誓愿"}}, "issues": [], "meta": {"elapsed": 2.8, "input_tokens": 950, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

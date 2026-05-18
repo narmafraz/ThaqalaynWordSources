@@ -1,0 +1,1 @@
+{"slug": "السَّحَرَ", "kind": "surface", "parsed": {"glosses": {"en": "the magic", "fa": "جادو", "ur": "جادو", "tr": "büyü", "id": "sihir", "bn": "জাদু", "es": "magia", "fr": "magie", "de": "Magie", "ru": "магия", "zh": "魔法"}}, "issues": [], "meta": {"elapsed": 3.21, "input_tokens": 863, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "لِيفٌ", "kind": "lemma", "parsed": {"glosses": {"en": "fibres", "fa": "الیاف", "ur": "ریشے", "tr": "lif", "id": "serat", "bn": "তন্তু", "es": "fibras", "fr": "fibres", "de": "Fasern", "ru": "волокна", "zh": "纤维"}}, "issues": [], "meta": {"elapsed": 4.05, "input_tokens": 560, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

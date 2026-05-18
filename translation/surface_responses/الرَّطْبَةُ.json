@@ -1,0 +1,1 @@
+{"slug": "الرَّطْبَةُ", "kind": "surface", "parsed": {"glosses": {"en": "the moist", "fa": "نرم", "ur": "نرم", "tr": "nemli", "id": "lembap", "bn": "নরম", "es": "húmedo", "fr": "humide", "de": "feucht", "ru": "влажный", "zh": "湿润"}}, "issues": [], "meta": {"elapsed": 3.04, "input_tokens": 957, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

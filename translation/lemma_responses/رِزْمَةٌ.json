@@ -1,0 +1,1 @@
+{"slug": "رِزْمَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "bundle", "fa": "بسته", "ur": "باندھ", "tr": "demet", "id": "bundel", "bn": "গুচ্ছ", "es": "paquete", "fr": "paquet", "de": "Bündel", "ru": "пучок", "zh": "捆"}}, "issues": [], "meta": {"elapsed": 5.44, "input_tokens": 874, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

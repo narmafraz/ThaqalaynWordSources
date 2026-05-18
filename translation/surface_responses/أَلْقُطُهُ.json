@@ -1,0 +1,1 @@
+{"slug": "أَلْقُطُهُ", "kind": "surface", "parsed": {"glosses": {"en": "the cat", "fa": "گربه", "ur": "بلی", "tr": "kedi", "id": "kucing", "bn": "বিড়াল", "es": "gato", "fr": "chat", "de": "Katze", "ru": "кот", "zh": "猫"}}, "issues": [], "meta": {"elapsed": 4.29, "input_tokens": 954, "output_tokens": 112, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

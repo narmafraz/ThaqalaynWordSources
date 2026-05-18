@@ -1,0 +1,1 @@
+{"slug": "إِمامِيٌّ", "kind": "lemma", "parsed": {"glosses": {"en": "front", "fa": "جلو", "ur": "سامنے", "tr": "ön", "id": "depan", "bn": "সামনের", "es": "frontal", "fr": "frontal", "de": "vorne", "ru": "передний", "zh": "前面的"}}, "issues": [], "meta": {"elapsed": 4.52, "input_tokens": 467, "output_tokens": 112, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

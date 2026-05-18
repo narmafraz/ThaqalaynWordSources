@@ -1,0 +1,1 @@
+{"slug": "لِدٌّ", "kind": "lemma", "parsed": {"glosses": {"en": "Lidd", "fa": "لِدّ", "ur": "لِدّ", "tr": "Lidd", "id": "Lidd", "bn": "লিদ্দ", "es": "Lidd", "fr": "Lidd", "de": "Lidd", "ru": "Лидд", "zh": "利德"}}, "issues": [], "meta": {"elapsed": 2.11, "input_tokens": 985, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

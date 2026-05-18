@@ -1,0 +1,1 @@
+{"slug": "قُحافٌ", "kind": "lemma", "parsed": {"glosses": {"en": "bald", "fa": "کچل", "ur": "کچلا", "tr": "kel", "id": "botak", "bn": "কচা", "es": "calvo", "fr": "chauve", "de": "kahl", "ru": "лысый", "zh": "秃的"}}, "issues": [], "meta": {"elapsed": 4.02, "input_tokens": 450, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "مَزَّ", "kind": "lemma", "parsed": {"glosses": {"en": "to suck", "fa": "مکیدن", "ur": "چوسنا", "tr": "emme", "id": "mengisap", "bn": "চোষা", "es": "chupar", "fr": "sucer", "de": "saugen", "ru": "сосать", "zh": "吮吸"}}, "issues": [], "meta": {"elapsed": 4.56, "input_tokens": 680, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

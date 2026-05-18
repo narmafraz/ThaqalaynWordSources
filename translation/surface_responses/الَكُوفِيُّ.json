@@ -1,0 +1,1 @@
+{"slug": "الَكُوفِيُّ", "kind": "surface", "parsed": {"glosses": {"en": "the Kufi", "fa": "کوفی", "ur": "کوفی", "tr": "Kufi", "id": "Kufi", "bn": "কুফি", "es": "Kufi", "fr": "Kufi", "de": "Kufi", "ru": "куфи", "zh": "库菲"}}, "issues": [], "meta": {"elapsed": 5.77, "input_tokens": 581, "output_tokens": 125, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

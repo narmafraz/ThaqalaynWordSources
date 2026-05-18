@@ -1,0 +1,1 @@
+{"slug": "سَمِعَ", "kind": "lemma", "parsed": {"glosses": {"en": "to hear", "fa": "شنیدن", "ur": "سننا", "tr": "duymak", "id": "mendengar", "bn": "শোনা", "es": "oír", "fr": "entendre", "de": "hören", "ru": "слышать", "zh": "听见"}}, "issues": [], "meta": {"elapsed": 4.31, "input_tokens": 2324, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

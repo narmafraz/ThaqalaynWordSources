@@ -1,0 +1,1 @@
+{"slug": "عُمانِيٌّ", "kind": "lemma", "parsed": {"glosses": {"en": "Omani", "fa": "عمانی", "ur": "عمانی", "tr": "Ummanlı", "id": "Omani", "bn": "ওমানি", "es": "Omaní", "fr": "Omanais", "de": "Omanisch", "ru": "оманец", "zh": "阿曼人"}}, "issues": [], "meta": {"elapsed": 3.69, "input_tokens": 460, "output_tokens": 121, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

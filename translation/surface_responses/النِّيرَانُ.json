@@ -1,0 +1,1 @@
+{"slug": "النِّيرَانُ", "kind": "surface", "parsed": {"glosses": {"en": "the fires", "fa": "آتش‌ها", "ur": "آگیں", "tr": "ateşler", "id": "api", "bn": "আগুন", "es": "fuegos", "fr": "feux", "de": "Feuer", "ru": "огни", "zh": "火"}}, "issues": [], "meta": {"elapsed": 5.99, "input_tokens": 1008, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

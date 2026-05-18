@@ -1,0 +1,1 @@
+{"slug": "عَتْبٌ", "kind": "lemma", "parsed": {"glosses": {"en": "reproach", "fa": "سرزنش", "ur": "سرزنش", "tr": "kınama", "id": "teguran", "bn": "টোকা", "es": "reproche", "fr": "réproche", "de": "Tadel", "ru": "упрек", "zh": "责备"}}, "issues": [], "meta": {"elapsed": 5.27, "input_tokens": 492, "output_tokens": 120, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "فِراشٌ", "kind": "lemma", "parsed": {"glosses": {"en": "moth", "fa": "پروانه", "ur": "پروانہ", "tr": "kelebek", "id": "ngengat", "bn": "পোকা", "es": "polilla", "fr": "papillon", "de": "Motte", "ru": "моль", "zh": "蛾"}}, "issues": [], "meta": {"elapsed": 3.05, "input_tokens": 910, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

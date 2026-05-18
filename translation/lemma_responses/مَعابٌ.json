@@ -1,0 +1,1 @@
+{"slug": "مَعابٌ", "kind": "lemma", "parsed": {"glosses": {"en": "fault", "fa": "عیب", "ur": "عیب", "tr": "kusur", "id": "cacat", "bn": "ত্রুটি", "es": "defecto", "fr": "défaut", "de": "Mangel", "ru": "недостаток", "zh": "缺点"}}, "issues": [], "meta": {"elapsed": 2.72, "input_tokens": 470, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

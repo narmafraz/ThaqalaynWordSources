@@ -1,0 +1,1 @@
+{"slug": "أَسْمَاءٌ", "kind": "surface", "parsed": {"glosses": {"en": "names", "fa": "نام‌ها", "ur": "نام", "tr": "isimler", "id": "nama", "bn": "নাম", "es": "nombres", "fr": "noms", "de": "Namen", "ru": "имена", "zh": "名字"}}, "issues": [], "meta": {"elapsed": 3.8, "input_tokens": 1027, "output_tokens": 111, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "خَطِيرٌ", "kind": "lemma", "parsed": {"glosses": {"en": "great", "fa": "بزرگ", "ur": "بڑا", "tr": "büyük", "id": "besar", "bn": "বড়", "es": "grande", "fr": "grand", "de": "groß", "ru": "великий", "zh": "伟大的"}}, "issues": [], "meta": {"elapsed": 3.99, "input_tokens": 869, "output_tokens": 111, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "يَوْمٌ", "kind": "lemma", "parsed": {"glosses": {"en": "day", "fa": "روز", "ur": "دن", "tr": "gün", "id": "hari", "bn": "দিন", "es": "día", "fr": "jour", "de": "Tag", "ru": "день", "zh": "天"}}, "issues": [], "meta": {"elapsed": 5.02, "input_tokens": 974, "output_tokens": 105, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

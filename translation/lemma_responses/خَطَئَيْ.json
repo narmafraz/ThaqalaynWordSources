@@ -1,0 +1,1 @@
+{"slug": "خَطَئَيْ", "kind": "lemma", "parsed": {"glosses": {"en": "mistake", "fa": "اشتباه", "ur": "غلطی", "tr": "hata", "id": "kesalahan", "bn": "ভুল", "es": "error", "fr": "erreur", "de": "Fehler", "ru": "ошибка", "zh": "错误"}}, "issues": [], "meta": {"elapsed": 4.76, "input_tokens": 840, "output_tokens": 113, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

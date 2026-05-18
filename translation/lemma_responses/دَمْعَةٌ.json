@@ -1,0 +1,1 @@
+{"slug": "دَمْعَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "tear", "fa": "اشک", "ur": "آنسو", "tr": "gözyaşı", "id": "air mata", "bn": "আঁশু", "es": "lágrima", "fr": "larme", "de": "Träne", "ru": "слеза", "zh": "眼泪"}}, "issues": [], "meta": {"elapsed": 4.54, "input_tokens": 490, "output_tokens": 120, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

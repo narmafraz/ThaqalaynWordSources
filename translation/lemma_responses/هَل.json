@@ -1,0 +1,1 @@
+{"slug": "هَل", "kind": "lemma", "parsed": {"glosses": {"en": "whether", "fa": "آیا", "ur": "کیا", "tr": "mi", "id": "apakah", "bn": "কি", "es": "¿", "fr": "est-ce que", "de": "ob", "ru": "ли", "zh": "是否"}}, "issues": [], "meta": {"elapsed": 5.31, "input_tokens": 1363, "output_tokens": 109, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

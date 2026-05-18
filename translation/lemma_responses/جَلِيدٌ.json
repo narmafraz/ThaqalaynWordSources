@@ -1,0 +1,1 @@
+{"slug": "جَلِيدٌ", "kind": "lemma", "parsed": {"glosses": {"en": "ice", "fa": "یخ", "ur": "برف", "tr": "buz", "id": "es", "bn": "বরফ", "es": "hielo", "fr": "glace", "de": "Eis", "ru": "лёд", "zh": "冰"}}, "issues": [], "meta": {"elapsed": 4.45, "input_tokens": 643, "output_tokens": 112, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

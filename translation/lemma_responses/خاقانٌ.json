@@ -1,0 +1,1 @@
+{"slug": "خاقانٌ", "kind": "lemma", "parsed": {"glosses": {"en": "khagan", "fa": "خاقان", "ur": "خاقان", "tr": "hakan", "id": "khagan", "bn": "খাগান", "es": "jagan", "fr": "khagan", "de": "Chagan", "ru": "каган", "zh": "可汗"}}, "issues": [], "meta": {"elapsed": 3.87, "input_tokens": 460, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "جَعْفَر", "kind": "lemma", "parsed": {"glosses": {"en": "Ja'far", "fa": "جعفر", "ur": "جعفر", "tr": "Cafer", "id": "Ja'far", "bn": "জাফার", "es": "Yafar", "fr": "Jaafar", "de": "Dschafar", "ru": "Джафар", "zh": "贾法尔"}}, "issues": [], "meta": {"elapsed": 4.26, "input_tokens": 665, "output_tokens": 124, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

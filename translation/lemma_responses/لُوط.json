@@ -1,0 +1,1 @@
+{"slug": "لُوط", "kind": "lemma", "parsed": {"glosses": {"en": "Lot", "fa": "لوط", "ur": "لوط", "tr": "Lut", "id": "Lut", "bn": "লূত", "es": "Lot", "fr": "Lot", "de": "Lot", "ru": "Лут", "zh": "鲁特"}}, "issues": [], "meta": {"elapsed": 2.55, "input_tokens": 593, "output_tokens": 111, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

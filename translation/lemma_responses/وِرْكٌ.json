@@ -1,0 +1,1 @@
+{"slug": "وِرْكٌ", "kind": "lemma", "parsed": {"glosses": {"en": "hip", "fa": "ران", "ur": "ران", "tr": "kalça", "id": "paha", "bn": "হিপ", "es": "cadera", "fr": "hanche", "de": "Hüfte", "ru": "бедро", "zh": "臀部"}}, "issues": [], "meta": {"elapsed": 3.25, "input_tokens": 515, "output_tokens": 111, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

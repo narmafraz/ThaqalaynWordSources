@@ -1,0 +1,1 @@
+{"slug": "لَوْمٌ", "kind": "lemma", "parsed": {"glosses": {"en": "blame", "fa": "سرزنش", "ur": "لام", "tr": "kınama", "id": "caci", "bn": "দোষ", "es": "reproche", "fr": "blâme", "de": "Tadel", "ru": "укор", "zh": "责备"}}, "issues": [], "meta": {"elapsed": 4.57, "input_tokens": 889, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "سامِي", "kind": "lemma", "parsed": {"glosses": {"en": "Sami", "fa": "سامی", "ur": "سامی", "tr": "Sami", "id": "Sami", "bn": "সামি", "es": "Sami", "fr": "Sami", "de": "Sami", "ru": "Сами", "zh": "萨米"}}, "issues": [], "meta": {"elapsed": 2.57, "input_tokens": 467, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

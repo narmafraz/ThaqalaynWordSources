@@ -1,0 +1,1 @@
+{"slug": "أيها", "kind": "surface", "parsed": {"glosses": {"en": "O", "fa": "ای", "ur": "اے", "tr": "Ey", "id": "Wahai", "bn": "হে", "es": "Oh", "fr": "Ô", "de": "O", "ru": "О", "zh": "啊"}}, "issues": [], "meta": {"elapsed": 3.26, "input_tokens": 618, "output_tokens": 107, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

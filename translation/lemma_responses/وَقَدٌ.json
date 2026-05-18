@@ -1,0 +1,1 @@
+{"slug": "وَقَدٌ", "kind": "lemma", "parsed": {"glosses": {"en": "fire", "fa": "آتش", "ur": "آگ", "tr": "ateş", "id": "api", "bn": "আগুন", "es": "fuego", "fr": "feu", "de": "Feuer", "ru": "огонь", "zh": "火"}}, "issues": [], "meta": {"elapsed": 4.1, "input_tokens": 518, "output_tokens": 112, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

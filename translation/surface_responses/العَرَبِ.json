@@ -1,0 +1,1 @@
+{"slug": "العَرَبِ", "kind": "surface", "parsed": {"glosses": {"en": "the Arabs", "fa": "عرب‌ها", "ur": "عرب", "tr": "Araplar", "id": "Arab", "bn": "আরব", "es": "árabes", "fr": "Arabes", "de": "Araber", "ru": "арабы", "zh": "阿拉伯人"}}, "issues": [], "meta": {"elapsed": 6.39, "input_tokens": 921, "output_tokens": 120, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

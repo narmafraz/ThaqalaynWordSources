@@ -1,0 +1,1 @@
+{"slug": "ابْنَهَا", "kind": "surface", "parsed": {"glosses": {"en": "her son", "fa": "پسرش", "ur": "بیٹا", "tr": "oğlu", "id": "putranya", "bn": "পুত্র", "es": "hijo", "fr": "fils", "de": "Sohn", "ru": "сын", "zh": "儿子"}}, "issues": [], "meta": {"elapsed": 2.49, "input_tokens": 941, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

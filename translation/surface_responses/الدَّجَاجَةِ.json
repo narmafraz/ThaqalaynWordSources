@@ -1,0 +1,1 @@
+{"slug": "الدَّجَاجَةِ", "kind": "surface", "parsed": {"glosses": {"en": "the chicken", "fa": "مرغ", "ur": "مرغ", "tr": "tavuk", "id": "ayam", "bn": "মুরগি", "es": "pollo", "fr": "poulet", "de": "Huhn", "ru": "курица", "zh": "鸡"}}, "issues": [], "meta": {"elapsed": 4.98, "input_tokens": 1015, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

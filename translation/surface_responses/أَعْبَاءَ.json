@@ -1,0 +1,1 @@
+{"slug": "أَعْبَاءَ", "kind": "surface", "parsed": {"glosses": {"en": "burdens", "fa": "بارها", "ur": "بوجھ", "tr": "yükler", "id": "beban", "bn": "ভার", "es": "cargas", "fr": "fardeaux", "de": "Lasten", "ru": "тяжести", "zh": "负担"}}, "issues": [], "meta": {"elapsed": 2.98, "input_tokens": 976, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

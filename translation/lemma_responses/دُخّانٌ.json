@@ -1,0 +1,1 @@
+{"slug": "دُخّانٌ", "kind": "lemma", "parsed": {"glosses": {"en": "smoke", "fa": "دود", "ur": "دھواں", "tr": "duman", "id": "asap", "bn": "ধোঁয়া", "es": "humo", "fr": "fumée", "de": "Rauch", "ru": "дым", "zh": "烟"}}, "issues": [], "meta": {"elapsed": 2.99, "input_tokens": 984, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

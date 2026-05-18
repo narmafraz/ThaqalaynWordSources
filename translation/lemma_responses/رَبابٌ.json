@@ -1,0 +1,1 @@
+{"slug": "رَبابٌ", "kind": "lemma", "parsed": {"glosses": {"en": "clouds", "fa": "ابرها", "ur": "ابرا", "tr": "bulutlar", "id": "awan", "bn": "মেঘ", "es": "nubes", "fr": "nuages", "de": "Wolken", "ru": "облака", "zh": "云"}}, "issues": [], "meta": {"elapsed": 5.73, "input_tokens": 920, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

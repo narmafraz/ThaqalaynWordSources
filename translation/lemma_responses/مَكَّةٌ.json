@@ -1,0 +1,1 @@
+{"slug": "مَكَّةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "Mecca", "fa": "مکه", "ur": "مکہ", "tr": "Mekke", "id": "Mekkah", "bn": "মক্কা", "es": "Meca", "fr": "La Mecque", "de": "Mekka", "ru": "Мекка", "zh": "麦加"}}, "issues": [], "meta": {"elapsed": 4.59, "input_tokens": 469, "output_tokens": 121, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

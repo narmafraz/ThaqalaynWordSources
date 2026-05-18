@@ -1,0 +1,1 @@
+{"slug": "اِثْنَيْنِ", "kind": "lemma", "parsed": {"glosses": {"en": "Two", "fa": "دو", "ur": "دو", "tr": "iki", "id": "dua", "bn": "দুই", "es": "dos", "fr": "deux", "de": "zwei", "ru": "два", "zh": "二"}}, "issues": [], "meta": {"elapsed": 2.84, "input_tokens": 452, "output_tokens": 109, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

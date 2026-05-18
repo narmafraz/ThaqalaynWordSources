@@ -1,0 +1,1 @@
+{"slug": "مُتَدانِيَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "lowly", "fa": "پست", "ur": "نیچا", "tr": "alçak", "id": "rendah", "bn": "নিম্ন", "es": "baja", "fr": "basse", "de": "niedrig", "ru": "низкая", "zh": "低下的"}}, "issues": [], "meta": {"elapsed": 3.68, "input_tokens": 451, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

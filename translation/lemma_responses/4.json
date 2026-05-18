@@ -1,0 +1,1 @@
+{"slug": "4", "kind": "lemma", "parsed": {"glosses": {"en": "four", "fa": "چهار", "ur": "چار", "tr": "dört", "id": "empat", "bn": "চার", "es": "cuatro", "fr": "quatre", "de": "vier", "ru": "четыре", "zh": "四"}}, "issues": [], "meta": {"elapsed": 3.37, "input_tokens": 449, "output_tokens": 108, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "إِساءَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "misdeed", "fa": "بدی", "ur": "برائی", "tr": "kötülük", "id": "kesalahan", "bn": "দুষ্কর্ম", "es": "maldad", "fr": "mal", "de": "Übel", "ru": "зло", "zh": "恶行"}}, "issues": [], "meta": {"elapsed": 4.59, "input_tokens": 477, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

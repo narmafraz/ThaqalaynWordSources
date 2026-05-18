@@ -1,0 +1,1 @@
+{"slug": "أَصْوَافَ", "kind": "surface", "parsed": {"glosses": {"en": "wools", "fa": "پشم‌ها", "ur": "اونیں", "tr": "yünler", "id": "wol", "bn": "উল", "es": "lanas", "fr": "laines", "de": "Wolle", "ru": "шерсть", "zh": "羊毛"}}, "issues": [], "meta": {"elapsed": 6.19, "input_tokens": 985, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

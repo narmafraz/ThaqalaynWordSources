@@ -1,0 +1,1 @@
+{"slug": "دَهاء", "kind": "lemma", "parsed": {"glosses": {"en": "cunning", "fa": "حیله‌گری", "ur": "چالاکی", "tr": "hile", "id": "kelicikan", "bn": "চতুরতা", "es": "astucia", "fr": "ruse", "de": "List", "ru": "хитрость", "zh": "狡诈"}}, "issues": [], "meta": {"elapsed": 5.25, "input_tokens": 472, "output_tokens": 122, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

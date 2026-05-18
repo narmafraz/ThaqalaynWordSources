@@ -1,0 +1,1 @@
+{"slug": "الحَبِّ", "kind": "surface", "parsed": {"glosses": {"en": "the grain", "fa": "دانه", "ur": "دانا", "tr": "tahıl", "id": "biji", "bn": "ধান", "es": "el grano", "fr": "le grain", "de": "das Korn", "ru": "зерно", "zh": "谷物"}}, "issues": [], "meta": {"elapsed": 4.46, "input_tokens": 1035, "output_tokens": 112, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

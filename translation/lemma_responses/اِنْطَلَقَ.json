@@ -1,0 +1,1 @@
+{"slug": "اِنْطَلَقَ", "kind": "lemma", "parsed": {"glosses": {"en": "to go away", "fa": "رفتن", "ur": "جانا", "tr": "gitmek", "id": "pergi", "bn": "যাওয়া", "es": "irse", "fr": "partir", "de": "gehen", "ru": "уйти", "zh": "离开"}}, "issues": [], "meta": {"elapsed": 3.38, "input_tokens": 985, "output_tokens": 113, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

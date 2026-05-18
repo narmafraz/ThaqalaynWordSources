@@ -1,0 +1,1 @@
+{"slug": "حُسَيْنِيّ", "kind": "lemma", "parsed": {"glosses": {"en": "Husayn", "fa": "حسین", "ur": "حسین", "tr": "Hüseyin", "id": "Husain", "bn": "হুসাইন", "es": "Husayn", "fr": "Husayn", "de": "Husayn", "ru": "Хусейн", "zh": "侯赛因"}}, "issues": [], "meta": {"elapsed": 4.02, "input_tokens": 546, "output_tokens": 133, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

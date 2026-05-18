@@ -1,0 +1,1 @@
+{"slug": "وَزَّ", "kind": "lemma", "parsed": {"glosses": {"en": "goose", "fa": "غاز", "ur": "بطخ", "tr": "güveç", "id": "angsa", "bn": "হাঁস", "es": "ganso", "fr": "oie", "de": "Gans", "ru": "гусь", "zh": "鹅"}}, "issues": [], "meta": {"elapsed": 3.68, "input_tokens": 588, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

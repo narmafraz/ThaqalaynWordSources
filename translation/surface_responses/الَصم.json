@@ -1,0 +1,1 @@
+{"slug": "الَصم", "kind": "surface", "parsed": {"glosses": {"en": "the deaf", "fa": "نابینا", "ur": "بہرا", "tr": "sağır", "id": "tuli", "bn": "বধির", "es": "sordo", "fr": "sourd", "de": "taub", "ru": "глухой", "zh": "聋的"}}, "issues": [], "meta": {"elapsed": 3.81, "input_tokens": 953, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

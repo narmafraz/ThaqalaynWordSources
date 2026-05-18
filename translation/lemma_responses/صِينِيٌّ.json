@@ -1,0 +1,1 @@
+{"slug": "صِينِيٌّ", "kind": "lemma", "parsed": {"glosses": {"en": "Chinese", "fa": "چینی", "ur": "چینی", "tr": "Çinli", "id": "Cina", "bn": "চীনা", "es": "chino", "fr": "chinois", "de": "chinesisch", "ru": "китайский", "zh": "中国的"}}, "issues": [], "meta": {"elapsed": 3.31, "input_tokens": 554, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

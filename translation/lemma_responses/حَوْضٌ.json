@@ -1,0 +1,1 @@
+{"slug": "حَوْضٌ", "kind": "lemma", "parsed": {"glosses": {"en": "basin", "fa": "حوض", "ur": "حوض", "tr": "havuz", "id": "kolam", "bn": "পুকুর", "es": "piscina", "fr": "bassin", "de": "Becken", "ru": "бассейн", "zh": "水池"}}, "issues": [], "meta": {"elapsed": 4.73, "input_tokens": 966, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

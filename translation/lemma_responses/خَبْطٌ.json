@@ -1,0 +1,1 @@
+{"slug": "خَبْطٌ", "kind": "lemma", "parsed": {"glosses": {"en": "knock, hit", "fa": "کوبیدن", "ur": "مارنا", "tr": "vurma", "id": "pukulan", "bn": "আঘাত", "es": "golpe", "fr": "coup", "de": "Schlag", "ru": "удар", "zh": "击打"}}, "issues": [], "meta": {"elapsed": 3.99, "input_tokens": 928, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

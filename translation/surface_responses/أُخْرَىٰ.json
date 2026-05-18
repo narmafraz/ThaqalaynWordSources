@@ -1,0 +1,1 @@
+{"slug": "أُخْرَىٰ", "kind": "surface", "parsed": {"glosses": {"en": "other", "fa": "دیگر", "ur": "دیگر", "tr": "diğer", "id": "lain", "bn": "অন্য", "es": "otra", "fr": "autre", "de": "andere", "ru": "другая", "zh": "其他"}}, "issues": [], "meta": {"elapsed": 1.64, "input_tokens": 573, "output_tokens": 110, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

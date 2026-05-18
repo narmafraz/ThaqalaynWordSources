@@ -1,0 +1,1 @@
+{"slug": "آَدم", "kind": "surface", "parsed": {"glosses": {"en": "Adam", "fa": "آدم", "ur": "آدم", "tr": "Adam", "id": "Adam", "bn": "আদম", "es": "Adán", "fr": "Adam", "de": "Adam", "ru": "Адам", "zh": "阿丹"}}, "issues": [], "meta": {"elapsed": 2.87, "input_tokens": 846, "output_tokens": 110, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

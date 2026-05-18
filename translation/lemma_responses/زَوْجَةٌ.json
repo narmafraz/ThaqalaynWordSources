@@ -1,0 +1,1 @@
+{"slug": "زَوْجَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "wife", "fa": "همسر", "ur": "بیوی", "tr": "eş", "id": "istri", "bn": "স্ত্রী", "es": "esposa", "fr": "femme", "de": "Ehefrau", "ru": "жена", "zh": "妻子"}}, "issues": [], "meta": {"elapsed": 3.45, "input_tokens": 488, "output_tokens": 112, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

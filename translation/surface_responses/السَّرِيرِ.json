@@ -1,0 +1,1 @@
+{"slug": "السَّرِيرِ", "kind": "surface", "parsed": {"glosses": {"en": "the bed", "fa": "تخت", "ur": "بستر", "tr": "yatak", "id": "tempat tidur", "bn": "বিছানা", "es": "cama", "fr": "lit", "de": "Bett", "ru": "постель", "zh": "床"}}, "issues": [], "meta": {"elapsed": 3.64, "input_tokens": 1078, "output_tokens": 114, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

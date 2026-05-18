@@ -1,0 +1,1 @@
+{"slug": "أَشْرَبَ", "kind": "lemma", "parsed": {"glosses": {"en": "to drink", "fa": "نوشیدن", "ur": "پاییدن", "tr": "içmek", "id": "minum", "bn": "পান করা", "es": "beber", "fr": "boire", "de": "trinken", "ru": "пить", "zh": "喝"}}, "issues": [], "meta": {"elapsed": 3.74, "input_tokens": 526, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

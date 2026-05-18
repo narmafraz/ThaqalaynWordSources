@@ -1,0 +1,1 @@
+{"slug": "أُومٌ", "kind": "lemma", "parsed": {"glosses": {"en": "leader", "fa": "پیشوا", "ur": "امام", "tr": "lider", "id": "pemimpin", "bn": "নেতা", "es": "líder", "fr": "leader", "de": "Anführer", "ru": "имам", "zh": "领袖"}}, "issues": [], "meta": {"elapsed": 4.55, "input_tokens": 534, "output_tokens": 112, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

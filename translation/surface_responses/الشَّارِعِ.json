@@ -1,0 +1,1 @@
+{"slug": "الشَّارِعِ", "kind": "surface", "parsed": {"glosses": {"en": "the street", "fa": "خیابان", "ur": "گلی", "tr": "sokak", "id": "jalan", "bn": "রাস্তা", "es": "calle", "fr": "rue", "de": "Straße", "ru": "улица", "zh": "街道"}}, "issues": [], "meta": {"elapsed": 2.88, "input_tokens": 918, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

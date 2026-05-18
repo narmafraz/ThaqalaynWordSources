@@ -1,0 +1,1 @@
+{"slug": "خِضابٌ", "kind": "lemma", "parsed": {"glosses": {"en": "dye", "fa": "رنگ", "ur": "رنگ", "tr": "boya", "id": "pewarna", "bn": "রং", "es": "tinte", "fr": "teinture", "de": "Färbemittel", "ru": "краска", "zh": "染料"}}, "issues": [], "meta": {"elapsed": 4.53, "input_tokens": 537, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

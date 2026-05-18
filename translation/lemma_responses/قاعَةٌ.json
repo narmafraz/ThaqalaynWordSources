@@ -1,0 +1,1 @@
+{"slug": "قاعَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "hall", "fa": "سالن", "ur": "ہال", "tr": "salon", "id": "aula", "bn": "হল", "es": "salón", "fr": "hall", "de": "Saal", "ru": "зал", "zh": "大厅"}}, "issues": [], "meta": {"elapsed": 5.57, "input_tokens": 463, "output_tokens": 110, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

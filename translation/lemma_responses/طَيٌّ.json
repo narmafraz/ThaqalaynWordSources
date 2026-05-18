@@ -1,0 +1,1 @@
+{"slug": "طَيٌّ", "kind": "lemma", "parsed": {"glosses": {"en": "folding", "fa": "تا خوردن", "ur": "تہہ", "tr": "katlama", "id": "lipatan", "bn": "ভাঁজ", "es": "plegado", "fr": "repli", "de": "Faltung", "ru": "складка", "zh": "折叠"}}, "issues": [], "meta": {"elapsed": 6.13, "input_tokens": 959, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

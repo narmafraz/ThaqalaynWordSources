@@ -1,0 +1,1 @@
+{"slug": "تَمِيمِيّ", "kind": "lemma", "parsed": {"glosses": {"en": "Tamimi", "fa": "تمیمی", "ur": "تمیمی", "tr": "Tamimi", "id": "Tamimi", "bn": "তামিমি", "es": "Tamimi", "fr": "Tamimi", "de": "Tamimi", "ru": "Тамими", "zh": "塔米米"}}, "issues": [], "meta": {"elapsed": 5.67, "input_tokens": 451, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

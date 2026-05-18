@@ -1,0 +1,1 @@
+{"slug": "أُولئِكَ", "kind": "surface", "parsed": {"glosses": {"en": "those", "fa": "آن‌ها", "ur": "یہ لوگ", "tr": "onlar", "id": "mereka", "bn": "তারা", "es": "esos", "fr": "ceux", "de": "jene", "ru": "те", "zh": "那些"}}, "issues": [], "meta": {"elapsed": 3.64, "input_tokens": 716, "output_tokens": 112, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "ابْيَضَّ", "kind": "surface", "parsed": {"glosses": {"en": "white", "fa": "سفید", "ur": "سفید", "tr": "beyaz", "id": "putih", "bn": "সাদা", "es": "blanco", "fr": "blanc", "de": "weiß", "ru": "белый", "zh": "白色"}}, "issues": [], "meta": {"elapsed": 1.74, "input_tokens": 1014, "output_tokens": 113, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

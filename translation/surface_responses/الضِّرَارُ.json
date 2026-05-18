@@ -1,0 +1,1 @@
+{"slug": "الضِّرَارُ", "kind": "surface", "parsed": {"glosses": {"en": "harm", "fa": "مضر", "ur": "نقصان", "tr": "zarar", "id": "kerugian", "bn": "ক্ষতি", "es": "daño", "fr": "préjudice", "de": "Schaden", "ru": "ущерб", "zh": "损害"}}, "issues": [], "meta": {"elapsed": 4.69, "input_tokens": 477, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

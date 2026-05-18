@@ -1,0 +1,1 @@
+{"slug": "بَقَرٌ", "kind": "lemma", "parsed": {"glosses": {"en": "cow", "fa": "گاو", "ur": "گائے", "tr": "inek", "id": "sapi", "bn": "গরু", "es": "vaca", "fr": "vache", "de": "Kuh", "ru": "корова", "zh": "牛"}}, "issues": [], "meta": {"elapsed": 4.94, "input_tokens": 1037, "output_tokens": 114, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

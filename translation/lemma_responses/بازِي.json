@@ -1,0 +1,1 @@
+{"slug": "بازِي", "kind": "lemma", "parsed": {"glosses": {"en": "hawk", "fa": "باز", "ur": "باز", "tr": "şahin", "id": "elang", "bn": "বাজপাখি", "es": "halcón", "fr": "faucon", "de": "Falke", "ru": "сокол", "zh": "鹰"}}, "issues": [], "meta": {"elapsed": 5.63, "input_tokens": 474, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

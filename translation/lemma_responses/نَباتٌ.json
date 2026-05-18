@@ -1,0 +1,1 @@
+{"slug": "نَباتٌ", "kind": "lemma", "parsed": {"glosses": {"en": "plant", "fa": "گیاه", "ur": "نبات", "tr": "bitki", "id": "tanaman", "bn": "উদ্ভিদ", "es": "planta", "fr": "plante", "de": "Pflanze", "ru": "растение", "zh": "植物"}}, "issues": [], "meta": {"elapsed": 3.91, "input_tokens": 538, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

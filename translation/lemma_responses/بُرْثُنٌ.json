@@ -1,0 +1,1 @@
+{"slug": "بُرْثُنٌ", "kind": "lemma", "parsed": {"glosses": {"en": "claw", "fa": "چنگال", "ur": "پنجا", "tr": "pençe", "id": "cakar", "bn": "নখ", "es": "garde", "fr": "griffe", "de": "Kralle", "ru": "коготь", "zh": "爪"}}, "issues": [], "meta": {"elapsed": 3.97, "input_tokens": 978, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

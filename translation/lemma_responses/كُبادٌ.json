@@ -1,0 +1,1 @@
+{"slug": "كُبادٌ", "kind": "lemma", "parsed": {"glosses": {"en": "citron", "fa": "لیمو", "ur": "لیمو", "tr": "limon", "id": "limau", "bn": "লেবু", "es": "cidra", "fr": "cédrat", "de": "Zitronat", "ru": "цитрон", "zh": "香橼"}}, "issues": [], "meta": {"elapsed": 6.5, "input_tokens": 639, "output_tokens": 121, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

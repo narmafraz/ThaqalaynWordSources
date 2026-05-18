@@ -1,0 +1,1 @@
+{"slug": "خاصٌّ", "kind": "lemma", "parsed": {"glosses": {"en": "special", "fa": "ویژه", "ur": "خاص", "tr": "özel", "id": "khusus", "bn": "বিশেষ", "es": "especial", "fr": "spécial", "de": "speziell", "ru": "особый", "zh": "特别的"}}, "issues": [], "meta": {"elapsed": 4.02, "input_tokens": 927, "output_tokens": 113, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

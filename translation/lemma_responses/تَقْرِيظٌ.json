@@ -1,0 +1,1 @@
+{"slug": "تَقْرِيظٌ", "kind": "lemma", "parsed": {"glosses": {"en": "eulogy", "fa": "ستایش", "ur": "تعریف", "tr": "övgü", "id": "pujian", "bn": "প্রশংসা", "es": "elogio", "fr": "éloge", "de": "Lob", "ru": "восхваление", "zh": "颂扬"}}, "issues": [], "meta": {"elapsed": 4.07, "input_tokens": 508, "output_tokens": 120, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

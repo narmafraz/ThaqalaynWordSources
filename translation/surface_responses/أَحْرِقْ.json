@@ -1,0 +1,1 @@
+{"slug": "أَحْرِقْ", "kind": "surface", "parsed": {"glosses": {"en": "burn", "fa": "بسوزان", "ur": "جلانے والا", "tr": "yak", "id": "bakar", "bn": "পোড়ান", "es": "quema", "fr": "brûle", "de": "verbrenne", "ru": "сожги", "zh": "燃烧"}}, "issues": [], "meta": {"elapsed": 3.49, "input_tokens": 634, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

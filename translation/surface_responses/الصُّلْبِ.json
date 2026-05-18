@@ -1,0 +1,1 @@
+{"slug": "الصُّلْبِ", "kind": "surface", "parsed": {"glosses": {"en": "the backbone", "fa": "کمر", "ur": "کمر", "tr": "bel", "id": "pinggang", "bn": "কোমর", "es": "lumbar", "fr": "reins", "de": "Lende", "ru": "поясница", "zh": "腰"}}, "issues": [], "meta": {"elapsed": 3.13, "input_tokens": 1023, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

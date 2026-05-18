@@ -1,0 +1,1 @@
+{"slug": "غَمامَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "cloud", "fa": "ابر", "ur": "بادل", "tr": "bulut", "id": "awan", "bn": "মেঘ", "es": "nube", "fr": "nuage", "de": "Wolke", "ru": "облако", "zh": "云"}}, "issues": [], "meta": {"elapsed": 3.75, "input_tokens": 751, "output_tokens": 112, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "اثْنَيْنِ", "kind": "surface", "parsed": {"glosses": {"en": "two", "fa": "دو", "ur": "دو", "tr": "iki", "id": "dua", "bn": "দুই", "es": "dos", "fr": "deux", "de": "zwei", "ru": "два", "zh": "二"}}, "issues": [], "meta": {"elapsed": 1.62, "input_tokens": 771, "output_tokens": 109, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

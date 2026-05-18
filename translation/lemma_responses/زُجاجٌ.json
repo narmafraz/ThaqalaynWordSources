@@ -1,0 +1,1 @@
+{"slug": "زُجاجٌ", "kind": "lemma", "parsed": {"glosses": {"en": "glass", "fa": "شیشه", "ur": "شیشہ", "tr": "cam", "id": "kaca", "bn": "কাচ", "es": "vidrio", "fr": "verre", "de": "Glas", "ru": "стекло", "zh": "玻璃"}}, "issues": [], "meta": {"elapsed": 3.59, "input_tokens": 767, "output_tokens": 113, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

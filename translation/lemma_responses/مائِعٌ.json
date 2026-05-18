@@ -1,0 +1,1 @@
+{"slug": "مائِعٌ", "kind": "lemma", "parsed": {"glosses": {"en": "fluid", "fa": "مایع", "ur": "مائع", "tr": "sıvı", "id": "cairan", "bn": "তরল", "es": "líquido", "fr": "fluide", "de": "Flüssigkeit", "ru": "жидкость", "zh": "液体"}}, "issues": [], "meta": {"elapsed": 3.29, "input_tokens": 461, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

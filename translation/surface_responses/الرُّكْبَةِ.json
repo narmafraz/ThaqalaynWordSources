@@ -1,0 +1,1 @@
+{"slug": "الرُّكْبَةِ", "kind": "surface", "parsed": {"glosses": {"en": "the knee", "fa": "زانو", "ur": "گھٹنا", "tr": "diz", "id": "lutut", "bn": "হাঁটু", "es": "rodilla", "fr": "genou", "de": "Knie", "ru": "колено", "zh": "膝盖"}}, "issues": [], "meta": {"elapsed": 2.71, "input_tokens": 922, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

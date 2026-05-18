@@ -1,0 +1,1 @@
+{"slug": "تُفّاحٌ", "kind": "lemma", "parsed": {"glosses": {"en": "apple", "fa": "سیب", "ur": "سیب", "tr": "elma", "id": "apel", "bn": "আপেল", "es": "manzana", "fr": "pomme", "de": "Apfel", "ru": "яблоко", "zh": "苹果"}}, "issues": [], "meta": {"elapsed": 2.44, "input_tokens": 832, "output_tokens": 113, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

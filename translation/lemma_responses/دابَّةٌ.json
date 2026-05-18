@@ -1,0 +1,1 @@
+{"slug": "دابَّةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "animal", "fa": "حیوان", "ur": "جانور", "tr": "hayvan", "id": "hewan", "bn": "প্রাণী", "es": "animal", "fr": "animal", "de": "Tier", "ru": "животное", "zh": "动物"}}, "issues": [], "meta": {"elapsed": 3.91, "input_tokens": 913, "output_tokens": 113, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

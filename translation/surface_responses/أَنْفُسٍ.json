@@ -1,0 +1,1 @@
+{"slug": "أَنْفُسٍ", "kind": "surface", "parsed": {"glosses": {"en": "selves", "fa": "خودها", "ur": "خود", "tr": "nefisler", "id": "diri", "bn": "আত্মা", "es": "almas", "fr": "âmes", "de": "Seelen", "ru": "души", "zh": "灵魂"}}, "issues": [], "meta": {"elapsed": 2.36, "input_tokens": 1144, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

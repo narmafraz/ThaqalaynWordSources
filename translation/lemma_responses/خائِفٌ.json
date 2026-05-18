@@ -1,0 +1,1 @@
+{"slug": "خائِفٌ", "kind": "lemma", "parsed": {"glosses": {"en": "afraid", "fa": "ترسان", "ur": "خائف", "tr": "korkan", "id": "takut", "bn": "ভীত", "es": "temeroso", "fr": "effrayé", "de": "ängstlich", "ru": "боящийся", "zh": "恐惧的"}}, "issues": [], "meta": {"elapsed": 4.48, "input_tokens": 463, "output_tokens": 120, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

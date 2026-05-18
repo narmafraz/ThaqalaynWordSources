@@ -1,0 +1,1 @@
+{"slug": "لِثَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "gum", "fa": "لثه", "ur": "مسوڑھا", "tr": "diş eti", "id": "gusi", "bn": "মসৃণা", "es": "encía", "fr": "gencive", "de": "Zahnfleisch", "ru": "десна", "zh": "牙龈"}}, "issues": [], "meta": {"elapsed": 4.55, "input_tokens": 517, "output_tokens": 123, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

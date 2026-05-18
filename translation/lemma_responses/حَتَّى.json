@@ -1,0 +1,1 @@
+{"slug": "حَتَّى", "kind": "lemma", "parsed": {"glosses": {"en": "until", "fa": "تا", "ur": "تک", "tr": "kadar", "id": "hingga", "bn": "পর্যন্ত", "es": "hasta", "fr": "jusqu'à", "de": "bis", "ru": "пока", "zh": "直到"}}, "issues": [], "meta": {"elapsed": 3.59, "input_tokens": 916, "output_tokens": 111, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

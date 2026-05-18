@@ -1,0 +1,1 @@
+{"slug": "شِكٌّ", "kind": "lemma", "parsed": {"glosses": {"en": "cheque", "fa": "چک", "ur": "چیک", "tr": "çek", "id": "cek", "bn": "চেক", "es": "cheque", "fr": "chèque", "de": "Scheck", "ru": "чек", "zh": "支票"}}, "issues": [], "meta": {"elapsed": 3.15, "input_tokens": 502, "output_tokens": 110, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

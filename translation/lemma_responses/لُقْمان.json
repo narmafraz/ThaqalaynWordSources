@@ -1,0 +1,1 @@
+{"slug": "لُقْمان", "kind": "lemma", "parsed": {"glosses": {"en": "Luqman", "fa": "لقمان", "ur": "لقمان", "tr": "Lukman", "id": "Luqman", "bn": "লুকমান", "es": "Luqman", "fr": "Luqman", "de": "Luqman", "ru": "Люкман", "zh": "鲁格曼"}}, "issues": [], "meta": {"elapsed": 3.48, "input_tokens": 472, "output_tokens": 123, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

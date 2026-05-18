@@ -1,0 +1,1 @@
+{"slug": "رِئاء", "kind": "lemma", "parsed": {"glosses": {"en": "showing off", "fa": "ریا", "ur": "ریا", "tr": "riya", "id": "riya", "bn": "রিয়া", "es": "riya", "fr": "riya", "de": "Riya", "ru": "рия", "zh": "里亚"}}, "issues": [], "meta": {"elapsed": 4.96, "input_tokens": 471, "output_tokens": 113, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

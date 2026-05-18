@@ -1,0 +1,1 @@
+{"slug": "دَرَجٌ", "kind": "lemma", "parsed": {"glosses": {"en": "step", "fa": "پله", "ur": "سیڑھی", "tr": "basamak", "id": "anak tangga", "bn": "ধাপ", "es": "escalón", "fr": "marche", "de": "Stufe", "ru": "ступень", "zh": "台阶"}}, "issues": [], "meta": {"elapsed": 4.09, "input_tokens": 1778, "output_tokens": 114, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

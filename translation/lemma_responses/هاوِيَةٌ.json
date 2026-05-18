@@ -1,0 +1,1 @@
+{"slug": "هاوِيَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "abyss", "fa": "گودال", "ur": "گہرائی", "tr": "uçurum", "id": "jurang", "bn": "গহ্বর", "es": "abismo", "fr": "abîme", "de": "Abgrund", "ru": "бездна", "zh": "深渊"}}, "issues": [], "meta": {"elapsed": 4.14, "input_tokens": 510, "output_tokens": 120, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

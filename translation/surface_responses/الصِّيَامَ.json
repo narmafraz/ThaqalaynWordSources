@@ -1,0 +1,1 @@
+{"slug": "الصِّيَامَ", "kind": "surface", "parsed": {"glosses": {"en": "the fasting", "fa": "روزه", "ur": "روزہ", "tr": "oruç", "id": "puasa", "bn": "রোজা", "es": "ayuno", "fr": "jeûne", "de": "Fasten", "ru": "пост", "zh": "斋戒"}}, "issues": [], "meta": {"elapsed": 2.46, "input_tokens": 636, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

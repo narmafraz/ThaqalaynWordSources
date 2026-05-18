@@ -1,0 +1,1 @@
+{"slug": "الرُّكْنِ", "kind": "surface", "parsed": {"glosses": {"en": "the corner", "fa": "کنج", "ur": "کونا", "tr": "köşe", "id": "sudut", "bn": "কোণ", "es": "esquina", "fr": "coin", "de": "Ecke", "ru": "угол", "zh": "角落"}}, "issues": [], "meta": {"elapsed": 3.77, "input_tokens": 1126, "output_tokens": 113, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

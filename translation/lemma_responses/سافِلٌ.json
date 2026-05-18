@@ -1,0 +1,1 @@
+{"slug": "سافِلٌ", "kind": "lemma", "parsed": {"glosses": {"en": "low", "fa": "پایین", "ur": "نیچا", "tr": "alçak", "id": "rendah", "bn": "নিচু", "es": "bajo", "fr": "bas", "de": "niedrig", "ru": "низкий", "zh": "低"}}, "issues": [], "meta": {"elapsed": 4.41, "input_tokens": 505, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

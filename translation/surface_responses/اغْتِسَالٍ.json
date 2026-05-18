@@ -1,0 +1,1 @@
+{"slug": "اغْتِسَالٍ", "kind": "surface", "parsed": {"glosses": {"en": "bathing", "fa": "غسل کردن", "ur": "غسل", "tr": "yüzmek", "id": "mandi", "bn": "গোসল", "es": "baño", "fr": "bain", "de": "Baden", "ru": "омовение", "zh": "沐浴"}}, "issues": [], "meta": {"elapsed": 3.82, "input_tokens": 562, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

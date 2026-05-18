@@ -1,0 +1,1 @@
+{"slug": "الصُّفْرِ", "kind": "surface", "parsed": {"glosses": {"en": "the Safar", "fa": "صفر", "ur": "صفر", "tr": "Safar", "id": "Safar", "bn": "সফর", "es": "Safar", "fr": "Safar", "de": "Safar", "ru": "Сафар", "zh": "萨法尔月"}}, "issues": [], "meta": {"elapsed": 1.92, "input_tokens": 1058, "output_tokens": 123, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

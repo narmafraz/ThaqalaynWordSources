@@ -1,0 +1,1 @@
+{"slug": "جَفْنٌ", "kind": "lemma", "parsed": {"glosses": {"en": "eyelid", "fa": "پلک", "ur": "پلک", "tr": "kapak", "id": "kelopak", "bn": "পলক", "es": "párpado", "fr": "paupière", "de": "Augenlid", "ru": "веко", "zh": "眼睑"}}, "issues": [], "meta": {"elapsed": 4.15, "input_tokens": 999, "output_tokens": 121, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

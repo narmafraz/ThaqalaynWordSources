@@ -1,0 +1,1 @@
+{"slug": "هِرْقِل", "kind": "lemma", "parsed": {"glosses": {"en": "Hirqal", "fa": "هرقل", "ur": "ہرقیل", "tr": "Hırqal", "id": "Hirqal", "bn": "হিরকাল", "es": "Hirqal", "fr": "Hirqal", "de": "Hirqal", "ru": "Хиркал", "zh": "希尔卡尔"}}, "issues": [], "meta": {"elapsed": 1.99, "input_tokens": 450, "output_tokens": 126, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

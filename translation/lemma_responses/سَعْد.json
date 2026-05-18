@@ -1,0 +1,1 @@
+{"slug": "سَعْد", "kind": "lemma", "parsed": {"glosses": {"en": "Sa'd", "fa": "سعْد", "ur": "سعْد", "tr": "Sa'd", "id": "Sa'd", "bn": "সা'দ", "es": "Sa'd", "fr": "Sa'd", "de": "Sa'd", "ru": "Са'д", "zh": "萨德"}}, "issues": [], "meta": {"elapsed": 3.05, "input_tokens": 2223, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

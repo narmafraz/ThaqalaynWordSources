@@ -1,0 +1,1 @@
+{"slug": "تَوراةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "Torah", "fa": "تورات", "ur": "تورات", "tr": "Tevrat", "id": "Taurat", "bn": "তাওরাত", "es": "Torá", "fr": "Torah", "de": "Torah", "ru": "Тора", "zh": "托拉"}}, "issues": [], "meta": {"elapsed": 4.54, "input_tokens": 466, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

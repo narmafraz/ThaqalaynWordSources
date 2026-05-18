@@ -1,0 +1,1 @@
+{"slug": "زُحَل", "kind": "lemma", "parsed": {"glosses": {"en": "Saturn", "fa": "زُحَل", "ur": "زُحَل", "tr": "Zuhal", "id": "Zuhal", "bn": "জুহাল", "es": "Saturno", "fr": "Saturne", "de": "Saturn", "ru": "Сатурн", "zh": "土星"}}, "issues": [], "meta": {"elapsed": 3.3, "input_tokens": 1008, "output_tokens": 125, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

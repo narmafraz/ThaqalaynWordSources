@@ -1,0 +1,1 @@
+{"slug": "صَفِيرٌ", "kind": "lemma", "parsed": {"glosses": {"en": "whistle", "fa": "سوت", "ur": "سیٹی", "tr": "ıslık", "id": "siulan", "bn": "শিউলি", "es": "silbido", "fr": "sifflement", "de": "Pfeifen", "ru": "свист", "zh": "口哨"}}, "issues": [], "meta": {"elapsed": 4.73, "input_tokens": 525, "output_tokens": 123, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "إِهَابُ", "kind": "surface", "parsed": {"glosses": {"en": "skin", "fa": "پوست", "ur": "چمڑا", "tr": "deri", "id": "kulit", "bn": "চামড়া", "es": "piel", "fr": "peau", "de": "Haut", "ru": "кожа", "zh": "皮"}}, "issues": [], "meta": {"elapsed": 3.36, "input_tokens": 1008, "output_tokens": 114, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

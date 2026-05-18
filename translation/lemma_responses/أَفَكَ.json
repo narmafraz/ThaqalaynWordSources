@@ -1,0 +1,1 @@
+{"slug": "أَفَكَ", "kind": "lemma", "parsed": {"glosses": {"en": "lie", "fa": "دروغ", "ur": "جھوٹ", "tr": "yalan", "id": "kebohongan", "bn": "মিথ্যা", "es": "mentira", "fr": "mensonge", "de": "Lüge", "ru": "ложь", "zh": "谎言"}}, "issues": [], "meta": {"elapsed": 3.78, "input_tokens": 787, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

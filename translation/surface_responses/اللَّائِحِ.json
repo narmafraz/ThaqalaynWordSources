@@ -1,0 +1,1 @@
+{"slug": "اللَّائِحِ", "kind": "surface", "parsed": {"glosses": {"en": "clear", "fa": "روشن", "ur": "واضح", "tr": "açık", "id": "jelas", "bn": "স্পষ্ট", "es": "claro", "fr": "clair", "de": "klar", "ru": "ясный", "zh": "清晰的"}}, "issues": [], "meta": {"elapsed": 3.72, "input_tokens": 565, "output_tokens": 111, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

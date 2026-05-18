@@ -1,0 +1,1 @@
+{"slug": "نَسَجَ", "kind": "lemma", "parsed": {"glosses": {"en": "to weave", "fa": "بافتن", "ur": "بنا کرنا", "tr": "dokumak", "id": "menenun", "bn": "বোনা", "es": "tejer", "fr": "tisser", "de": "weben", "ru": "ткать", "zh": "编织"}}, "issues": [], "meta": {"elapsed": 4.78, "input_tokens": 980, "output_tokens": 119, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

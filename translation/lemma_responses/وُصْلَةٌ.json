@@ -1,0 +1,1 @@
+{"slug": "وُصْلَةٌ", "kind": "lemma", "parsed": {"glosses": {"en": "link", "fa": "پیوند", "ur": "ربط", "tr": "bağlantı", "id": "tautan", "bn": "সংযোগ", "es": "enlace", "fr": "lien", "de": "Verbindung", "ru": "связь", "zh": "联系"}}, "issues": [], "meta": {"elapsed": 3.51, "input_tokens": 493, "output_tokens": 115, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

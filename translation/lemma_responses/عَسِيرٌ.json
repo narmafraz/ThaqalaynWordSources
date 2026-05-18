@@ -1,0 +1,1 @@
+{"slug": "عَسِيرٌ", "kind": "lemma", "parsed": {"glosses": {"en": "Difficult", "fa": "سخت", "ur": "مشکل", "tr": "Zor", "id": "Sulit", "bn": "কঠিন", "es": "Difícil", "fr": "Difficile", "de": "Schwer", "ru": "Трудный", "zh": "困难"}}, "issues": [], "meta": {"elapsed": 5.42, "input_tokens": 474, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

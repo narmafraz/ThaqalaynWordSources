@@ -1,0 +1,1 @@
+{"slug": "الرِّيقِ", "kind": "surface", "parsed": {"glosses": {"en": "the saliva", "fa": "بزاق", "ur": "بزاق", "tr": "tükürük", "id": "liur", "bn": "লালা", "es": "saliva", "fr": "salive", "de": "Speichel", "ru": "слюна", "zh": "唾液"}}, "issues": [], "meta": {"elapsed": 5.16, "input_tokens": 930, "output_tokens": 116, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

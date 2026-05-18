@@ -1,0 +1,1 @@
+{"slug": "السِّمْسِمُ", "kind": "surface", "parsed": {"glosses": {"en": "sesame", "fa": "کنجد", "ur": "تیل", "tr": "susam", "id": "wijen", "bn": "তিল", "es": "sésamo", "fr": "sésame", "de": "Sesam", "ru": "кунжут", "zh": "芝麻"}}, "issues": [], "meta": {"elapsed": 4.27, "input_tokens": 1033, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

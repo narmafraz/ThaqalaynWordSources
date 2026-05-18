@@ -1,0 +1,1 @@
+{"slug": "جانِبٌ", "kind": "lemma", "parsed": {"glosses": {"en": "side", "fa": "کنار", "ur": "پہلو", "tr": "yan", "id": "sisi", "bn": "পাশ", "es": "lado", "fr": "côté", "de": "Seite", "ru": "сторона", "zh": "边"}}, "issues": [], "meta": {"elapsed": 2.84, "input_tokens": 953, "output_tokens": 112, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "سَبْعٌ", "kind": "lemma", "parsed": {"glosses": {"en": "seven", "fa": "هفت", "ur": "سات", "tr": "yedi", "id": "tujuh", "bn": "সাত", "es": "siete", "fr": "sept", "de": "sieben", "ru": "семь", "zh": "七"}}, "issues": [], "meta": {"elapsed": 4.55, "input_tokens": 907, "output_tokens": 110, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "رَزَمَ", "kind": "lemma", "parsed": {"glosses": {"en": "to die", "fa": "مردن", "ur": "مَرنا", "tr": "ölmek", "id": "mati", "bn": "মৃত্যু", "es": "morir", "fr": "mourir", "de": "sterben", "ru": "умереть", "zh": "死亡"}}, "issues": [], "meta": {"elapsed": 5.29, "input_tokens": 1004, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

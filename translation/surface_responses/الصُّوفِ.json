@@ -1,0 +1,1 @@
+{"slug": "الصُّوفِ", "kind": "surface", "parsed": {"glosses": {"en": "the wool", "fa": "پشم", "ur": "اون", "tr": "yün", "id": "wol", "bn": "উল", "es": "la lana", "fr": "la laine", "de": "die Wolle", "ru": "шерсть", "zh": "羊毛"}}, "issues": [], "meta": {"elapsed": 5.72, "input_tokens": 1138, "output_tokens": 112, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

@@ -1,0 +1,1 @@
+{"slug": "أَعْنَاقِ", "kind": "surface", "parsed": {"glosses": {"en": "necks", "fa": "گردن‌ها", "ur": "گردن", "tr": "boynuz", "id": "leher", "bn": "ঘাড়", "es": "cuellos", "fr": "cous", "de": "Hälse", "ru": "шеи", "zh": "脖子"}}, "issues": [], "meta": {"elapsed": 3.97, "input_tokens": 666, "output_tokens": 118, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

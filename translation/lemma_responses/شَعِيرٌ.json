@@ -1,0 +1,1 @@
+{"slug": "شَعِيرٌ", "kind": "lemma", "parsed": {"glosses": {"en": "barley", "fa": "جو", "ur": "جو", "tr": "arpa", "id": "jelai", "bn": "জোয়", "es": "cebada", "fr": "orge", "de": "Gerste", "ru": "ячмень", "zh": "大麦"}}, "issues": [], "meta": {"elapsed": 4.28, "input_tokens": 796, "output_tokens": 111, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}

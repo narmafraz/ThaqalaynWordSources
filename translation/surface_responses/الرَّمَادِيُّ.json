@@ -1,0 +1,1 @@
+{"slug": "الرَّمَادِيُّ", "kind": "surface", "parsed": {"glosses": {"en": "the gray", "fa": "خاکستری", "ur": "سرمئی", "tr": "gri", "id": "abu-abu", "bn": "ধূসর", "es": "gris", "fr": "gris", "de": "grau", "ru": "серый", "zh": "灰色的"}}, "issues": [], "meta": {"elapsed": 4.21, "input_tokens": 610, "output_tokens": 117, "model": "qwen36-35b-heretic", "backend": "spark"}, "raw": null}
